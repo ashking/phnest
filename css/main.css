@@ -1,0 +1,235 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  background-color: #FFF;
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+
+h1 { margin-bottom: 1em; }
+p { margin: 1em 0; }
+
+a         { color: #00a; }
+a:hover   { color: #000; }
+a:visited { color: #a0a; }
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+}
+
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  font-size: 115%;
+  text-align: justify;
+  width: 80%;
+  margin: 0em auto 2em;
+  line-height: 1.5em;
+}
+
+.site .header{
+    margin: 0px 20px;
+}
+
+.site .header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site .header h1.title {
+  display: inline-block;
+}
+
+.site .header h1.title a {
+  color: #da552f;
+}
+
+.site .header h1.title a:hover {
+  color: #da552f;
+}
+
+.site .header .subtitle {
+  color: #aaa;
+  margin-left: 1em;
+}
+
+.site .header a.extra:hover {
+  color: #000;
+}
+
+.site .meta {
+  color: #aaa;
+}
+
+.site .footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #8085C1;
+}
+
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+.site .footer .rss img {
+  border: 0;
+}
+
+/*Ashwin */
+
+#template {
+    display: none;
+}
+
+.glyphicon { margin-right:5px; }
+.box { font-family: "Helvetica Nenu",Hevetica,Arial,sans-serif;background-color:#DDD;border-radius:5px;margin:40px 20px;box-shadow:-5px -4px 25px rgba(0, 0, 0, 0.3); }
+.box .inner{ background: #fff;padding: 30px;border-radius:5px;box-shadow: inset 0 2px 0 #999;margin:0;border-left:none; }
+
+.namecard {
+    width:500px;
+    color:#666;
+}
+
+.namecard .static { margin-top:30px; }
+.namecard .static>div { border-right:1px solid #DDD; }
+.namecard .static>div:last-child { border-right:none; }
+.namecard .static div { display:block;padding:0 10px;font-size:18px; }
+.namecard .static strong { display:block;color:#999;padding:0 10px;}
+
+.namecard .votes-section {
+    margin-top: 15px;
+}
+
+.namecard .votes {
+    font-size: 30px;
+}
+
+.namecard .votes-count{
+    vertical-align: baseline;
+    font-size: 30px;
+}
+
+.namecard .post-name{
+    font-size: 30px;
+
+}
+
+.namecard .post-tagline{
+    font-size: 18px;
+}
+
+.namecard .post-comments{
+    font-size: 12px;
+}
+
+.namecard .user-name{
+    font-size: 40px;
+}
+
+.namecard .user-tagline{
+    font-size: 16px;
+}
+
+.namecard .user-twitter{
+    font-size: 16px;
+}
+.namecard .static .user-image{
+    margin-top: 10px;
+}
+
+.namecard a:link {color: #2E2E2E;text-decoration:none;}      /* unvisited link */
+.namecard a:visited {color:#6c6c6c;text-decoration:none;}  /* visited link */
+.namecard a:hover {color:#da552f;text-decoration:none;}  /* mouse over link */
+.namecard a:active {color:#da552f;text-decoration:none;}  /* selected link */
+
+
+#selected-day{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+/*****************************************************************************/
+/*
+/* Scroll back to top
+/*
+/*****************************************************************************/
+
+#back-top {
+    position: fixed;
+    bottom: 60px;
+    right: 0;
+}
+
+#back-top a {
+    width: 108px;
+    display: block;
+    text-align: center;
+    font: 14px/100% Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bolder;
+    color: #772525;
+}
+
+#back-top a:hover {
+    color: #000;
+}
+
+#back-top a:hover span {
+    background-color: #777;
+}
+
+#progress { position:absolute;top:0;left:0;height:2px;width:3%;background-color:#4387FD;transition:width 0.5s ease-in; }
+#progress div { margin-left:99.9%;height:100%;width:1px;background-color:#4387FD;border-radius: 15px;box-shadow: 0px 0px 15px 5px rgba(67, 135, 253, 0.75); }
