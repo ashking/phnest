@@ -22,11 +22,10 @@ function phNest(){
                 tickmarkPlacement: 'on',
                 type: 'datetime',
                 labels: {
-                    enabled: false
+                    enabled: true
                 },
                 minorTickLength: 0,
                 tickLength: 0,
-                tickInterval: 24 * 3600 * 1000,
                 gridLineWidth: 0,
                 lineWidth: 0,
                 minorGridLineWidth: 0,
