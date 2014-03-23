@@ -6,7 +6,7 @@
             "link": "http://latest.is/",
             "name": "The Latest",
             "tagline": "Automatic List of the Latest &amp; Greatest Links from Twitter",
-            "ph_url": "/posts/the-latest",
+            "ph_url": "posts/the-latest",
             "comments": "10"
         },
         "user": {
@@ -24,7 +24,7 @@
             "link": "http://teespring.com/",
             "name": "Teespring",
             "tagline": "Create &amp; sell t-shirts you can be proud of",
-            "ph_url": "/posts/teespring",
+            "ph_url": "posts/teespring",
             "comments": "3"
         },
         "user": {
@@ -42,7 +42,7 @@
             "link": "https://www.instapaper.com/daily",
             "name": "Instapaper Daily",
             "tagline": "Everyone&#39;s &#39;Read Later&#39; summary",
-            "ph_url": "/posts/instapaper-daily",
+            "ph_url": "posts/instapaper-daily",
             "comments": "5"
         },
         "user": {
@@ -60,7 +60,7 @@
             "link": "http://www.peek.com/",
             "name": "Peek",
             "tagline": "Last minute travel plans.",
-            "ph_url": "/posts/peek",
+            "ph_url": "posts/peek",
             "comments": "5"
         },
         "user": {
@@ -78,7 +78,7 @@
             "link": "http://structure.io/",
             "name": "Structure",
             "tagline": "3D Sensor for iOS",
-            "ph_url": "/posts/structure",
+            "ph_url": "posts/structure",
             "comments": "3"
         },
         "user": {
@@ -93,28 +93,10 @@
         "id": 6,
         "post": {
             "votes": "8",
-            "link": "http://fitstar.com",
-            "name": "Fitstar",
-            "tagline": "Personalized video workouts for mobile",
-            "ph_url": "/posts/fitstar-413",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_DanFriedman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_DanFriedman.jpg",
-            "twitter": "_DanFriedman",
-            "name": "Dan Friedman",
-            "tagline": "Director of Business Development at Watchsend"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "8",
             "link": "https://itunes.apple.com/us/app/gifyourself/id781613403?mt=8",
             "name": "Gif Yourself",
             "tagline": "add your face to a gif",
-            "ph_url": "/posts/gif-yourself",
+            "ph_url": "posts/gif-yourself",
             "comments": "2"
         },
         "user": {
@@ -126,13 +108,31 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "8",
+            "link": "http://fitstar.com",
+            "name": "Fitstar",
+            "tagline": "Personalized video workouts for mobile",
+            "ph_url": "posts/fitstar-413",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_DanFriedman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_DanFriedman.jpg",
+            "twitter": "_DanFriedman",
+            "name": "Dan Friedman",
+            "tagline": "Director of Business Development at Watchsend"
+        }
+    },
+    {
         "id": 8,
         "post": {
             "votes": "8",
             "link": "http://www.amazon.com/gp/product/B00E8NJEPW/",
             "name": "Startup Boards",
             "tagline": "Book by Brad Feld: Getting the Most Out of Your Board",
-            "ph_url": "/posts/startup-boards",
+            "ph_url": "posts/startup-boards",
             "comments": "1 comment"
         },
         "user": {
@@ -150,7 +150,7 @@
             "link": "http://www.sketchingwithcss.com/",
             "name": "Sketching with CSS",
             "tagline": "Write css as fast as you can Sketch",
-            "ph_url": "/posts/sketching-with-css",
+            "ph_url": "posts/sketching-with-css",
             "comments": "2"
         },
         "user": {
@@ -168,7 +168,7 @@
             "link": "http://www.fluidui.com",
             "name": "Fluid UI",
             "tagline": "Easily create interactive mobile prototypes",
-            "ph_url": "/posts/fluid-ui",
+            "ph_url": "posts/fluid-ui",
             "comments": "2"
         },
         "user": {
@@ -186,7 +186,7 @@
             "link": "http://openemu.org",
             "name": "OpenEmu",
             "tagline": "Multiple Video Game System for Mac",
-            "ph_url": "/posts/openemu",
+            "ph_url": "posts/openemu",
             "comments": "1 comment"
         },
         "user": {
@@ -204,7 +204,7 @@
             "link": "http://curious.com/",
             "name": "Curious",
             "tagline": "A better way to learn anything!",
-            "ph_url": "/posts/curious",
+            "ph_url": "posts/curious",
             "comments": "1 comment"
         },
         "user": {
@@ -222,7 +222,7 @@
             "link": "http://takenoted.com/",
             "name": "Noted",
             "tagline": "Gesture Driven Notetaking",
-            "ph_url": "/posts/noted",
+            "ph_url": "posts/noted",
             "comments": "2"
         },
         "user": {
@@ -240,7 +240,7 @@
             "link": "http://www.myfitnesspal.com/",
             "name": "Myfitnesspal",
             "tagline": "Free Calorie Counter , diet and excercise journal.",
-            "ph_url": "/posts/myfitnesspal",
+            "ph_url": "posts/myfitnesspal",
             "comments": "1 comment"
         },
         "user": {

@@ -6,7 +6,7 @@
             "link": "http://www.algolia.com/",
             "name": "Algolia",
             "tagline": "Build Realtime Search",
-            "ph_url": "/posts/algolia",
+            "ph_url": "posts/algolia",
             "comments": "9"
         },
         "user": {
@@ -24,7 +24,7 @@
             "link": "http://beatrixapp.com/",
             "name": "Beatrix app",
             "tagline": "Plan a week of social content in seconds",
-            "ph_url": "/posts/beatrix-app",
+            "ph_url": "posts/beatrix-app",
             "comments": "5"
         },
         "user": {
@@ -42,7 +42,7 @@
             "link": "http://push.co/a/w4bcXKT0W",
             "name": "Hackernews push",
             "tagline": "Push only most popular stories on HN",
-            "ph_url": "/posts/hackernews-push",
+            "ph_url": "posts/hackernews-push",
             "comments": "1 comment"
         },
         "user": {
@@ -60,7 +60,7 @@
             "link": "http://helios.io/",
             "name": "Helios",
             "tagline": "An extensible open-source  mobile backend framework",
-            "ph_url": "/posts/helios",
+            "ph_url": "posts/helios",
             "comments": "1 comment"
         },
         "user": {
@@ -78,7 +78,7 @@
             "link": "http://getlaundr.co",
             "name": "Laundr",
             "tagline": "Your suits drycleaned and delivered to your doorstep.",
-            "ph_url": "/posts/laundr",
+            "ph_url": "posts/laundr",
             "comments": "View details"
         },
         "user": {
@@ -93,28 +93,10 @@
         "id": 6,
         "post": {
             "votes": "6",
-            "link": "http://marked2app.com",
-            "name": "Marked 2",
-            "tagline": "Smarter Tools for Smarter Writers",
-            "ph_url": "/posts/marked-2",
-            "comments": "5"
-        },
-        "user": {
-            "id": "MattGartland",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MattGartland.jpg",
-            "twitter": "MattGartland",
-            "name": "Matt Gartland",
-            "tagline": "Winning Edits"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "6",
             "link": "https://blockscore.com",
             "name": "Blockscore",
             "tagline": "Simple, fast, and accurate identity verification.",
-            "ph_url": "/posts/blockscore",
+            "ph_url": "posts/blockscore",
             "comments": "View details"
         },
         "user": {
@@ -126,13 +108,31 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "6",
+            "link": "http://marked2app.com",
+            "name": "Marked 2",
+            "tagline": "Smarter Tools for Smarter Writers",
+            "ph_url": "posts/marked-2",
+            "comments": "5"
+        },
+        "user": {
+            "id": "MattGartland",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MattGartland.jpg",
+            "twitter": "MattGartland",
+            "name": "Matt Gartland",
+            "tagline": "Winning Edits"
+        }
+    },
+    {
         "id": 8,
         "post": {
             "votes": "4",
             "link": "https://bonafide.io",
             "name": "Bonafide",
             "tagline": "Proof of identity for Bitcoin transactions.",
-            "ph_url": "/posts/bonafide",
+            "ph_url": "posts/bonafide",
             "comments": "View details"
         },
         "user": {
