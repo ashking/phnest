@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://www.emissarymed.com",
             "name": "Emissary",
             "tagline": "Destination healthcare you can trust",
@@ -255,6 +255,24 @@
         "id": 15,
         "post": {
             "votes": "2",
+            "link": "http://www.wolfram.com/language/",
+            "name": "Wolfram Language",
+            "tagline": "Knowledge-based programming",
+            "ph_url": "posts/wolfram-language",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 16,
+        "post": {
+            "votes": "2",
             "link": "http://www.zeroblock.com/",
             "name": "ZeroBlock",
             "tagline": "Real-Time Bitcoin Market Data",
@@ -267,24 +285,6 @@
             "twitter": "cpwt",
             "name": "Chris Thorne",
             "tagline": "Product Manager, SpotRight"
-        }
-    },
-    {
-        "id": 16,
-        "post": {
-            "votes": "1",
-            "link": "http://rufuslabs.com/",
-            "name": "Rufus Cuff",
-            "tagline": "Wrist Communicator",
-            "ph_url": "posts/rufus-cuff",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "KristoferTM",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
-            "twitter": "KristoferTM",
-            "name": "Kris Minkstein",
-            "tagline": "Founder @ Lamplighter Labs"
         }
     },
     {
@@ -345,18 +345,18 @@
         "id": 20,
         "post": {
             "votes": "1",
-            "link": "http://www.wolfram.com/language/",
-            "name": "Wolfram Language",
-            "tagline": "Knowledge-based programming",
-            "ph_url": "posts/wolfram-language",
-            "comments": "View details"
+            "link": "http://rufuslabs.com/",
+            "name": "Rufus Cuff",
+            "tagline": "Wrist Communicator",
+            "ph_url": "posts/rufus-cuff",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
+            "id": "KristoferTM",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
+            "twitter": "KristoferTM",
+            "name": "Kris Minkstein",
+            "tagline": "Founder @ Lamplighter Labs"
         }
     },
     {
