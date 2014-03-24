@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "5",
-            "link": "https://saucelabs.com/",
-            "name": "Sauce",
-            "tagline": "Browser testing made awesome",
-            "ph_url": "posts/sauce",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "mijustin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mijustin.jpg",
-            "twitter": "mijustin",
-            "name": "Justin Jackson",
-            "tagline": "JFDI, Founder"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "5",
             "link": "http://www.terminaleleven.com/skyview/iphone/",
             "name": "Skyview",
             "tagline": "Explore the universe.",
@@ -69,6 +51,24 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "5",
+            "link": "https://saucelabs.com/",
+            "name": "Sauce",
+            "tagline": "Browser testing made awesome",
+            "ph_url": "posts/sauce",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "mijustin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mijustin.jpg",
+            "twitter": "mijustin",
+            "name": "Justin Jackson",
+            "tagline": "JFDI, Founder"
         }
     },
     {
@@ -93,42 +93,6 @@
         "id": 6,
         "post": {
             "votes": "2",
-            "link": "http://www.buggl.com/",
-            "name": "Buggl",
-            "tagline": "a platform for building and selling travel guides. ",
-            "ph_url": "posts/buggl",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "ozguralaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
-            "twitter": "ozguralaz",
-            "name": "Özgür Alaz",
-            "tagline": "Useful"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "2",
-            "link": "http://www.quotery.com/",
-            "name": "Quotery",
-            "tagline": "The Encyclopedia of Quips, Quotes &amp; Proverbs",
-            "ph_url": "posts/quotery",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "juliaroy",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/juliaroy.jpg",
-            "twitter": "juliaroy",
-            "name": "Julia Roy",
-            "tagline": "Co-founder, WorkHacks"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "2",
             "link": "http://postx.co",
             "name": "PostX",
             "tagline": "Make email useful",
@@ -144,9 +108,27 @@
         }
     },
     {
-        "id": 9,
+        "id": 7,
         "post": {
-            "votes": "1",
+            "votes": "2",
+            "link": "http://www.buggl.com/",
+            "name": "Buggl",
+            "tagline": "a platform for building and selling travel guides. ",
+            "ph_url": "posts/buggl",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Useful"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "2",
             "link": "http://www.heylets.com/home/",
             "name": "HeyLets",
             "tagline": "Pinterest for experiences, limits to 140 characters",
@@ -159,6 +141,24 @@
             "twitter": "ozguralaz",
             "name": "Özgür Alaz",
             "tagline": "Useful"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "2",
+            "link": "http://www.quotery.com/",
+            "name": "Quotery",
+            "tagline": "The Encyclopedia of Quips, Quotes &amp; Proverbs",
+            "ph_url": "posts/quotery",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "juliaroy",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/juliaroy.jpg",
+            "twitter": "juliaroy",
+            "name": "Julia Roy",
+            "tagline": "Co-founder, WorkHacks"
         }
     }
 ]
