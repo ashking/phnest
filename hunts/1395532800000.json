@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "http://www.linkbubble.com",
             "name": "Link Bubble",
             "tagline": "Mobile browsing done right",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "5",
+            "link": "https://saucelabs.com/",
+            "name": "Sauce",
+            "tagline": "Browser testing made awesome",
+            "ph_url": "posts/sauce",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "mijustin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mijustin.jpg",
+            "twitter": "mijustin",
+            "name": "Justin Jackson",
+            "tagline": "JFDI, Founder"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "4",
             "link": "http://www.terminaleleven.com/skyview/iphone/",
             "name": "Skyview",
@@ -51,24 +69,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "4",
-            "link": "https://saucelabs.com/",
-            "name": "Sauce",
-            "tagline": "Browser testing made awesome",
-            "ph_url": "posts/sauce",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "mijustin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mijustin.jpg",
-            "twitter": "mijustin",
-            "name": "Justin Jackson",
-            "tagline": "JFDI, Founder"
         }
     },
     {
