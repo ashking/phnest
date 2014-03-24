@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "42",
+            "votes": "46",
             "link": "https://stacklead.com/",
             "name": "StackLead",
             "tagline": "Easiest way to research new signups on your website",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "11",
+            "link": "https://minutes.io/",
+            "name": "Minutes.io",
+            "tagline": "Minute your meetings",
+            "ph_url": "posts/minutes-io",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "syedaliahmed",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/syedaliahmed.jpg",
+            "twitter": "syedaliahmed",
+            "name": "Ali Ahmed",
+            "tagline": "Founder &amp; CEO, Lutebox"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "10",
             "link": "http://outbounding.org/",
             "name": "Outbounding",
@@ -33,24 +51,6 @@
             "twitter": "jonnym1ller",
             "name": "Jonny Miller",
             "tagline": "Cofounder"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "10",
-            "link": "https://minutes.io/",
-            "name": "Minutes.io",
-            "tagline": "Minute your meetings",
-            "ph_url": "posts/minutes-io",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "syedaliahmed",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/syedaliahmed.jpg",
-            "twitter": "syedaliahmed",
-            "name": "Ali Ahmed",
-            "tagline": "Founder &amp; CEO, Lutebox"
         }
     },
     {
@@ -75,24 +75,6 @@
         "id": 5,
         "post": {
             "votes": "5",
-            "link": "http://graphtv.kevinformatics.com/",
-            "name": "GraphTV",
-            "tagline": "Visualize IMDb ratings and trends of TV shows by episode.",
-            "ph_url": "posts/graphtv",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ozguralaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
-            "twitter": "ozguralaz",
-            "name": "Özgür Alaz",
-            "tagline": "Useful"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "5",
             "link": "http://loglr.com/",
             "name": "Loglr",
             "tagline": "See the browsing history of people that inspire you",
@@ -105,6 +87,24 @@
             "twitter": "jonnym1ller",
             "name": "Jonny Miller",
             "tagline": "Cofounder"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "5",
+            "link": "http://graphtv.kevinformatics.com/",
+            "name": "GraphTV",
+            "tagline": "Visualize IMDb ratings and trends of TV shows by episode.",
+            "ph_url": "posts/graphtv",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Useful"
         }
     },
     {

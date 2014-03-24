@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "10",
-            "link": "https://itunes.apple.com/us/app/codecademy-hour-of-code/id762950096?ls=1&mt=8",
-            "name": "Codecademy App",
-            "tagline": "Learn to code on  your iPhone",
-            "ph_url": "posts/codecademy-app",
-            "comments": "7"
-        },
-        "user": {
-            "id": "nbashaw",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nbashaw.jpg",
-            "twitter": "nbashaw",
-            "name": "Nathan Bashaw",
-            "tagline": "Product Manager at General Assembly"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "10",
             "link": "http://www.zestyapp.com/",
             "name": "Zesty",
             "tagline": "Healthy food takeout and delivery app",
@@ -69,6 +51,24 @@
             "twitter": "_DanFriedman",
             "name": "Dan Friedman",
             "tagline": "Director of Business Development at Watchsend"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "10",
+            "link": "https://itunes.apple.com/us/app/codecademy-hour-of-code/id762950096?ls=1&mt=8",
+            "name": "Codecademy App",
+            "tagline": "Learn to code on  your iPhone",
+            "ph_url": "posts/codecademy-app",
+            "comments": "7"
+        },
+        "user": {
+            "id": "nbashaw",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nbashaw.jpg",
+            "twitter": "nbashaw",
+            "name": "Nathan Bashaw",
+            "tagline": "Product Manager at General Assembly"
         }
     },
     {
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "4",
-            "link": "http://cageapp.com/",
-            "name": "Cage",
-            "tagline": "Collaboration just got a whole lot easier.",
-            "ph_url": "posts/cage",
-            "comments": "2"
-        },
-        "user": {
-            "id": "johntmeyer",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/johntmeyer.jpg",
-            "twitter": "johntmeyer",
-            "name": "John T. Meyer",
-            "tagline": "CEO/Co-Founder of Lemonly"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "4",
             "link": "http://blippy.com/",
             "name": "Blippy",
             "tagline": "Create visual messages",
@@ -198,25 +180,25 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "post": {
-            "votes": "1",
-            "link": "http://www.cozy-industries.com/magcozy.html",
-            "name": "MagCozy",
-            "tagline": "a leash for your MagSafe to MagSafe 2 Converter",
-            "ph_url": "posts/magcozy",
-            "comments": "View details"
+            "votes": "4",
+            "link": "http://cageapp.com/",
+            "name": "Cage",
+            "tagline": "Collaboration just got a whole lot easier.",
+            "ph_url": "posts/cage",
+            "comments": "2"
         },
         "user": {
-            "id": "kaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kaz.jpg",
-            "twitter": "kaz",
-            "name": "Adam Kazwell",
-            "tagline": "Product Manager"
+            "id": "johntmeyer",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/johntmeyer.jpg",
+            "twitter": "johntmeyer",
+            "name": "John T. Meyer",
+            "tagline": "CEO/Co-Founder of Lemonly"
         }
     },
     {
-        "id": 13,
+        "id": 12,
         "post": {
             "votes": "1",
             "link": "http://render.ly/",
@@ -231,6 +213,24 @@
             "twitter": "eric_seufert",
             "name": "Eric Seufert",
             "tagline": "Editor, Mobile Dev Memo"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "1",
+            "link": "http://www.cozy-industries.com/magcozy.html",
+            "name": "MagCozy",
+            "tagline": "a leash for your MagSafe to MagSafe 2 Converter",
+            "ph_url": "posts/magcozy",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kaz.jpg",
+            "twitter": "kaz",
+            "name": "Adam Kazwell",
+            "tagline": "Product Manager"
         }
     }
 ]
