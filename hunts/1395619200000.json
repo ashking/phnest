@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "24",
+            "link": "http://pov.io",
+            "name": "Povio",
+            "tagline": "Message friends from your POV",
+            "ph_url": "posts/povio-2",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "grosen",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/grosen.jpg",
+            "twitter": "grosen",
+            "name": "Greg Rosen",
+            "tagline": "VC, Raptor Ventures"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "23",
             "link": "http://shl.by/app",
             "name": "Shelby",
@@ -33,24 +51,6 @@
             "twitter": "ryandawidjan",
             "name": "Ryan",
             "tagline": ""
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "21",
-            "link": "http://pov.io",
-            "name": "Povio",
-            "tagline": "Message friends from your POV",
-            "ph_url": "posts/povio-2",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "grosen",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/grosen.jpg",
-            "twitter": "grosen",
-            "name": "Greg Rosen",
-            "tagline": "VC, Raptor Ventures"
         }
     },
     {
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "7",
+            "link": "http://www.lyst.com/",
+            "name": "Lyst",
+            "tagline": "The personalized fashion marketplace",
+            "ph_url": "posts/lyst",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founder, Vungle &amp; Shyp"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "6",
             "link": "https://mergepay.com/",
             "name": "MergePay",
@@ -162,7 +180,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "post": {
             "votes": "6",
             "link": "http://ubiq.im/",
@@ -180,7 +198,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "6",
             "link": "http://mailtrackerapp.com/",
@@ -198,7 +216,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "post": {
             "votes": "6",
             "link": "http://www.openloans.org/",
@@ -216,7 +234,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "6",
             "link": "https://lamplighter.io/",
@@ -231,24 +249,6 @@
             "twitter": "hybrid_alex",
             "name": "Alex Carpenter",
             "tagline": "Front-end developer at Masuga Design"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "6",
-            "link": "http://www.lyst.com/",
-            "name": "Lyst",
-            "tagline": "The personalized fashion marketplace",
-            "ph_url": "posts/lyst",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founder, Vungle &amp; Shyp"
         }
     },
     {
