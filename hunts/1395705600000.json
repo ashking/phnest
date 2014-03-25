@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "https://segment.io/",
             "name": "Segment",
             "tagline": "Collect your data once, then send it to 86 tools.",
@@ -93,6 +93,24 @@
         "id": 6,
         "post": {
             "votes": "1",
+            "link": "https://prismic.io/",
+            "name": "Prismic",
+            "tagline": "Content management as a service",
+            "ph_url": "posts/prismic",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "joewalnes",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/joewalnes.jpg",
+            "twitter": "joewalnes",
+            "name": "Joe Walnes",
+            "tagline": "Inventor. wantnova.com"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "1",
             "link": "http://subjc.com",
             "name": "Subjective-C",
             "tagline": "A study of innovative iOS interfaces.",
@@ -105,24 +123,6 @@
             "twitter": "rahulvarshneya",
             "name": "Rahul Varshneya",
             "tagline": "Co-founder, Arkenea"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "1",
-            "link": "https://prismic.io/",
-            "name": "Prismic",
-            "tagline": "Content management as a service",
-            "ph_url": "posts/prismic",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "joewalnes",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/joewalnes.jpg",
-            "twitter": "joewalnes",
-            "name": "Joe Walnes",
-            "tagline": "Inventor. wantnova.com"
         }
     }
 ]
