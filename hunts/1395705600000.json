@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://www.boomeranggmail.com/",
             "name": "Boomerang for Gmail",
             "tagline": "the ultimate toolbox to control sending/receiving emails",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "https://segment.io/",
             "name": "Segment",
             "tagline": "Collect your data once, then send it to 86 tools.",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "6",
+            "link": "http://augur.io/",
+            "name": "Augur.io",
+            "tagline": "Personalize Web Apps with Public Data from Anonymous Traffic",
+            "ph_url": "posts/augur-io",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "BrianCurliss",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
+            "twitter": "BrianCurliss",
+            "name": "Brian Curliss",
+            "tagline": "Founder of Profiles.io and MailLift"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "5",
             "link": "https://gleam.io/",
             "name": "Gleam.io",
@@ -51,24 +69,6 @@
             "twitter": "ryangum",
             "name": "Ryan Gum",
             "tagline": "Online Marketer, Postify"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "5",
-            "link": "http://augur.io/",
-            "name": "Augur.io",
-            "tagline": "Personalize Web Apps with Public Data from Anonymous Traffic",
-            "ph_url": "posts/augur-io",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "BrianCurliss",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
-            "twitter": "BrianCurliss",
-            "name": "Brian Curliss",
-            "tagline": "Founder of Profiles.io and MailLift"
         }
     },
     {
