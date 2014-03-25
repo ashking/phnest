@@ -21,24 +21,6 @@
         "id": 2,
         "post": {
             "votes": "24",
-            "link": "http://rapt.fm/",
-            "name": "Rapt",
-            "tagline": "Video Rap Battles",
-            "ph_url": "posts/rapt",
-            "comments": "9"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "23",
             "link": "http://augur.io/",
             "name": "Augur.io",
             "tagline": "Personalize Web Apps with Public Data from Anonymous Traffic",
@@ -51,6 +33,24 @@
             "twitter": "BrianCurliss",
             "name": "Brian Curliss",
             "tagline": "Founder of Profiles.io and MailLift"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "24",
+            "link": "http://rapt.fm/",
+            "name": "Rapt",
+            "tagline": "Video Rap Battles",
+            "ph_url": "posts/rapt",
+            "comments": "9"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
         }
     },
     {
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "5",
-            "link": "https://itunes.apple.com/us/app/signals-by-hubspot/id780995421?mt=8",
-            "name": "Signals (iOS app)",
-            "tagline": "See who opens your emails",
-            "ph_url": "posts/signals-ios-app",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "5",
             "link": "https://trontium.com",
             "name": "Trontium Reactor",
             "tagline": "Battery that recharges 50 iPhones",
@@ -198,21 +180,39 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "post": {
-            "votes": "4",
-            "link": "http://www.kandu.com",
-            "name": "Kandu",
-            "tagline": "Make games and apps without knowing how to code.",
-            "ph_url": "posts/kandu",
-            "comments": "4"
+            "votes": "5",
+            "link": "http://sockscribe.me/",
+            "name": "Sockscribe",
+            "tagline": "Awesome monthly sock subscription.",
+            "ph_url": "posts/sockscribe",
+            "comments": "3"
         },
         "user": {
-            "id": "jlax",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
-            "twitter": "jlax",
-            "name": "J.La",
-            "tagline": "Partner, teehan+lax"
+            "id": "dskaletsky",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dskaletsky.jpg",
+            "twitter": "dskaletsky",
+            "name": "Derek Skaletsky",
+            "tagline": "Founder &amp; CEO, Knowtify.io"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "5",
+            "link": "https://itunes.apple.com/us/app/signals-by-hubspot/id780995421?mt=8",
+            "name": "Signals (iOS app)",
+            "tagline": "See who opens your emails",
+            "ph_url": "posts/signals-ios-app",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
         }
     },
     {
@@ -237,18 +237,18 @@
         "id": 14,
         "post": {
             "votes": "4",
-            "link": "http://sockscribe.me/",
-            "name": "Sockscribe",
-            "tagline": "Awesome monthly sock subscription.",
-            "ph_url": "posts/sockscribe",
-            "comments": "3"
+            "link": "http://www.kandu.com",
+            "name": "Kandu",
+            "tagline": "Make games and apps without knowing how to code.",
+            "ph_url": "posts/kandu",
+            "comments": "4"
         },
         "user": {
-            "id": "dskaletsky",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dskaletsky.jpg",
-            "twitter": "dskaletsky",
-            "name": "Derek Skaletsky",
-            "tagline": "Founder &amp; CEO, Knowtify.io"
+            "id": "jlax",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
+            "twitter": "jlax",
+            "name": "J.La",
+            "tagline": "Partner, teehan+lax"
         }
     },
     {
