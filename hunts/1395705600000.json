@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "7",
-            "link": "https://gleam.io/",
-            "name": "Gleam.io",
-            "tagline": "A metrics focused competition tool to drive user engagement",
-            "ph_url": "posts/gleam-io",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "ryangum",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryangum.jpg",
-            "twitter": "ryangum",
-            "name": "Ryan Gum",
-            "tagline": "Online Marketer, Postify"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "7",
             "link": "http://rapt.fm/",
             "name": "Rapt",
             "tagline": "Video Rap Battles",
@@ -126,25 +108,25 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "post": {
-            "votes": "4",
-            "link": "https://itunes.apple.com/us/app/signals-by-hubspot/id780995421?mt=8",
-            "name": "Signals (iOS app)",
-            "tagline": "See who opens your emails",
-            "ph_url": "posts/signals-ios-app",
+            "votes": "7",
+            "link": "https://gleam.io/",
+            "name": "Gleam.io",
+            "tagline": "A metrics focused competition tool to drive user engagement",
+            "ph_url": "posts/gleam-io",
             "comments": "View details"
         },
         "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
+            "id": "ryangum",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryangum.jpg",
+            "twitter": "ryangum",
+            "name": "Ryan Gum",
+            "tagline": "Online Marketer, Postify"
         }
     },
     {
-        "id": 9,
+        "id": 8,
         "post": {
             "votes": "4",
             "link": "http://www.pipedrive.com",
@@ -159,6 +141,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "4",
+            "link": "https://itunes.apple.com/us/app/signals-by-hubspot/id780995421?mt=8",
+            "name": "Signals (iOS app)",
+            "tagline": "See who opens your emails",
+            "ph_url": "posts/signals-ios-app",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
         }
     },
     {
@@ -218,30 +218,12 @@
     {
         "id": 13,
         "post": {
-            "votes": "1",
-            "link": "https://hi.co/",
-            "name": "Hi",
-            "tagline": "A real-time writing community.",
-            "ph_url": "posts/hi",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "jonnym1ller",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jonnym1ller.jpg",
-            "twitter": "jonnym1ller",
-            "name": "Jonny Miller",
-            "tagline": "Cofounder"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://www.solididea.com/",
             "name": "ChocaByte",
             "tagline": "3D Printing Chocolate",
             "ph_url": "posts/chocabyte",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "UXAndrew",
@@ -249,6 +231,42 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "1",
+            "link": "http://www.kandu.com",
+            "name": "Kandu",
+            "tagline": "Make games and apps without knowing how to code.",
+            "ph_url": "posts/kandu",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "jlax",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
+            "twitter": "jlax",
+            "name": "J.La",
+            "tagline": "Partner, teehan+lax"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "1",
+            "link": "https://hi.co/",
+            "name": "Hi",
+            "tagline": "A real-time writing community.",
+            "ph_url": "posts/hi",
+            "comments": "2"
+        },
+        "user": {
+            "id": "jonnym1ller",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jonnym1ller.jpg",
+            "twitter": "jonnym1ller",
+            "name": "Jonny Miller",
+            "tagline": "Cofounder"
         }
     }
 ]
