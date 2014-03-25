@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "7",
-            "link": "http://rapt.fm/",
-            "name": "Rapt",
-            "tagline": "Video Rap Battles",
-            "ph_url": "posts/rapt",
-            "comments": "3"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "7",
             "link": "https://gleam.io/",
             "name": "Gleam.io",
             "tagline": "A metrics focused competition tool to drive user engagement",
@@ -126,14 +108,50 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "7",
+            "link": "http://rapt.fm/",
+            "name": "Rapt",
+            "tagline": "Video Rap Battles",
+            "ph_url": "posts/rapt",
+            "comments": "3"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
         "id": 8,
+        "post": {
+            "votes": "5",
+            "link": "https://prismic.io/",
+            "name": "Prismic",
+            "tagline": "Content management as a service",
+            "ph_url": "posts/prismic",
+            "comments": "2"
+        },
+        "user": {
+            "id": "joewalnes",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/joewalnes.jpg",
+            "twitter": "joewalnes",
+            "name": "Joe Walnes",
+            "tagline": "Inventor. wantnova.com"
+        }
+    },
+    {
+        "id": 9,
         "post": {
             "votes": "4",
             "link": "http://www.pipedrive.com",
             "name": "PipeDrive",
             "tagline": "Effortless pipeline management.",
             "ph_url": "posts/pipedrive",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "_jacksmith",
@@ -144,7 +162,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "4",
             "link": "https://itunes.apple.com/us/app/signals-by-hubspot/id780995421?mt=8",
@@ -159,24 +177,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "4",
-            "link": "https://prismic.io/",
-            "name": "Prismic",
-            "tagline": "Content management as a service",
-            "ph_url": "posts/prismic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "joewalnes",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/joewalnes.jpg",
-            "twitter": "joewalnes",
-            "name": "Joe Walnes",
-            "tagline": "Inventor. wantnova.com"
         }
     },
     {
@@ -219,24 +219,6 @@
         "id": 13,
         "post": {
             "votes": "2",
-            "link": "http://www.kandu.com",
-            "name": "Kandu",
-            "tagline": "Make games and apps without knowing how to code.",
-            "ph_url": "posts/kandu",
-            "comments": "2"
-        },
-        "user": {
-            "id": "jlax",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
-            "twitter": "jlax",
-            "name": "J.La",
-            "tagline": "Partner, teehan+lax"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "2",
             "link": "http://www.solididea.com/",
             "name": "ChocaByte",
             "tagline": "3D Printing Chocolate",
@@ -249,6 +231,24 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "2",
+            "link": "http://www.kandu.com",
+            "name": "Kandu",
+            "tagline": "Make games and apps without knowing how to code.",
+            "ph_url": "posts/kandu",
+            "comments": "3"
+        },
+        "user": {
+            "id": "jlax",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
+            "twitter": "jlax",
+            "name": "J.La",
+            "tagline": "Partner, teehan+lax"
         }
     },
     {
