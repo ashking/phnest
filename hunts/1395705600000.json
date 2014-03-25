@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "25",
+            "link": "http://rapt.fm/",
+            "name": "Rapt",
+            "tagline": "Video Rap Battles",
+            "ph_url": "posts/rapt",
+            "comments": "9"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "24",
             "link": "http://augur.io/",
             "name": "Augur.io",
@@ -33,24 +51,6 @@
             "twitter": "BrianCurliss",
             "name": "Brian Curliss",
             "tagline": "Founder of Profiles.io and MailLift"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "24",
-            "link": "http://rapt.fm/",
-            "name": "Rapt",
-            "tagline": "Video Rap Battles",
-            "ph_url": "posts/rapt",
-            "comments": "9"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
         }
     },
     {
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "https://segment.io/",
             "name": "Segment.io",
             "tagline": "Collect your data once, then send it to 86 tools.",
