@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "32",
-            "link": "http://www.pipedrive.com",
-            "name": "PipeDrive",
-            "tagline": "Effortless pipeline management.",
-            "ph_url": "posts/pipedrive",
-            "comments": "4"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "32",
             "link": "http://subjc.com",
             "name": "Subjective-C",
             "tagline": "A study of innovative iOS interfaces.",
@@ -72,9 +54,9 @@
         }
     },
     {
-        "id": 5,
+        "id": 4,
         "post": {
-            "votes": "31",
+            "votes": "32",
             "link": "https://segment.io/",
             "name": "Segment.io",
             "tagline": "Collect your data once, then send it to 86 tools.",
@@ -90,14 +72,32 @@
         }
     },
     {
+        "id": 5,
+        "post": {
+            "votes": "32",
+            "link": "http://www.pipedrive.com",
+            "name": "PipeDrive",
+            "tagline": "Effortless pipeline management.",
+            "ph_url": "posts/pipedrive",
+            "comments": "5"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founder, Vungle &amp; Shyp"
+        }
+    },
+    {
         "id": 6,
         "post": {
-            "votes": "30",
+            "votes": "31",
             "link": "http://rapt.fm/",
             "name": "Rapt",
             "tagline": "Video Rap Battles",
             "ph_url": "posts/rapt",
-            "comments": "12"
+            "comments": "13"
         },
         "user": {
             "id": "UXAndrew",
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://www.kandu.com",
             "name": "Kandu",
             "tagline": "Make games and apps without knowing how to code.",
