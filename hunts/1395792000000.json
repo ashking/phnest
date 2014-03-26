@@ -165,6 +165,24 @@
         "id": 10,
         "post": {
             "votes": "2",
+            "link": "http://x-ii.net/",
+            "name": "x-ii",
+            "tagline": "The mixtape re-imagined: Grab one &amp; connect with your iphone",
+            "ph_url": "posts/x-ii",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "nickdemey",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickdemey.jpg",
+            "twitter": "nickdemey",
+            "name": "Nick De Mey",
+            "tagline": "co-founder Board of Innovation"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "2",
             "link": "http://www.whenitsgoneitsgone.net/",
             "name": "WhenItsGoneItsGone",
             "tagline": "A Marketplace for Uncommon Items",
@@ -177,24 +195,6 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
-            "link": "http://getkanga.com",
-            "name": "Kanga",
-            "tagline": "Have anything delivered from point A to point B.",
-            "ph_url": "posts/kanga",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "munsonbh",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/munsonbh.jpg",
-            "twitter": "munsonbh",
-            "name": "Ben Munson",
-            "tagline": "Designer/Founder"
         }
     },
     {
@@ -219,10 +219,10 @@
         "id": 13,
         "post": {
             "votes": "1",
-            "link": "http://www.telemotiv.com/",
-            "name": "Telemotiv",
-            "tagline": "Introducing intelligence for your car.",
-            "ph_url": "posts/telemotiv",
+            "link": "http://getkanga.com",
+            "name": "Kanga",
+            "tagline": "Have anything delivered from point A to point B.",
+            "ph_url": "posts/kanga",
             "comments": "1 comment"
         },
         "user": {
@@ -237,18 +237,18 @@
         "id": 14,
         "post": {
             "votes": "1",
-            "link": "http://x-ii.net/",
-            "name": "x-ii",
-            "tagline": "The mixtape re-imagined: Grab one &amp; connect with your iphone",
-            "ph_url": "posts/x-ii",
-            "comments": "View details"
+            "link": "http://www.telemotiv.com/",
+            "name": "Telemotiv",
+            "tagline": "Introducing intelligence for your car.",
+            "ph_url": "posts/telemotiv",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "nickdemey",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickdemey.jpg",
-            "twitter": "nickdemey",
-            "name": "Nick De Mey",
-            "tagline": "co-founder Board of Innovation"
+            "id": "munsonbh",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/munsonbh.jpg",
+            "twitter": "munsonbh",
+            "name": "Ben Munson",
+            "tagline": "Designer/Founder"
         }
     }
 ]
