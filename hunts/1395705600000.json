@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "38",
+            "votes": "39",
             "link": "http://2by2.parseapp.com",
             "name": "2by2",
             "tagline": "A double exposure photo app. ",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "29",
+            "votes": "30",
             "link": "http://rapt.fm/",
             "name": "Rapt",
             "tagline": "Video Rap Battles",
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "27",
+            "votes": "28",
             "link": "http://subjc.com",
             "name": "Subjective-C",
             "tagline": "A study of innovative iOS interfaces.",
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "21",
+            "votes": "22",
             "link": "http://www.boomeranggmail.com/",
             "name": "Boomerang for Gmail",
             "tagline": "the ultimate toolbox to control sending/receiving emails",
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "8",
-            "link": "http://www.kandu.com",
-            "name": "Kandu",
-            "tagline": "Make games and apps without knowing how to code.",
-            "ph_url": "posts/kandu",
-            "comments": "5"
-        },
-        "user": {
-            "id": "jlax",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
-            "twitter": "jlax",
-            "name": "J.La",
-            "tagline": "Partner, teehan+lax"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "7",
             "link": "https://prismic.io/",
             "name": "Prismic",
             "tagline": "Content management as a service",
@@ -198,6 +180,24 @@
         }
     },
     {
+        "id": 11,
+        "post": {
+            "votes": "8",
+            "link": "http://www.kandu.com",
+            "name": "Kandu",
+            "tagline": "Make games and apps without knowing how to code.",
+            "ph_url": "posts/kandu",
+            "comments": "5"
+        },
+        "user": {
+            "id": "jlax",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlax.jpg",
+            "twitter": "jlax",
+            "name": "J.La",
+            "tagline": "Partner, teehan+lax"
+        }
+    },
+    {
         "id": 12,
         "post": {
             "votes": "7",
@@ -205,7 +205,7 @@
             "name": "BaseRails",
             "tagline": "Build an MVP for your startup in 4 weeks",
             "ph_url": "posts/baserails",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "sebfung",
