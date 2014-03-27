@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "16",
-            "link": "http://www.zootrock.com/",
-            "name": "ZootRock",
-            "tagline": "Automated content for social media accounts.",
-            "ph_url": "posts/zootrock",
-            "comments": "6"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Founder, FU Weekend"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "15",
             "link": "http://timeline.knightlab.com/",
             "name": "TimelineJS",
             "tagline": "Beautifully crafted timelines that are easy to use.",
@@ -126,9 +108,27 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "16",
+            "link": "http://www.zootrock.com/",
+            "name": "ZootRock",
+            "tagline": "Automated content for social media accounts.",
+            "ph_url": "posts/zootrock",
+            "comments": "6"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Founder, FU Weekend"
+        }
+    },
+    {
         "id": 8,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "http://spinnakr.com/",
             "name": "Spinnakr",
             "tagline": "Analytics that takes action for you.",
