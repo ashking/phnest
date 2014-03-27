@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://xyfindit.com",
             "name": "XY",
             "tagline": "Track &amp; find everything you care",
@@ -57,24 +57,6 @@
         "id": 4,
         "post": {
             "votes": "4",
-            "link": "https://www.pushbullet.com",
-            "name": "Pushbullet",
-            "tagline": "Send files, links, and more to your phone and back, fast!",
-            "ph_url": "posts/pushbullet",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "yuvals",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/yuvals.jpg",
-            "twitter": "yuvals",
-            "name": "Yuval Shoshan",
-            "tagline": "Co-founder at @ReadingPack"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "4",
             "link": "http://getclubz.com/",
             "name": "Clubz",
             "tagline": "Video-based Social Clubs",
@@ -90,9 +72,27 @@
         }
     },
     {
+        "id": 5,
+        "post": {
+            "votes": "4",
+            "link": "https://www.pushbullet.com",
+            "name": "Pushbullet",
+            "tagline": "Send files, links, and more to your phone and back, fast!",
+            "ph_url": "posts/pushbullet",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "yuvals",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/yuvals.jpg",
+            "twitter": "yuvals",
+            "name": "Yuval Shoshan",
+            "tagline": "Co-founder at @ReadingPack"
+        }
+    },
+    {
         "id": 6,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "https://cobook.co/",
             "name": "Cobook",
             "tagline": "The Unified Address Book",
