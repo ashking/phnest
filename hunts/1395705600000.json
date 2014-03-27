@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "61",
+            "votes": "62",
             "link": "http://augur.io/",
             "name": "Augur.io",
             "tagline": "Personalize Web Apps with Public Data from Anonymous Traffic",
@@ -218,7 +218,7 @@
     {
         "id": 13,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "https://prismic.io/",
             "name": "Prismic",
             "tagline": "Content management as a service",
@@ -308,6 +308,24 @@
     {
         "id": 18,
         "post": {
+            "votes": "7",
+            "link": "http://fountaingreetings.com/",
+            "name": "Fountain Greetings",
+            "tagline": "Your Greeting. Hand Written",
+            "ph_url": "posts/fountain-greetings",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "FelixReznik",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FelixReznik.jpg",
+            "twitter": "FelixReznik",
+            "name": "Felix Reznik",
+            "tagline": "Co-Founder, YourCard"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
             "votes": "6",
             "link": "http://velositey.dandkagency.com/",
             "name": "Velositey",
@@ -324,32 +342,14 @@
         }
     },
     {
-        "id": 19,
-        "post": {
-            "votes": "6",
-            "link": "http://fountaingreetings.com/",
-            "name": "Fountain Greetings",
-            "tagline": "Your Greeting. Hand Written",
-            "ph_url": "posts/fountain-greetings",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "FelixReznik",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FelixReznik.jpg",
-            "twitter": "FelixReznik",
-            "name": "Felix Reznik",
-            "tagline": "Co-Founder, YourCard"
-        }
-    },
-    {
         "id": 20,
         "post": {
             "votes": "5",
-            "link": "https://nextcaller.com/customer/",
-            "name": "Next Caller",
-            "tagline": "Skip the hold line for customer service",
-            "ph_url": "posts/next-caller",
-            "comments": "2"
+            "link": "http://42debut.com/",
+            "name": "42",
+            "tagline": "Analyze POS Data for Customer Insights",
+            "ph_url": "posts/42",
+            "comments": "View details"
         },
         "user": {
             "id": "cpwt",
@@ -381,11 +381,11 @@
         "id": 22,
         "post": {
             "votes": "5",
-            "link": "http://42debut.com/",
-            "name": "42",
-            "tagline": "Analyze POS Data for Customer Insights",
-            "ph_url": "posts/42",
-            "comments": "View details"
+            "link": "https://nextcaller.com/customer/",
+            "name": "Next Caller",
+            "tagline": "Skip the hold line for customer service",
+            "ph_url": "posts/next-caller",
+            "comments": "2"
         },
         "user": {
             "id": "cpwt",
