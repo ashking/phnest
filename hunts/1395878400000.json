@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "2",
+            "link": "http://xyfindit.com",
+            "name": "XY",
+            "tagline": "Track &amp; find everything you care",
+            "ph_url": "posts/xy",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ugurkaner",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ugurkaner.jpg",
+            "twitter": "ugurkaner",
+            "name": "Ugur Kaner",
+            "tagline": "@EatMentor"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "1",
             "link": "http://scluzay.com/",
             "name": "Wu-Tang&#39;s New Album",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "1",
             "link": "https://cobook.co/",
@@ -69,24 +87,6 @@
             "twitter": "nikitakorotaev",
             "name": "Nikita Korotaev",
             "tagline": "Product, Lectrio &amp; Glocal Partners"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "1",
-            "link": "http://xyfindit.com",
-            "name": "XY",
-            "tagline": "Track &amp; find everything you care",
-            "ph_url": "posts/xy",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ugurkaner",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ugurkaner.jpg",
-            "twitter": "ugurkaner",
-            "name": "Ugur Kaner",
-            "tagline": "@EatMentor"
         }
     }
 ]
