@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "7",
+            "link": "http://scluzay.com/",
+            "name": "Wu-Tang&#39;s New Album",
+            "tagline": "Only *one* will be made!",
+            "ph_url": "posts/wu-tang-s-new-album",
+            "comments": "2"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "6",
             "link": "http://getclubz.com/",
             "name": "Clubz",
@@ -72,43 +90,7 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "https://www.rescuetime.com/",
-            "name": "RescueTime",
-            "tagline": "Analytics on your daily habits and productivity",
-            "ph_url": "posts/rescuetime",
-            "comments": "2"
-        },
-        "user": {
-            "id": "sebfung",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/sebfung.jpg",
-            "twitter": "sebfung",
-            "name": "Sebastian Fung",
-            "tagline": "CMO, Slingbot"
-        }
-    },
-    {
         "id": 6,
-        "post": {
-            "votes": "6",
-            "link": "http://scluzay.com/",
-            "name": "Wu-Tang&#39;s New Album",
-            "tagline": "Only *one* will be made!",
-            "ph_url": "posts/wu-tang-s-new-album",
-            "comments": "2"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 7,
         "post": {
             "votes": "6",
             "link": "http://printstagr.am/",
@@ -123,6 +105,24 @@
             "twitter": "helencrozier",
             "name": "Helen Crozier",
             "tagline": "Keyboard Karma"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "6",
+            "link": "https://www.rescuetime.com/",
+            "name": "RescueTime",
+            "tagline": "Analytics on your daily habits and productivity",
+            "ph_url": "posts/rescuetime",
+            "comments": "2"
+        },
+        "user": {
+            "id": "sebfung",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/sebfung.jpg",
+            "twitter": "sebfung",
+            "name": "Sebastian Fung",
+            "tagline": "CMO, Slingbot"
         }
     },
     {
