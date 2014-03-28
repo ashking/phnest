@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "19",
+            "link": "http://www.zootrock.com/",
+            "name": "ZootRock",
+            "tagline": "Automated content for social media accounts.",
+            "ph_url": "posts/zootrock",
+            "comments": "7"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Founder, FU Weekend"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "18",
             "link": "http://spinnakr.com/",
             "name": "Spinnakr",
@@ -123,24 +141,6 @@
             "twitter": "OsmnShkh",
             "name": "Osman Sheikh",
             "tagline": "Growth at BusyConf"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "18",
-            "link": "http://www.zootrock.com/",
-            "name": "ZootRock",
-            "tagline": "Automated content for social media accounts.",
-            "ph_url": "posts/zootrock",
-            "comments": "7"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Founder, FU Weekend"
         }
     },
     {
@@ -219,24 +219,6 @@
         "id": 13,
         "post": {
             "votes": "6",
-            "link": "http://www.easel.com/",
-            "name": "Easel",
-            "tagline": "Fun way to design and make projects  from real materials.",
-            "ph_url": "posts/easel-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "NeerajT4",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/NeerajT4.jpg",
-            "twitter": "NeerajT4",
-            "name": "Neeraj Thakur",
-            "tagline": "co-founder, Appska"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "6",
             "link": "http://coschedule.com/",
             "name": "CoSchedule",
             "tagline": "Social Media Editorial Calendar for WordPress",
@@ -252,7 +234,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "post": {
             "votes": "6",
             "link": "https://getkudos.me/",
@@ -267,6 +249,24 @@
             "twitter": "feint",
             "name": "Anthony Feint",
             "tagline": "Founder, Pen.io"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "6",
+            "link": "http://www.easel.com/",
+            "name": "Easel",
+            "tagline": "Fun way to design and make projects  from real materials.",
+            "ph_url": "posts/easel-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "NeerajT4",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/NeerajT4.jpg",
+            "twitter": "NeerajT4",
+            "name": "Neeraj Thakur",
+            "tagline": "co-founder, Appska"
         }
     },
     {
