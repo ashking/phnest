@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://prss.com",
             "name": "Prss",
             "tagline": "The future of publishing",
@@ -25,7 +25,7 @@
             "name": "Boomf",
             "tagline": "Your Instagrams on Marshmallows",
             "ph_url": "posts/boomf",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "hansyeakel",
@@ -75,6 +75,24 @@
         "id": 5,
         "post": {
             "votes": "4",
+            "link": "http://dedesigntheweb.com/",
+            "name": "Design the Web",
+            "tagline": "Guess the website by looking at wireframes",
+            "ph_url": "posts/design-the-web",
+            "comments": "3"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "4",
             "link": "http://www.nthstate.com/Flux",
             "name": "Flux",
             "tagline": "Design and generate iOS transitions",
@@ -87,24 +105,6 @@
             "twitter": "KennedysGarage",
             "name": "Kennedy",
             "tagline": "Designer, Kennedy&#39;s Garage"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "4",
-            "link": "http://dedesigntheweb.com/",
-            "name": "Design the Web",
-            "tagline": "Guess the website by looking at wireframes",
-            "ph_url": "posts/design-the-web",
-            "comments": "2"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -129,24 +129,6 @@
         "id": 8,
         "post": {
             "votes": "3",
-            "link": "https://magneto.me/",
-            "name": "Magneto",
-            "tagline": "A smarter calendar for more productive days",
-            "ph_url": "posts/magneto",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "daveambrose",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
-            "twitter": "daveambrose",
-            "name": "Dave Ambrose",
-            "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "3",
             "link": "https://www.kitestring.io",
             "name": "Kitestring",
             "tagline": "Keep tabs on your well-being.",
@@ -162,7 +144,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "post": {
             "votes": "3",
             "link": "http://www.stridehealth.com",
@@ -177,6 +159,24 @@
             "twitter": "leepnet",
             "name": "Tommy Leep",
             "tagline": "Helper of Startups"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "3",
+            "link": "https://magneto.me/",
+            "name": "Magneto",
+            "tagline": "A smarter calendar for more productive days",
+            "ph_url": "posts/magneto",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "daveambrose",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
+            "twitter": "daveambrose",
+            "name": "Dave Ambrose",
+            "tagline": "Venture Investor"
         }
     },
     {
