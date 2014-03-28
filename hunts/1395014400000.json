@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "24",
+            "link": "https://yabbly.com/posts/trending",
+            "name": "Yabbly",
+            "tagline": "Ask interesting people anything",
+            "ph_url": "posts/yabbly",
+            "comments": "6"
+        },
+        "user": {
+            "id": "adamslieb",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamslieb.jpg",
+            "twitter": "adamslieb",
+            "name": "Adam Lieb",
+            "tagline": "Founder/CEO @ Duxter"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "23",
             "link": "http://jott.herokuapp.com/",
             "name": "Jott",
@@ -90,27 +108,9 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "23",
-            "link": "https://yabbly.com/posts/trending",
-            "name": "Yabbly",
-            "tagline": "Ask interesting people anything",
-            "ph_url": "posts/yabbly",
-            "comments": "6"
-        },
-        "user": {
-            "id": "adamslieb",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamslieb.jpg",
-            "twitter": "adamslieb",
-            "name": "Adam Lieb",
-            "tagline": "Founder/CEO @ Duxter"
-        }
-    },
-    {
         "id": 7,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "http://go.microsoft.com/fwlink/?LinkId=390970&clcid=0x409",
             "name": "OneNote for Mac",
             "tagline": "All your notes, on all your devices",
