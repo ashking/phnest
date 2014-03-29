@@ -380,6 +380,24 @@
     {
         "id": 22,
         "post": {
+            "votes": "2",
+            "link": "http://www.goat-simulator.com/",
+            "name": "Goat Simulator",
+            "tagline": "Um... It&#39;s a game where you&#39;re a goat...",
+            "ph_url": "posts/goat-simulator",
+            "comments": "3"
+        },
+        "user": {
+            "id": "machinehuman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/machinehuman.jpg",
+            "twitter": "machinehuman",
+            "name": "Chris L.",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 23,
+        "post": {
             "votes": "1",
             "link": "http://www.wearewow.com/apps/fancal/",
             "name": "Fancal",
@@ -396,7 +414,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 24,
         "post": {
             "votes": "1",
             "link": "http://trvl.com",
@@ -411,24 +429,6 @@
             "twitter": "emieljanson",
             "name": "Emiel Janson",
             "tagline": "Designer, Zebraa"
-        }
-    },
-    {
-        "id": 24,
-        "post": {
-            "votes": "1",
-            "link": "http://www.goat-simulator.com/",
-            "name": "Goat Simulator",
-            "tagline": "Um... It&#39;s a game where you&#39;re a goat...",
-            "ph_url": "posts/goat-simulator",
-            "comments": "3"
-        },
-        "user": {
-            "id": "machinehuman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/machinehuman.jpg",
-            "twitter": "machinehuman",
-            "name": "Chris L.",
-            "tagline": "UX Designer"
         }
     }
 ]
