@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "2",
+            "link": "http://www.git-tower.com/",
+            "name": "Tower",
+            "tagline": "Git client for Mac",
+            "ph_url": "posts/tower",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nikitakorotaev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nikitakorotaev.jpg",
+            "twitter": "nikitakorotaev",
+            "name": "Nikita Korotaev",
+            "tagline": "Product, Lectrio &amp; Glocal Partners"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "1",
             "link": "https://cloudability.com/",
             "name": "Cloudability",
@@ -33,24 +51,6 @@
             "twitter": "BrianCurliss",
             "name": "Brian Curliss",
             "tagline": "Founder of Profiles.io and MailLift"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "1",
-            "link": "http://www.git-tower.com/",
-            "name": "Tower",
-            "tagline": "Git client for Mac",
-            "ph_url": "posts/tower",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "nikitakorotaev",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nikitakorotaev.jpg",
-            "twitter": "nikitakorotaev",
-            "name": "Nikita Korotaev",
-            "tagline": "Product, Lectrio &amp; Glocal Partners"
         }
     }
 ]
