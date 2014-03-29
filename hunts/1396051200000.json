@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://www.git-tower.com/",
             "name": "Tower",
             "tagline": "Git client for Mac",
@@ -87,6 +87,24 @@
             "twitter": "cpwt",
             "name": "Chris Thorne",
             "tagline": "Product Manager, SpotRight"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "1",
+            "link": "http://play.typeracer.com/",
+            "name": "TypeRacer",
+            "tagline": "Increase your typing speed while racing against others",
+            "ph_url": "posts/typeracer",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "AndyGCook",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/AndyGCook.jpg",
+            "twitter": "AndyGCook",
+            "name": "Andy Cook",
+            "tagline": "Cocreator - LeadIn @ HubSpot"
         }
     }
 ]
