@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "https://www.routific.com/",
             "name": "Routific",
             "tagline": "Route Optimization/Logistics API ",
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://postach.io/",
             "name": "postach.io",
             "tagline": "The Evernote Powered Blogging Platform",
@@ -129,24 +129,6 @@
         "id": 8,
         "post": {
             "votes": "1",
-            "link": "http://www.taxee.io/",
-            "name": "Taxee",
-            "tagline": "Income Tax Data and Calculation API",
-            "ph_url": "posts/taxee",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "1",
             "link": "http://play.typeracer.com/",
             "name": "TypeRacer",
             "tagline": "Increase your typing speed while racing against others",
@@ -162,7 +144,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "post": {
             "votes": "1",
             "link": "http://teamstoryapp.com",
@@ -177,6 +159,24 @@
             "twitter": "dh9kim",
             "name": "Kevin D.H Kim",
             "tagline": "Co-Founder @Teamstoryapp @Growple"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "1",
+            "link": "http://www.taxee.io/",
+            "name": "Taxee",
+            "tagline": "Income Tax Data and Calculation API",
+            "ph_url": "posts/taxee",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
         }
     }
 ]
