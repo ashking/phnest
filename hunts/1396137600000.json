@@ -7,7 +7,7 @@
             "name": "Z-Type",
             "tagline": "Your new favorite space shooter typing game",
             "ph_url": "posts/z-type",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "staringispolite",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "2",
+            "link": "http://verytinymachines.com/numerical/",
+            "name": "Numerical",
+            "tagline": "Calculator Without Equal",
+            "ph_url": "posts/numerical",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "1",
             "link": "http://www.agogo.com",
             "name": "AGOGO",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "1",
             "link": "http://brandear.jp/ct/shitsuren_box",
@@ -105,24 +123,6 @@
             "twitter": "ozguralaz",
             "name": "Özgür Alaz",
             "tagline": "Useful"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "1",
-            "link": "http://verytinymachines.com/numerical/",
-            "name": "Numerical",
-            "tagline": "Calculator Without Equal",
-            "ph_url": "posts/numerical",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
         }
     }
 ]
