@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://phoboslab.org/ztype/",
             "name": "Z-Type",
             "tagline": "Your new favorite space shooter typing game",
@@ -21,6 +21,24 @@
         "id": 2,
         "post": {
             "votes": "2",
+            "link": "http://www.crowdmull.com/",
+            "name": "Crowdmull",
+            "tagline": "App that helps you make informed decisions",
+            "ph_url": "posts/crowdmull",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "nbt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nbt.jpg",
+            "twitter": "nbt",
+            "name": "Nikhil Basu Trivedi",
+            "tagline": "Associate, Shasta Ventures"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "2",
             "link": "http://www.wikipearl.com/#wikipearl",
             "name": "WikiPearl",
             "tagline": "Plastic-Free Food Packaging",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "2",
             "link": "https://qualaroo.com/",
@@ -51,24 +69,6 @@
             "twitter": "mikeknoop",
             "name": "Mike Knoop",
             "tagline": "Product/Partner, Zapier"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "1",
-            "link": "http://www.crowdmull.com/",
-            "name": "Crowdmull",
-            "tagline": "App that helps you make informed decisions",
-            "ph_url": "posts/crowdmull",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "nbt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nbt.jpg",
-            "twitter": "nbt",
-            "name": "Nikhil Basu Trivedi",
-            "tagline": "Associate, Shasta Ventures"
         }
     },
     {
