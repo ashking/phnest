@@ -111,6 +111,24 @@
         "id": 7,
         "post": {
             "votes": "6",
+            "link": "https://testlio.com/",
+            "name": "Testlio",
+            "tagline": "On-demand mobile app testing.",
+            "ph_url": "posts/testlio",
+            "comments": "2"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Founder, FU Weekend"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "6",
             "link": "http://thepmtoolkit.com/",
             "name": "The PM Toolkit",
             "tagline": "Process and tools to run human-centered projects",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "5",
             "link": "http://grovelabs.io/in-the-home",
@@ -141,24 +159,6 @@
             "twitter": "thomhuxtable",
             "name": "Thom Huxtable",
             "tagline": "Interaction Designer @ IDEO NYC"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "5",
-            "link": "https://testlio.com/",
-            "name": "Testlio",
-            "tagline": "On-demand mobile app testing.",
-            "ph_url": "posts/testlio",
-            "comments": "2"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Founder, FU Weekend"
         }
     },
     {
@@ -223,7 +223,7 @@
             "name": "SkipLagged",
             "tagline": "A cool twist on buying plane tickets",
             "ph_url": "posts/skiplagged",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "staringispolite",
