@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "18",
+            "link": "https://magneto.me/",
+            "name": "Magneto",
+            "tagline": "A smarter calendar for more productive days",
+            "ph_url": "posts/magneto",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "daveambrose",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
+            "twitter": "daveambrose",
+            "name": "Dave Ambrose",
+            "tagline": "Venture Investor"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "17",
             "link": "http://thetechblock.com",
             "name": "The Tech Block",
@@ -105,24 +123,6 @@
             "twitter": "abdophoto",
             "name": "Abdel Ibrahim",
             "tagline": "Co-Founder, The Tech Block"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "17",
-            "link": "https://magneto.me/",
-            "name": "Magneto",
-            "tagline": "A smarter calendar for more productive days",
-            "ph_url": "posts/magneto",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "daveambrose",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
-            "twitter": "daveambrose",
-            "name": "Dave Ambrose",
-            "tagline": "Venture Investor"
         }
     },
     {
@@ -345,24 +345,6 @@
         "id": 20,
         "post": {
             "votes": "3",
-            "link": "https://chrome.google.com/webstore/detail/hackernews-default-tab/gofiefpdbkknjlkdhmlgnhloepilkmmp",
-            "name": "HackerNews Tab",
-            "tagline": "Default tab on Chrome = HackerNews",
-            "ph_url": "posts/hackernews-tab",
-            "comments": "2"
-        },
-        "user": {
-            "id": "dshan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
-            "twitter": "dshan",
-            "name": "Derek Shanahan",
-            "tagline": "Growth Marketer, Playerize"
-        }
-    },
-    {
-        "id": 21,
-        "post": {
-            "votes": "3",
             "link": "http://www.goat-simulator.com/",
             "name": "Goat Simulator",
             "tagline": "Um... It&#39;s a game where you&#39;re a goat...",
@@ -375,6 +357,24 @@
             "twitter": "machinehuman",
             "name": "Chris L.",
             "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 21,
+        "post": {
+            "votes": "3",
+            "link": "https://chrome.google.com/webstore/detail/hackernews-default-tab/gofiefpdbkknjlkdhmlgnhloepilkmmp",
+            "name": "HackerNews Tab",
+            "tagline": "Default tab on Chrome = HackerNews",
+            "ph_url": "posts/hackernews-tab",
+            "comments": "2"
+        },
+        "user": {
+            "id": "dshan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
+            "twitter": "dshan",
+            "name": "Derek Shanahan",
+            "tagline": "Growth Marketer, Playerize"
         }
     },
     {
