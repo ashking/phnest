@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "http://blog.producthunt.co/post/81288733827/new-product-hunt-t-shirts",
             "name": "Product Hunt Tees",
             "tagline": "Support Product Hunt &amp; look awesome (3 t-shirt options)",
@@ -201,6 +201,24 @@
         "id": 12,
         "post": {
             "votes": "3",
+            "link": "http://teespring.com/morenerds",
+            "name": "Bring in the Nerds!",
+            "tagline": "T-shirt designed by Alexis Ohanian + /u/Blo0p",
+            "ph_url": "posts/bring-in-the-nerds",
+            "comments": "2"
+        },
+        "user": {
+            "id": "alexisohanian",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alexisohanian.jpg",
+            "twitter": "alexisohanian",
+            "name": "Alexis Ohanian",
+            "tagline": "dude"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "3",
             "link": "http://www.sharedgroups.com/",
             "name": "Shared Groups",
             "tagline": "Contact Sharing Simplified [for Gmail]",
@@ -213,24 +231,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "2",
-            "link": "http://spreadsheetsapp.com/",
-            "name": "SpreadSheets App",
-            "tagline": "Monitoring Performance in Between the Sheets",
-            "ph_url": "posts/spreadsheets-app",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "BrianCurliss",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
-            "twitter": "BrianCurliss",
-            "name": "Brian Curliss",
-            "tagline": "Founder of Profiles.io and MailLift"
         }
     },
     {
@@ -255,18 +255,18 @@
         "id": 15,
         "post": {
             "votes": "2",
-            "link": "http://teespring.com/morenerds",
-            "name": "Bring in the Nerds!",
-            "tagline": "T-shirt designed by Alexis Ohanian + /u/Blo0p",
-            "ph_url": "posts/bring-in-the-nerds",
-            "comments": "2"
+            "link": "http://spreadsheetsapp.com/",
+            "name": "SpreadSheets App",
+            "tagline": "Monitoring Performance in Between the Sheets",
+            "ph_url": "posts/spreadsheets-app",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "alexisohanian",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alexisohanian.jpg",
-            "twitter": "alexisohanian",
-            "name": "Alexis Ohanian",
-            "tagline": "dude"
+            "id": "BrianCurliss",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
+            "twitter": "BrianCurliss",
+            "name": "Brian Curliss",
+            "tagline": "Founder of Profiles.io and MailLift"
         }
     },
     {
