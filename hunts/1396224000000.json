@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "18",
+            "link": "http://www.iubenda.com/en",
+            "name": "iubenda",
+            "tagline": "Generate a privacy policy in seconds",
+            "ph_url": "posts/iubenda",
+            "comments": "2"
+        },
+        "user": {
+            "id": "christineluc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/christineluc.jpg",
+            "twitter": "christineluc",
+            "name": "Christine Luc",
+            "tagline": "Associate Product Manager"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "13",
             "link": "http://teamstoryapp.com",
             "name": "Teamstory",
@@ -18,39 +36,21 @@
         }
     },
     {
-        "id": 2,
-        "post": {
-            "votes": "13",
-            "link": "http://www.iubenda.com/en",
-            "name": "iubenda",
-            "tagline": "Generate a privacy policy in seconds",
-            "ph_url": "posts/iubenda",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "christineluc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/christineluc.jpg",
-            "twitter": "christineluc",
-            "name": "Christine Luc",
-            "tagline": "Associate Product Manager"
-        }
-    },
-    {
         "id": 3,
         "post": {
             "votes": "2",
-            "link": "http://www.sharedgroups.com/",
-            "name": "Shared Groups",
-            "tagline": "Contact Sharing Simplified [for Gmail]",
-            "ph_url": "posts/shared-groups",
-            "comments": "1 comment"
+            "link": "http://spreadsheetsapp.com/",
+            "name": "SpreadSheets App",
+            "tagline": "Monitoring Performance in Between the Sheets",
+            "ph_url": "posts/spreadsheets-app",
+            "comments": "View details"
         },
         "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founder, Vungle &amp; Shyp"
+            "id": "BrianCurliss",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
+            "twitter": "BrianCurliss",
+            "name": "Brian Curliss",
+            "tagline": "Founder of Profiles.io and MailLift"
         }
     },
     {
@@ -75,18 +75,18 @@
         "id": 5,
         "post": {
             "votes": "2",
-            "link": "http://spreadsheetsapp.com/",
-            "name": "SpreadSheets App",
-            "tagline": "Monitoring Performance in Between the Sheets",
-            "ph_url": "posts/spreadsheets-app",
-            "comments": "View details"
+            "link": "http://www.sharedgroups.com/",
+            "name": "Shared Groups",
+            "tagline": "Contact Sharing Simplified [for Gmail]",
+            "ph_url": "posts/shared-groups",
+            "comments": "2"
         },
         "user": {
-            "id": "BrianCurliss",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
-            "twitter": "BrianCurliss",
-            "name": "Brian Curliss",
-            "tagline": "Founder of Profiles.io and MailLift"
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founder, Vungle &amp; Shyp"
         }
     },
     {
