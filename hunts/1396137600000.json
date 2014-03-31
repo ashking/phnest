@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "https://qualaroo.com/",
             "name": "Qualaroo",
             "tagline": "Ask your visitors questions based on their cursor movements",
             "ph_url": "posts/qualaroo",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "mikeknoop",
@@ -57,24 +57,6 @@
         "id": 4,
         "post": {
             "votes": "3",
-            "link": "http://verytinymachines.com/numerical/",
-            "name": "Numerical",
-            "tagline": "Calculator Without Equal",
-            "ph_url": "posts/numerical",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "3",
             "link": "http://getbirdi.com/",
             "name": "Birdi",
             "tagline": "Better than a smoke detector",
@@ -87,6 +69,24 @@
             "twitter": "malaparte",
             "name": "Andrei M. Marinescu",
             "tagline": "Growth Lead, 500 Startups"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "3",
+            "link": "http://verytinymachines.com/numerical/",
+            "name": "Numerical",
+            "tagline": "Calculator Without Equal",
+            "ph_url": "posts/numerical",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
         }
     },
     {
@@ -127,6 +127,24 @@
     },
     {
         "id": 8,
+        "post": {
+            "votes": "1",
+            "link": "http://cyberdust.com/",
+            "name": "Cyber Dust",
+            "tagline": "Self destructing text messages",
+            "ph_url": "posts/cyber-dust-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "mscccc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mscccc.jpg",
+            "twitter": "mscccc",
+            "name": "Mike Coutermarsh",
+            "tagline": "Software Engineer, Gazelle.com"
+        }
+    },
+    {
+        "id": 9,
         "post": {
             "votes": "1",
             "link": "http://brandear.jp/ct/shitsuren_box",
