@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "70",
+            "votes": "72",
             "link": "http://coglode.com/",
             "name": "Cognitive Lode",
             "tagline": "Playbook of cognitive biases &amp; psych research",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "6",
+            "link": "http://www.framerjs.com/",
+            "name": "Framer",
+            "tagline": "Prototyping tool for animation and interaction",
+            "ph_url": "posts/framer",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "uxceo",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/uxceo.jpg",
+            "twitter": "uxceo",
+            "name": "Grace Ng",
+            "tagline": "Designer Founder, Javelin"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "5",
             "link": "https://cloudability.com/",
             "name": "Cloudability",
@@ -90,43 +108,7 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "5",
-            "link": "https://www.kickstarter.com/projects/starfighter/starfighter-visual-novel",
-            "name": "Starfighter",
-            "tagline": "Adult visual novel based on the webcomic Starfighter",
-            "ph_url": "posts/starfighter",
-            "comments": "3"
-        },
-        "user": {
-            "id": "alexisohanian",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alexisohanian.jpg",
-            "twitter": "alexisohanian",
-            "name": "Alexis Ohanian",
-            "tagline": "dude"
-        }
-    },
-    {
         "id": 7,
-        "post": {
-            "votes": "5",
-            "link": "http://www.framerjs.com/",
-            "name": "Framer",
-            "tagline": "Prototyping tool for animation and interaction",
-            "ph_url": "posts/framer",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "uxceo",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/uxceo.jpg",
-            "twitter": "uxceo",
-            "name": "Grace Ng",
-            "tagline": "Designer Founder, Javelin"
-        }
-    },
-    {
-        "id": 8,
         "post": {
             "votes": "5",
             "link": "http://play.typeracer.com/",
@@ -141,6 +123,24 @@
             "twitter": "AndyGCook",
             "name": "Andy Cook",
             "tagline": "Cocreator - LeadIn @ HubSpot"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "5",
+            "link": "https://www.kickstarter.com/projects/starfighter/starfighter-visual-novel",
+            "name": "Starfighter",
+            "tagline": "Adult visual novel based on the webcomic Starfighter",
+            "ph_url": "posts/starfighter",
+            "comments": "3"
+        },
+        "user": {
+            "id": "alexisohanian",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alexisohanian.jpg",
+            "twitter": "alexisohanian",
+            "name": "Alexis Ohanian",
+            "tagline": "dude"
         }
     },
     {
