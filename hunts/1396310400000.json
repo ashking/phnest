@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://www.airbrb.com/",
             "name": "AirBRB",
             "tagline": "Explore thousands of unique workspaces ",
@@ -33,6 +33,42 @@
             "twitter": "rahulvarshneya",
             "name": "Rahul Varshneya",
             "tagline": "Co-founder, Arkenea"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "1",
+            "link": "http://www.random.co",
+            "name": "Random",
+            "tagline": "Run out of Internet to read? Random app&#39;s here to help",
+            "ph_url": "posts/random",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ugurkaner",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ugurkaner.jpg",
+            "twitter": "ugurkaner",
+            "name": "Ugur Kaner",
+            "tagline": "@EatMentor"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "1",
+            "link": "http://roamerapp.com/",
+            "name": "Roamer",
+            "tagline": "Link your mobile number to a foreign SIM card and save $",
+            "ph_url": "posts/roamer",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "andrewpyott",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
+            "twitter": "andrewpyott",
+            "name": "Andrew Pyott",
+            "tagline": "Creative, Art Director"
         }
     }
 ]
