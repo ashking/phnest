@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://macaw.co/",
             "name": "Macaw",
             "tagline": "The code-savvy web design tool (now available)",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "2",
+            "link": "http://beardswipe.me",
+            "name": "BeardSwipe",
+            "tagline": "A whole new swipe to unlock.",
+            "ph_url": "posts/beardswipe",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kennethacohen",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kennethacohen.jpg",
+            "twitter": "kennethacohen",
+            "name": "Kenneth Cohen",
+            "tagline": "UX Intern at Bullhorn"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "1",
             "link": "http://www.random.co",
             "name": "Random",
@@ -123,24 +141,6 @@
             "twitter": "ugurkaner",
             "name": "Ugur Kaner",
             "tagline": "@EatMentor"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "1",
-            "link": "http://beardswipe.me",
-            "name": "BeardSwipe",
-            "tagline": "A whole new swipe to unlock.",
-            "ph_url": "posts/beardswipe",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "kennethacohen",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kennethacohen.jpg",
-            "twitter": "kennethacohen",
-            "name": "Kenneth Cohen",
-            "tagline": "UX Intern at Bullhorn"
         }
     }
 ]
