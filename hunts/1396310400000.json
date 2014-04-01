@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "http://www.airbrb.com/",
             "name": "AirBRB",
             "tagline": "Explore thousands of unique workspaces ",
@@ -20,6 +20,42 @@
     {
         "id": 2,
         "post": {
+            "votes": "4",
+            "link": "http://frontback.me/enterprise",
+            "name": "Frontback Enterprise",
+            "tagline": "Selfies for the enterprise",
+            "ph_url": "posts/frontback-enterprise",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "3",
+            "link": "http://macaw.co/",
+            "name": "Macaw",
+            "tagline": "The code-savvy web design tool (now available)",
+            "ph_url": "posts/macaw-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Product at Electrik Co."
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "3",
             "link": "http://www.surfair.com",
             "name": "Surf Air",
@@ -36,32 +72,14 @@
         }
     },
     {
-        "id": 3,
-        "post": {
-            "votes": "3",
-            "link": "http://frontback.me/enterprise",
-            "name": "Frontback Enterprise",
-            "tagline": "Selfies for the enterprise",
-            "ph_url": "posts/frontback-enterprise",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "3",
             "link": "http://www.stilt.io",
             "name": "Stilt",
             "tagline": "World&#39;s first connected stilts",
             "ph_url": "posts/stilt",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "GeoffreyWeg",
@@ -69,24 +87,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "2",
-            "link": "http://macaw.co/",
-            "name": "Macaw",
-            "tagline": "The code-savvy web design tool (now available)",
-            "ph_url": "posts/macaw-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Product at Electrik Co."
         }
     },
     {
