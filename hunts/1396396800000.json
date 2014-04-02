@@ -21,24 +21,6 @@
         "id": 2,
         "post": {
             "votes": "7",
-            "link": "http://macaw.co/",
-            "name": "Macaw",
-            "tagline": "The code-savvy web design tool (now available)",
-            "ph_url": "posts/macaw-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Product at Electrik Co."
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "7",
             "link": "http://www.useronboard.com/training/",
             "name": "User Onboard",
             "tagline": "The Elements of User Onboarding (130-Pages)",
@@ -51,6 +33,24 @@
             "twitter": "BrianCurliss",
             "name": "Brian Curliss",
             "tagline": "Founder of Profiles.io and MailLift"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "7",
+            "link": "http://macaw.co/",
+            "name": "Macaw",
+            "tagline": "The code-savvy web design tool (now available)",
+            "ph_url": "posts/macaw-2",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Product at Electrik Co."
         }
     },
     {
@@ -129,6 +129,24 @@
         "id": 8,
         "post": {
             "votes": "2",
+            "link": "http://www.melodigram.com/",
+            "name": "Melodigram",
+            "tagline": "Capture The Moment, Add Your Feeling, Share Instantly",
+            "ph_url": "posts/melodigram",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "2",
             "link": "http://hamptoncreek.com/",
             "name": "Hampton Creek Foods",
             "tagline": "Eggless Mayo",
@@ -144,7 +162,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "2",
             "link": "http://edhub.io",
@@ -159,24 +177,6 @@
             "twitter": "bogomep",
             "name": "Bogomil Shopov -Bogo",
             "tagline": "VP of Marketing, Usersnap"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "1",
-            "link": "http://www.melodigram.com/",
-            "name": "Melodigram",
-            "tagline": "Capture The Moment, Add Your Feeling, Share Instantly",
-            "ph_url": "posts/melodigram",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
         }
     }
 ]
