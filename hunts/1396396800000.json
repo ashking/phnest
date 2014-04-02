@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://visual.ly/",
             "name": "Visual.ly",
             "tagline": "Marketplace for Infographics and Other Visual Content",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "8",
+            "link": "http://macaw.co/",
+            "name": "Macaw",
+            "tagline": "The code-savvy web design tool (now available)",
+            "ph_url": "posts/macaw-2",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Product at Electrik Co."
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "7",
             "link": "http://www.useronboard.com/training/",
             "name": "User Onboard",
@@ -33,24 +51,6 @@
             "twitter": "BrianCurliss",
             "name": "Brian Curliss",
             "tagline": "Founder of Profiles.io and MailLift"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "7",
-            "link": "http://macaw.co/",
-            "name": "Macaw",
-            "tagline": "The code-savvy web design tool (now available)",
-            "ph_url": "posts/macaw-2",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Product at Electrik Co."
         }
     },
     {
