@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "6",
+            "link": "http://visual.ly/",
+            "name": "Visual.ly",
+            "tagline": "Marketplace for Infographics and Other Visual Content",
+            "ph_url": "posts/visual-ly",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "BrianCurliss",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
+            "twitter": "BrianCurliss",
+            "name": "Brian Curliss",
+            "tagline": "Founder of Profiles.io and MailLift"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "5",
             "link": "http://www.useronboard.com/training/",
             "name": "User Onboard",
@@ -18,27 +36,9 @@
         }
     },
     {
-        "id": 2,
-        "post": {
-            "votes": "4",
-            "link": "http://visual.ly/",
-            "name": "Visual.ly",
-            "tagline": "Marketplace for Infographics and Other Visual Content",
-            "ph_url": "posts/visual-ly",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "BrianCurliss",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/BrianCurliss.jpg",
-            "twitter": "BrianCurliss",
-            "name": "Brian Curliss",
-            "tagline": "Founder of Profiles.io and MailLift"
-        }
-    },
-    {
         "id": 3,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "https://starthq.com",
             "name": "StartHQ",
             "tagline": "Search across all your cloud apps from one place",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://hamptoncreek.com/",
             "name": "Hampton Creek Foods",
             "tagline": "Eggless Mayo",
@@ -69,6 +69,24 @@
             "twitter": "scottalln",
             "name": "Scott Allen",
             "tagline": "General Manager, Toby&#39;s "
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "1",
+            "link": "http://edhub.io",
+            "name": "EdHub.io",
+            "tagline": "online dashboard for educators to manage online apps.",
+            "ph_url": "posts/edhub-io",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "bogomep",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
+            "twitter": "bogomep",
+            "name": "Bogomil Shopov -Bogo",
+            "tagline": "VP of Marketing, Usersnap"
         }
     }
 ]
