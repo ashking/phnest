@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "2",
-            "link": "https://starthq.com",
-            "name": "StartHQ",
-            "tagline": "Search across all your cloud apps from one place",
-            "ph_url": "posts/starthq",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ugurkaner",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ugurkaner.jpg",
-            "twitter": "ugurkaner",
-            "name": "Ugur Kaner",
-            "tagline": "@EatMentor"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "2",
             "link": "http://hamptoncreek.com/",
             "name": "Hampton Creek Foods",
             "tagline": "Eggless Mayo",
@@ -72,7 +54,43 @@
         }
     },
     {
+        "id": 4,
+        "post": {
+            "votes": "2",
+            "link": "https://starthq.com",
+            "name": "StartHQ",
+            "tagline": "Search across all your cloud apps from one place",
+            "ph_url": "posts/starthq",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ugurkaner",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ugurkaner.jpg",
+            "twitter": "ugurkaner",
+            "name": "Ugur Kaner",
+            "tagline": "@EatMentor"
+        }
+    },
+    {
         "id": 5,
+        "post": {
+            "votes": "1",
+            "link": "https://www.qzzr.co/",
+            "name": "Qzzr",
+            "tagline": "Make engaging quizzes for your site or blog.",
+            "ph_url": "posts/qzzr",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Useful"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "http://edhub.io",
@@ -87,6 +105,24 @@
             "twitter": "bogomep",
             "name": "Bogomil Shopov -Bogo",
             "tagline": "VP of Marketing, Usersnap"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "1",
+            "link": "https://hired.com/",
+            "name": "Hired",
+            "tagline": "The marketplace where tech companies compete to hire you!",
+            "ph_url": "posts/hired",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Useful"
         }
     }
 ]
