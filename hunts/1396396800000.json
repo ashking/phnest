@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "33",
+            "link": "http://www.alfredapp.com/",
+            "name": "Alfred",
+            "tagline": "Never use your mouse again",
+            "ph_url": "posts/alfred",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "TMFelous",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TMFelous.jpg",
+            "twitter": "TMFelous",
+            "name": "Tyler Felous",
+            "tagline": "Co-founder @ Wisely"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "32",
             "link": "http://www.apitools.com",
             "name": "APItools",
@@ -15,24 +33,6 @@
             "twitter": "maximesalomon",
             "name": "Maxime Salomon",
             "tagline": "Product Marketer, Algolia"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "31",
-            "link": "http://www.alfredapp.com/",
-            "name": "Alfred",
-            "tagline": "Never use your mouse again",
-            "ph_url": "posts/alfred",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "TMFelous",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TMFelous.jpg",
-            "twitter": "TMFelous",
-            "name": "Tyler Felous",
-            "tagline": "Co-founder @ Wisely"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "15",
+            "votes": "17",
             "link": "http://tripstr.com/#/?utm_source=ProductHunt&utm_medium=Feature&utm_campaign=ProductHunt",
             "name": "Tripstr",
             "tagline": "Turn your trips&#39; photos into a beautiful, shareable story.",
@@ -151,7 +151,7 @@
             "name": "Lingua.ly",
             "tagline": "Learn new languages by browsing the Web.",
             "ph_url": "posts/lingua-ly",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "rahulvarshneya",
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://www.minaal.com/",
             "name": "Minaal carry-on",
             "tagline": "A new type of backpack, designed for travelers",
