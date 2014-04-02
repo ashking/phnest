@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "26",
+            "link": "http://www.alfredapp.com/",
+            "name": "Alfred",
+            "tagline": "Never use your mouse again",
+            "ph_url": "posts/alfred",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "TMFelous",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TMFelous.jpg",
+            "twitter": "TMFelous",
+            "name": "Tyler Felous",
+            "tagline": "Co-founder @ Wisely"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "25",
             "link": "http://macaw.co/",
             "name": "Macaw",
@@ -33,24 +51,6 @@
             "twitter": "alwaysunday",
             "name": "Andy Keil",
             "tagline": "Product at Electrik Co."
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "25",
-            "link": "http://www.alfredapp.com/",
-            "name": "Alfred",
-            "tagline": "Never use your mouse again",
-            "ph_url": "posts/alfred",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "TMFelous",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TMFelous.jpg",
-            "twitter": "TMFelous",
-            "name": "Tyler Felous",
-            "tagline": "Co-founder @ Wisely"
         }
     },
     {
@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "11",
-            "link": "https://hired.com/",
-            "name": "Hired",
-            "tagline": "The marketplace where tech companies compete to hire you!",
-            "ph_url": "posts/hired",
-            "comments": "3"
-        },
-        "user": {
-            "id": "ozguralaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
-            "twitter": "ozguralaz",
-            "name": "Özgür Alaz",
-            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "10",
             "link": "http://tripstr.com/#/?utm_source=ProductHunt&utm_medium=Feature&utm_campaign=ProductHunt",
             "name": "Tripstr",
             "tagline": "Turn your trips&#39; photos into a beautiful, shareable story.",
@@ -123,6 +105,24 @@
             "twitter": "iamtimhoover",
             "name": "Timothy Hoover",
             "tagline": "Lead Product Designer, Canary"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "11",
+            "link": "https://hired.com/",
+            "name": "Hired",
+            "tagline": "The marketplace where tech companies compete to hire you!",
+            "ph_url": "posts/hired",
+            "comments": "3"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
         }
     },
     {
