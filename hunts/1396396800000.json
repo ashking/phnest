@@ -25,14 +25,14 @@
             "name": "Macaw",
             "tagline": "The code-savvy web design tool (now available)",
             "ph_url": "posts/macaw-2",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "alwaysunday",
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
             "twitter": "alwaysunday",
             "name": "Andy Keil",
-            "tagline": "Product at Electrik Co."
+            "tagline": "Product at Electrik.co"
         }
     },
     {
@@ -169,7 +169,7 @@
             "name": "LawPal",
             "tagline": "Trello for Legal Projects",
             "ph_url": "posts/lawpal",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "YaelCitro",
@@ -201,6 +201,24 @@
         "id": 12,
         "post": {
             "votes": "9",
+            "link": "https://airpooler.com/",
+            "name": "AirPooler",
+            "tagline": "Lyft for private planes",
+            "ph_url": "posts/airpooler",
+            "comments": "3"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "9",
             "link": "http://pluto.tv",
             "name": "Pluto.tv",
             "tagline": "Curated video programming",
@@ -216,7 +234,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "9",
             "link": "https://prottapp.com/",
@@ -231,24 +249,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "9",
-            "link": "https://airpooler.com/",
-            "name": "AirPooler",
-            "tagline": "Lyft for private planes",
-            "ph_url": "posts/airpooler",
-            "comments": "3"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -273,24 +273,6 @@
         "id": 16,
         "post": {
             "votes": "8",
-            "link": "https://calendly.com/",
-            "name": "Calendly",
-            "tagline": "Simple, beautiful scheduling.",
-            "ph_url": "posts/calendly",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "bgadoci",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bgadoci.jpg",
-            "twitter": "bgadoci",
-            "name": "Brandon Gadoci",
-            "tagline": "UX at Indicate.io"
-        }
-    },
-    {
-        "id": 17,
-        "post": {
-            "votes": "8",
             "link": "https://itunes.apple.com/us/app/nytnow/id798993249?mt=8",
             "name": "NYTNow",
             "tagline": "Now the news keeps up with you ",
@@ -303,6 +285,24 @@
             "twitter": "JonahKaner",
             "name": "Jonah Kaner",
             "tagline": "Intern, NYT"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
+            "votes": "8",
+            "link": "https://calendly.com/",
+            "name": "Calendly",
+            "tagline": "Simple, beautiful scheduling.",
+            "ph_url": "posts/calendly",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "bgadoci",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bgadoci.jpg",
+            "twitter": "bgadoci",
+            "name": "Brandon Gadoci",
+            "tagline": "UX at Indicate.io"
         }
     },
     {
