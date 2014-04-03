@@ -7,7 +7,7 @@
             "name": "Blab",
             "tagline": "Video Walkie Talkie by Bebo",
             "ph_url": "posts/blab",
-            "comments": "15"
+            "comments": "16"
         },
         "user": {
             "id": "kaz",
@@ -236,6 +236,24 @@
     {
         "id": 14,
         "post": {
+            "votes": "2",
+            "link": "http://appium.io",
+            "name": "Appium",
+            "tagline": "Test automation framework for mobile apps",
+            "ph_url": "posts/appium",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
             "votes": "1",
             "link": "http://www.jauntvr.com/",
             "name": "Jaunt",
@@ -249,24 +267,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "1",
-            "link": "http://appium.io",
-            "name": "Appium",
-            "tagline": "Test automation framework for mobile apps",
-            "ph_url": "posts/appium",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
