@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "26",
+            "votes": "27",
             "link": "https://blab.im/",
             "name": "Blab",
             "tagline": "Video Walkie Talkie by Bebo",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "https://www.kibin.com/",
             "name": "Kibin",
             "tagline": "Professional Proofreading as a Service",
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://www.hashtagclimate.org/",
             "name": "#Climate",
             "tagline": "Share climate actions with your followers",
@@ -146,6 +146,42 @@
     {
         "id": 9,
         "post": {
+            "votes": "2",
+            "link": "https://www.goodui.org/datastories/",
+            "name": "GoodUI Datastories",
+            "tagline": "The best conversion optimization stories out there",
+            "ph_url": "posts/goodui-datastories",
+            "comments": "2"
+        },
+        "user": {
+            "id": "jlinowski",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlinowski.jpg",
+            "twitter": "jlinowski",
+            "name": "Jakub Linowski",
+            "tagline": "Linowski Interaction Design"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "2",
+            "link": "https://www.bitcasa.com/",
+            "name": "Bitcasa",
+            "tagline": "Free up disk space with system-integrated cloud storage",
+            "ph_url": "posts/bitcasa",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nickschwab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickschwab.jpg",
+            "twitter": "nickschwab",
+            "name": "Nick Schwab",
+            "tagline": "Web Developer, Wisely Inc."
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "1",
             "link": "http://www.trustradius.com/",
             "name": "TrustRadius",
@@ -162,7 +198,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 12,
         "post": {
             "votes": "1",
             "link": "http://traffle.co/",
@@ -177,42 +213,6 @@
             "twitter": "ozguralaz",
             "name": "Özgür Alaz",
             "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
-            "link": "https://www.goodui.org/datastories/",
-            "name": "GoodUI Datastories",
-            "tagline": "The best conversion optimization stories out there",
-            "ph_url": "posts/goodui-datastories",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "jlinowski",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jlinowski.jpg",
-            "twitter": "jlinowski",
-            "name": "Jakub Linowski",
-            "tagline": "Linowski Interaction Design"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "1",
-            "link": "https://www.bitcasa.com/",
-            "name": "Bitcasa",
-            "tagline": "Free up disk space with system-integrated cloud storage",
-            "ph_url": "posts/bitcasa",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "nickschwab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickschwab.jpg",
-            "twitter": "nickschwab",
-            "name": "Nick Schwab",
-            "tagline": "Web Developer, Wisely Inc."
         }
     }
 ]
