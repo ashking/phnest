@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "5",
+            "link": "https://itunes.apple.com/us/app/blab-video-walkie-talkie-by/id821832851?mt=8",
+            "name": "Blab",
+            "tagline": "Video Walkie Talkie by Bebo",
+            "ph_url": "posts/blab",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kaz.jpg",
+            "twitter": "kaz",
+            "name": "Adam Kazwell",
+            "tagline": "Product Manager"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "4",
             "link": "http://www.brandembassy.com/",
             "name": "BrandEmbassy",
@@ -18,7 +36,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
             "votes": "3",
             "link": "https://www.kibin.com/",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "3",
             "link": "http://maxistentialism.com/werewolf/",
@@ -51,24 +69,6 @@
             "twitter": "danieljurek",
             "name": "Daniel Jurek",
             "tagline": "CTO &amp; CoFounder, ProfilesIO"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "3",
-            "link": "https://itunes.apple.com/us/app/blab-video-walkie-talkie-by/id821832851?mt=8",
-            "name": "Blab",
-            "tagline": "Video Walkie Talkie by Bebo",
-            "ph_url": "posts/blab",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "kaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kaz.jpg",
-            "twitter": "kaz",
-            "name": "Adam Kazwell",
-            "tagline": "Product Manager"
         }
     }
 ]
