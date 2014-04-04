@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "26",
+            "link": "http://DigitalOcean.com",
+            "name": "Digital Ocean",
+            "tagline": "Simple cloud hosting, built for developers",
+            "ph_url": "posts/digital-ocean",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "JeffBajayo",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/JeffBajayo.jpg",
+            "twitter": "JeffBajayo",
+            "name": "Jeff Bajayo",
+            "tagline": "Marketing Manager"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "25",
             "link": "http://trak.io/",
             "name": "Trak.io",
@@ -15,24 +33,6 @@
             "twitter": "mvaxelaire",
             "name": "Matthieu Vaxelaire",
             "tagline": "Partner, eFounders"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "25",
-            "link": "http://DigitalOcean.com",
-            "name": "Digital Ocean",
-            "tagline": "Simple cloud hosting, built for developers",
-            "ph_url": "posts/digital-ocean",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "JeffBajayo",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/JeffBajayo.jpg",
-            "twitter": "JeffBajayo",
-            "name": "Jeff Bajayo",
-            "tagline": "Marketing Manager"
         }
     },
     {
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "5",
+            "link": "http://www.thesecretofraisingmoney.com/",
+            "name": "Raising Money Book",
+            "tagline": "Know the rules of raising money",
+            "ph_url": "posts/raising-money-book",
+            "comments": "4"
+        },
+        "user": {
+            "id": "yvoschaap",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/yvoschaap.jpg",
+            "twitter": "yvoschaap",
+            "name": "Yvo Schaap",
+            "tagline": "Founder &amp; Developer"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "4",
             "link": "http://www.digitalpigeon.com/",
             "name": "Digital Pigeon",
@@ -87,24 +105,6 @@
             "twitter": "MikeBronfman",
             "name": "Mike Bronfman",
             "tagline": "COO, Meta, LLC. (SpaceGlasses.com)"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "4",
-            "link": "http://www.thesecretofraisingmoney.com/",
-            "name": "Raising Money Book",
-            "tagline": "Know the rules of raising money",
-            "ph_url": "posts/raising-money-book",
-            "comments": "3"
-        },
-        "user": {
-            "id": "yvoschaap",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/yvoschaap.jpg",
-            "twitter": "yvoschaap",
-            "name": "Yvo Schaap",
-            "tagline": "Founder &amp; Developer"
         }
     },
     {
