@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "19",
+            "link": "http://thescoop.co/",
+            "name": "The Scoop",
+            "tagline": "HackerNews, DesignerNews, &amp; ProductHunt in One Place",
+            "ph_url": "posts/the-scoop",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "18",
             "link": "http://inside.co/",
             "name": "Inside.co",
@@ -105,24 +123,6 @@
             "twitter": "TMFelous",
             "name": "Tyler Felous",
             "tagline": "Co-founder @ Wisely"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "18",
-            "link": "http://thescoop.co/",
-            "name": "The Scoop",
-            "tagline": "HackerNews, DesignerNews, &amp; ProductHunt in One Place",
-            "ph_url": "posts/the-scoop",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
         }
     },
     {
@@ -237,24 +237,6 @@
         "id": 14,
         "post": {
             "votes": "6",
-            "link": "http://www.tactile.com/",
-            "name": "Tact",
-            "tagline": "Capture your important work conversations.",
-            "ph_url": "posts/tact",
-            "comments": "4"
-        },
-        "user": {
-            "id": "dshan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
-            "twitter": "dshan",
-            "name": "Derek Shanahan",
-            "tagline": "Growth Marketer, Playerize"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "6",
             "link": "https://www.safetheday.com/",
             "name": "Safe",
             "tagline": "Subscription service for premium condoms",
@@ -267,6 +249,24 @@
             "twitter": "MackFlavelle",
             "name": "Mack Flavelle",
             "tagline": "biz dev, tapstream"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "6",
+            "link": "http://www.tactile.com/",
+            "name": "Tact",
+            "tagline": "Capture your important work conversations.",
+            "ph_url": "posts/tact",
+            "comments": "4"
+        },
+        "user": {
+            "id": "dshan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
+            "twitter": "dshan",
+            "name": "Derek Shanahan",
+            "tagline": "Growth Marketer, Playerize"
         }
     },
     {
