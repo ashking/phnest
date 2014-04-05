@@ -39,6 +39,24 @@
         "id": 3,
         "post": {
             "votes": "4",
+            "link": "http://buzzsumo.com/",
+            "name": "Buzzsumo",
+            "tagline": "Identify the most shared links and key influencers",
+            "ph_url": "posts/buzzsumo",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "4",
             "link": "http://downtownapp.co/",
             "name": "Downtown",
             "tagline": "Amazon For Local Businesses",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "4",
             "link": "http://pags.cs.bilkent.edu.tr",
@@ -69,24 +87,6 @@
             "twitter": "mustafaakin",
             "name": "Mustafa Akin",
             "tagline": "MSc Student"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "4",
-            "link": "http://buzzsumo.com/",
-            "name": "Buzzsumo",
-            "tagline": "Identify the most shared links and key influencers",
-            "ph_url": "posts/buzzsumo",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://swaymedical.com/",
             "name": "Sway",
             "tagline": "The First FDA-Cleared Mobile Balance Testing System",
@@ -123,6 +123,24 @@
             "twitter": "cpwt",
             "name": "Chris Thorne",
             "tagline": "Product Manager, SpotRight"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "1",
+            "link": "http://www.channelkit.com/",
+            "name": "Channelkit",
+            "tagline": "Organise your links into neat channels",
+            "ph_url": "posts/channelkit",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
         }
     }
 ]
