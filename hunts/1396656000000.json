@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://buzzsumo.com/",
             "name": "Buzzsumo",
             "tagline": "Identify the most shared links and key influencers",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "5",
+            "link": "http://pags.cs.bilkent.edu.tr",
+            "name": "PAGS",
+            "tagline": "Grade programming assignments easier &amp; faster",
+            "ph_url": "posts/pags",
+            "comments": "3"
+        },
+        "user": {
+            "id": "mustafaakin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mustafaakin.jpg",
+            "twitter": "mustafaakin",
+            "name": "Mustafa Akin",
+            "tagline": "MSc Student"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "4",
             "link": "http://downtownapp.co/",
             "name": "Downtown",
@@ -72,27 +90,9 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "4",
-            "link": "http://pags.cs.bilkent.edu.tr",
-            "name": "PAGS",
-            "tagline": "Grade programming assignments easier &amp; faster",
-            "ph_url": "posts/pags",
-            "comments": "3"
-        },
-        "user": {
-            "id": "mustafaakin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mustafaakin.jpg",
-            "twitter": "mustafaakin",
-            "name": "Mustafa Akin",
-            "tagline": "MSc Student"
-        }
-    },
-    {
         "id": 6,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en",
             "name": "Built With",
             "tagline": "See Technologies Behind Websites in Real-Time",
