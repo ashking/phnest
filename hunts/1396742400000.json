@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "http://leash.co",
             "name": "leash.co",
             "tagline": "Easily transfer URLs between devices",
@@ -56,23 +56,41 @@
     {
         "id": 4,
         "post": {
-            "votes": "2",
-            "link": "http://leadingsnowflakes.com/",
-            "name": "Leading Snowflakes",
-            "tagline": "The engineering manager&#39;s handbook",
-            "ph_url": "posts/leading-snowflakes",
-            "comments": "1 comment"
+            "votes": "4",
+            "link": "http://www.getcleanly.com",
+            "name": "Cleanly",
+            "tagline": "Simple on-demand laundry delivery",
+            "ph_url": "posts/cleanly",
+            "comments": "6"
         },
         "user": {
-            "id": "mijustin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mijustin.jpg",
-            "twitter": "mijustin",
-            "name": "Justin Jackson",
-            "tagline": "JFDI, Founder"
+            "id": "tomharari",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/tomharari.jpg",
+            "twitter": "tomharari",
+            "name": "tomharari",
+            "tagline": "CEO, Cleanly"
         }
     },
     {
         "id": 5,
+        "post": {
+            "votes": "2",
+            "link": "https://treatings.co",
+            "name": "Treatings",
+            "tagline": "Online/offline platform to create professional relationships",
+            "ph_url": "posts/treatings",
+            "comments": "4"
+        },
+        "user": {
+            "id": "howillia",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/howillia.jpg",
+            "twitter": "howillia",
+            "name": "Hayden Williams",
+            "tagline": "Co-founder, Treatings"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "2",
             "link": "https://www.sendpluto.com",
@@ -90,39 +108,21 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "2",
-            "link": "http://www.getcleanly.com",
-            "name": "Cleanly",
-            "tagline": "Simple on-demand laundry delivery",
-            "ph_url": "posts/cleanly",
-            "comments": "6"
-        },
-        "user": {
-            "id": "tomharari",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/tomharari.jpg",
-            "twitter": "tomharari",
-            "name": "tomharari",
-            "tagline": "CEO, Cleanly"
-        }
-    },
-    {
         "id": 7,
         "post": {
-            "votes": "1",
-            "link": "https://treatings.co",
-            "name": "Treatings",
-            "tagline": "Online/offline platform to create professional relationships",
-            "ph_url": "posts/treatings",
-            "comments": "4"
+            "votes": "2",
+            "link": "http://leadingsnowflakes.com/",
+            "name": "Leading Snowflakes",
+            "tagline": "The engineering manager&#39;s handbook",
+            "ph_url": "posts/leading-snowflakes",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "howillia",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/howillia.jpg",
-            "twitter": "howillia",
-            "name": "Hayden Williams",
-            "tagline": "Co-founder, Treatings"
+            "id": "mijustin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mijustin.jpg",
+            "twitter": "mijustin",
+            "name": "Justin Jackson",
+            "tagline": "JFDI, Founder"
         }
     },
     {
