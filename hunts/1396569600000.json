@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "56",
+            "votes": "57",
             "link": "http://DigitalOcean.com",
             "name": "Digital Ocean",
             "tagline": "Simple cloud hosting, built for developers",
@@ -57,24 +57,6 @@
         "id": 4,
         "post": {
             "votes": "17",
-            "link": "https://www.goprit.com/",
-            "name": "GoPRit",
-            "tagline": "On Demand PR Service",
-            "ph_url": "posts/goprit",
-            "comments": "3"
-        },
-        "user": {
-            "id": "micrv",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/micrv.jpg",
-            "twitter": "micrv",
-            "name": "Michael Raven",
-            "tagline": "MD, Catch London"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "17",
             "link": "http://join.deathtothestockphoto.com/",
             "name": "Death to Stock Photo",
             "tagline": "Free monthly photo packs for creatives",
@@ -90,9 +72,27 @@
         }
     },
     {
+        "id": 5,
+        "post": {
+            "votes": "17",
+            "link": "https://www.goprit.com/",
+            "name": "GoPRit",
+            "tagline": "On Demand PR Service",
+            "ph_url": "posts/goprit",
+            "comments": "3"
+        },
+        "user": {
+            "id": "micrv",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/micrv.jpg",
+            "twitter": "micrv",
+            "name": "Michael Raven",
+            "tagline": "MD, Catch London"
+        }
+    },
+    {
         "id": 6,
         "post": {
-            "votes": "14",
+            "votes": "15",
             "link": "https://fresh.amazon.com/dash",
             "name": "Amazon Dash",
             "tagline": "Shopping made simple",
