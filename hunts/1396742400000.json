@@ -61,7 +61,7 @@
             "name": "Cleanly",
             "tagline": "Simple on-demand laundry delivery",
             "ph_url": "posts/cleanly",
-            "comments": "7"
+            "comments": "8"
         },
         "user": {
             "id": "tomharari",
@@ -93,6 +93,24 @@
         "id": 6,
         "post": {
             "votes": "2",
+            "link": "https://itunes.apple.com/us/app/songkick-concerts-tour-dates/id438690886?mt=8",
+            "name": "SongKick (iOS)",
+            "tagline": "Tour dates and festivals for your favorite artists",
+            "ph_url": "posts/songkick-ios",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "2",
             "link": "https://www.sendpluto.com",
             "name": "Pluto Mail",
             "tagline": "&quot;Unsend&quot; emails",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "2",
             "link": "http://leadingsnowflakes.com/",
@@ -123,24 +141,6 @@
             "twitter": "mijustin",
             "name": "Justin Jackson",
             "tagline": "JFDI, Founder"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "1",
-            "link": "https://itunes.apple.com/us/app/songkick-concerts-tour-dates/id438690886?mt=8",
-            "name": "SongKick (iOS)",
-            "tagline": "Tour dates and festivals for your favorite artists",
-            "ph_url": "posts/songkick-ios",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
         }
     }
 ]
