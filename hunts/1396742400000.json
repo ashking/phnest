@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "10",
+            "link": "http://www.zboardshop.com/pages/fiveyear",
+            "name": "ZBoard",
+            "tagline": "Weight-Sensing Electric Skateboard",
+            "ph_url": "posts/zboard",
+            "comments": "3"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founder, Vungle &amp; Shyp"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "9",
             "link": "http://leash.co",
             "name": "leash.co",
@@ -33,24 +51,6 @@
             "twitter": "a7mads",
             "name": "Ahmad Salman",
             "tagline": "Maker"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "9",
-            "link": "http://www.zboardshop.com/pages/fiveyear",
-            "name": "ZBoard",
-            "tagline": "Weight-Sensing Electric Skateboard",
-            "ph_url": "posts/zboard",
-            "comments": "3"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founder, Vungle &amp; Shyp"
         }
     },
     {
@@ -79,7 +79,7 @@
             "name": "Cleanly",
             "tagline": "Simple on-demand laundry delivery",
             "ph_url": "posts/cleanly",
-            "comments": "11"
+            "comments": "12"
         },
         "user": {
             "id": "tomharari",
