@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://sitedrop.com/",
             "name": "Sitedrop",
             "tagline": "A visual way to collaborate using Dropbox",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "11",
+            "link": "http://www.vox.com/",
+            "name": "Vox",
+            "tagline": "Understand the news. ",
+            "ph_url": "posts/vox",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "10",
             "link": "http://www.regexr.com/",
             "name": "RegExr 2.0",
@@ -69,24 +87,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "10",
-            "link": "http://www.vox.com/",
-            "name": "Vox",
-            "tagline": "Understand the news. ",
-            "ph_url": "posts/vox",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "4",
+            "votes": "6",
             "link": "https://buildwithcraft.com/",
             "name": "Craft",
             "tagline": "A CMS like no other.",
