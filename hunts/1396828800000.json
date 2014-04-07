@@ -3,6 +3,24 @@
         "id": 1,
         "post": {
             "votes": "5",
+            "link": "http://www.dandyloop.com",
+            "name": "DandyLoop",
+            "tagline": "A network of online shops who share visitors",
+            "ph_url": "posts/dandyloop",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "maximesalomon",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maximesalomon.jpg",
+            "twitter": "maximesalomon",
+            "name": "Maxime Salomon",
+            "tagline": "Product Marketer, Algolia"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
+            "votes": "5",
             "link": "https://openbrand.com/",
             "name": "OpenBrand",
             "tagline": "Marketing and Graphic Design Collaborative Space. ",
@@ -18,7 +36,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
             "votes": "4",
             "link": "http://www.regexr.com/",
@@ -33,24 +51,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "4",
-            "link": "http://www.dandyloop.com",
-            "name": "DandyLoop",
-            "tagline": "A network of online shops who share visitors",
-            "ph_url": "posts/dandyloop",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "maximesalomon",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maximesalomon.jpg",
-            "twitter": "maximesalomon",
-            "name": "Maxime Salomon",
-            "tagline": "Product Marketer, Algolia"
         }
     },
     {
@@ -97,7 +97,7 @@
             "name": "DJI Phantom2 Vision+",
             "tagline": "Drone that shoots stabilized 1080p",
             "ph_url": "posts/dji-phantom2-vision",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "nikitakorotaev",
