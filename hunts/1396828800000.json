@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "5",
+            "link": "http://selfcontrolapp.com/",
+            "name": "Self Control (Mac)",
+            "tagline": "Avoid distracting websites",
+            "ph_url": "posts/self-control-mac",
+            "comments": "3"
+        },
+        "user": {
+            "id": "janine_renee",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/janine_renee.jpg",
+            "twitter": "janine_renee",
+            "name": "Janine Renee",
+            "tagline": "CEO, NextChapter"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "4",
             "link": "http://mysaasmetrics.com/",
             "name": "My SaaS Metrics",
@@ -180,7 +198,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "4",
             "link": "https://chrome.google.com/webstore/detail/modern-new-tab-page/ogllliimbhgmclkgjldeffhjbhaenapo",
@@ -195,24 +213,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "4",
-            "link": "http://selfcontrolapp.com/",
-            "name": "Self Control (Mac)",
-            "tagline": "Avoid distracting websites",
-            "ph_url": "posts/self-control-mac",
-            "comments": "2"
-        },
-        "user": {
-            "id": "janine_renee",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/janine_renee.jpg",
-            "twitter": "janine_renee",
-            "name": "Janine Renee",
-            "tagline": "CEO, NextChapter"
         }
     },
     {
@@ -290,7 +290,7 @@
     {
         "id": 17,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "https://itunes.apple.com/us/app/suny-uv-meter/id827511242?mt=8",
             "name": "Suny",
             "tagline": "Monitor UV Index at your current location ",
