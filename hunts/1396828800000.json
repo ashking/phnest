@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "2",
+            "link": "https://openbrand.com/",
+            "name": "OpenBrand",
+            "tagline": "Marketing and Graphic Design Collaborative Space. ",
+            "ph_url": "posts/openbrand",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bogomep",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
+            "twitter": "bogomep",
+            "name": "Bogomil Shopov -Bogo",
+            "tagline": "VP of Marketing, Usersnap"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "1",
             "link": "https://chrome.google.com/webstore/detail/modern-new-tab-page/ogllliimbhgmclkgjldeffhjbhaenapo",
             "name": "Modern New Tab Page",
@@ -18,7 +36,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
             "votes": "1",
             "link": "http://www.regexr.com/",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "1",
             "link": "http://www.dandyloop.com",
@@ -51,24 +69,6 @@
             "twitter": "maximesalomon",
             "name": "Maxime Salomon",
             "tagline": "Product Marketer, Algolia"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "1",
-            "link": "https://openbrand.com/",
-            "name": "OpenBrand",
-            "tagline": "Marketing and Graphic Design Collaborative Space. ",
-            "ph_url": "posts/openbrand",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bogomep",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
-            "twitter": "bogomep",
-            "name": "Bogomil Shopov -Bogo",
-            "tagline": "VP of Marketing, Usersnap"
         }
     }
 ]
