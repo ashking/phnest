@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "6",
+            "link": "http://www.azendoo.com",
+            "name": "Azendoo",
+            "tagline": "Teamwork made easy, Get Sh!t Done without email",
+            "ph_url": "posts/azendoo",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "greglefort",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/greglefort.jpg",
+            "twitter": "greglefort",
+            "name": "Gregory Lefort",
+            "tagline": "CEO Azendoo"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "5",
             "link": "https://muut.com/",
             "name": "Muut",
@@ -69,24 +87,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "3",
-            "link": "http://www.azendoo.com",
-            "name": "Azendoo",
-            "tagline": "Teamwork made easy, Get Sh!t Done without email",
-            "ph_url": "posts/azendoo",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "greglefort",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/greglefort.jpg",
-            "twitter": "greglefort",
-            "name": "Gregory Lefort",
-            "tagline": "CEO Azendoo"
         }
     },
     {
@@ -147,24 +147,6 @@
         "id": 9,
         "post": {
             "votes": "1",
-            "link": "http://wearvigo.com",
-            "name": "Vigo",
-            "tagline": "Wearable device tracks and optimizes individuals’ alertness",
-            "ph_url": "posts/vigo",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "bramk",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bramk.jpg",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Digital Product Manager @dutchstandard"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "1",
             "link": "http://makinsensebabe.com",
             "name": "Makin Sense Babe",
             "tagline": "The money site for non-finance people",
@@ -177,6 +159,24 @@
             "twitter": "Nivo0o0",
             "name": "Niv Dror",
             "tagline": "Insights &amp; Analytics at DataFox"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "1",
+            "link": "http://wearvigo.com",
+            "name": "Vigo",
+            "tagline": "Wearable device tracks and optimizes individuals’ alertness",
+            "ph_url": "posts/vigo",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "bramk",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bramk.jpg",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Digital Product Manager @dutchstandard"
         }
     }
 ]
