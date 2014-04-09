@@ -7,7 +7,7 @@
             "name": "Vinyl Me, Please",
             "tagline": "The best damn record club out there",
             "ph_url": "posts/vinyl-me-please",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "iammattfiedler",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "2",
+            "link": "http://www.buzzstream.com/",
+            "name": "BuzzStream",
+            "tagline": "Organise your link building efforts",
+            "ph_url": "posts/buzzstream",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "1",
             "link": "http://makinsensebabe.com",
             "name": "Makin Sense Babe",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "1",
             "link": "http://wearvigo.com",
@@ -69,24 +87,6 @@
             "twitter": "bramk",
             "name": "Bram Kanstein",
             "tagline": "Digital Product Manager @dutchstandard"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "1",
-            "link": "http://www.buzzstream.com/",
-            "name": "BuzzStream",
-            "tagline": "Organise your link building efforts",
-            "ph_url": "posts/buzzstream",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
         }
     }
 ]
