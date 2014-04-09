@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "14",
+            "votes": "17",
             "link": "http://vinylmeplease.com",
             "name": "Vinyl Me, Please",
             "tagline": "The best damn record club out there",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "2",
+            "link": "http://intothestatic.com/",
+            "name": "Into the Static",
+            "tagline": "Peer into current events through real time video.",
+            "ph_url": "posts/into-the-static",
+            "comments": "2"
+        },
+        "user": {
+            "id": "ryandawidjan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryandawidjan.jpg",
+            "twitter": "ryandawidjan",
+            "name": "Ryan",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "1",
             "link": "http://makinsensebabe.com",
             "name": "Makin Sense Babe",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "http://wearvigo.com",
@@ -87,24 +105,6 @@
             "twitter": "bramk",
             "name": "Bram Kanstein",
             "tagline": "Digital Product Manager @dutchstandard"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "http://intothestatic.com/",
-            "name": "Into the Static",
-            "tagline": "Peer into current events through real time video.",
-            "ph_url": "posts/into-the-static",
-            "comments": "2"
-        },
-        "user": {
-            "id": "ryandawidjan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryandawidjan.jpg",
-            "twitter": "ryandawidjan",
-            "name": "Ryan",
-            "tagline": ""
         }
     }
 ]
