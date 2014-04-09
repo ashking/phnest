@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "27",
+            "votes": "28",
             "link": "http://v2.assistant.io/",
             "name": "Assistant",
             "tagline": "The Easiest Way to Schedule Meetings",
@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "10",
+            "link": "http://skiplagged.com/",
+            "name": "SkipLagged",
+            "tagline": "A cool twist on buying plane tickets",
+            "ph_url": "posts/skiplagged",
+            "comments": "6"
+        },
+        "user": {
+            "id": "staringispolite",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
+            "twitter": "staringispolite",
+            "name": "Jonathan Howard",
+            "tagline": "Co-founder &amp; CEO, Emissary"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "9",
             "link": "http://grovelabs.io/in-the-home",
             "name": "Grove Labs",
@@ -216,7 +234,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "9",
             "link": "https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=en",
@@ -231,24 +249,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "9",
-            "link": "http://skiplagged.com/",
-            "name": "SkipLagged",
-            "tagline": "A cool twist on buying plane tickets",
-            "ph_url": "posts/skiplagged",
-            "comments": "6"
-        },
-        "user": {
-            "id": "staringispolite",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
-            "twitter": "staringispolite",
-            "name": "Jonathan Howard",
-            "tagline": "Co-founder &amp; CEO, Emissary"
         }
     },
     {
@@ -309,24 +309,6 @@
         "id": 18,
         "post": {
             "votes": "5",
-            "link": "http://lingvist.io/",
-            "name": "Lingvist",
-            "tagline": "Learn a language in just 200 hours!",
-            "ph_url": "posts/lingvist",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "ozguralaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
-            "twitter": "ozguralaz",
-            "name": "Özgür Alaz",
-            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
-        }
-    },
-    {
-        "id": 19,
-        "post": {
-            "votes": "5",
             "link": "http://app.raw.densitydesign.org/#/",
             "name": "RAW",
             "tagline": "The missing link between spreadsheets and vector graphics",
@@ -339,6 +321,24 @@
             "twitter": "tonysheng",
             "name": "Tony Sheng",
             "tagline": "marketing, ZEFR"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
+            "votes": "5",
+            "link": "http://lingvist.io/",
+            "name": "Lingvist",
+            "tagline": "Learn a language in just 200 hours!",
+            "ph_url": "posts/lingvist",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
         }
     },
     {
