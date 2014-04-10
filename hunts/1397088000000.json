@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "31",
+            "votes": "32",
             "link": "http://www.developeragents.com/",
             "name": "Developer Agents",
             "tagline": "Remote talent worldwide,  referred by a trusted community",
@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "http://www.getmentalnotes.com/cards",
             "name": "Mental Notes",
             "tagline": "Bring a little psychology to Web design",
             "ph_url": "posts/mental-notes",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "rrhoover",
@@ -56,25 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "8",
-            "link": "https://www.hishortcut.com/",
-            "name": "Shortcut",
-            "tagline": "Siri for the Internet of Things",
-            "ph_url": "posts/shortcut",
-            "comments": "3"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "https://itunes.apple.com/us/app/buffer-for-twitter-facebook/id490474324?ls=1&mt=8",
             "name": "Buffer for iOS7 ",
             "tagline": "Easiest Way to Manage Social Media On The Go",
@@ -90,7 +72,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "post": {
             "votes": "8",
             "link": "https://pickcrew.com/",
@@ -105,6 +87,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "8",
+            "link": "https://www.hishortcut.com/",
+            "name": "Shortcut",
+            "tagline": "Siri for the Internet of Things",
+            "ph_url": "posts/shortcut",
+            "comments": "3"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
         }
     },
     {
@@ -147,6 +147,24 @@
         "id": 9,
         "post": {
             "votes": "3",
+            "link": "https://www.pingdom.com/beepmanager/",
+            "name": "BeepManager",
+            "tagline": "Pingdom meets PagerDuty - oncall schedules, alert escalation",
+            "ph_url": "posts/beepmanager",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "shedd",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/shedd.jpg",
+            "twitter": "shedd",
+            "name": "Robert Shedd",
+            "tagline": "Founder"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "3",
             "link": "http://webdesign.maratz.com/lab/responsivetypography/realtime/",
             "name": "Responsive Type",
             "tagline": "Typography that changes based on distance from screen",
@@ -162,7 +180,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://www.packpnt.com/",
@@ -177,24 +195,6 @@
             "twitter": "kenromano",
             "name": "Ken Romano",
             "tagline": "Director of Broadcast Products, Associated Press"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "2",
-            "link": "https://www.pingdom.com/beepmanager/",
-            "name": "BeepManager",
-            "tagline": "Pingdom meets PagerDuty - oncall schedules, alert escalation",
-            "ph_url": "posts/beepmanager",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "shedd",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/shedd.jpg",
-            "twitter": "shedd",
-            "name": "Robert Shedd",
-            "tagline": "Founder"
         }
     },
     {
