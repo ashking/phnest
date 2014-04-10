@@ -93,6 +93,24 @@
         "id": 6,
         "post": {
             "votes": "6",
+            "link": "http://bluegoji.com",
+            "name": "Blue Goji",
+            "tagline": "Gamified Exercise Equipment",
+            "ph_url": "posts/blue-goji",
+            "comments": "10"
+        },
+        "user": {
+            "id": "liveink",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/liveink.jpg",
+            "twitter": "liveink",
+            "name": "Kevin Li",
+            "tagline": "advisor, msgme"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "6",
             "link": "http://www.Apiary.io",
             "name": "Apiary",
             "tagline": "Blueprint for API Development",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "6",
             "link": "http://liber.io",
@@ -123,24 +141,6 @@
             "twitter": "imcatnoone",
             "name": "Cat Noone",
             "tagline": "Co-Founder &amp; Designer, Liberio"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "6",
-            "link": "http://bluegoji.com",
-            "name": "Blue Goji",
-            "tagline": "Gamified Exercise Equipment",
-            "ph_url": "posts/blue-goji",
-            "comments": "10"
-        },
-        "user": {
-            "id": "liveink",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/liveink.jpg",
-            "twitter": "liveink",
-            "name": "Kevin Li",
-            "tagline": "advisor, msgme"
         }
     },
     {
@@ -183,24 +183,6 @@
         "id": 11,
         "post": {
             "votes": "4",
-            "link": "http://www.polleverywhere.com/",
-            "name": "Poll Everywhere",
-            "tagline": "Live audience Participation ",
-            "ph_url": "posts/poll-everywhere",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "4",
             "link": "http://www.doctorondemand.com/",
             "name": "Doctor on Demand",
             "tagline": "On demand video chat with licensed doctors",
@@ -213,6 +195,24 @@
             "twitter": "nickbaum",
             "name": "Nick Baum",
             "tagline": "Founder, StoryWorth"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "4",
+            "link": "http://www.polleverywhere.com/",
+            "name": "Poll Everywhere",
+            "tagline": "Live audience Participation ",
+            "ph_url": "posts/poll-everywhere",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
         }
     },
     {
