@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "16",
+            "link": "http://www.getmentalnotes.com/cards",
+            "name": "Mental Notes",
+            "tagline": "Bring a little psychology to Web design",
+            "ph_url": "posts/mental-notes",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "15",
             "link": "http://www.testomato.com",
             "name": "Testomato",
@@ -33,24 +51,6 @@
             "twitter": "bogomep",
             "name": "Bogomil Shopov -Bogo",
             "tagline": "VP of Marketing, Usersnap"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "15",
-            "link": "http://www.getmentalnotes.com/cards",
-            "name": "Mental Notes",
-            "tagline": "Bring a little psychology to Web design",
-            "ph_url": "posts/mental-notes",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -75,24 +75,6 @@
         "id": 5,
         "post": {
             "votes": "7",
-            "link": "https://itunes.apple.com/us/app/buffer-for-twitter-facebook/id490474324?ls=1&mt=8",
-            "name": "Buffer for iOS7 ",
-            "tagline": "Easiest Way to Manage Social Media On The Go",
-            "ph_url": "posts/buffer-for-ios7",
-            "comments": "3"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "6",
             "link": "https://pickcrew.com/",
             "name": "Crew",
             "tagline": "Marketplace of dev/design talent where talent picks work.",
@@ -105,6 +87,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "7",
+            "link": "https://itunes.apple.com/us/app/buffer-for-twitter-facebook/id490474324?ls=1&mt=8",
+            "name": "Buffer for iOS7 ",
+            "tagline": "Easiest Way to Manage Social Media On The Go",
+            "ph_url": "posts/buffer-for-ios7",
+            "comments": "3"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
         }
     },
     {
@@ -151,7 +151,7 @@
             "name": "Responsive Type",
             "tagline": "Typography that changes based on distance from screen",
             "ph_url": "posts/responsive-type",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "carlobff",
