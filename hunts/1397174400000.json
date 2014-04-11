@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "http://www.tranceapp.com",
             "name": "Trance",
             "tagline": "Watch, record and share beautiful dance videos",
@@ -128,6 +128,24 @@
     {
         "id": 8,
         "post": {
+            "votes": "3",
+            "link": "http://goproof.io/!6AdnLelwg",
+            "name": "Proof",
+            "tagline": "Get design feedback directly on your design!",
+            "ph_url": "posts/proof-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "olofster",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/olofster.jpg",
+            "twitter": "olofster",
+            "name": "Olof Mathé",
+            "tagline": "PM"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
             "votes": "2",
             "link": "http://tamper.io/morning/",
             "name": "Morning ",
@@ -144,43 +162,7 @@
         }
     },
     {
-        "id": 9,
-        "post": {
-            "votes": "2",
-            "link": "http://goproof.io/!6AdnLelwg",
-            "name": "Proof",
-            "tagline": "Get design feedback directly on your design!",
-            "ph_url": "posts/proof-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "olofster",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/olofster.jpg",
-            "twitter": "olofster",
-            "name": "Olof Mathé",
-            "tagline": "PM"
-        }
-    },
-    {
         "id": 10,
-        "post": {
-            "votes": "1",
-            "link": "http://www.datafox.co/",
-            "name": "DataFox",
-            "tagline": "Harness big data  to make smarter decisions.",
-            "ph_url": "posts/datafox",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "jtriest",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jtriest.jpg",
-            "twitter": "jtriest",
-            "name": "Jonathon Triest",
-            "tagline": "Ludlow Ventures"
-        }
-    },
-    {
-        "id": 11,
         "post": {
             "votes": "1",
             "link": "http://www.domaintower.com",
@@ -195,6 +177,24 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "1",
+            "link": "http://www.datafox.co/",
+            "name": "DataFox",
+            "tagline": "Harness big data  to make smarter decisions.",
+            "ph_url": "posts/datafox",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jtriest",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jtriest.jpg",
+            "twitter": "jtriest",
+            "name": "Jonathon Triest",
+            "tagline": "Ludlow Ventures"
         }
     }
 ]
