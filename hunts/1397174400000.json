@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "4",
+            "link": "http://goproof.io/!6AdnLelwg",
+            "name": "Proof",
+            "tagline": "Get design feedback directly on your design!",
+            "ph_url": "posts/proof-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "olofster",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/olofster.jpg",
+            "twitter": "olofster",
+            "name": "Olof Mathé",
+            "tagline": "PM"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "3",
             "link": "https://poetica.com",
             "name": "Poetica",
@@ -90,61 +108,7 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "3",
-            "link": "http://goproof.io/!6AdnLelwg",
-            "name": "Proof",
-            "tagline": "Get design feedback directly on your design!",
-            "ph_url": "posts/proof-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "olofster",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/olofster.jpg",
-            "twitter": "olofster",
-            "name": "Olof Mathé",
-            "tagline": "PM"
-        }
-    },
-    {
         "id": 7,
-        "post": {
-            "votes": "3",
-            "link": "http://www.refresh.io",
-            "name": "Refresh 1.6",
-            "tagline": "Get Insights about the People You Meet",
-            "ph_url": "posts/refresh-1-6",
-            "comments": "2"
-        },
-        "user": {
-            "id": "bhavinator",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bhavinator.jpg",
-            "twitter": "bhavinator",
-            "name": "Bhavin Shah",
-            "tagline": ""
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "3",
-            "link": "http://tamper.io/morning/",
-            "name": "Morning ",
-            "tagline": "Start your morning off right with a beautiful dashboard",
-            "ph_url": "posts/morning",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "ryandawidjan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryandawidjan.jpg",
-            "twitter": "ryandawidjan",
-            "name": "Ryan",
-            "tagline": ""
-        }
-    },
-    {
-        "id": 9,
         "post": {
             "votes": "3",
             "link": "http://reederapp.com/mac/",
@@ -162,25 +126,43 @@
         }
     },
     {
-        "id": 10,
+        "id": 8,
         "post": {
-            "votes": "1",
-            "link": "http://www.domaintower.com",
-            "name": "Domain Tower",
-            "tagline": "All your domain names in one place",
-            "ph_url": "posts/domain-tower",
-            "comments": "1 comment"
+            "votes": "3",
+            "link": "http://www.refresh.io",
+            "name": "Refresh 1.6",
+            "tagline": "Get Insights about the People You Meet",
+            "ph_url": "posts/refresh-1-6",
+            "comments": "3"
         },
         "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
+            "id": "bhavinator",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bhavinator.jpg",
+            "twitter": "bhavinator",
+            "name": "Bhavin Shah",
+            "tagline": ""
         }
     },
     {
-        "id": 11,
+        "id": 9,
+        "post": {
+            "votes": "3",
+            "link": "http://tamper.io/morning/",
+            "name": "Morning ",
+            "tagline": "Start your morning off right with a beautiful dashboard",
+            "ph_url": "posts/morning",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ryandawidjan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryandawidjan.jpg",
+            "twitter": "ryandawidjan",
+            "name": "Ryan",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 10,
         "post": {
             "votes": "1",
             "link": "http://www.datafox.co/",
@@ -195,6 +177,24 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "1",
+            "link": "http://www.domaintower.com",
+            "name": "Domain Tower",
+            "tagline": "All your domain names in one place",
+            "ph_url": "posts/domain-tower",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
         }
     }
 ]
