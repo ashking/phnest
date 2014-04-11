@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "18",
+            "votes": "19",
             "link": "http://buzzsumo.com/",
             "name": "Buzzsumo",
             "tagline": "Identify the most shared links and key influencers",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "9",
+            "link": "http://www.channelkit.com/",
+            "name": "Channelkit",
+            "tagline": "Organise your links into neat channels",
+            "ph_url": "posts/channelkit",
+            "comments": "5"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "8",
             "link": "http://pags.cs.bilkent.edu.tr",
             "name": "PAGS",
@@ -126,43 +144,7 @@
         }
     },
     {
-        "id": 8,
-        "post": {
-            "votes": "8",
-            "link": "http://www.channelkit.com/",
-            "name": "Channelkit",
-            "tagline": "Organise your links into neat channels",
-            "ph_url": "posts/channelkit",
-            "comments": "5"
-        },
-        "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
         "id": 9,
-        "post": {
-            "votes": "7",
-            "link": "http://swaymedical.com/",
-            "name": "Sway",
-            "tagline": "The First FDA-Cleared Mobile Balance Testing System",
-            "ph_url": "posts/sway",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager, SpotRight"
-        }
-    },
-    {
-        "id": 10,
         "post": {
             "votes": "7",
             "link": "http://downtownapp.co/",
@@ -177,6 +159,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "7",
+            "link": "http://swaymedical.com/",
+            "name": "Sway",
+            "tagline": "The First FDA-Cleared Mobile Balance Testing System",
+            "ph_url": "posts/sway",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/cpwt.jpg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager, SpotRight"
         }
     }
 ]
