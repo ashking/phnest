@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://www.tranceapp.com",
             "name": "Trance",
             "tagline": "Watch, record and share beautiful dance videos",
             "ph_url": "posts/trance-2",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "danlev",
@@ -19,6 +19,24 @@
     },
     {
         "id": 2,
+        "post": {
+            "votes": "9",
+            "link": "https://planner5d.com/",
+            "name": "Planner 5D",
+            "tagline": "Easily Create 3D Interior Designs",
+            "ph_url": "posts/planner-5d",
+            "comments": "2"
+        },
+        "user": {
+            "id": "nikitakorotaev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nikitakorotaev.jpg",
+            "twitter": "nikitakorotaev",
+            "name": "Nikita Korotaev",
+            "tagline": "Incubating products @ Glocal Partners"
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "8",
             "link": "https://geckoboard.com",
@@ -33,24 +51,6 @@
             "twitter": "nickschwab",
             "name": "Nick Schwab",
             "tagline": "Web Developer, Wisely Inc."
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "8",
-            "link": "https://planner5d.com/",
-            "name": "Planner 5D",
-            "tagline": "Easily Create 3D Interior Designs",
-            "ph_url": "posts/planner-5d",
-            "comments": "2"
-        },
-        "user": {
-            "id": "nikitakorotaev",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nikitakorotaev.jpg",
-            "twitter": "nikitakorotaev",
-            "name": "Nikita Korotaev",
-            "tagline": "Incubating products @ Glocal Partners"
         }
     },
     {
@@ -75,42 +75,6 @@
         "id": 5,
         "post": {
             "votes": "3",
-            "link": "http://reederapp.com/mac/",
-            "name": "Reeder 2 For Mac",
-            "tagline": "RSS reader",
-            "ph_url": "posts/reeder-2-for-mac",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "TylerH",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TylerH.jpg",
-            "twitter": "TylerH",
-            "name": "Tyler",
-            "tagline": "Writer"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "3",
-            "link": "https://poetica.com",
-            "name": "Poetica",
-            "tagline": "Intuitive feedback in Gmail, Wordpress and more",
-            "ph_url": "posts/poetica",
-            "comments": "2"
-        },
-        "user": {
-            "id": "annamaybank",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/annamaybank.jpg",
-            "twitter": "annamaybank",
-            "name": "Anna Maybank",
-            "tagline": "CEO, Poetica"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "3",
             "link": "http://www.refresh.io",
             "name": "Refresh 1.6",
             "tagline": "Get Insights about the People You Meet",
@@ -126,7 +90,25 @@
         }
     },
     {
-        "id": 8,
+        "id": 6,
+        "post": {
+            "votes": "3",
+            "link": "http://reederapp.com/mac/",
+            "name": "Reeder 2 For Mac",
+            "tagline": "RSS reader",
+            "ph_url": "posts/reeder-2-for-mac",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "TylerH",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TylerH.jpg",
+            "twitter": "TylerH",
+            "name": "Tyler",
+            "tagline": "Writer"
+        }
+    },
+    {
+        "id": 7,
         "post": {
             "votes": "3",
             "link": "http://goproof.io/!6AdnLelwg",
@@ -141,6 +123,24 @@
             "twitter": "olofster",
             "name": "Olof Mathé",
             "tagline": "PM"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "3",
+            "link": "https://poetica.com",
+            "name": "Poetica",
+            "tagline": "Intuitive feedback in Gmail, Wordpress and more",
+            "ph_url": "posts/poetica",
+            "comments": "3"
+        },
+        "user": {
+            "id": "annamaybank",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/annamaybank.jpg",
+            "twitter": "annamaybank",
+            "name": "Anna Maybank",
+            "tagline": "CEO, Poetica"
         }
     },
     {
