@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "10",
+            "link": "http://www.refresh.io",
+            "name": "Refresh 1.6",
+            "tagline": "Get Insights about the People You Meet",
+            "ph_url": "posts/refresh-1-6",
+            "comments": "6"
+        },
+        "user": {
+            "id": "bhavinator",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bhavinator.jpg",
+            "twitter": "bhavinator",
+            "name": "Bhavin Shah",
+            "tagline": "CEO, Refresh.io"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "9",
             "link": "https://www.taptalk.me/download",
             "name": "Taptalk",
@@ -69,24 +87,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "9",
-            "link": "http://www.refresh.io",
-            "name": "Refresh 1.6",
-            "tagline": "Get Insights about the People You Meet",
-            "ph_url": "posts/refresh-1-6",
-            "comments": "6"
-        },
-        "user": {
-            "id": "bhavinator",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bhavinator.jpg",
-            "twitter": "bhavinator",
-            "name": "Bhavin Shah",
-            "tagline": "CEO, Refresh.io"
         }
     },
     {
@@ -147,24 +147,6 @@
         "id": 9,
         "post": {
             "votes": "5",
-            "link": "http://startupseries.co/",
-            "name": "Startup Series eBook",
-            "tagline": "Interviews with 25 startup founders",
-            "ph_url": "posts/startup-series-ebook",
-            "comments": "5"
-        },
-        "user": {
-            "id": "_ryangilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_ryangilbert.jpg",
-            "twitter": "_ryangilbert",
-            "name": "Ryan Gilbert",
-            "tagline": "Founders.cc eBook"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "4",
             "link": "http://goproof.io/!6AdnLelwg",
             "name": "Proof",
             "tagline": "Get design feedback directly on your design!",
@@ -180,25 +162,25 @@
         }
     },
     {
-        "id": 11,
+        "id": 10,
         "post": {
-            "votes": "2",
-            "link": "http://www.domaintower.com",
-            "name": "Domain Tower",
-            "tagline": "All your domain names in one place",
-            "ph_url": "posts/domain-tower",
-            "comments": "1 comment"
+            "votes": "5",
+            "link": "http://startupseries.co/",
+            "name": "Startup Series eBook",
+            "tagline": "Interviews with 25 startup founders",
+            "ph_url": "posts/startup-series-ebook",
+            "comments": "5"
         },
         "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
+            "id": "_ryangilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_ryangilbert.jpg",
+            "twitter": "_ryangilbert",
+            "name": "Ryan Gilbert",
+            "tagline": "Founders.cc eBook"
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://www.datafox.co/",
@@ -213,6 +195,24 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "2",
+            "link": "http://www.domaintower.com",
+            "name": "Domain Tower",
+            "tagline": "All your domain names in one place",
+            "ph_url": "posts/domain-tower",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
         }
     },
     {
