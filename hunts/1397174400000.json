@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "8",
+            "link": "https://geckoboard.com",
+            "name": "Geckoboard",
+            "tagline": "Monitor the vital signs of your business",
+            "ph_url": "posts/geckoboard",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "nickschwab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickschwab.jpg",
+            "twitter": "nickschwab",
+            "name": "Nick Schwab",
+            "tagline": "Web Developer, Wisely Inc."
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "7",
             "link": "https://www.taptalk.me/download",
             "name": "Taptalk",
@@ -33,24 +51,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "6",
-            "link": "https://geckoboard.com",
-            "name": "Geckoboard",
-            "tagline": "Monitor the vital signs of your business",
-            "ph_url": "posts/geckoboard",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "nickschwab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickschwab.jpg",
-            "twitter": "nickschwab",
-            "name": "Nick Schwab",
-            "tagline": "Web Developer, Wisely Inc."
         }
     },
     {
@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "1",
-            "link": "http://www.domaintower.com",
-            "name": "Domain Tower",
-            "tagline": "All your domain names in one place",
-            "ph_url": "posts/domain-tower",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "1",
             "link": "http://www.datafox.co/",
             "name": "DataFox",
             "tagline": "Harness big data  to make smarter decisions.",
@@ -123,6 +105,24 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "1",
+            "link": "http://www.domaintower.com",
+            "name": "Domain Tower",
+            "tagline": "All your domain names in one place",
+            "ph_url": "posts/domain-tower",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
         }
     }
 ]
