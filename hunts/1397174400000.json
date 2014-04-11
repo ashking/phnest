@@ -92,25 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "4",
-            "link": "http://goproof.io/!6AdnLelwg",
-            "name": "Proof",
-            "tagline": "Get design feedback directly on your design!",
-            "ph_url": "posts/proof-2",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "olofster",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/olofster.jpg",
-            "twitter": "olofster",
-            "name": "Olof Mathé",
-            "tagline": "PM"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://www.refresh.io",
             "name": "Refresh 1.6",
             "tagline": "Get Insights about the People You Meet",
@@ -126,9 +108,9 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://reederapp.com/mac/",
             "name": "Reeder 2 For Mac",
             "tagline": "RSS reader",
@@ -141,6 +123,24 @@
             "twitter": "TylerH",
             "name": "Tyler",
             "tagline": "Writer"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "4",
+            "link": "http://goproof.io/!6AdnLelwg",
+            "name": "Proof",
+            "tagline": "Get design feedback directly on your design!",
+            "ph_url": "posts/proof-2",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "olofster",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/olofster.jpg",
+            "twitter": "olofster",
+            "name": "Olof Mathé",
+            "tagline": "PM"
         }
     },
     {
@@ -183,42 +183,6 @@
         "id": 11,
         "post": {
             "votes": "2",
-            "link": "http://www.datafox.co/",
-            "name": "DataFox",
-            "tagline": "Harness big data  to make smarter decisions.",
-            "ph_url": "posts/datafox",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "jtriest",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jtriest.jpg",
-            "twitter": "jtriest",
-            "name": "Jonathon Triest",
-            "tagline": "Ludlow Ventures"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "1",
-            "link": "http://startupbackoffice.com",
-            "name": "Startup Back Office",
-            "tagline": "Matching startups with smart back office providers",
-            "ph_url": "posts/startup-back-office",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "TheNickFrost",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TheNickFrost.jpg",
-            "twitter": "TheNickFrost",
-            "name": "Nick Frost",
-            "tagline": "Founder, StartupList"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "1",
             "link": "http://theboyfriendlog.com",
             "name": "The Boyfriend Log",
             "tagline": "The daily app that keeps track of your love life.",
@@ -234,13 +198,49 @@
         }
     },
     {
-        "id": 14,
+        "id": 12,
+        "post": {
+            "votes": "2",
+            "link": "http://www.datafox.co/",
+            "name": "DataFox",
+            "tagline": "Harness big data  to make smarter decisions.",
+            "ph_url": "posts/datafox",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jtriest",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jtriest.jpg",
+            "twitter": "jtriest",
+            "name": "Jonathon Triest",
+            "tagline": "Ludlow Ventures"
+        }
+    },
+    {
+        "id": 13,
         "post": {
             "votes": "1",
             "link": "http://www.jobkaster.com/",
             "name": "JobKaster",
             "tagline": "Location-based job search",
             "ph_url": "posts/jobkaster",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "TheNickFrost",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TheNickFrost.jpg",
+            "twitter": "TheNickFrost",
+            "name": "Nick Frost",
+            "tagline": "Founder, StartupList"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "1",
+            "link": "http://startupbackoffice.com",
+            "name": "Startup Back Office",
+            "tagline": "Matching startups with smart back office providers",
+            "ph_url": "posts/startup-back-office",
             "comments": "View details"
         },
         "user": {
