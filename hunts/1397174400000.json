@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "2",
+            "link": "https://geckoboard.com",
+            "name": "Geckoboard",
+            "tagline": "Monitor the vital signs of your business",
+            "ph_url": "posts/geckoboard",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nickschwab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickschwab.jpg",
+            "twitter": "nickschwab",
+            "name": "Nick Schwab",
+            "tagline": "Web Developer, Wisely Inc."
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "1",
             "link": "http://www.domaintower.com",
             "name": "Domain Tower",
@@ -69,24 +87,6 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "1",
-            "link": "https://geckoboard.com",
-            "name": "Geckoboard",
-            "tagline": "Monitor the vital signs of your business",
-            "ph_url": "posts/geckoboard",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "nickschwab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nickschwab.jpg",
-            "twitter": "nickschwab",
-            "name": "Nick Schwab",
-            "tagline": "Web Developer, Wisely Inc."
         }
     }
 ]
