@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "35",
+            "votes": "36",
             "link": "http://bohemiancoding.com/sketch/",
             "name": "Sketch 3",
             "tagline": "Professional digital design for Mac.",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "https://www.piinpoint.com/",
             "name": "PiinPoint",
             "tagline": "Location analytics for small businesses",
@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "8",
-            "link": "https://www.kidandcoe.com/",
-            "name": "Kid &amp; Coe",
-            "tagline": "Airbnb for Families",
-            "ph_url": "posts/kid-coe",
-            "comments": "7"
-        },
-        "user": {
-            "id": "daveambrose",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
-            "twitter": "daveambrose",
-            "name": "Dave Ambrose",
-            "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "8",
             "link": "http://www.riyarchy.com/intro",
             "name": "Riyarchy",
             "tagline": "Collaborative Argument Tree for Significant Debates",
@@ -72,25 +54,25 @@
         }
     },
     {
-        "id": 5,
+        "id": 4,
         "post": {
-            "votes": "7",
-            "link": "https://summalist.com/",
-            "name": "SummaList",
-            "tagline": "We summarize all the best tech &amp; startup newsletters.",
-            "ph_url": "posts/summalist",
-            "comments": "3"
+            "votes": "8",
+            "link": "https://www.kidandcoe.com/",
+            "name": "Kid &amp; Coe",
+            "tagline": "Airbnb for Families",
+            "ph_url": "posts/kid-coe",
+            "comments": "8"
         },
         "user": {
-            "id": "NeerajT4",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/NeerajT4.jpg",
-            "twitter": "NeerajT4",
-            "name": "Neeraj Thakur",
-            "tagline": "co-founder, Appska"
+            "id": "daveambrose",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
+            "twitter": "daveambrose",
+            "name": "Dave Ambrose",
+            "tagline": "Venture Investor"
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "post": {
             "votes": "7",
             "link": "http://www.kula-tech.com/",
@@ -108,25 +90,25 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "post": {
-            "votes": "6",
-            "link": "https://pushpickup.com/",
-            "name": "PushPickup",
-            "tagline": "Better than email for organizing pickup sports.",
-            "ph_url": "posts/pushpickup",
-            "comments": "1 comment"
+            "votes": "7",
+            "link": "https://summalist.com/",
+            "name": "SummaList",
+            "tagline": "We summarize all the best tech &amp; startup newsletters.",
+            "ph_url": "posts/summalist",
+            "comments": "3"
         },
         "user": {
-            "id": "ellenchisa",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ellenchisa.jpg",
-            "twitter": "ellenchisa",
-            "name": "Ellen Chisa",
-            "tagline": "Product Manager, Kickstarter"
+            "id": "NeerajT4",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/NeerajT4.jpg",
+            "twitter": "NeerajT4",
+            "name": "Neeraj Thakur",
+            "tagline": "co-founder, Appska"
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "post": {
             "votes": "6",
             "link": "https://www.bitballoon.com",
@@ -144,7 +126,43 @@
         }
     },
     {
+        "id": 8,
+        "post": {
+            "votes": "6",
+            "link": "https://pushpickup.com/",
+            "name": "PushPickup",
+            "tagline": "Better than email for organizing pickup sports.",
+            "ph_url": "posts/pushpickup",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ellenchisa",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ellenchisa.jpg",
+            "twitter": "ellenchisa",
+            "name": "Ellen Chisa",
+            "tagline": "Product Manager, Kickstarter"
+        }
+    },
+    {
         "id": 9,
+        "post": {
+            "votes": "6",
+            "link": "http://updatemyvc.com/",
+            "name": "Update My VC",
+            "tagline": "A modern guide to keeping in touch with your investors.",
+            "ph_url": "posts/update-my-vc",
+            "comments": "4"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 10,
         "post": {
             "votes": "5",
             "link": "http://gifgif.media.mit.edu/",
@@ -159,24 +177,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "5",
-            "link": "http://updatemyvc.com/",
-            "name": "Update My VC",
-            "tagline": "A modern guide to keeping in touch with your investors.",
-            "ph_url": "posts/update-my-vc",
-            "comments": "4"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -277,7 +277,7 @@
             "name": "Entrain",
             "tagline": "Solves Jetlag:Adjust faster to new time zones and schedules.",
             "ph_url": "posts/entrain",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "kwdinc",
