@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "20",
+            "link": "http://tamper.io/morning/",
+            "name": "Morning ",
+            "tagline": "Start your morning off right with a beautiful dashboard",
+            "ph_url": "posts/morning",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ryandawidjan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryandawidjan.jpg",
+            "twitter": "ryandawidjan",
+            "name": "Ryan",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "19",
             "link": "http://reederapp.com/mac/",
             "name": "Reeder 2 For Mac",
@@ -72,27 +90,9 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "19",
-            "link": "http://tamper.io/morning/",
-            "name": "Morning ",
-            "tagline": "Start your morning off right with a beautiful dashboard",
-            "ph_url": "posts/morning",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "ryandawidjan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryandawidjan.jpg",
-            "twitter": "ryandawidjan",
-            "name": "Ryan",
-            "tagline": ""
-        }
-    },
-    {
         "id": 6,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "http://www.domaintower.com",
             "name": "Domain Tower",
             "tagline": "All your domain names in one place",
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "https://poetica.com",
             "name": "Poetica",
             "tagline": "Intuitive feedback in Gmail, Wordpress and more",
