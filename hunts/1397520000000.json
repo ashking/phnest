@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "3",
+            "link": "http://theletterapp.com/",
+            "name": "Let.ter",
+            "tagline": "The tiny email app just for writing emails",
+            "ph_url": "posts/let-ter",
+            "comments": "3"
+        },
+        "user": {
+            "id": "maiab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
+            "twitter": "maiab",
+            "name": "Maia Bittner",
+            "tagline": "CTO, RocksBox"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "2",
             "link": "https://www.postmaster.io/",
             "name": "Postmaster",
@@ -177,24 +195,6 @@
             "twitter": "alwaysunday",
             "name": "Andy Keil",
             "tagline": "Product at Electrik.co"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "2",
-            "link": "http://theletterapp.com/",
-            "name": "Let.ter",
-            "tagline": "The tiny email app just for writing emails",
-            "ph_url": "posts/let-ter",
-            "comments": "2"
-        },
-        "user": {
-            "id": "maiab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
-            "twitter": "maiab",
-            "name": "Maia Bittner",
-            "tagline": "CTO, RocksBox"
         }
     },
     {
