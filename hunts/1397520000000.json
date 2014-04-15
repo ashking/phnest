@@ -93,6 +93,24 @@
         "id": 6,
         "post": {
             "votes": "5",
+            "link": "https://www.beepi.com/",
+            "name": "Beepi",
+            "tagline": "next gen used car marketplace",
+            "ph_url": "posts/beepi",
+            "comments": "2"
+        },
+        "user": {
+            "id": "jamiedavidson",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jamiedavidson.jpg",
+            "twitter": "jamiedavidson",
+            "name": "Jamie Davidson",
+            "tagline": "Senior Associate, Redpoint"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "5",
             "link": "http://www.zoute.me/",
             "name": "Zoute",
             "tagline": "Real time departure information.Never miss your bus/train.  ",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "4",
             "link": "http://getpostman.com/",
@@ -126,27 +144,9 @@
         }
     },
     {
-        "id": 8,
-        "post": {
-            "votes": "4",
-            "link": "https://www.beepi.com/",
-            "name": "Beepi",
-            "tagline": "next gen used car marketplace",
-            "ph_url": "posts/beepi",
-            "comments": "2"
-        },
-        "user": {
-            "id": "jamiedavidson",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jamiedavidson.jpg",
-            "twitter": "jamiedavidson",
-            "name": "Jamie Davidson",
-            "tagline": "Senior Associate, Redpoint"
-        }
-    },
-    {
         "id": 9,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "http://skilljar.com",
             "name": "Skilljar",
             "tagline": "Teach online courses directly from your website",
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "2",
-            "link": "http://www.swell.am/",
-            "name": "Swell",
-            "tagline": "News Radio Rebooted",
-            "ph_url": "posts/swell",
-            "comments": "2"
-        },
-        "user": {
-            "id": "maiab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
-            "twitter": "maiab",
-            "name": "Maia Bittner",
-            "tagline": "CTO, RocksBox"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "2",
             "link": "https://www.postmaster.io/",
             "name": "Postmaster",
             "tagline": "A platform for shipping lots of packages.",
@@ -198,13 +180,31 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://theletterapp.com/",
             "name": "Let.ter",
             "tagline": "The tiny email app just for writing emails",
             "ph_url": "posts/let-ter",
+            "comments": "2"
+        },
+        "user": {
+            "id": "maiab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
+            "twitter": "maiab",
+            "name": "Maia Bittner",
+            "tagline": "CTO, RocksBox"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "2",
+            "link": "http://www.swell.am/",
+            "name": "Swell",
+            "tagline": "News Radio Rebooted",
+            "ph_url": "posts/swell",
             "comments": "2"
         },
         "user": {
