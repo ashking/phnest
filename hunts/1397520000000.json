@@ -165,6 +165,24 @@
         "id": 10,
         "post": {
             "votes": "5",
+            "link": "http://www.swell.am/",
+            "name": "Swell",
+            "tagline": "News Radio Rebooted",
+            "ph_url": "posts/swell",
+            "comments": "3"
+        },
+        "user": {
+            "id": "maiab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
+            "twitter": "maiab",
+            "name": "Maia Bittner",
+            "tagline": "CTO, RocksBox"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "5",
             "link": "http://www.zoute.me/",
             "name": "Zoute",
             "tagline": "Real time departure information.Never miss your bus/train.  ",
@@ -180,31 +198,13 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "4",
             "link": "http://theletterapp.com/",
             "name": "Let.ter",
             "tagline": "The tiny email app just for writing emails",
             "ph_url": "posts/let-ter",
-            "comments": "3"
-        },
-        "user": {
-            "id": "maiab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
-            "twitter": "maiab",
-            "name": "Maia Bittner",
-            "tagline": "CTO, RocksBox"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "4",
-            "link": "http://www.swell.am/",
-            "name": "Swell",
-            "tagline": "News Radio Rebooted",
-            "ph_url": "posts/swell",
             "comments": "3"
         },
         "user": {
