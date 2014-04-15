@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "2",
+            "link": "http://www.survios.com",
+            "name": "Survios",
+            "tagline": "Oculus meets Wii meets Kinect. On Steroids.",
+            "ph_url": "posts/survios",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founder, Vungle &amp; Shyp"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "1",
             "link": "http://www.voicecandy.com/home",
             "name": "Voice Candy",
@@ -15,24 +33,6 @@
             "twitter": "helencrozier",
             "name": "Helen Crozier",
             "tagline": "Keyboard Karma"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "1",
-            "link": "http://www.survios.com",
-            "name": "Survios",
-            "tagline": "Oculus meets Wii meets Kinect. On Steroids.",
-            "ph_url": "posts/survios",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founder, Vungle &amp; Shyp"
         }
     }
 ]
