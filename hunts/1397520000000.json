@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "25",
+            "votes": "28",
             "link": "http://blog.producthunt.co/post/82790926503/product-hunt-radio-episode-1",
             "name": "Product Hunt Radio",
             "tagline": "A podcast about products (surprise!)",
@@ -75,24 +75,6 @@
         "id": 5,
         "post": {
             "votes": "4",
-            "link": "https://itunes.apple.com/us/app/relateiq/id608115770",
-            "name": "RelateIQ for iOS 2.0",
-            "tagline": "Automate, simplify, &amp; deepen your professional relationships",
-            "ph_url": "posts/relateiq-for-iphone",
-            "comments": "4"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "3",
             "link": "http://www.zoute.me/",
             "name": "Zoute",
             "tagline": "Real time departure information.Never miss your bus/train.  ",
@@ -108,7 +90,43 @@
         }
     },
     {
+        "id": 6,
+        "post": {
+            "votes": "4",
+            "link": "https://itunes.apple.com/us/app/relateiq/id608115770",
+            "name": "RelateIQ for iOS 2.0",
+            "tagline": "Automate, simplify, &amp; deepen your professional relationships",
+            "ph_url": "posts/relateiq-for-iphone",
+            "comments": "4"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
         "id": 7,
+        "post": {
+            "votes": "2",
+            "link": "https://www.beepi.com/",
+            "name": "Beepi",
+            "tagline": "next gen used car marketplace",
+            "ph_url": "posts/beepi",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jamiedavidson",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jamiedavidson.jpg",
+            "twitter": "jamiedavidson",
+            "name": "Jamie Davidson",
+            "tagline": "Senior Associate, Redpoint"
+        }
+    },
+    {
+        "id": 8,
         "post": {
             "votes": "2",
             "link": "http://getpostman.com/",
@@ -123,24 +141,6 @@
             "twitter": "geneles",
             "name": "Michael Geneles",
             "tagline": "Co-founder // Pitchbox"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "1",
-            "link": "http://www.frontflip.com/",
-            "name": "Front Flip",
-            "tagline": "Win deals from small businesses each day",
-            "ph_url": "posts/front-flip",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "daveambrose",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
-            "twitter": "daveambrose",
-            "name": "Dave Ambrose",
-            "tagline": "Venture Investor"
         }
     },
     {
@@ -165,18 +165,18 @@
         "id": 10,
         "post": {
             "votes": "1",
-            "link": "https://www.beepi.com/",
-            "name": "Beepi",
-            "tagline": "next gen used car marketplace",
-            "ph_url": "posts/beepi",
-            "comments": "View details"
+            "link": "http://www.frontflip.com/",
+            "name": "Front Flip",
+            "tagline": "Win deals from small businesses each day",
+            "ph_url": "posts/front-flip",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "jamiedavidson",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jamiedavidson.jpg",
-            "twitter": "jamiedavidson",
-            "name": "Jamie Davidson",
-            "tagline": "Senior Associate, Redpoint"
+            "id": "daveambrose",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
+            "twitter": "daveambrose",
+            "name": "Dave Ambrose",
+            "tagline": "Venture Investor"
         }
     }
 ]
