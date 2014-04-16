@@ -7,7 +7,7 @@
             "name": "BRANDiD",
             "tagline": "Personal Men Fashion E-Commerce",
             "ph_url": "posts/brandid",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "nikitakorotaev",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "10",
+            "link": "http://www.git-tower.com/learn",
+            "name": "Learn Git",
+            "tagline": "Learning platform for version control with Git",
+            "ph_url": "posts/learn-git",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "pointnova",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/pointnova.jpg",
+            "twitter": "pointnova",
+            "name": "Julian Rothkamp",
+            "tagline": "CMO, fournova"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "9",
             "link": "http://www.bannerflow.com",
             "name": "BannerFlow",
@@ -69,24 +87,6 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "9",
-            "link": "http://www.git-tower.com/learn",
-            "name": "Learn Git",
-            "tagline": "Learning platform for version control with Git",
-            "ph_url": "posts/learn-git",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "pointnova",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/pointnova.jpg",
-            "twitter": "pointnova",
-            "name": "Julian Rothkamp",
-            "tagline": "CMO, fournova"
         }
     },
     {
