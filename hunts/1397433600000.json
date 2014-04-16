@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "20",
-            "link": "http://updatemyvc.com/",
-            "name": "Update My VC",
-            "tagline": "A modern guide to keeping in touch with your investors.",
-            "ph_url": "posts/update-my-vc",
-            "comments": "13"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "19",
             "link": "https://summalist.com/",
             "name": "SummaList",
             "tagline": "We summarize all the best tech &amp; startup newsletters.",
@@ -69,6 +51,24 @@
             "twitter": "NeerajT4",
             "name": "Neeraj Thakur",
             "tagline": "co-founder, Appska"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "20",
+            "link": "http://updatemyvc.com/",
+            "name": "Update My VC",
+            "tagline": "A modern guide to keeping in touch with your investors.",
+            "ph_url": "posts/update-my-vc",
+            "comments": "13"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
         }
     },
     {
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "10",
+            "link": "http://cupsapp.com/",
+            "name": "Cups",
+            "tagline": "Subscription for Coffee Shops (NYC)",
+            "ph_url": "posts/cups",
+            "comments": "5"
+        },
+        "user": {
+            "id": "msg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
+            "twitter": "msg",
+            "name": "Michael S Galpert",
+            "tagline": "Founder of Superhuman"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "9",
             "link": "https://www.ethereum.org/",
             "name": "Ethereum",
@@ -159,24 +177,6 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "9",
-            "link": "http://cupsapp.com/",
-            "name": "Cups",
-            "tagline": "Subscription for Coffee Shops (NYC)",
-            "ph_url": "posts/cups",
-            "comments": "5"
-        },
-        "user": {
-            "id": "msg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
-            "twitter": "msg",
-            "name": "Michael S Galpert",
-            "tagline": "Founder of Superhuman"
         }
     },
     {
@@ -254,7 +254,7 @@
     {
         "id": 15,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "https://stormpath.com/",
             "name": "Stormpath",
             "tagline": "User Management Infrastructure",
