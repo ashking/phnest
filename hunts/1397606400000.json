@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "http://www.bannerflow.com",
             "name": "BannerFlow",
             "tagline": "Manage your HTML5 banner ads",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "6",
+            "link": "http://www.getdrawer.com/",
+            "name": "Drawer",
+            "tagline": "Personal Travel Recommendations",
+            "ph_url": "posts/drawer",
+            "comments": "2"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "4",
             "link": "https://respond.ly/",
             "name": "Respondly",
@@ -69,24 +87,6 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "4",
-            "link": "http://www.getdrawer.com/",
-            "name": "Drawer",
-            "tagline": "Personal Travel Recommendations",
-            "ph_url": "posts/drawer",
-            "comments": "2"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
         }
     },
     {
