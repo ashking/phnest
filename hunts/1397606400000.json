@@ -38,19 +38,19 @@
     {
         "id": 3,
         "post": {
-            "votes": "2",
-            "link": "http://humanapi.co/",
-            "name": "Human API",
-            "tagline": "Paypal for health data",
-            "ph_url": "posts/human-api",
+            "votes": "3",
+            "link": "http://www.git-tower.com/learn",
+            "name": "Learn Git",
+            "tagline": "Learning platform for version control with Git",
+            "ph_url": "posts/learn-git",
             "comments": "1 comment"
         },
         "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founder, Vungle &amp; Shyp"
+            "id": "pointnova",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/pointnova.jpg",
+            "twitter": "pointnova",
+            "name": "Julian Rothkamp",
+            "tagline": "CMO, fournova"
         }
     },
     {
@@ -75,22 +75,40 @@
         "id": 5,
         "post": {
             "votes": "2",
-            "link": "http://www.git-tower.com/learn",
-            "name": "Learn Git",
-            "tagline": "Learning platform for version control with Git",
-            "ph_url": "posts/learn-git",
-            "comments": "1 comment"
+            "link": "http://www.getdrawer.com/",
+            "name": "Drawer",
+            "tagline": "Personal Travel Recommendations",
+            "ph_url": "posts/drawer",
+            "comments": "View details"
         },
         "user": {
-            "id": "pointnova",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/pointnova.jpg",
-            "twitter": "pointnova",
-            "name": "Julian Rothkamp",
-            "tagline": "CMO, fournova"
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
         }
     },
     {
         "id": 6,
+        "post": {
+            "votes": "2",
+            "link": "http://humanapi.co/",
+            "name": "Human API",
+            "tagline": "Paypal for health data",
+            "ph_url": "posts/human-api",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founder, Vungle &amp; Shyp"
+        }
+    },
+    {
+        "id": 7,
         "post": {
             "votes": "1",
             "link": "http://www.browserstack.com/",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "1",
             "link": "https://www.slice.com/welcome#apps",
@@ -123,24 +141,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "1",
-            "link": "http://www.getdrawer.com/",
-            "name": "Drawer",
-            "tagline": "Personal Travel Recommendations",
-            "ph_url": "posts/drawer",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
         }
     }
 ]
