@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "10",
-            "link": "http://www.zestyapp.com/",
-            "name": "Zesty",
-            "tagline": "Healthy food takeout and delivery app",
-            "ph_url": "posts/zesty",
-            "comments": "3"
-        },
-        "user": {
-            "id": "_DanFriedman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_DanFriedman.jpg",
-            "twitter": "_DanFriedman",
-            "name": "Dan Friedman",
-            "tagline": "Director of Business Development at Watchsend"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "10",
             "link": "https://itunes.apple.com/us/app/codecademy-hour-of-code/id762950096?ls=1&mt=8",
             "name": "Codecademy App",
             "tagline": "Learn to code on  your iPhone",
@@ -69,6 +51,24 @@
             "twitter": "nbashaw",
             "name": "Nathan Bashaw",
             "tagline": "Product Manager at General Assembly"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "10",
+            "link": "http://www.zestyapp.com/",
+            "name": "Zesty",
+            "tagline": "Healthy food takeout and delivery app",
+            "ph_url": "posts/zesty",
+            "comments": "3"
+        },
+        "user": {
+            "id": "_DanFriedman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_DanFriedman.jpg",
+            "twitter": "_DanFriedman",
+            "name": "Dan Friedman",
+            "tagline": "Director of Business Development at Watchsend"
         }
     },
     {
@@ -201,24 +201,6 @@
         "id": 12,
         "post": {
             "votes": "1",
-            "link": "http://render.ly/",
-            "name": "Renderly",
-            "tagline": "Photoshop plugin that auto-exports design changes",
-            "ph_url": "posts/renderly",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "eric_seufert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/eric_seufert.jpg",
-            "twitter": "eric_seufert",
-            "name": "Eric Seufert",
-            "tagline": "Editor, Mobile Dev Memo"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "1",
             "link": "http://www.cozy-industries.com/magcozy.html",
             "name": "MagCozy",
             "tagline": "a leash for your MagSafe to MagSafe 2 Converter",
@@ -231,6 +213,24 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "1",
+            "link": "http://render.ly/",
+            "name": "Renderly",
+            "tagline": "Photoshop plugin that auto-exports design changes",
+            "ph_url": "posts/renderly",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "eric_seufert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/eric_seufert.jpg",
+            "twitter": "eric_seufert",
+            "name": "Eric Seufert",
+            "tagline": "Editor, Mobile Dev Memo"
         }
     }
 ]
