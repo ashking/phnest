@@ -21,24 +21,6 @@
         "id": 2,
         "post": {
             "votes": "22",
-            "link": "https://usefedora.com",
-            "name": "Fedora",
-            "tagline": "Shopify for Education. Build an online school on your site.",
-            "ph_url": "posts/fedora",
-            "comments": "5"
-        },
-        "user": {
-            "id": "ankurnagpal",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ankurnagpal.jpg",
-            "twitter": "ankurnagpal",
-            "name": "Ankur Nagpal",
-            "tagline": "Founder, Fedora"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "21",
             "link": "https://www.betterment.com/",
             "name": "Betterment",
             "tagline": "We manage your investments so you don&#39;t have to.",
@@ -54,9 +36,27 @@
         }
     },
     {
+        "id": 3,
+        "post": {
+            "votes": "22",
+            "link": "https://usefedora.com",
+            "name": "Fedora",
+            "tagline": "Shopify for Education. Build an online school on your site.",
+            "ph_url": "posts/fedora",
+            "comments": "5"
+        },
+        "user": {
+            "id": "ankurnagpal",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ankurnagpal.jpg",
+            "twitter": "ankurnagpal",
+            "name": "Ankur Nagpal",
+            "tagline": "Founder, Fedora"
+        }
+    },
+    {
         "id": 4,
         "post": {
-            "votes": "14",
+            "votes": "15",
             "link": "http://flockwithme.com/",
             "name": "Flock",
             "tagline": "A messaging app for making plans",
