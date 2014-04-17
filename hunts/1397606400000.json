@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "24",
+            "link": "https://kivo.com/",
+            "name": "Kivo",
+            "tagline": "The easiest way to get feedback on your presentations",
+            "ph_url": "posts/kivo",
+            "comments": "3"
+        },
+        "user": {
+            "id": "ChrisFinneral",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ChrisFinneral.jpg",
+            "twitter": "ChrisFinneral",
+            "name": "Chris Finneral",
+            "tagline": "Founder, sketchdeck"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "23",
             "link": "https://respond.ly/",
             "name": "Respondly",
@@ -87,24 +105,6 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "22",
-            "link": "https://kivo.com/",
-            "name": "Kivo",
-            "tagline": "The easiest way to get feedback on your presentations",
-            "ph_url": "posts/kivo",
-            "comments": "3"
-        },
-        "user": {
-            "id": "ChrisFinneral",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ChrisFinneral.jpg",
-            "twitter": "ChrisFinneral",
-            "name": "Chris Finneral",
-            "tagline": "Founder, sketchdeck"
         }
     },
     {
@@ -259,7 +259,7 @@
             "name": "Superb",
             "tagline": "&#39;Hot or Not&#39; for Local Places ",
             "ph_url": "posts/superb",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "andrewpyott",
