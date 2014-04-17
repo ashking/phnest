@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "28",
+            "link": "https://www.betterment.com/",
+            "name": "Betterment",
+            "tagline": "We manage your investments so you don&#39;t have to.",
+            "ph_url": "posts/betterment",
+            "comments": "7"
+        },
+        "user": {
+            "id": "adamsigel",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamsigel.jpg",
+            "twitter": "adamsigel",
+            "name": "Adam Sigel",
+            "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "27",
             "link": "https://usefedora.com",
             "name": "Fedora",
@@ -33,24 +51,6 @@
             "twitter": "ankurnagpal",
             "name": "Ankur Nagpal",
             "tagline": "Founder, Fedora"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "27",
-            "link": "https://www.betterment.com/",
-            "name": "Betterment",
-            "tagline": "We manage your investments so you don&#39;t have to.",
-            "ph_url": "posts/betterment",
-            "comments": "7"
-        },
-        "user": {
-            "id": "adamsigel",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamsigel.jpg",
-            "twitter": "adamsigel",
-            "name": "Adam Sigel",
-            "tagline": "Product Manager, Aereo"
         }
     },
     {
@@ -111,24 +111,6 @@
         "id": 7,
         "post": {
             "votes": "14",
-            "link": "https://www.beepi.com/",
-            "name": "Beepi",
-            "tagline": "next gen used car marketplace",
-            "ph_url": "posts/beepi",
-            "comments": "3"
-        },
-        "user": {
-            "id": "jamiedavidson",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jamiedavidson.jpg",
-            "twitter": "jamiedavidson",
-            "name": "Jamie Davidson",
-            "tagline": "Senior Associate, Redpoint"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "13",
             "link": "https://itunes.apple.com/us/app/relateiq/id608115770",
             "name": "RelateIQ 2.0 for iOS",
             "tagline": "Automate, simplify, &amp; deepen your professional relationships",
@@ -141,6 +123,24 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "14",
+            "link": "https://www.beepi.com/",
+            "name": "Beepi",
+            "tagline": "next gen used car marketplace",
+            "ph_url": "posts/beepi",
+            "comments": "3"
+        },
+        "user": {
+            "id": "jamiedavidson",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jamiedavidson.jpg",
+            "twitter": "jamiedavidson",
+            "name": "Jamie Davidson",
+            "tagline": "Senior Associate, Redpoint"
         }
     },
     {
