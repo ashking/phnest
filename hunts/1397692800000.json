@@ -327,18 +327,18 @@
         "id": 19,
         "post": {
             "votes": "3",
-            "link": "http://indico.io/",
-            "name": "Indico",
-            "tagline": "Machine learning without the PhD",
-            "ph_url": "posts/indico",
+            "link": "https://chrome.google.com/webstore/detail/kill-news-feed/hjobfcedfgohjkaieocljfcppjbkglfd?hl=en",
+            "name": "Kill News Feed",
+            "tagline": "Kill your Facebook news feed",
+            "ph_url": "posts/kill-news-feed",
             "comments": "View details"
         },
         "user": {
-            "id": "badboyboyce",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/badboyboyce.jpg",
-            "twitter": "badboyboyce",
-            "name": "Peter Boyce",
-            "tagline": "Rough Draft Ventures"
+            "id": "nayafia",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nayafia.jpg",
+            "twitter": "nayafia",
+            "name": "Nadia Eghbal",
+            "tagline": "Cofounder, Feast"
         }
     },
     {
@@ -381,22 +381,40 @@
         "id": 22,
         "post": {
             "votes": "3",
-            "link": "https://chrome.google.com/webstore/detail/kill-news-feed/hjobfcedfgohjkaieocljfcppjbkglfd?hl=en",
-            "name": "Kill News Feed",
-            "tagline": "Kill your Facebook news feed",
-            "ph_url": "posts/kill-news-feed",
+            "link": "http://indico.io/",
+            "name": "Indico",
+            "tagline": "Machine learning without the PhD",
+            "ph_url": "posts/indico",
             "comments": "View details"
         },
         "user": {
-            "id": "nayafia",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nayafia.jpg",
-            "twitter": "nayafia",
-            "name": "Nadia Eghbal",
-            "tagline": "Cofounder, Feast"
+            "id": "badboyboyce",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/badboyboyce.jpg",
+            "twitter": "badboyboyce",
+            "name": "Peter Boyce",
+            "tagline": "Rough Draft Ventures"
         }
     },
     {
         "id": 23,
+        "post": {
+            "votes": "2",
+            "link": "http://newsroom.fb.com/news/2014/04/introducing-a-new-optional-feature-called-nearby-friends/",
+            "name": "FB Nearby Friends",
+            "tagline": "Discover which Facebook friends are nearby or on the go",
+            "ph_url": "posts/fb-nearby-friends",
+            "comments": "2"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 24,
         "post": {
             "votes": "2",
             "link": "http://fraym.org/",
@@ -414,7 +432,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 25,
         "post": {
             "votes": "1",
             "link": "http://www.table8.us/",
@@ -429,24 +447,6 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
-        }
-    },
-    {
-        "id": 25,
-        "post": {
-            "votes": "1",
-            "link": "http://newsroom.fb.com/news/2014/04/introducing-a-new-optional-feature-called-nearby-friends/",
-            "name": "FB Nearby Friends",
-            "tagline": "Discover which Facebook friends are nearby or on the go",
-            "ph_url": "posts/fb-nearby-friends",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     }
 ]
