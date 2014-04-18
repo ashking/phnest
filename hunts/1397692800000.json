@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "24",
+            "link": "http://breezeapp.com/",
+            "name": "Breeze",
+            "tagline": "Breeze highlights your daily routines and keeps you aware.",
+            "ph_url": "posts/breeze",
+            "comments": "7"
+        },
+        "user": {
+            "id": "arjunblj",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/arjunblj.jpg",
+            "twitter": "arjunblj",
+            "name": "Arjun Balaji",
+            "tagline": "Northeastern University, student"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "23",
             "link": "http://screenshotter.net/producthunt/",
             "name": "Screenshotter PHBeta",
@@ -51,24 +69,6 @@
             "twitter": "mulligan",
             "name": "Brenden Mulligan",
             "tagline": "Founder, Cluster"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "23",
-            "link": "http://breezeapp.com/",
-            "name": "Breeze",
-            "tagline": "Breeze highlights your daily routines and keeps you aware.",
-            "ph_url": "posts/breeze",
-            "comments": "7"
-        },
-        "user": {
-            "id": "arjunblj",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/arjunblj.jpg",
-            "twitter": "arjunblj",
-            "name": "Arjun Balaji",
-            "tagline": "Northeastern University, student"
         }
     },
     {
@@ -254,7 +254,7 @@
     {
         "id": 15,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://unsplash.com/",
             "name": "Unsplash",
             "tagline": "10 Public Domain Photos Every 10 Days",
