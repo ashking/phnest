@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "http://www.underdog.io",
             "name": "underdog.io",
             "tagline": "Apply to New York City’s top startups in 60 seconds",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "22",
+            "votes": "23",
             "link": "http://zurb.com/triggers",
             "name": "Design Triggers",
             "tagline": "Pull the trigger on product design decisions",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://www.foldingtext.com",
             "name": "FoldingText",
             "tagline": "Plain text productivity for geeks",
@@ -75,24 +75,6 @@
         "id": 5,
         "post": {
             "votes": "8",
-            "link": "https://www.qapital.com",
-            "name": "Qapital",
-            "tagline": "Make saving easy and automatic.",
-            "ph_url": "posts/qapital",
-            "comments": "3"
-        },
-        "user": {
-            "id": "alwaysunday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
-            "twitter": "alwaysunday",
-            "name": "Andy Keil",
-            "tagline": "Product at Electrik.co"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "8",
             "link": "http://seed.jobs",
             "name": "Seed.Jobs",
             "tagline": "Inbound talent marketing",
@@ -108,7 +90,43 @@
         }
     },
     {
+        "id": 6,
+        "post": {
+            "votes": "8",
+            "link": "https://www.qapital.com",
+            "name": "Qapital",
+            "tagline": "Make saving easy and automatic.",
+            "ph_url": "posts/qapital",
+            "comments": "3"
+        },
+        "user": {
+            "id": "alwaysunday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/alwaysunday.jpg",
+            "twitter": "alwaysunday",
+            "name": "Andy Keil",
+            "tagline": "Product at Electrik.co"
+        }
+    },
+    {
         "id": 7,
+        "post": {
+            "votes": "7",
+            "link": "http://spotrocket.co/",
+            "name": "Spot Rocket",
+            "tagline": "free private company rankings",
+            "ph_url": "posts/spot-rocket",
+            "comments": "5"
+        },
+        "user": {
+            "id": "ellenchisa",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ellenchisa.jpg",
+            "twitter": "ellenchisa",
+            "name": "Ellen Chisa",
+            "tagline": "Product Manager, Kickstarter"
+        }
+    },
+    {
+        "id": 8,
         "post": {
             "votes": "7",
             "link": "https://itunes.apple.com/us/app/nextdoor/id640360962?mt=8",
@@ -123,24 +141,6 @@
             "twitter": "nbt",
             "name": "Nikhil Basu Trivedi",
             "tagline": "Associate, Shasta Ventures"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "6",
-            "link": "http://spotrocket.co/",
-            "name": "Spot Rocket",
-            "tagline": "free private company rankings",
-            "ph_url": "posts/spot-rocket",
-            "comments": "5"
-        },
-        "user": {
-            "id": "ellenchisa",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ellenchisa.jpg",
-            "twitter": "ellenchisa",
-            "name": "Ellen Chisa",
-            "tagline": "Product Manager, Kickstarter"
         }
     },
     {
