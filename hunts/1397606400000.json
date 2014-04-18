@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "36",
+            "votes": "37",
             "link": "https://respond.ly/",
             "name": "Respondly",
             "tagline": "Team Inbox for Email &amp; Twitter",
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "21",
+            "votes": "22",
             "link": "http://www.git-tower.com/learn",
             "name": "Learn Git",
             "tagline": "Learning platform for version control with Git",
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "http://humanapi.co/",
             "name": "Human API",
             "tagline": "Paypal for health data",
@@ -165,18 +165,18 @@
         "id": 10,
         "post": {
             "votes": "12",
-            "link": "http://www.bannerflow.com",
-            "name": "BannerFlow",
-            "tagline": "Manage your HTML5 banner ads",
-            "ph_url": "posts/bannerflow",
-            "comments": "1 comment"
+            "link": "http://tracxn.com/",
+            "name": "Tracxn",
+            "tagline": "Bloomberg for startup research",
+            "ph_url": "posts/tracxn",
+            "comments": "6"
         },
         "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
+            "id": "strickland_dan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/strickland_dan.jpg",
+            "twitter": "strickland_dan",
+            "name": "Dan Strickland",
+            "tagline": "Platform/Ops, Bloomberg Beta"
         }
     },
     {
@@ -201,22 +201,40 @@
         "id": 12,
         "post": {
             "votes": "12",
-            "link": "http://tracxn.com/",
-            "name": "Tracxn",
-            "tagline": "Bloomberg for startup research",
-            "ph_url": "posts/tracxn",
-            "comments": "6"
+            "link": "http://www.bannerflow.com",
+            "name": "BannerFlow",
+            "tagline": "Manage your HTML5 banner ads",
+            "ph_url": "posts/bannerflow",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "strickland_dan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/strickland_dan.jpg",
-            "twitter": "strickland_dan",
-            "name": "Dan Strickland",
-            "tagline": "Platform/Ops, Bloomberg Beta"
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
         }
     },
     {
         "id": 13,
+        "post": {
+            "votes": "10",
+            "link": "http://dosuperb.com",
+            "name": "Superb",
+            "tagline": "&#39;Hot or Not&#39; for Local Places ",
+            "ph_url": "posts/superb",
+            "comments": "6"
+        },
+        "user": {
+            "id": "andrewpyott",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
+            "twitter": "andrewpyott",
+            "name": "Andrew Pyott",
+            "tagline": "Creative, Art Director"
+        }
+    },
+    {
+        "id": 14,
         "post": {
             "votes": "10",
             "link": "https://yovigo.com/",
@@ -231,24 +249,6 @@
             "twitter": "EveretteTaylor",
             "name": "Everette Taylor Jr.",
             "tagline": "GrowthHackers.com"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "9",
-            "link": "http://dosuperb.com",
-            "name": "Superb",
-            "tagline": "&#39;Hot or Not&#39; for Local Places ",
-            "ph_url": "posts/superb",
-            "comments": "6"
-        },
-        "user": {
-            "id": "andrewpyott",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
-            "twitter": "andrewpyott",
-            "name": "Andrew Pyott",
-            "tagline": "Creative, Art Director"
         }
     },
     {
@@ -308,6 +308,24 @@
     {
         "id": 18,
         "post": {
+            "votes": "6",
+            "link": "http://www.spainstartupmap.com/",
+            "name": "Spain startup map",
+            "tagline": "The Spanish startup and investor community",
+            "ph_url": "posts/spain-startup-map",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ediggs",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
+            "twitter": "ediggs",
+            "name": "Eze Vidra",
+            "tagline": "Head of Google for Entrepreneurs Europe"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
             "votes": "5",
             "link": "http://trialfire.com/",
             "name": "Trialfire",
@@ -321,24 +339,6 @@
             "twitter": "Max",
             "name": "Max Mullen",
             "tagline": "Co-Founder, Instacart"
-        }
-    },
-    {
-        "id": 19,
-        "post": {
-            "votes": "5",
-            "link": "http://www.spainstartupmap.com/",
-            "name": "Spain startup map",
-            "tagline": "The Spanish startup and investor community",
-            "ph_url": "posts/spain-startup-map",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ediggs",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
-            "twitter": "ediggs",
-            "name": "Eze Vidra",
-            "tagline": "Head of Google for Entrepreneurs Europe"
         }
     },
     {
