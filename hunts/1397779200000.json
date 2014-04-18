@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "3",
+            "link": "http://zurb.com/triggers",
+            "name": "Design Triggers",
+            "tagline": "Pull the trigger on product design decisions",
+            "ph_url": "posts/design-triggers",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "2",
             "link": "http://www.valetanywhere.com/",
             "name": "Valet Anywhere",
@@ -18,7 +36,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
             "votes": "2",
             "link": "http://seed.jobs",
@@ -33,24 +51,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founder, Vungle &amp; Shyp"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "2",
-            "link": "http://zurb.com/triggers",
-            "name": "Design Triggers",
-            "tagline": "Pull the trigger on product design decisions",
-            "ph_url": "posts/design-triggers",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
