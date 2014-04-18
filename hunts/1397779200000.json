@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "http://www.underdog.io",
             "name": "underdog.io",
             "tagline": "Apply to New York City’s top startups in 60 seconds",
             "ph_url": "posts/underdog-io",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "Josh_Goldstein",
@@ -19,6 +19,24 @@
     },
     {
         "id": 2,
+        "post": {
+            "votes": "10",
+            "link": "http://zurb.com/triggers",
+            "name": "Design Triggers",
+            "tagline": "Pull the trigger on product design decisions",
+            "ph_url": "posts/design-triggers",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "9",
             "link": "http://dobundle.com",
@@ -33,24 +51,6 @@
             "twitter": "V4Violetta",
             "name": "Violeta Nedkova",
             "tagline": "Founder, BeTweet"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "9",
-            "link": "http://zurb.com/triggers",
-            "name": "Design Triggers",
-            "tagline": "Pull the trigger on product design decisions",
-            "ph_url": "posts/design-triggers",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
