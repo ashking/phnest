@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "2",
+            "link": "http://www.ocall.org",
+            "name": "Opencall",
+            "tagline": "The world&#39;s 1st open source phone call tracking platform",
+            "ph_url": "posts/opencall",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "scottybowler",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/scottybowler.jpg",
+            "twitter": "scottybowler",
+            "name": "Scott Bowler",
+            "tagline": "Opencall founder"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "1",
             "link": "http://www.citybox.us/",
             "name": "City Box",
@@ -87,24 +105,6 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "http://www.ocall.org",
-            "name": "Opencall",
-            "tagline": "The world&#39;s 1st open source phone call tracking platform",
-            "ph_url": "posts/opencall",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "scottybowler",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/scottybowler.jpg",
-            "twitter": "scottybowler",
-            "name": "Scott Bowler",
-            "tagline": "Opencall founder"
         }
     }
 ]
