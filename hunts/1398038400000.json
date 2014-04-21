@@ -39,6 +39,24 @@
         "id": 3,
         "post": {
             "votes": "9",
+            "link": "http://kangaroo.io",
+            "name": "Kangaroo",
+            "tagline": "Smarter teams through anonymous feedback",
+            "ph_url": "posts/kangaroo",
+            "comments": "3"
+        },
+        "user": {
+            "id": "freemanlafleur",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/freemanlafleur.jpg",
+            "twitter": "freemanlafleur",
+            "name": "Freeman LaFleur",
+            "tagline": "Founder, Zosimus Labs, Discoverist, and Kangaroo.io"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "9",
             "link": "http://www.mowzapp.com/",
             "name": "MOWZ",
             "tagline": "Lawn Mowing On Demand (from the makers of Plowz)",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "8",
             "link": "http://www.lysn.in",
@@ -69,24 +87,6 @@
             "twitter": "GeorgeGayl",
             "name": "George Gayl",
             "tagline": "Marketing Director, Lysn in"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "8",
-            "link": "http://kangaroo.io",
-            "name": "Kangaroo",
-            "tagline": "Smarter teams through anonymous feedback",
-            "ph_url": "posts/kangaroo",
-            "comments": "3"
-        },
-        "user": {
-            "id": "freemanlafleur",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/freemanlafleur.jpg",
-            "twitter": "freemanlafleur",
-            "name": "Freeman LaFleur",
-            "tagline": "Founder, Zosimus Labs, Discoverist, and Kangaroo.io"
         }
     },
     {
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "http://minibrake.com",
             "name": "MiniBrake",
             "tagline": "The remote controlled bike brake for kids",
