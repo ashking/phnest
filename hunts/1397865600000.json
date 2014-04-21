@@ -128,6 +128,24 @@
     {
         "id": 8,
         "post": {
+            "votes": "6",
+            "link": "http://nanoleaf.me/",
+            "name": "Nanoleaf",
+            "tagline": "The world&#39;s most energy efficient light bulb",
+            "ph_url": "posts/nanoleaf",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
             "votes": "5",
             "link": "http://www.citybox.us/",
             "name": "City Box",
@@ -141,24 +159,6 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "5",
-            "link": "http://nanoleaf.me/",
-            "name": "Nanoleaf",
-            "tagline": "The world&#39;s most energy efficient light bulb",
-            "ph_url": "posts/nanoleaf",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "ozguralaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
-            "twitter": "ozguralaz",
-            "name": "Özgür Alaz",
-            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
         }
     },
     {
@@ -200,7 +200,7 @@
     {
         "id": 12,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://getskim.co/",
             "name": "Skim",
             "tagline": "Flipboard for adventures in your city",
