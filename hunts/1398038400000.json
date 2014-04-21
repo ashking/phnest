@@ -39,6 +39,24 @@
         "id": 3,
         "post": {
             "votes": "4",
+            "link": "http://kangaroo.io",
+            "name": "Kangaroo",
+            "tagline": "Smarter teams through anonymous feedback",
+            "ph_url": "posts/kangaroo",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "freemanlafleur",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/freemanlafleur.jpg",
+            "twitter": "freemanlafleur",
+            "name": "Freeman LaFleur",
+            "tagline": "Founder, Zosimus Labs, Discoverist, and Kangaroo.io"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "4",
             "link": "http://www.askem.com",
             "name": "Askem",
             "tagline": "Instantly discover what everybody thinks!",
@@ -54,7 +72,25 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
+        "post": {
+            "votes": "3",
+            "link": "http://www.knoda.com/start",
+            "name": "Knoda",
+            "tagline": "Predict about anything &amp; earn bragging rights",
+            "ph_url": "posts/knoda",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "KyleR",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KyleR.jpg",
+            "twitter": "KyleR",
+            "name": "Kyle Rogers",
+            "tagline": "Co-Founder, Knoda"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "3",
             "link": "http://usabilitytools.com",
@@ -72,7 +108,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 7,
         "post": {
             "votes": "3",
             "link": "http://www.fioapp.co/",
@@ -87,42 +123,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "3",
-            "link": "http://kangaroo.io",
-            "name": "Kangaroo",
-            "tagline": "Smarter teams through anonymous feedback",
-            "ph_url": "posts/kangaroo",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "freemanlafleur",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/freemanlafleur.jpg",
-            "twitter": "freemanlafleur",
-            "name": "Freeman LaFleur",
-            "tagline": "Founder, Zosimus Labs, Discoverist, and Kangaroo.io"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "2",
-            "link": "http://www.knoda.com/start",
-            "name": "Knoda",
-            "tagline": "Predict about anything &amp; earn bragging rights",
-            "ph_url": "posts/knoda",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "KyleR",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KyleR.jpg",
-            "twitter": "KyleR",
-            "name": "Kyle Rogers",
-            "tagline": "Co-Founder, Knoda"
         }
     },
     {
