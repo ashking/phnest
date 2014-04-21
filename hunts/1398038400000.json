@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "http://www.collabinate.com/",
             "name": "Collabinate",
             "tagline": "an API for hosted activity streams",
@@ -195,6 +195,24 @@
             "twitter": "gregoiregilbert",
             "name": "Grégoire Gilbert",
             "tagline": "Partner, Hornli"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "1",
+            "link": "https://huboard.com/",
+            "name": "HuBoard",
+            "tagline": "Instant project management for GitHub repositories",
+            "ph_url": "posts/huboard",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "EthanS_G",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EthanS_G.jpg",
+            "twitter": "EthanS_G",
+            "name": "Ethan S-G",
+            "tagline": "President, The Program"
         }
     }
 ]
