@@ -39,24 +39,6 @@
         "id": 3,
         "post": {
             "votes": "8",
-            "link": "http://www.thehomet.com",
-            "name": "The Home T",
-            "tagline": "Proud of your state? Wear it.",
-            "ph_url": "posts/the-home-t",
-            "comments": "4"
-        },
-        "user": {
-            "id": "petershankman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/petershankman.jpg",
-            "twitter": "petershankman",
-            "name": "Peter Shankman",
-            "tagline": "CEO, The Geek Factory, Inc."
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "8",
             "link": "http://arthena.co/",
             "name": "Arthena",
             "tagline": "AngelList syndicates for Art",
@@ -72,14 +54,32 @@
         }
     },
     {
+        "id": 4,
+        "post": {
+            "votes": "8",
+            "link": "http://www.thehomet.com",
+            "name": "The Home T",
+            "tagline": "Proud of your state? Wear it.",
+            "ph_url": "posts/the-home-t",
+            "comments": "4"
+        },
+        "user": {
+            "id": "petershankman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/petershankman.jpg",
+            "twitter": "petershankman",
+            "name": "Peter Shankman",
+            "tagline": "CEO, The Geek Factory, Inc."
+        }
+    },
+    {
         "id": 5,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "https://www.longaccess.com",
             "name": "Longaccess",
             "tagline": "We will keep your digital archive safe for decades.",
             "ph_url": "posts/longaccess",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "tommoor",
@@ -111,24 +111,6 @@
         "id": 7,
         "post": {
             "votes": "4",
-            "link": "http://www.kinnek.com/",
-            "name": "Kinnek",
-            "tagline": "Marketplace for high-cost purchases by SMBs",
-            "ph_url": "posts/kinnek",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "4",
             "link": "https://tresorit.com/",
             "name": "Tresorit",
             "tagline": "Encrypted cloud storage and sharing",
@@ -141,6 +123,24 @@
             "twitter": "agoldner",
             "name": "Andrew Goldner",
             "tagline": "VP, Global Audience"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "4",
+            "link": "http://www.kinnek.com/",
+            "name": "Kinnek",
+            "tagline": "Marketplace for high-cost purchases by SMBs",
+            "ph_url": "posts/kinnek",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     }
 ]
