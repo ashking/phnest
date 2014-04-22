@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "http://remarkhq.com/",
             "name": "Remark",
             "tagline": "Google Docs for Video Projects",
@@ -61,7 +61,7 @@
             "name": "Casper",
             "tagline": "Better sleep for brighter days (Mattress)",
             "ph_url": "posts/casper",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "ajwaxman",
@@ -97,7 +97,7 @@
             "name": "Union",
             "tagline": "Combine your photos in unique and creative ways",
             "ph_url": "posts/union",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "dtome",
@@ -201,24 +201,6 @@
         "id": 12,
         "post": {
             "votes": "5",
-            "link": "http://www.adbeat.com/",
-            "name": "Adbeat",
-            "tagline": "Instantly uncover your competitions online ad strategy",
-            "ph_url": "posts/adbeat",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "danerobert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/danerobert.jpg",
-            "twitter": "danerobert",
-            "name": "Dana Severson",
-            "tagline": "CEO, Wahooly"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "4",
             "link": "http://www.diveo.co/",
             "name": "Diveo",
             "tagline": "Share beautiful videos with friends and the world",
@@ -231,6 +213,24 @@
             "twitter": "bkrall",
             "name": "Brian Krall",
             "tagline": "Interaction Designer, Duo Consulting"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "5",
+            "link": "http://www.adbeat.com/",
+            "name": "Adbeat",
+            "tagline": "Instantly uncover your competitions online ad strategy",
+            "ph_url": "posts/adbeat",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "danerobert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/danerobert.jpg",
+            "twitter": "danerobert",
+            "name": "Dana Severson",
+            "tagline": "CEO, Wahooly"
         }
     },
     {
@@ -291,6 +291,24 @@
         "id": 17,
         "post": {
             "votes": "2",
+            "link": "http://www.jukedeck.com/",
+            "name": "JukeDeck",
+            "tagline": "Create free, unique soundtracks for your videos",
+            "ph_url": "posts/jukedeck",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "ediggs",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
+            "twitter": "ediggs",
+            "name": "Eze Vidra",
+            "tagline": "Head of Google for Entrepreneurs Europe"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
+            "votes": "2",
             "link": "https://itunes.apple.com/us/app/sat-up/id582725370?mt=8",
             "name": "SAT Up",
             "tagline": "Solve SAT questions anywhere, anytime.",
@@ -303,24 +321,6 @@
             "twitter": "liveink",
             "name": "Kevin Li",
             "tagline": "advisor, msgme"
-        }
-    },
-    {
-        "id": 18,
-        "post": {
-            "votes": "2",
-            "link": "http://www.bootic.net/",
-            "name": "Bootic",
-            "tagline": "Shopify for the South American Market",
-            "ph_url": "posts/bootic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
@@ -363,18 +363,18 @@
         "id": 21,
         "post": {
             "votes": "2",
-            "link": "http://www.jukedeck.com/",
-            "name": "JukeDeck",
-            "tagline": "Create free, unique soundtracks for your videos",
-            "ph_url": "posts/jukedeck",
-            "comments": "View details"
+            "link": "http://www.bootic.net/",
+            "name": "Bootic",
+            "tagline": "Shopify for the South American Market",
+            "ph_url": "posts/bootic",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "ediggs",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
-            "twitter": "ediggs",
-            "name": "Eze Vidra",
-            "tagline": "Head of Google for Entrepreneurs Europe"
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
         }
     }
 ]
