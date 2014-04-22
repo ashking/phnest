@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "14",
+            "votes": "15",
             "link": "http://cookmellow.com/meet-mellow/",
             "name": "Mellow",
             "tagline": "The robotic sous-chef for home cooks",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "5",
+            "link": "https://pintask.me/",
+            "name": "Pintask",
+            "tagline": "Make yourself a perfect task tracker",
+            "ph_url": "posts/pintask",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "DenGorbachev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/DenGorbachev.jpg",
+            "twitter": "DenGorbachev",
+            "name": "Denis Gorbachev",
+            "tagline": "CEO, Pintask"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "3",
             "link": "http://veern.co/",
             "name": "Veern",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "3",
             "link": "http://www.sweetprocess.com/",
@@ -105,24 +123,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "3",
-            "link": "https://pintask.me/",
-            "name": "Pintask",
-            "tagline": "Make yourself a perfect task tracker",
-            "ph_url": "posts/pintask",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "DenGorbachev",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/DenGorbachev.jpg",
-            "twitter": "DenGorbachev",
-            "name": "Denis Gorbachev",
-            "tagline": "CEO, Pintask"
         }
     },
     {
@@ -169,7 +169,7 @@
             "name": "Setlist",
             "tagline": "Discover local shows using artists in your Rdio collection",
             "ph_url": "posts/setlist",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "cpwt",
@@ -205,7 +205,7 @@
             "name": "Remark",
             "tagline": "Google Docs for Video Projects",
             "ph_url": "posts/remark",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "rrhoover",
