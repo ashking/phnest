@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "4",
+            "link": "http://unionapp.co/",
+            "name": "Union",
+            "tagline": "Combine your photos in unique and creative ways",
+            "ph_url": "posts/union",
+            "comments": "2"
+        },
+        "user": {
+            "id": "dtome",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dtome.jpg",
+            "twitter": "dtome",
+            "name": "Darren Tome",
+            "tagline": "Product @ Mashable"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "3",
             "link": "http://veern.co/",
             "name": "Veern",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "3",
             "link": "http://www.sweetprocess.com/",
@@ -51,24 +69,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "3",
-            "link": "http://unionapp.co/",
-            "name": "Union",
-            "tagline": "Combine your photos in unique and creative ways",
-            "ph_url": "posts/union",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "dtome",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dtome.jpg",
-            "twitter": "dtome",
-            "name": "Darren Tome",
-            "tagline": "Product @ Mashable"
         }
     },
     {
