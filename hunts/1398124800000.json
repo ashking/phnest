@@ -3,6 +3,24 @@
         "id": 1,
         "post": {
             "votes": "7",
+            "link": "http://unionapp.co/",
+            "name": "Union",
+            "tagline": "Combine your photos in unique and creative ways",
+            "ph_url": "posts/union",
+            "comments": "3"
+        },
+        "user": {
+            "id": "dtome",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dtome.jpg",
+            "twitter": "dtome",
+            "name": "Darren Tome",
+            "tagline": "Product @ Mashable"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
+            "votes": "7",
             "link": "http://cookmellow.com/meet-mellow/",
             "name": "Mellow",
             "tagline": "The robotic sous-chef for home cooks",
@@ -18,7 +36,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
             "votes": "6",
             "link": "https://www.lytro.com/",
@@ -33,24 +51,6 @@
             "twitter": "nikitakorotaev",
             "name": "Nikita Korotaev",
             "tagline": "Incubating products @ Glocal Partners"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "6",
-            "link": "http://unionapp.co/",
-            "name": "Union",
-            "tagline": "Combine your photos in unique and creative ways",
-            "ph_url": "posts/union",
-            "comments": "3"
-        },
-        "user": {
-            "id": "dtome",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dtome.jpg",
-            "twitter": "dtome",
-            "name": "Darren Tome",
-            "tagline": "Product @ Mashable"
         }
     },
     {
