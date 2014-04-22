@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "8",
+            "link": "http://cookmellow.com/meet-mellow/",
+            "name": "Mellow",
+            "tagline": "The robotic sous-chef for home cooks",
+            "ph_url": "posts/mellow",
+            "comments": "4"
+        },
+        "user": {
+            "id": "zemvpferreira",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/zemvpferreira.jpg",
+            "twitter": "zemvpferreira",
+            "name": "zé pinto ferreira",
+            "tagline": "FNV Labs, Founder"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "7",
             "link": "http://unionapp.co/",
             "name": "Union",
@@ -15,24 +33,6 @@
             "twitter": "dtome",
             "name": "Darren Tome",
             "tagline": "Product @ Mashable"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "7",
-            "link": "http://cookmellow.com/meet-mellow/",
-            "name": "Mellow",
-            "tagline": "The robotic sous-chef for home cooks",
-            "ph_url": "posts/mellow",
-            "comments": "4"
-        },
-        "user": {
-            "id": "zemvpferreira",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/zemvpferreira.jpg",
-            "twitter": "zemvpferreira",
-            "name": "zé pinto ferreira",
-            "tagline": "FNV Labs, Founder"
         }
     },
     {
@@ -61,7 +61,7 @@
             "name": "SweetProcess",
             "tagline": "Systemize Your Processes",
             "ph_url": "posts/sweetprocess",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "charlieirish",
