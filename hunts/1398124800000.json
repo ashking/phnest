@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "http://www.g2crowd.com/",
             "name": "G2Crowd",
             "tagline": "Crowdsourced &#39;Gartner&#39;",
@@ -61,7 +61,7 @@
             "name": "Lytro Illum",
             "tagline": "New Lytro Camera: Light-Field Tech + Real Photography",
             "ph_url": "posts/lytro-illum",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "nikitakorotaev",
@@ -79,7 +79,7 @@
             "name": "Pintask",
             "tagline": "Make yourself a perfect task tracker",
             "ph_url": "posts/pintask",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "DenGorbachev",
@@ -183,6 +183,24 @@
         "id": 11,
         "post": {
             "votes": "1",
+            "link": "http://remarkhq.com/",
+            "name": "Remark",
+            "tagline": "Google Docs for Video Projects",
+            "ph_url": "posts/remark",
+            "comments": "3"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "1",
             "link": "http://gosetlist.com/",
             "name": "Setlist",
             "tagline": "Discover local shows using artists in your Rdio collection",
@@ -198,7 +216,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "post": {
             "votes": "1",
             "link": "http://www.bootic.net/",
@@ -213,24 +231,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "1",
-            "link": "http://remarkhq.com/",
-            "name": "Remark",
-            "tagline": "Google Docs for Video Projects",
-            "ph_url": "posts/remark",
-            "comments": "3"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     }
 ]
