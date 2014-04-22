@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "11",
+            "link": "https://caspersleep.com",
+            "name": "Casper",
+            "tagline": "Better sleep for brighter days (Mattress)",
+            "ph_url": "posts/casper",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ajwaxman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ajwaxman.jpg",
+            "twitter": "ajwaxman",
+            "name": "Adam Waxman",
+            "tagline": "Product, SeatGeek"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "10",
             "link": "http://unionapp.co/",
             "name": "Union",
@@ -51,24 +69,6 @@
             "twitter": "dtome",
             "name": "Darren Tome",
             "tagline": "Product @ Mashable"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "10",
-            "link": "https://caspersleep.com",
-            "name": "Casper",
-            "tagline": "Better sleep for brighter days (Mattress)",
-            "ph_url": "posts/casper",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ajwaxman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ajwaxman.jpg",
-            "twitter": "ajwaxman",
-            "name": "Adam Waxman",
-            "tagline": "Product, SeatGeek"
         }
     },
     {
@@ -182,6 +182,24 @@
     {
         "id": 11,
         "post": {
+            "votes": "4",
+            "link": "http://remarkhq.com/",
+            "name": "Remark",
+            "tagline": "Google Docs for Video Projects",
+            "ph_url": "posts/remark",
+            "comments": "3"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
             "votes": "3",
             "link": "http://firestopapp.com/",
             "name": "FireStop",
@@ -195,24 +213,6 @@
             "twitter": "nbt",
             "name": "Nikhil Basu Trivedi",
             "tagline": "Associate, Shasta Ventures"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "3",
-            "link": "http://remarkhq.com/",
-            "name": "Remark",
-            "tagline": "Google Docs for Video Projects",
-            "ph_url": "posts/remark",
-            "comments": "3"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -295,7 +295,7 @@
             "name": "Diveo",
             "tagline": "Share beautiful videos with friends and the world",
             "ph_url": "posts/diveo",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "bkrall",
