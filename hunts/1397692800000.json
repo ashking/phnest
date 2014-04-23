@@ -201,6 +201,24 @@
         "id": 12,
         "post": {
             "votes": "13",
+            "link": "http://www.roojoom.com/lp/",
+            "name": "Roojoom",
+            "tagline": "A visually engaging content curation platform",
+            "ph_url": "posts/roojoom",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ediggs",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
+            "twitter": "ediggs",
+            "name": "Eze Vidra",
+            "tagline": "Head of Google for Entrepreneurs Europe"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "13",
             "link": "http://rainstacks.com/",
             "name": "Stacks",
             "tagline": "Make it rain real money on your friends using Venmo",
@@ -213,24 +231,6 @@
             "twitter": "philtoronto",
             "name": "Phil Toronto",
             "tagline": "Vayner/RSE"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "12",
-            "link": "http://unsplash.com/",
-            "name": "Unsplash",
-            "tagline": "10 Public Domain Photos Every 10 Days",
-            "ph_url": "posts/unsplash",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
@@ -255,18 +255,18 @@
         "id": 15,
         "post": {
             "votes": "12",
-            "link": "http://www.roojoom.com/lp/",
-            "name": "Roojoom",
-            "tagline": "A visually engaging content curation platform",
-            "ph_url": "posts/roojoom",
+            "link": "http://unsplash.com/",
+            "name": "Unsplash",
+            "tagline": "10 Public Domain Photos Every 10 Days",
+            "ph_url": "posts/unsplash",
             "comments": "1 comment"
         },
         "user": {
-            "id": "ediggs",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
-            "twitter": "ediggs",
-            "name": "Eze Vidra",
-            "tagline": "Head of Google for Entrepreneurs Europe"
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
         }
     },
     {
@@ -326,7 +326,7 @@
     {
         "id": 19,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "http://newsroom.fb.com/news/2014/04/introducing-a-new-optional-feature-called-nearby-friends/",
             "name": "FB Nearby Friends",
             "tagline": "Discover which Facebook friends are nearby or on the go",
