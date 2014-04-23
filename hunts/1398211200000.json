@@ -25,7 +25,7 @@
             "name": "Soda",
             "tagline": "Simple &amp; intuitive Twitter advertising campaigns",
             "ph_url": "posts/soda",
-            "comments": "5"
+            "comments": "7"
         },
         "user": {
             "id": "bramk",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "8",
+            "link": "http://dploy.io/",
+            "name": "Dploy",
+            "tagline": "Continuous deployment for everyone",
+            "ph_url": "posts/dploy",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Interaction Designer, Duo Consulting"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "7",
             "link": "https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle",
             "name": "NeuroOn",
@@ -105,24 +123,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "7",
-            "link": "http://dploy.io/",
-            "name": "Dploy",
-            "tagline": "Continuous deployment for everyone",
-            "ph_url": "posts/dploy",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
-            "twitter": "bkrall",
-            "name": "Brian Krall",
-            "tagline": "Interaction Designer, Duo Consulting"
         }
     },
     {
@@ -169,7 +169,7 @@
             "name": "Kammok Thylacine",
             "tagline": "One Sleeping Bag, Endless Options",
             "ph_url": "posts/kammok-thylacine",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "_jacksmith",
