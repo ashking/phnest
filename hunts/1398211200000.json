@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "32",
+            "votes": "33",
             "link": "http://equipboard.com",
             "name": "EquipBoard",
             "tagline": "The Ultimate Gear Site for Fans",
@@ -146,12 +146,12 @@
     {
         "id": 9,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://kammok.com/",
             "name": "Kammok Thylacine",
             "tagline": "One Sleeping Bag, Endless Options",
             "ph_url": "posts/kammok-thylacine",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "_jacksmith",
@@ -163,6 +163,24 @@
     },
     {
         "id": 10,
+        "post": {
+            "votes": "6",
+            "link": "http://www.foogi.me/",
+            "name": "Foogi",
+            "tagline": "Schedule a meeting with your coworkers in seconds",
+            "ph_url": "posts/foogi",
+            "comments": "5"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 11,
         "post": {
             "votes": "5",
             "link": "http://projectnaptha.com/",
@@ -177,24 +195,6 @@
             "twitter": "andrewpyott",
             "name": "Andrew Pyott",
             "tagline": "Creative, Art Director"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "5",
-            "link": "http://www.foogi.me/",
-            "name": "Foogi",
-            "tagline": "Schedule a meeting with your coworkers in seconds",
-            "ph_url": "posts/foogi",
-            "comments": "4"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -236,7 +236,7 @@
     {
         "id": 14,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "https://www.drchrono.com/",
             "name": "DrChrono",
             "tagline": "The ultimate “all-in-one solution” for healthcare providers ",
