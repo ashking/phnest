@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "10",
+            "link": "http://rogueamoeba.com/airfoil/",
+            "name": "Airfoil",
+            "tagline": "Turn your old phone into a wireless music system like Sonos",
+            "ph_url": "posts/airfoil",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "MikeBronfman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MikeBronfman.jpg",
+            "twitter": "MikeBronfman",
+            "name": "Mike Bronfman",
+            "tagline": "COO, Meta, LLC. (SpaceGlasses.com)"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "9",
             "link": "http://salaryfairy.com",
             "name": "Salary Fairy",
@@ -36,25 +54,25 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
-            "votes": "9",
-            "link": "http://rogueamoeba.com/airfoil/",
-            "name": "Airfoil",
-            "tagline": "Turn your old phone into a wireless music system like Sonos",
-            "ph_url": "posts/airfoil",
-            "comments": "View details"
+            "votes": "7",
+            "link": "http://brewseful.com/",
+            "name": "Brewseful",
+            "tagline": "A simple timer app for brewing coffee",
+            "ph_url": "posts/brewseful",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "MikeBronfman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MikeBronfman.jpg",
-            "twitter": "MikeBronfman",
-            "name": "Mike Bronfman",
-            "tagline": "COO, Meta, LLC. (SpaceGlasses.com)"
+            "id": "andrewpyott",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
+            "twitter": "andrewpyott",
+            "name": "Andrew Pyott",
+            "tagline": "Creative, Art Director"
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "7",
             "link": "https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle",
@@ -69,24 +87,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "http://brewseful.com/",
-            "name": "Brewseful",
-            "tagline": "A simple timer app for brewing coffee",
-            "ph_url": "posts/brewseful",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "andrewpyott",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
-            "twitter": "andrewpyott",
-            "name": "Andrew Pyott",
-            "tagline": "Creative, Art Director"
         }
     },
     {
