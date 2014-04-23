@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "http://meetsoda.com",
             "name": "Soda",
             "tagline": "Simple &amp; intuitive Twitter advertising campaigns",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://rogueamoeba.com/airfoil/",
             "name": "Airfoil",
             "tagline": "Turn your old phone into a wireless music system like Sonos",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://salaryfairy.com",
             "name": "Salary Fairy",
             "tagline": "Crowdsource your salary prediction",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "8",
+            "link": "http://equipboard.com",
+            "name": "EquipBoard",
+            "tagline": "The Ultimate Gear Site for Fans",
+            "ph_url": "posts/equipboard",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "taylorhou",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/taylorhou.jpg",
+            "twitter": "taylorhou",
+            "name": "Taylor Hou",
+            "tagline": "Product - RemarkHQ.com"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "7",
             "link": "http://brewseful.com/",
             "name": "Brewseful",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "7",
             "link": "https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle",
@@ -87,24 +105,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "7",
-            "link": "http://equipboard.com",
-            "name": "EquipBoard",
-            "tagline": "The Ultimate Gear Site for Fans",
-            "ph_url": "posts/equipboard",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "taylorhou",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/taylorhou.jpg",
-            "twitter": "taylorhou",
-            "name": "Taylor Hou",
-            "tagline": "Product - RemarkHQ.com"
         }
     },
     {
@@ -187,7 +187,7 @@
             "name": "Inventalator",
             "tagline": "Crowdsourcing the entire new product development process",
             "ph_url": "posts/inventalator",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "Cobskee",
