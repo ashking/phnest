@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "http://meetsoda.com",
             "name": "Soda",
             "tagline": "Simple &amp; intuitive Twitter advertising campaigns",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://rogueamoeba.com/airfoil/",
             "name": "Airfoil",
             "tagline": "Turn your old phone into a wireless music system like Sonos",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "6",
+            "votes": "8",
             "link": "http://salaryfairy.com",
             "name": "Salary Fairy",
             "tagline": "Crowdsource your salary prediction",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "7",
+            "link": "https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle",
+            "name": "NeuroOn",
+            "tagline": "World&#39;s first sleep mask for polyphasic sleep",
+            "ph_url": "posts/neuroon",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "6",
             "link": "http://brewseful.com/",
             "name": "Brewseful",
@@ -69,24 +87,6 @@
             "twitter": "andrewpyott",
             "name": "Andrew Pyott",
             "tagline": "Creative, Art Director"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "https://www.kickstarter.com/projects/intelclinic/neuroon-worlds-first-sleep-mask-for-polyphasic-sle",
-            "name": "NeuroOn",
-            "tagline": "World&#39;s first sleep mask for polyphasic sleep",
-            "ph_url": "posts/neuroon",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -151,7 +151,7 @@
             "name": "Pause magazine",
             "tagline": "Quarterly curated magazine of the best music from the web",
             "ph_url": "posts/pause-magazine",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "marckohlbrugge",
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://www.foogi.me/",
             "name": "Foogi",
             "tagline": "Schedule a meeting with your coworkers in seconds",
@@ -187,7 +187,7 @@
             "name": "Inventalator",
             "tagline": "Crowdsourcing the entire new product development process",
             "ph_url": "posts/inventalator",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "Cobskee",
