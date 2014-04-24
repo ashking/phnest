@@ -3,24 +3,6 @@
         "id": 1,
         "post": {
             "votes": "3",
-            "link": "http://www.wevideo.com/",
-            "name": "WeVideo",
-            "tagline": "Video Editing for Web and Devices",
-            "ph_url": "posts/wevideo",
-            "comments": "2"
-        },
-        "user": {
-            "id": "kjemperud",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
-            "twitter": "kjemperud",
-            "name": "Thomas Kjemperud",
-            "tagline": "Founder &amp; Curator, Startup Letters"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "3",
             "link": "http://scanbot.io/en/",
             "name": "Scanbot",
             "tagline": "Create premium quality document scans with iPhone",
@@ -33,6 +15,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
+            "votes": "3",
+            "link": "http://www.wevideo.com/",
+            "name": "WeVideo",
+            "tagline": "Video Editing for Web and Devices",
+            "ph_url": "posts/wevideo",
+            "comments": "2"
+        },
+        "user": {
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     },
     {
@@ -57,6 +57,24 @@
         "id": 4,
         "post": {
             "votes": "2",
+            "link": "http://rideonewheel.com/",
+            "name": "Onewheel",
+            "tagline": "skateboard: the closest thing to a hoverboard you can ride",
+            "ph_url": "posts/onewheel",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "2",
             "link": "https://www.tunnelbear.com",
             "name": "TunnelBear",
             "tagline": "Secure your data and hide your IP address behind a bear.",
@@ -72,31 +90,13 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "http://freedmanchair.com/",
             "name": "FreedMan Chair",
             "tagline": "The most ergonomic chair ever? Designed by an Osteopath.",
             "ph_url": "posts/freedman-chair",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "http://rideonewheel.com/",
-            "name": "Onewheel",
-            "tagline": "skateboard: the closest thing to a hoverboard you can ride",
-            "ph_url": "posts/onewheel",
             "comments": "View details"
         },
         "user": {
