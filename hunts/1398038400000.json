@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "17",
+            "link": "http://www.mailboxapp.com/",
+            "name": "Mailbox 2.0",
+            "tagline": "Mailbox 2.0 is out for iOS ",
+            "ph_url": "posts/mailbox-2-0",
+            "comments": "4"
+        },
+        "user": {
+            "id": "colbyh",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/colbyh.jpg",
+            "twitter": "colbyh",
+            "name": "Colbλ",
+            "tagline": "eng/product @ popexpert"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "16",
             "link": "http://streamus.com/",
             "name": "Streamus",
@@ -87,24 +105,6 @@
             "twitter": "scottalln",
             "name": "Scott Allen",
             "tagline": "General Manager, Toby&#39;s "
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "16",
-            "link": "http://www.mailboxapp.com/",
-            "name": "Mailbox 2.0",
-            "tagline": "Mailbox 2.0 is out for iOS ",
-            "ph_url": "posts/mailbox-2-0",
-            "comments": "4"
-        },
-        "user": {
-            "id": "colbyh",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/colbyh.jpg",
-            "twitter": "colbyh",
-            "name": "Colbλ",
-            "tagline": "eng/product @ popexpert"
         }
     },
     {
@@ -151,7 +151,7 @@
             "name": "UsabilityTools",
             "tagline": "Click tracking, visitor recording and user research.",
             "ph_url": "posts/usabilitytools",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "rahulvarshneya",
@@ -163,24 +163,6 @@
     },
     {
         "id": 10,
-        "post": {
-            "votes": "9",
-            "link": "https://huboard.com/",
-            "name": "HuBoard",
-            "tagline": "Instant project management for GitHub repositories",
-            "ph_url": "posts/huboard",
-            "comments": "3"
-        },
-        "user": {
-            "id": "EthanS_G",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EthanS_G.jpg",
-            "twitter": "EthanS_G",
-            "name": "Ethan S-G",
-            "tagline": "President, The Program"
-        }
-    },
-    {
-        "id": 11,
         "post": {
             "votes": "9",
             "link": "http://www.collabinate.com/",
@@ -195,6 +177,24 @@
             "twitter": "michaelsacca",
             "name": "michaelsacca",
             "tagline": "Founder, Tiny Factory"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "9",
+            "link": "https://huboard.com/",
+            "name": "HuBoard",
+            "tagline": "Instant project management for GitHub repositories",
+            "ph_url": "posts/huboard",
+            "comments": "3"
+        },
+        "user": {
+            "id": "EthanS_G",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EthanS_G.jpg",
+            "twitter": "EthanS_G",
+            "name": "Ethan S-G",
+            "tagline": "President, The Program"
         }
     },
     {
