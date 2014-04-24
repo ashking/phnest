@@ -129,6 +129,24 @@
         "id": 8,
         "post": {
             "votes": "13",
+            "link": "http://dploy.io/",
+            "name": "Dploy",
+            "tagline": "Continuous deployment for everyone",
+            "ph_url": "posts/dploy",
+            "comments": "3"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Interaction Designer, Duo Consulting"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "13",
             "link": "http://www.foogi.me/",
             "name": "Foogi",
             "tagline": "Schedule a meeting with your coworkers in seconds",
@@ -144,7 +162,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "12",
             "link": "http://projectnaptha.com/",
@@ -159,24 +177,6 @@
             "twitter": "andrewpyott",
             "name": "Andrew Pyott",
             "tagline": "Creative, Art Director"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "12",
-            "link": "http://dploy.io/",
-            "name": "Dploy",
-            "tagline": "Continuous deployment for everyone",
-            "ph_url": "posts/dploy",
-            "comments": "3"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
-            "twitter": "bkrall",
-            "name": "Brian Krall",
-            "tagline": "Interaction Designer, Duo Consulting"
         }
     },
     {
@@ -273,24 +273,6 @@
         "id": 16,
         "post": {
             "votes": "5",
-            "link": "http://shuffler.fm/pausemag",
-            "name": "Pause magazine",
-            "tagline": "Quarterly curated magazine of the best music from the web",
-            "ph_url": "posts/pause-magazine",
-            "comments": "2"
-        },
-        "user": {
-            "id": "marckohlbrugge",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/marckohlbrugge.jpg",
-            "twitter": "marckohlbrugge",
-            "name": "Marc Köhlbrugge",
-            "tagline": "Founder of Beta List"
-        }
-    },
-    {
-        "id": 17,
-        "post": {
-            "votes": "5",
             "link": "http://www.freemacsoft.net/appcleaner/",
             "name": "AppCleaner",
             "tagline": "Quickly and thoroughly uninstall Mac apps.",
@@ -303,6 +285,24 @@
             "twitter": "arjunblj",
             "name": "Arjun Balaji",
             "tagline": "Northeastern University, student"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
+            "votes": "5",
+            "link": "http://shuffler.fm/pausemag",
+            "name": "Pause magazine",
+            "tagline": "Quarterly curated magazine of the best music from the web",
+            "ph_url": "posts/pause-magazine",
+            "comments": "2"
+        },
+        "user": {
+            "id": "marckohlbrugge",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/marckohlbrugge.jpg",
+            "twitter": "marckohlbrugge",
+            "name": "Marc Köhlbrugge",
+            "tagline": "Founder of Beta List"
         }
     },
     {
