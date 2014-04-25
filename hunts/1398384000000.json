@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "23",
+            "votes": "25",
             "link": "http://www.codacy.com",
             "name": "Codacy",
             "tagline": "Stop worrying about code style with automated code reviews",
@@ -25,7 +25,7 @@
             "name": "Pitchpigeon",
             "tagline": "Notify tech blogs about your new app",
             "ph_url": "posts/pitchpigeon",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "emieljanson",
@@ -128,6 +128,24 @@
     {
         "id": 8,
         "post": {
+            "votes": "2",
+            "link": "http://getvue.co",
+            "name": "VUE",
+            "tagline": "Instant mobile app analytics with one line of code.",
+            "ph_url": "posts/vue",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "blaurenceclark",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/blaurenceclark.jpg",
+            "twitter": "blaurenceclark",
+            "name": "Brian Clark",
+            "tagline": "CEO, VUE"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
             "votes": "1",
             "link": "https://getshopflow.com/",
             "name": "ShopFlow",
@@ -141,24 +159,6 @@
             "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "1",
-            "link": "http://getvue.co",
-            "name": "VUE",
-            "tagline": "Instant mobile app analytics with one line of code.",
-            "ph_url": "posts/vue",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "blaurenceclark",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/blaurenceclark.jpg",
-            "twitter": "blaurenceclark",
-            "name": "Brian Clark",
-            "tagline": "CEO, VUE"
         }
     }
 ]
