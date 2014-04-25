@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "20",
+            "votes": "21",
             "link": "http://pitchpigeon.com",
             "name": "Pitchpigeon",
             "tagline": "Notify tech blogs about your new app",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "8",
+            "link": "http://getvue.co",
+            "name": "VUE",
+            "tagline": "Instant mobile app analytics with one line of code.",
+            "ph_url": "posts/vue",
+            "comments": "3"
+        },
+        "user": {
+            "id": "blaurenceclark",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/blaurenceclark.jpg",
+            "twitter": "blaurenceclark",
+            "name": "Brian Clark",
+            "tagline": "CEO, VUE"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "7",
             "link": "http://123d.circuits.io/",
             "name": "circuits.io",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "7",
             "link": "http://myrocki.com",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "6",
             "link": "http://www.mammothhq.com",
@@ -87,24 +105,6 @@
             "twitter": "specx",
             "name": "Ashish Krishna",
             "tagline": "Co-founder, MammothHQ"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "6",
-            "link": "http://getvue.co",
-            "name": "VUE",
-            "tagline": "Instant mobile app analytics with one line of code.",
-            "ph_url": "posts/vue",
-            "comments": "3"
-        },
-        "user": {
-            "id": "blaurenceclark",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/blaurenceclark.jpg",
-            "twitter": "blaurenceclark",
-            "name": "Brian Clark",
-            "tagline": "CEO, VUE"
         }
     },
     {
