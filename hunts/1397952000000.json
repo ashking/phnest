@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://www.thehomet.com",
             "name": "The Home T",
             "tagline": "Proud of your state? Wear it.",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "https://www.longaccess.com",
             "name": "Longaccess",
             "tagline": "We will keep your digital archive safe for decades.",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "6",
+            "link": "https://tresorit.com/",
+            "name": "Tresorit",
+            "tagline": "Encrypted cloud storage and sharing",
+            "ph_url": "posts/tresorit",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "agoldner",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/agoldner.jpg",
+            "twitter": "agoldner",
+            "name": "Andrew Goldner",
+            "tagline": "VP, Global Audience"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "5",
             "link": "http://www.kinnek.com/",
             "name": "Kinnek",
@@ -123,24 +141,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "5",
-            "link": "https://tresorit.com/",
-            "name": "Tresorit",
-            "tagline": "Encrypted cloud storage and sharing",
-            "ph_url": "posts/tresorit",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "agoldner",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/agoldner.jpg",
-            "twitter": "agoldner",
-            "name": "Andrew Goldner",
-            "tagline": "VP, Global Audience"
         }
     }
 ]
