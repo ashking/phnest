@@ -56,41 +56,23 @@
     {
         "id": 4,
         "post": {
-            "votes": "4",
-            "link": "https://bip.io/",
-            "name": "bipio",
-            "tagline": "A Personal API for Email and Web Apps",
-            "ph_url": "posts/bipio",
-            "comments": "2"
+            "votes": "5",
+            "link": "https://houndci.com",
+            "name": "Hound CI",
+            "tagline": "Review your Ruby code for style guide violations",
+            "ph_url": "posts/hound-ci",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
+            "id": "mscccc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mscccc.jpg",
+            "twitter": "mscccc",
+            "name": "Mike Coutermarsh",
+            "tagline": "Software Engineer, Gazelle.com"
         }
     },
     {
         "id": 5,
-        "post": {
-            "votes": "4",
-            "link": "https://itunes.apple.com/us/app/ex-alarm/id688671370?ls=1&mt=8",
-            "name": "Ex Alarm",
-            "tagline": "An app that calls your ex if you don&#39;t get out of bed",
-            "ph_url": "posts/ex-alarm",
-            "comments": "2"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
-            "twitter": "bkrall",
-            "name": "Brian Krall",
-            "tagline": "Interaction Designer, Duo Consulting"
-        }
-    },
-    {
-        "id": 6,
         "post": {
             "votes": "4",
             "link": "http://interlude.fm/en/",
@@ -108,21 +90,39 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "post": {
-            "votes": "3",
-            "link": "https://houndci.com",
-            "name": "Hound CI",
-            "tagline": "Review your Ruby code for style guide violations",
-            "ph_url": "posts/hound-ci",
-            "comments": "1 comment"
+            "votes": "4",
+            "link": "https://itunes.apple.com/us/app/ex-alarm/id688671370?ls=1&mt=8",
+            "name": "Ex Alarm",
+            "tagline": "An app that calls your ex if you don&#39;t get out of bed",
+            "ph_url": "posts/ex-alarm",
+            "comments": "2"
         },
         "user": {
-            "id": "mscccc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mscccc.jpg",
-            "twitter": "mscccc",
-            "name": "Mike Coutermarsh",
-            "tagline": "Software Engineer, Gazelle.com"
+            "id": "bkrall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Interaction Designer, Duo Consulting"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "4",
+            "link": "https://bip.io/",
+            "name": "bipio",
+            "tagline": "A Personal API for Email and Web Apps",
+            "ph_url": "posts/bipio",
+            "comments": "2"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
