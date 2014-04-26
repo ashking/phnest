@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "2",
-            "link": "http://shop.thermodo.com/",
-            "name": "Thermodo",
-            "tagline": "Tiny electrical keyring thermometer for your phone.",
-            "ph_url": "posts/thermodo-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "mikeknoop",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mikeknoop.jpg",
-            "twitter": "mikeknoop",
-            "name": "Mike Knoop",
-            "tagline": "Product/Partner, Zapier"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "2",
             "link": "https://houndci.com",
             "name": "Hound CI",
             "tagline": "Review your Ruby code for style guide violations",
@@ -126,7 +108,43 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "2",
+            "link": "http://shop.thermodo.com/",
+            "name": "Thermodo",
+            "tagline": "Tiny electrical keyring thermometer for your phone.",
+            "ph_url": "posts/thermodo-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "mikeknoop",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mikeknoop.jpg",
+            "twitter": "mikeknoop",
+            "name": "Mike Knoop",
+            "tagline": "Product/Partner, Zapier"
+        }
+    },
+    {
         "id": 8,
+        "post": {
+            "votes": "1",
+            "link": "https://itunes.apple.com/us/app/ex-alarm/id688671370?ls=1&mt=8",
+            "name": "Ex Alarm",
+            "tagline": "An app that calls your ex if you don&#39;t get out of bed",
+            "ph_url": "posts/ex-alarm",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Interaction Designer, Duo Consulting"
+        }
+    },
+    {
+        "id": 9,
         "post": {
             "votes": "1",
             "link": "http://stitchapp.com/",
