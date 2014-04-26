@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "https://variancecharts.com/",
             "name": "Variance",
             "tagline": "Build powerful data visualizations for the web.",
@@ -93,6 +93,24 @@
         "id": 6,
         "post": {
             "votes": "2",
+            "link": "http://shop.thermodo.com/",
+            "name": "Thermodo",
+            "tagline": "Tiny electrical keyring thermometer for your phone.",
+            "ph_url": "posts/thermodo-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "mikeknoop",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mikeknoop.jpg",
+            "twitter": "mikeknoop",
+            "name": "Mike Knoop",
+            "tagline": "Product/Partner, Zapier"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "2",
             "link": "https://houndci.com",
             "name": "Hound CI",
             "tagline": "Review your Ruby code for style guide violations",
@@ -108,21 +126,21 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
-            "votes": "2",
-            "link": "http://shop.thermodo.com/",
-            "name": "Thermodo",
-            "tagline": "Tiny electrical keyring thermometer for your phone.",
-            "ph_url": "posts/thermodo-2",
+            "votes": "1",
+            "link": "http://stitchapp.com/",
+            "name": "Stitch",
+            "tagline": "Mobile email for salespeople",
+            "ph_url": "posts/stitch-2",
             "comments": "View details"
         },
         "user": {
-            "id": "mikeknoop",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mikeknoop.jpg",
-            "twitter": "mikeknoop",
-            "name": "Mike Knoop",
-            "tagline": "Product/Partner, Zapier"
+            "id": "mattlanham",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mattlanham.jpg",
+            "twitter": "mattlanham",
+            "name": "Matthew Lanham",
+            "tagline": "Founder of @enquiryhq"
         }
     }
 ]
