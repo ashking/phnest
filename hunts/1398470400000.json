@@ -43,7 +43,7 @@
             "name": "bipio",
             "tagline": "A Personal API for Email and Web Apps",
             "ph_url": "posts/bipio",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "_jacksmith",
@@ -74,25 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "1",
-            "link": "http://interlude.fm/en/",
-            "name": "Interlude",
-            "tagline": "&quot;New world of storytelling&quot; - with interactive videos",
-            "ph_url": "posts/interlude",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "carlobff",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/carlobff.jpg",
-            "twitter": "carlobff",
-            "name": "Carlo Almendral",
-            "tagline": "co-founder of something stealthy"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "https://houndci.com",
             "name": "Hound CI",
             "tagline": "Review your Ruby code for style guide violations",
@@ -108,14 +90,14 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "http://www.imagebrief.com/",
             "name": "ImageBrief",
             "tagline": "On-demand photography and video sourcing.",
             "ph_url": "posts/imagebrief",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "kingsleyharris",
@@ -123,6 +105,24 @@
             "twitter": "kingsleyharris",
             "name": "Kingsley Harris",
             "tagline": "Design Director, Seen.co"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "1",
+            "link": "http://interlude.fm/en/",
+            "name": "Interlude",
+            "tagline": "&quot;New world of storytelling&quot; - with interactive videos",
+            "ph_url": "posts/interlude",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "carlobff",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/carlobff.jpg",
+            "twitter": "carlobff",
+            "name": "Carlo Almendral",
+            "tagline": "co-founder of something stealthy"
         }
     }
 ]
