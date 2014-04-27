@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "https://kojitsu.com/",
             "name": "Kojitsu",
             "tagline": "A daily email with the best links your friends are sharing",
             "ph_url": "posts/kojitsu",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "mijustin",
@@ -19,24 +19,6 @@
     },
     {
         "id": 2,
-        "post": {
-            "votes": "3",
-            "link": "http://xtouch.io",
-            "name": "XTouch",
-            "tagline": "Make every Surface Tap-Sensitive",
-            "ph_url": "posts/xtouch",
-            "comments": "2"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
-        }
-    },
-    {
-        "id": 3,
         "post": {
             "votes": "3",
             "link": "http://www.3dhubs.com/",
@@ -54,7 +36,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 3,
         "post": {
             "votes": "3",
             "link": "https://chrome.google.com/webstore/detail/better-history/obciceimmggglbmelaidpjlmodcebijb",
@@ -72,7 +54,43 @@
         }
     },
     {
+        "id": 4,
+        "post": {
+            "votes": "3",
+            "link": "http://xtouch.io",
+            "name": "XTouch",
+            "tagline": "Make every Surface Tap-Sensitive",
+            "ph_url": "posts/xtouch",
+            "comments": "2"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
         "id": 5,
+        "post": {
+            "votes": "2",
+            "link": "http://usetrace.com/",
+            "name": "Usetrace",
+            "tagline": "Virtual users doing your repetitive web testing",
+            "ph_url": "posts/usetrace",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "jaimefjorge",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jaimefjorge.jpg",
+            "twitter": "jaimefjorge",
+            "name": "jaime jorge",
+            "tagline": "CEO Founder of @Codacy"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "http://thearcanum.com",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "1",
             "link": "https://chrome.google.com/webstore/detail/donottrackme-online-priva/epanfjkfahimkgomnigadpkobaefekcd",
@@ -105,24 +123,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "1",
-            "link": "http://usetrace.com/",
-            "name": "Usetrace",
-            "tagline": "Virtual users doing your repetitive web testing",
-            "ph_url": "posts/usetrace",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "jaimefjorge",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jaimefjorge.jpg",
-            "twitter": "jaimefjorge",
-            "name": "jaime jorge",
-            "tagline": "CEO Founder of @Codacy"
         }
     }
 ]
