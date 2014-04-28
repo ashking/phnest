@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "8",
+            "link": "http://www.beddit.com/",
+            "name": "Beddit",
+            "tagline": "A new kind of sleep tracker (No wearable sensors)",
+            "ph_url": "posts/beddit",
+            "comments": "2"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "7",
             "link": "http://mymail.my.com/",
             "name": "My.com Mail",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "7",
             "link": "http://www.deleteitlater.com/",
@@ -87,24 +105,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "7",
-            "link": "http://www.beddit.com/",
-            "name": "Beddit",
-            "tagline": "A new kind of sleep tracker (No wearable sensors)",
-            "ph_url": "posts/beddit",
-            "comments": "2"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -259,7 +259,7 @@
             "name": "Hotelied",
             "tagline": "Personalized hotel room rates based on your social status",
             "ph_url": "posts/hotelied",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "daveambrose",
