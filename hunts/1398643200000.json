@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "38",
+            "votes": "39",
             "link": "http://bit.ly/1rFvbNU",
             "name": "Interactive Video",
             "tagline": "Fully functioning site inside a video - Placeit",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "19",
+            "votes": "20",
             "link": "https://plaid.com/",
             "name": "Plaid",
             "tagline": "A REST API for your bank",
@@ -75,24 +75,6 @@
         "id": 5,
         "post": {
             "votes": "12",
-            "link": "http://www.hellonomad.com/products/chargekey-iphone5",
-            "name": "ChargeKey",
-            "tagline": "Keyring iPhone 5 charger",
-            "ph_url": "posts/chargekey",
-            "comments": "4"
-        },
-        "user": {
-            "id": "KristoferTM",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
-            "twitter": "KristoferTM",
-            "name": "Kris Minkstein",
-            "tagline": "Founder @ Lamplighter Labs"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "11",
             "link": "http://circular.io/",
             "name": "Circular.io",
             "tagline": "A free open source Buffer App",
@@ -108,9 +90,9 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://www.beddit.com/",
             "name": "Beddit",
             "tagline": "A new kind of sleep tracker (No wearable sensors)",
@@ -126,9 +108,27 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "12",
+            "link": "http://www.hellonomad.com/products/chargekey-iphone5",
+            "name": "ChargeKey",
+            "tagline": "Keyring iPhone 5 charger",
+            "ph_url": "posts/chargekey",
+            "comments": "4"
+        },
+        "user": {
+            "id": "KristoferTM",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
+            "twitter": "KristoferTM",
+            "name": "Kris Minkstein",
+            "tagline": "Founder @ Lamplighter Labs"
+        }
+    },
+    {
         "id": 8,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://www.deleteitlater.com/",
             "name": "Delete It Later",
             "tagline": "Schedule your Tweets/FB status to be deleted later",
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "https://disconnect.me",
             "name": "Disconnect",
             "tagline": "The easiest way to protect your online privacy",
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "http://mymail.my.com/",
             "name": "My.com Mail",
             "tagline": "Mail App + youremail@my.com",
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "https://www.massdrop.com/r/HR2AMP",
             "name": "Massdrop",
             "tagline": "Group buying power, unlocked",
@@ -200,19 +200,19 @@
     {
         "id": 12,
         "post": {
-            "votes": "6",
-            "link": "https://www.chromatik.com/",
-            "name": "Chromatik",
-            "tagline": "Free sheet music, released daily",
-            "ph_url": "posts/chromatik",
-            "comments": "1 comment"
+            "votes": "7",
+            "link": "https://www.hotelied.com/",
+            "name": "Hotelied",
+            "tagline": "Personalized hotel room rates based on your social status",
+            "ph_url": "posts/hotelied",
+            "comments": "4"
         },
         "user": {
-            "id": "mattdsandler",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mattdsandler.jpg",
-            "twitter": "mattdsandler",
-            "name": "Matt Sandler",
-            "tagline": "Founder, Chromatik"
+            "id": "daveambrose",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
+            "twitter": "daveambrose",
+            "name": "Dave Ambrose",
+            "tagline": "Venture Investor"
         }
     },
     {
@@ -237,18 +237,18 @@
         "id": 14,
         "post": {
             "votes": "6",
-            "link": "https://www.hotelied.com/",
-            "name": "Hotelied",
-            "tagline": "Personalized hotel room rates based on your social status",
-            "ph_url": "posts/hotelied",
-            "comments": "4"
+            "link": "https://www.chromatik.com/",
+            "name": "Chromatik",
+            "tagline": "Free sheet music, released daily",
+            "ph_url": "posts/chromatik",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "daveambrose",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
-            "twitter": "daveambrose",
-            "name": "Dave Ambrose",
-            "tagline": "Venture Investor"
+            "id": "mattdsandler",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mattdsandler.jpg",
+            "twitter": "mattdsandler",
+            "name": "Matt Sandler",
+            "tagline": "Founder, Chromatik"
         }
     },
     {
