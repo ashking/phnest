@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "http://unwind.me",
             "name": "Unwind Me",
             "tagline": "Massages on demand, satisfaction guaranteed ;p",
@@ -38,11 +38,11 @@
     {
         "id": 3,
         "post": {
-            "votes": "6",
-            "link": "http://www.beddit.com/",
-            "name": "Beddit",
-            "tagline": "A new kind of sleep tracker (No wearable sensors)",
-            "ph_url": "posts/beddit",
+            "votes": "7",
+            "link": "https://plaid.com/",
+            "name": "Plaid",
+            "tagline": "A REST API for your bank",
+            "ph_url": "posts/plaid",
             "comments": "1 comment"
         },
         "user": {
@@ -57,10 +57,10 @@
         "id": 4,
         "post": {
             "votes": "6",
-            "link": "https://plaid.com/",
-            "name": "Plaid",
-            "tagline": "A REST API for your bank",
-            "ph_url": "posts/plaid",
+            "link": "http://www.beddit.com/",
+            "name": "Beddit",
+            "tagline": "A new kind of sleep tracker (No wearable sensors)",
+            "ph_url": "posts/beddit",
             "comments": "1 comment"
         },
         "user": {
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "2",
+            "link": "http://beapping.com",
+            "name": "BeApping ",
+            "tagline": "Keep up with your friends and followers.",
+            "ph_url": "posts/beapping",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "1",
             "link": "http://www.deleteitlater.com/",
             "name": "Delete It Later",
@@ -159,24 +177,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "1",
-            "link": "http://beapping.com",
-            "name": "BeApping ",
-            "tagline": "Keep up with your friends and followers.",
-            "ph_url": "posts/beapping",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
         }
     },
     {
