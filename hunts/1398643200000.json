@@ -38,7 +38,25 @@
     {
         "id": 3,
         "post": {
-            "votes": "4",
+            "votes": "5",
+            "link": "http://flatuicolors.com/#",
+            "name": "Flat UI Colors",
+            "tagline": "Great colors for your flat designs. ",
+            "ph_url": "posts/flat-ui-colors",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "5",
             "link": "https://plaid.com/",
             "name": "Plaid",
             "tagline": "A REST API for your bank",
@@ -51,24 +69,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "4",
-            "link": "http://www.bodydryer1.com/",
-            "name": "Body Dryer",
-            "tagline": "Dryer that eliminates the use of bath towels",
-            "ph_url": "posts/body-dryer",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "lylemckeany",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/lylemckeany.jpg",
-            "twitter": "lylemckeany",
-            "name": "Lyle McKeany",
-            "tagline": "Growth at Tradecraft"
         }
     },
     {
@@ -93,18 +93,18 @@
         "id": 6,
         "post": {
             "votes": "4",
-            "link": "http://flatuicolors.com/#",
-            "name": "Flat UI Colors",
-            "tagline": "Great colors for your flat designs. ",
-            "ph_url": "posts/flat-ui-colors",
-            "comments": "View details"
+            "link": "http://www.bodydryer1.com/",
+            "name": "Body Dryer",
+            "tagline": "Dryer that eliminates the use of bath towels",
+            "ph_url": "posts/body-dryer",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
+            "id": "lylemckeany",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/lylemckeany.jpg",
+            "twitter": "lylemckeany",
+            "name": "Lyle McKeany",
+            "tagline": "Growth at Tradecraft"
         }
     },
     {
@@ -129,18 +129,18 @@
         "id": 8,
         "post": {
             "votes": "1",
-            "link": "http://www.deleteitlater.com/",
-            "name": "Delete It Later",
-            "tagline": "Schedule your Tweets/FB status to be deleted later",
-            "ph_url": "posts/delete-it-later",
+            "link": "http://www.hellonomad.com/products/chargekey-iphone5",
+            "name": "ChargeKey",
+            "tagline": "Keyring iPhone 5 charger",
+            "ph_url": "posts/chargekey",
             "comments": "1 comment"
         },
         "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
+            "id": "KristoferTM",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
+            "twitter": "KristoferTM",
+            "name": "Kris Minkstein",
+            "tagline": "Founder @ Lamplighter Labs"
         }
     },
     {
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "1",
-            "link": "http://www.hellonomad.com/products/chargekey-iphone5",
-            "name": "ChargeKey",
-            "tagline": "Keyring iPhone 5 charger",
-            "ph_url": "posts/chargekey",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "KristoferTM",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
-            "twitter": "KristoferTM",
-            "name": "Kris Minkstein",
-            "tagline": "Founder @ Lamplighter Labs"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
             "link": "http://limk.com",
             "name": "Limk",
             "tagline": "Smarter Content Recommendations.",
@@ -195,6 +177,24 @@
             "twitter": "rahulvarshneya",
             "name": "Rahul Varshneya",
             "tagline": "Co-founder, Arkenea"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "1",
+            "link": "http://www.deleteitlater.com/",
+            "name": "Delete It Later",
+            "tagline": "Schedule your Tweets/FB status to be deleted later",
+            "ph_url": "posts/delete-it-later",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
         }
     }
 ]
