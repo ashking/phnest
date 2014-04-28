@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "15",
+            "votes": "18",
             "link": "http://unwind.me",
             "name": "Unwind Me",
             "tagline": "Massages on demand, satisfaction guaranteed ;p",
             "ph_url": "posts/unwind-me",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "taylorhou",
@@ -19,6 +19,24 @@
     },
     {
         "id": 2,
+        "post": {
+            "votes": "9",
+            "link": "http://flatuicolors.com/#",
+            "name": "Flat UI Colors",
+            "tagline": "Great colors for your flat designs. ",
+            "ph_url": "posts/flat-ui-colors",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "8",
             "link": "https://plaid.com/",
@@ -33,24 +51,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "8",
-            "link": "http://flatuicolors.com/#",
-            "name": "Flat UI Colors",
-            "tagline": "Great colors for your flat designs. ",
-            "ph_url": "posts/flat-ui-colors",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -129,6 +129,24 @@
         "id": 8,
         "post": {
             "votes": "3",
+            "link": "http://limk.com",
+            "name": "Limk",
+            "tagline": "Smarter Content Recommendations.",
+            "ph_url": "posts/limk",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "rahulvarshneya",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rahulvarshneya.jpg",
+            "twitter": "rahulvarshneya",
+            "name": "Rahul Varshneya",
+            "tagline": "Co-founder, Arkenea"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "3",
             "link": "http://www.deleteitlater.com/",
             "name": "Delete It Later",
             "tagline": "Schedule your Tweets/FB status to be deleted later",
@@ -144,7 +162,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "2",
             "link": "http://outpost.travel",
@@ -162,7 +180,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://beapping.com",
@@ -180,7 +198,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "1",
             "link": "http://www.hellonomad.com/products/chargekey-iphone5",
@@ -195,24 +213,6 @@
             "twitter": "KristoferTM",
             "name": "Kris Minkstein",
             "tagline": "Founder @ Lamplighter Labs"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "1",
-            "link": "http://limk.com",
-            "name": "Limk",
-            "tagline": "Smarter Content Recommendations.",
-            "ph_url": "posts/limk",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "rahulvarshneya",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rahulvarshneya.jpg",
-            "twitter": "rahulvarshneya",
-            "name": "Rahul Varshneya",
-            "tagline": "Co-founder, Arkenea"
         }
     }
 ]
