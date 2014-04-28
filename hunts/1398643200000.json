@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "http://unwind.me",
             "name": "Unwind Me",
             "tagline": "Massages on demand, satisfaction guaranteed ;p",
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "3",
-            "link": "http://circular.io/",
-            "name": "Circular.io",
-            "tagline": "A free open source Buffer App",
-            "ph_url": "posts/circular-io",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "chad_fullerton",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/chad_fullerton.jpg",
-            "twitter": "chad_fullerton",
-            "name": "Chad Fullerton",
-            "tagline": "Founder, FullertonMedia"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "3",
             "link": "http://limk.com",
             "name": "Limk",
             "tagline": "Smarter Content Recommendations.",
@@ -195,6 +177,24 @@
             "twitter": "rahulvarshneya",
             "name": "Rahul Varshneya",
             "tagline": "Co-founder, Arkenea"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "3",
+            "link": "http://circular.io/",
+            "name": "Circular.io",
+            "tagline": "A free open source Buffer App",
+            "ph_url": "posts/circular-io",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "chad_fullerton",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/chad_fullerton.jpg",
+            "twitter": "chad_fullerton",
+            "name": "Chad Fullerton",
+            "tagline": "Founder, FullertonMedia"
         }
     },
     {
@@ -313,7 +313,7 @@
             "name": "Warble",
             "tagline": "Daily Email Alerts for Twitter",
             "ph_url": "posts/warble",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "jesseddy",
