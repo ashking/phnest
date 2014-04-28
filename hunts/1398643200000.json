@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "2",
+            "link": "https://disconnect.me",
+            "name": "Disconnect",
+            "tagline": "The easiest way to protect your online privacy",
+            "ph_url": "posts/disconnect",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "1",
             "link": "http://www.beddit.com/",
             "name": "Beddit",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "https://www.icracked.com",
@@ -87,24 +105,6 @@
             "twitter": "bramk",
             "name": "Bram Kanstein",
             "tagline": "Digital Product Manager @ Dutch Standard"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "https://disconnect.me",
-            "name": "Disconnect",
-            "tagline": "The easiest way to protect your online privacy",
-            "ph_url": "posts/disconnect",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
         }
     }
 ]
