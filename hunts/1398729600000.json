@@ -57,6 +57,24 @@
         "id": 4,
         "post": {
             "votes": "12",
+            "link": "http://bit.ly/SupportDIDI",
+            "name": "DiDi",
+            "tagline": "iPad powered teddy bear",
+            "ph_url": "posts/didi",
+            "comments": "2"
+        },
+        "user": {
+            "id": "taylorhou",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/taylorhou.jpg",
+            "twitter": "taylorhou",
+            "name": "Taylor Hou",
+            "tagline": "Product - RemarkHQ.com"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "12",
             "link": "http://themeisle.com",
             "name": "ThemeIsle",
             "tagline": "Welcome to th’ island ‘o WordPress themes, me bucko!",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "12",
             "link": "http://zoetrope.io/",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "10",
             "link": "http://wehavestandards.com/",
@@ -105,24 +123,6 @@
             "twitter": "F1ReMaN",
             "name": "Omri Levy",
             "tagline": "Creator of Internet Stuff"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "9",
-            "link": "http://bit.ly/SupportDIDI",
-            "name": "DiDi",
-            "tagline": "iPad powered teddy bear",
-            "ph_url": "posts/didi",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "taylorhou",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/taylorhou.jpg",
-            "twitter": "taylorhou",
-            "name": "Taylor Hou",
-            "tagline": "Product - RemarkHQ.com"
         }
     },
     {
@@ -326,25 +326,7 @@
     {
         "id": 19,
         "post": {
-            "votes": "1",
-            "link": "http://thisisstory.com/",
-            "name": "STORY",
-            "tagline": "A retail store w/ the perspective of a magazine. (NYC)",
-            "ph_url": "posts/story",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "dshan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
-            "twitter": "dshan",
-            "name": "Derek Shanahan",
-            "tagline": "Growth Marketer, Playerize"
-        }
-    },
-    {
-        "id": 20,
-        "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://www.mozilla.org/en-US/firefox/new/?f=30&utm_expid=71153379-28.SNKFJ4VqRziIW1TLqjhpAw.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F",
             "name": "Firefox 29",
             "tagline": "Firefox UI redesign (Australis)",
@@ -360,7 +342,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 20,
         "post": {
             "votes": "1",
             "link": "http://www.armatix.com/iP1-Limited-Edition.804.0.html?&L=7",
@@ -375,6 +357,24 @@
             "twitter": "KristoferTM",
             "name": "Kris Minkstein",
             "tagline": "Founder @ Lamplighter Labs"
+        }
+    },
+    {
+        "id": 21,
+        "post": {
+            "votes": "1",
+            "link": "http://thisisstory.com/",
+            "name": "STORY",
+            "tagline": "A retail store w/ the perspective of a magazine. (NYC)",
+            "ph_url": "posts/story",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "dshan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
+            "twitter": "dshan",
+            "name": "Derek Shanahan",
+            "tagline": "Growth Marketer, Playerize"
         }
     }
 ]
