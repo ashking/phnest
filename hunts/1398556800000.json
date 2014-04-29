@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "32",
+            "votes": "33",
             "link": "https://kojitsu.com/",
             "name": "Kojitsu",
             "tagline": "A daily email with the best links your friends are sharing",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "10",
+            "link": "http://blog.pinterest.com/post/83772264616/guided-search-a-new-way-to-find-what-youre-looking",
+            "name": "Pinterest Search",
+            "tagline": "A new way to find what you’re looking for.",
+            "ph_url": "posts/pinterest-search",
+            "comments": "3"
+        },
+        "user": {
+            "id": "davemorin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/davemorin.jpg",
+            "twitter": "davemorin",
+            "name": "Dave Morin",
+            "tagline": "CEO, Path"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "9",
             "link": "http://usetrace.com/",
             "name": "Usetrace",
@@ -126,27 +144,9 @@
         }
     },
     {
-        "id": 8,
-        "post": {
-            "votes": "9",
-            "link": "http://blog.pinterest.com/post/83772264616/guided-search-a-new-way-to-find-what-youre-looking",
-            "name": "Pinterest Search",
-            "tagline": "A new way to find what you’re looking for.",
-            "ph_url": "posts/pinterest-search",
-            "comments": "2"
-        },
-        "user": {
-            "id": "davemorin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/davemorin.jpg",
-            "twitter": "davemorin",
-            "name": "Dave Morin",
-            "tagline": "CEO, Path"
-        }
-    },
-    {
         "id": 9,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "https://waffle.io/",
             "name": "Waffle",
             "tagline": "Your github workflow open sourced. ",
