@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "11",
+            "link": "http://blog.pinterest.com/post/83772264616/guided-search-a-new-way-to-find-what-youre-looking",
+            "name": "Pinterest Search",
+            "tagline": "A new way to find what you’re looking for.",
+            "ph_url": "posts/pinterest-search",
+            "comments": "3"
+        },
+        "user": {
+            "id": "davemorin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/davemorin.jpg",
+            "twitter": "davemorin",
+            "name": "Dave Morin",
+            "tagline": "CEO, Path"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "10",
             "link": "https://waffle.io/",
             "name": "Waffle",
@@ -123,24 +141,6 @@
             "twitter": "dshan",
             "name": "Derek Shanahan",
             "tagline": "Growth Marketer, Playerize"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "10",
-            "link": "http://blog.pinterest.com/post/83772264616/guided-search-a-new-way-to-find-what-youre-looking",
-            "name": "Pinterest Search",
-            "tagline": "A new way to find what you’re looking for.",
-            "ph_url": "posts/pinterest-search",
-            "comments": "3"
-        },
-        "user": {
-            "id": "davemorin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/davemorin.jpg",
-            "twitter": "davemorin",
-            "name": "Dave Morin",
-            "tagline": "CEO, Path"
         }
     },
     {
@@ -201,24 +201,6 @@
         "id": 12,
         "post": {
             "votes": "3",
-            "link": "http://thearcanum.com",
-            "name": "The Arcanum",
-            "tagline": "Magical Academy of Artistic Mastery",
-            "ph_url": "posts/the-arcanum",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "3",
             "link": "https://www.strikingly.com/online-resume/linkedin",
             "name": "Strikingly - Resume",
             "tagline": "An instant resume generator from your LinkedIn profile ",
@@ -231,6 +213,24 @@
             "twitter": "datarade",
             "name": "Kumar Thangudu",
             "tagline": "growth hacker and manufacturing engineer"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "3",
+            "link": "http://thearcanum.com",
+            "name": "The Arcanum",
+            "tagline": "Magical Academy of Artistic Mastery",
+            "ph_url": "posts/the-arcanum",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
         }
     }
 ]
