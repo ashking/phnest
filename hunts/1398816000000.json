@@ -38,19 +38,19 @@
     {
         "id": 3,
         "post": {
-            "votes": "1",
-            "link": "https://giveit100.com/",
-            "name": "Give it 100",
-            "tagline": "Practice something for 100 days",
-            "ph_url": "posts/give-it-100-2",
+            "votes": "2",
+            "link": "https://www.grabble.co.uk/",
+            "name": "Grabble",
+            "tagline": "A new way to find fashion",
+            "ph_url": "posts/grabble",
             "comments": "1 comment"
         },
         "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
+            "id": "ediggs",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
+            "twitter": "ediggs",
+            "name": "Eze Vidra",
+            "tagline": "Head of Google for Entrepreneurs Europe"
         }
     },
     {
@@ -111,40 +111,22 @@
         "id": 7,
         "post": {
             "votes": "1",
-            "link": "https://gamethrive.com",
-            "name": "GameThrive",
-            "tagline": "Push notification service for mobile game developers",
-            "ph_url": "posts/gamethrive",
+            "link": "https://giveit100.com/",
+            "name": "Give it 100",
+            "tagline": "Practice something for 100 days",
+            "ph_url": "posts/give-it-100-2",
             "comments": "1 comment"
         },
         "user": {
-            "id": "gdeglin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gdeglin.jpg",
-            "twitter": "gdeglin",
-            "name": "George Deglin",
-            "tagline": "CEO, Hiptic Games"
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
         "id": 8,
-        "post": {
-            "votes": "1",
-            "link": "https://www.grabble.co.uk/",
-            "name": "Grabble",
-            "tagline": "A new way to find fashion",
-            "ph_url": "posts/grabble",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ediggs",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
-            "twitter": "ediggs",
-            "name": "Eze Vidra",
-            "tagline": "Head of Google for Entrepreneurs Europe"
-        }
-    },
-    {
-        "id": 9,
         "post": {
             "votes": "1",
             "link": "http://barterplace.co/",
@@ -159,6 +141,24 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "1",
+            "link": "https://gamethrive.com",
+            "name": "GameThrive",
+            "tagline": "Push notification service for mobile game developers",
+            "ph_url": "posts/gamethrive",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "gdeglin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gdeglin.jpg",
+            "twitter": "gdeglin",
+            "name": "George Deglin",
+            "tagline": "CEO, Hiptic Games"
         }
     }
 ]
