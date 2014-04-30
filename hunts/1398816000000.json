@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "16",
+            "votes": "18",
             "link": "https://www.madewithsisu.com",
             "name": "Sisu",
             "tagline": "Your exercise data as art",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "https://hellonod.com/",
             "name": "Nod",
             "tagline": "Bluetooth ring to control all your devices with your finger",
@@ -111,6 +111,24 @@
         "id": 7,
         "post": {
             "votes": "3",
+            "link": "https://slidebean.com",
+            "name": "Slidebean",
+            "tagline": "The easiest way to create beautiful presentations.",
+            "ph_url": "posts/slidebean",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bramk",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bramk.jpg",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Digital Product Manager @ Dutch Standard"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "3",
             "link": "https://gamethrive.com",
             "name": "GameThrive",
             "tagline": "Push notification service for mobile game developers",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "3",
             "link": "http://equityzen.com/e/",
@@ -144,25 +162,25 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
-            "votes": "3",
-            "link": "https://slidebean.com",
-            "name": "Slidebean",
-            "tagline": "The easiest way to create beautiful presentations.",
-            "ph_url": "posts/slidebean",
+            "votes": "2",
+            "link": "https://www.kickstarter.com/projects/903107259/scio-your-sixth-sense-a-pocket-molecular-sensor-fo",
+            "name": "SCiO",
+            "tagline": "A pocket molecular sensor for all",
+            "ph_url": "posts/scio",
             "comments": "1 comment"
         },
         "user": {
-            "id": "bramk",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bramk.jpg",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Digital Product Manager @ Dutch Standard"
+            "id": "ediggs",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
+            "twitter": "ediggs",
+            "name": "Eze Vidra",
+            "tagline": "Head of Google for Entrepreneurs Europe"
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://foxmetrics.com/",
@@ -177,24 +195,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
-            "link": "http://www.squireapp.com/",
-            "name": "Squire",
-            "tagline": "Not your average media center.",
-            "ph_url": "posts/squire",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "FrancoVarriano",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrancoVarriano.jpg",
-            "twitter": "FrancoVarriano",
-            "name": "Franco Varriano",
-            "tagline": "Director of Publishing"
         }
     },
     {
@@ -219,18 +219,18 @@
         "id": 13,
         "post": {
             "votes": "1",
-            "link": "https://www.kickstarter.com/projects/903107259/scio-your-sixth-sense-a-pocket-molecular-sensor-fo",
-            "name": "SCiO",
-            "tagline": "A pocket molecular sensor for all",
-            "ph_url": "posts/scio",
+            "link": "http://www.squireapp.com/",
+            "name": "Squire",
+            "tagline": "Not your average media center.",
+            "ph_url": "posts/squire",
             "comments": "1 comment"
         },
         "user": {
-            "id": "ediggs",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
-            "twitter": "ediggs",
-            "name": "Eze Vidra",
-            "tagline": "Head of Google for Entrepreneurs Europe"
+            "id": "FrancoVarriano",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrancoVarriano.jpg",
+            "twitter": "FrancoVarriano",
+            "name": "Franco Varriano",
+            "tagline": "Director of Publishing"
         }
     },
     {
@@ -249,24 +249,6 @@
             "twitter": "KristoferTM",
             "name": "Kris Minkstein",
             "tagline": "Founder @ Lamplighter Labs"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "1",
-            "link": "http://www.sylion.com/squireapp/",
-            "name": "Squire",
-            "tagline": "Media Center For Mac",
-            "ph_url": "posts/squire-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "SoleneMa",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/SoleneMa.jpg",
-            "twitter": "SoleneMa",
-            "name": "Solene Maître",
-            "tagline": "CPO at naow"
         }
     }
 ]
