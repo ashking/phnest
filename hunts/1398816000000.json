@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "20",
+            "votes": "24",
             "link": "http://molt.in",
             "name": "Moltin",
             "tagline": "An eCommerce API for developers",
@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "18",
+            "votes": "22",
             "link": "https://www.madewithsisu.com",
             "name": "Sisu",
             "tagline": "Your exercise data as art",
             "ph_url": "posts/sisu",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "gregoiregilbert",
@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "2",
+            "link": "http://www.squireapp.com/",
+            "name": "Squire",
+            "tagline": "Not your average media center.",
+            "ph_url": "posts/squire",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "FrancoVarriano",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrancoVarriano.jpg",
+            "twitter": "FrancoVarriano",
+            "name": "Franco Varriano",
+            "tagline": "Director of Publishing"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "1",
             "link": "http://www.kuapp.me/",
             "name": "Ku",
@@ -213,24 +231,6 @@
             "twitter": "helencrozier",
             "name": "Helen Crozier",
             "tagline": "Keyboard Karma"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "1",
-            "link": "http://www.squireapp.com/",
-            "name": "Squire",
-            "tagline": "Not your average media center.",
-            "ph_url": "posts/squire",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "FrancoVarriano",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrancoVarriano.jpg",
-            "twitter": "FrancoVarriano",
-            "name": "Franco Varriano",
-            "tagline": "Director of Publishing"
         }
     },
     {
