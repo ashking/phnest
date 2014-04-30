@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "33",
+            "votes": "35",
             "link": "http://molt.in",
             "name": "Moltin",
             "tagline": "An eCommerce API for developers",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "6",
+            "link": "http://www.squireapp.com/",
+            "name": "Squire",
+            "tagline": "Not your average media center.",
+            "ph_url": "posts/squire",
+            "comments": "5"
+        },
+        "user": {
+            "id": "FrancoVarriano",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrancoVarriano.jpg",
+            "twitter": "FrancoVarriano",
+            "name": "Franco Varriano",
+            "tagline": "Director of Publishing"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "5",
             "link": "https://gamethrive.com",
             "name": "GameThrive",
@@ -123,24 +141,6 @@
             "twitter": "gdeglin",
             "name": "George Deglin",
             "tagline": "CEO, Hiptic Games"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "5",
-            "link": "http://www.squireapp.com/",
-            "name": "Squire",
-            "tagline": "Not your average media center.",
-            "ph_url": "posts/squire",
-            "comments": "5"
-        },
-        "user": {
-            "id": "FrancoVarriano",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrancoVarriano.jpg",
-            "twitter": "FrancoVarriano",
-            "name": "Franco Varriano",
-            "tagline": "Director of Publishing"
         }
     },
     {
