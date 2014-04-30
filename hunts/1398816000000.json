@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "28",
+            "votes": "29",
             "link": "http://equityzen.com/e/",
             "name": "EquityZen",
             "tagline": "Invest in private companies / Employee liquidity market.",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "11",
+            "link": "http://barterplace.co/",
+            "name": "BarterPlace",
+            "tagline": "A Marketplace to Trade Skills",
+            "ph_url": "posts/barterplace",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "10",
             "link": "https://www.grabble.co.uk/",
             "name": "Grabble",
@@ -105,24 +123,6 @@
             "twitter": "ediggs",
             "name": "Eze Vidra",
             "tagline": "Head of Google for Entrepreneurs Europe"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "10",
-            "link": "http://barterplace.co/",
-            "name": "BarterPlace",
-            "tagline": "A Marketplace to Trade Skills",
-            "ph_url": "posts/barterplace",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
@@ -291,24 +291,6 @@
         "id": 17,
         "post": {
             "votes": "3",
-            "link": "http://www.learnvest.com/",
-            "name": "LearnVest",
-            "tagline": "Make progress on your money.",
-            "ph_url": "posts/learnvest",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "nowmiles",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nowmiles.jpg",
-            "twitter": "nowmiles",
-            "name": "Miles Matthias",
-            "tagline": "software engineer, dojo4"
-        }
-    },
-    {
-        "id": 18,
-        "post": {
-            "votes": "3",
             "link": "http://samghobril.com/mingle",
             "name": "Mingle",
             "tagline": "Contacts simplified for iOS",
@@ -324,21 +306,39 @@
         }
     },
     {
-        "id": 19,
+        "id": 18,
         "post": {
-            "votes": "2",
-            "link": "http://www.scutify.com/",
-            "name": "Scutify",
-            "tagline": "Track Tweets about specific stocks",
-            "ph_url": "posts/scutify-2",
+            "votes": "3",
+            "link": "https://getwist.com/",
+            "name": "Wist",
+            "tagline": "Discover best spots nearby for any occassion",
+            "ph_url": "posts/wist",
             "comments": "View details"
         },
         "user": {
-            "id": "eric_seufert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/eric_seufert.jpg",
-            "twitter": "eric_seufert",
-            "name": "Eric Seufert",
-            "tagline": "Editor, Mobile Dev Memo"
+            "id": "maiab",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
+            "twitter": "maiab",
+            "name": "Maia Bittner",
+            "tagline": "CTO, RocksBox"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
+            "votes": "3",
+            "link": "http://www.learnvest.com/",
+            "name": "LearnVest",
+            "tagline": "Make progress on your money.",
+            "ph_url": "posts/learnvest",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nowmiles",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nowmiles.jpg",
+            "twitter": "nowmiles",
+            "name": "Miles Matthias",
+            "tagline": "software engineer, dojo4"
         }
     },
     {
@@ -363,18 +363,18 @@
         "id": 21,
         "post": {
             "votes": "2",
-            "link": "https://getwist.com/",
-            "name": "Wist",
-            "tagline": "Discover best spots nearby for any occassion",
-            "ph_url": "posts/wist",
+            "link": "http://www.scutify.com/",
+            "name": "Scutify",
+            "tagline": "Track Tweets about specific stocks",
+            "ph_url": "posts/scutify-2",
             "comments": "View details"
         },
         "user": {
-            "id": "maiab",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maiab.jpg",
-            "twitter": "maiab",
-            "name": "Maia Bittner",
-            "tagline": "CTO, RocksBox"
+            "id": "eric_seufert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/eric_seufert.jpg",
+            "twitter": "eric_seufert",
+            "name": "Eric Seufert",
+            "tagline": "Editor, Mobile Dev Memo"
         }
     },
     {
