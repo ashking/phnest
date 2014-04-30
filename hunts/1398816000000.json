@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "2",
+            "link": "https://hellonod.com/",
+            "name": "Nod",
+            "tagline": "Bluetooth ring to control all your devices with your finger",
+            "ph_url": "posts/nod",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "andrewpyott",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
+            "twitter": "andrewpyott",
+            "name": "Andrew Pyott",
+            "tagline": "Creative, Art Director"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "1",
             "link": "https://gamethrive.com",
             "name": "GameThrive",
@@ -33,24 +51,6 @@
             "twitter": "gdeglin",
             "name": "George Deglin",
             "tagline": "CEO, Hiptic Games"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "1",
-            "link": "https://hellonod.com/",
-            "name": "Nod",
-            "tagline": "Bluetooth ring to control all your devices with your finger",
-            "ph_url": "posts/nod",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "andrewpyott",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andrewpyott.jpg",
-            "twitter": "andrewpyott",
-            "name": "Andrew Pyott",
-            "tagline": "Creative, Art Director"
         }
     }
 ]
