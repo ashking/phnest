@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://molt.in",
             "name": "Moltin",
             "tagline": "An eCommerce API for developers",
@@ -51,6 +51,24 @@
             "twitter": "gdeglin",
             "name": "George Deglin",
             "tagline": "CEO, Hiptic Games"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "1",
+            "link": "https://giveit100.com/",
+            "name": "Give it 100",
+            "tagline": "Practice something for 100 days",
+            "ph_url": "posts/give-it-100-2",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     }
 ]
