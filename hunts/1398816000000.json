@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "28",
+            "votes": "29",
             "link": "http://molt.in",
             "name": "Moltin",
             "tagline": "An eCommerce API for developers",
@@ -57,6 +57,24 @@
         "id": 4,
         "post": {
             "votes": "8",
+            "link": "http://getpiper.com/",
+            "name": "Piper",
+            "tagline": "IFTTT for Your Home",
+            "ph_url": "posts/piper",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "8",
             "link": "https://hellonod.com/",
             "name": "Nod",
             "tagline": "Bluetooth ring to control all your devices with your finger",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "6",
             "link": "http://barterplace.co/",
@@ -87,24 +105,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "5",
-            "link": "http://getpiper.com/",
-            "name": "Piper",
-            "tagline": "IFTTT for Your Home",
-            "ph_url": "posts/piper",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
         }
     },
     {
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://www.kuapp.me/",
             "name": "Ku",
             "tagline": "Create and share beautiful moments on a note",
@@ -219,24 +219,6 @@
         "id": 13,
         "post": {
             "votes": "2",
-            "link": "http://foxmetrics.com/",
-            "name": "Foxmetrics",
-            "tagline": "Customer Analytics and Targeting.",
-            "ph_url": "posts/foxmetrics",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "1",
             "link": "http://www.brooklinen.com/",
             "name": "Brooklinen",
             "tagline": "Super High Quality Bedsheets, Super Low Price",
@@ -249,6 +231,24 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "2",
+            "link": "http://foxmetrics.com/",
+            "name": "Foxmetrics",
+            "tagline": "Customer Analytics and Targeting.",
+            "ph_url": "posts/foxmetrics",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
         }
     },
     {
