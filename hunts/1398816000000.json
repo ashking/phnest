@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "22",
+            "votes": "23",
             "link": "https://www.madewithsisu.com",
             "name": "Sisu",
             "tagline": "Your exercise data as art",
             "ph_url": "posts/sisu",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "gregoiregilbert",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "https://hellonod.com/",
             "name": "Nod",
             "tagline": "Bluetooth ring to control all your devices with your finger",
@@ -74,25 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "4",
-            "link": "http://getpiper.com/",
-            "name": "Piper",
-            "tagline": "IFTTT for Your Home",
-            "ph_url": "posts/piper",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://barterplace.co/",
             "name": "BarterPlace",
             "tagline": "A Marketplace to Trade Skills",
@@ -108,9 +90,27 @@
         }
     },
     {
+        "id": 6,
+        "post": {
+            "votes": "5",
+            "link": "http://getpiper.com/",
+            "name": "Piper",
+            "tagline": "IFTTT for Your Home",
+            "ph_url": "posts/piper",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
+        }
+    },
+    {
         "id": 7,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "https://slidebean.com",
             "name": "Slidebean",
             "tagline": "The easiest way to create beautiful presentations.",
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "2",
-            "link": "https://www.kickstarter.com/projects/903107259/scio-your-sixth-sense-a-pocket-molecular-sensor-fo",
-            "name": "SCiO",
-            "tagline": "A pocket molecular sensor for all",
-            "ph_url": "posts/scio",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ediggs",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
-            "twitter": "ediggs",
-            "name": "Eze Vidra",
-            "tagline": "Head of Google for Entrepreneurs Europe"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "2",
             "link": "http://foxmetrics.com/",
             "name": "Foxmetrics",
             "tagline": "Customer Analytics and Targeting.",
@@ -198,14 +180,14 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://www.squireapp.com/",
             "name": "Squire",
             "tagline": "Not your average media center.",
             "ph_url": "posts/squire",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "FrancoVarriano",
@@ -213,6 +195,24 @@
             "twitter": "FrancoVarriano",
             "name": "Franco Varriano",
             "tagline": "Director of Publishing"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "2",
+            "link": "https://www.kickstarter.com/projects/903107259/scio-your-sixth-sense-a-pocket-molecular-sensor-fo",
+            "name": "SCiO",
+            "tagline": "A pocket molecular sensor for all",
+            "ph_url": "posts/scio",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ediggs",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ediggs.jpg",
+            "twitter": "ediggs",
+            "name": "Eze Vidra",
+            "tagline": "Head of Google for Entrepreneurs Europe"
         }
     },
     {
@@ -249,6 +249,42 @@
             "twitter": "KristoferTM",
             "name": "Kris Minkstein",
             "tagline": "Founder @ Lamplighter Labs"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "1",
+            "link": "http://www.learnvest.com/",
+            "name": "LearnVest",
+            "tagline": "Make progress on your money.",
+            "ph_url": "posts/learnvest",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nowmiles",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nowmiles.jpg",
+            "twitter": "nowmiles",
+            "name": "Miles Matthias",
+            "tagline": "software engineer, dojo4"
+        }
+    },
+    {
+        "id": 16,
+        "post": {
+            "votes": "1",
+            "link": "http://www.brooklinen.com/",
+            "name": "Brooklinen",
+            "tagline": "Super High Quality Bedsheets, Super Low Price",
+            "ph_url": "posts/brooklinen",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
         }
     }
 ]
