@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "3",
+            "link": "http://www.stockpile.com/",
+            "name": "Stockpile",
+            "tagline": "The world&#39;s first gift card of stock.",
+            "ph_url": "posts/stockpile",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "ozguralaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
+            "twitter": "ozguralaz",
+            "name": "Özgür Alaz",
+            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "2",
             "link": "https://www.google.com/insights/consumersurveys/home",
             "name": "Customer Surveys",
@@ -36,43 +54,7 @@
         }
     },
     {
-        "id": 3,
-        "post": {
-            "votes": "2",
-            "link": "http://www.stockpile.com/",
-            "name": "Stockpile",
-            "tagline": "The world&#39;s first gift card of stock.",
-            "ph_url": "posts/stockpile",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "ozguralaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ozguralaz.jpg",
-            "twitter": "ozguralaz",
-            "name": "Özgür Alaz",
-            "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
-        }
-    },
-    {
         "id": 4,
-        "post": {
-            "votes": "1",
-            "link": "https://www.izettle.com",
-            "name": "iZettle",
-            "tagline": "Take Payments And Manage Your Store",
-            "ph_url": "posts/izettle",
-            "comments": "2"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
-        }
-    },
-    {
-        "id": 5,
         "post": {
             "votes": "1",
             "link": "http://simplisafe.com/",
@@ -90,7 +72,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "post": {
             "votes": "1",
             "link": "http://legalsifter.com/",
@@ -108,7 +90,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "http://somadesign.ca/projects/fontfriend/",
@@ -123,6 +105,24 @@
             "twitter": "nikitakorotaev",
             "name": "Nikita Korotaev",
             "tagline": "Incubating products @ Glocal Partners"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "1",
+            "link": "https://www.izettle.com",
+            "name": "iZettle",
+            "tagline": "Take Payments And Manage Your Store",
+            "ph_url": "posts/izettle",
+            "comments": "2"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
         }
     }
 ]
