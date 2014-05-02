@@ -57,6 +57,24 @@
         "id": 4,
         "post": {
             "votes": "7",
+            "link": "https://www.canva.com/",
+            "name": "Canva",
+            "tagline": "Amazingly Simple Graphic Design",
+            "ph_url": "posts/canva",
+            "comments": "4"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "7",
             "link": "https://key.me/",
             "name": "KeyMe",
             "tagline": "Copy keys.Solve lockouts",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "7",
             "link": "https://www.upbeatapp.com",
@@ -87,24 +105,6 @@
             "twitter": "kam_bain",
             "name": "Kam Bain",
             "tagline": "Founder of Cube"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "7",
-            "link": "https://www.canva.com/",
-            "name": "Canva",
-            "tagline": "Amazingly Simple Graphic Design",
-            "ph_url": "posts/canva",
-            "comments": "4"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "http://pressroom.io/",
             "name": "Pressroom",
             "tagline": "Create your press page in minutes",
@@ -201,24 +201,6 @@
         "id": 12,
         "post": {
             "votes": "2",
-            "link": "http://www.totemapp.com/",
-            "name": "Totemapp",
-            "tagline": "Build a great press page right now",
-            "ph_url": "posts/totemapp",
-            "comments": "3"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "2",
             "link": "http://www.skulpt.me/",
             "name": "Skulpt Aim",
             "tagline": "Innovative device for measuring body composition",
@@ -231,6 +213,24 @@
             "twitter": "jtzou",
             "name": "Jonathan Tzou",
             "tagline": "Head of Content &amp; Product, ScoreBeyond"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "2",
+            "link": "http://www.totemapp.com/",
+            "name": "Totemapp",
+            "tagline": "Build a great press page right now",
+            "ph_url": "posts/totemapp",
+            "comments": "3"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
         }
     }
 ]
