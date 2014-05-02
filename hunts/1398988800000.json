@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "33",
+            "votes": "34",
             "link": "http://prediction.io/",
             "name": "PredictionIO",
             "tagline": "Open source machine learning to predict/learn user behavior",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "14",
+            "link": "http://papermine.com",
+            "name": "Papermine",
+            "tagline": "Create stunning digital booklets.",
+            "ph_url": "posts/papermine",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "13",
             "link": "http://karan.github.io/SoundWall/index.html",
             "name": "Soundcloud Wall",
@@ -51,24 +69,6 @@
             "twitter": "jaimefjorge",
             "name": "jaime jorge",
             "tagline": "CEO Founder of @Codacy"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "13",
-            "link": "http://papermine.com",
-            "name": "Papermine",
-            "tagline": "Create stunning digital booklets.",
-            "ph_url": "posts/papermine",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
         }
     },
     {
@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "10",
-            "link": "http://atlaswearables.com",
-            "name": "Atlas",
-            "tagline": "Measured success. Track your workout. Train your body.",
-            "ph_url": "posts/atlas",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "9",
             "link": "http://proto.io",
             "name": "Proto.io",
             "tagline": "Fast, fully-interactive, high-fidelity mobile prototypes",
@@ -123,6 +105,24 @@
             "twitter": "TheNickFrost",
             "name": "Nick Frost",
             "tagline": "Founder, StartupList"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "10",
+            "link": "http://atlaswearables.com",
+            "name": "Atlas",
+            "tagline": "Measured success. Track your workout. Train your body.",
+            "ph_url": "posts/atlas",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
         }
     },
     {
