@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "2",
+            "link": "http://atlaswearables.com",
+            "name": "Atlas",
+            "tagline": "Measured success. Track your workout. Train your body.",
+            "ph_url": "posts/atlas",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "1",
             "link": "http://pavlok.com/",
             "name": "Pavlok",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "1",
             "link": "http://emailga.me/",
@@ -69,24 +87,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "1",
-            "link": "http://atlaswearables.com",
-            "name": "Atlas",
-            "tagline": "Measured success. Track your workout. Train your body.",
-            "ph_url": "posts/atlas",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
         }
     }
 ]
