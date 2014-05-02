@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "13",
+            "link": "http://proto.io",
+            "name": "Proto.io",
+            "tagline": "Fast, fully-interactive, high-fidelity mobile prototypes",
+            "ph_url": "posts/proto-io",
+            "comments": "3"
+        },
+        "user": {
+            "id": "TheNickFrost",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TheNickFrost.jpg",
+            "twitter": "TheNickFrost",
+            "name": "Nick Frost",
+            "tagline": "Founder, StartupList"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "12",
             "link": "http://surfkoll.se/",
             "name": "Surfkoll",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "12",
             "link": "http://atlaswearables.com",
@@ -123,24 +141,6 @@
             "twitter": "gregoiregilbert",
             "name": "Grégoire Gilbert",
             "tagline": "Partner, Hornli"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "12",
-            "link": "http://proto.io",
-            "name": "Proto.io",
-            "tagline": "Fast, fully-interactive, high-fidelity mobile prototypes",
-            "ph_url": "posts/proto-io",
-            "comments": "3"
-        },
-        "user": {
-            "id": "TheNickFrost",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/TheNickFrost.jpg",
-            "twitter": "TheNickFrost",
-            "name": "Nick Frost",
-            "tagline": "Founder, StartupList"
         }
     },
     {
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "7",
-            "link": "http://www.gifgasm.me/",
-            "name": "Gifgasm",
-            "tagline": "Create GIF slideshows using image search",
-            "ph_url": "posts/gifgasm",
-            "comments": "6"
-        },
-        "user": {
-            "id": "mutlu82",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mutlu82.jpg",
-            "twitter": "mutlu82",
-            "name": "Murat Mutlu",
-            "tagline": "Co-Founder, Marvelapp"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "7",
             "link": "http://www.clipular.com",
             "name": "Clipular",
             "tagline": "Research, Save, and Share Screenshots",
@@ -195,6 +177,24 @@
             "twitter": "LenKendall",
             "name": "Len Kendall",
             "tagline": "CEO - CentUp"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "7",
+            "link": "http://www.gifgasm.me/",
+            "name": "Gifgasm",
+            "tagline": "Create GIF slideshows using image search",
+            "ph_url": "posts/gifgasm",
+            "comments": "6"
+        },
+        "user": {
+            "id": "mutlu82",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mutlu82.jpg",
+            "twitter": "mutlu82",
+            "name": "Murat Mutlu",
+            "tagline": "Co-Founder, Marvelapp"
         }
     },
     {
