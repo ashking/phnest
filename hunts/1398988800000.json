@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "20",
+            "link": "http://prediction.io/",
+            "name": "PredictionIO",
+            "tagline": "Open source machine learning to predict/learn user behavior",
+            "ph_url": "posts/predictionio",
+            "comments": "5"
+        },
+        "user": {
+            "id": "jaimefjorge",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jaimefjorge.jpg",
+            "twitter": "jaimefjorge",
+            "name": "jaime jorge",
+            "tagline": "CEO Founder of @Codacy"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "18",
             "link": "http://earlyaccess.billguard.com/",
             "name": "BillGuard - Android",
@@ -15,24 +33,6 @@
             "twitter": "raphaelouzan",
             "name": "Raphael Ouzan",
             "tagline": "Founder, BillGuard"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "17",
-            "link": "http://prediction.io/",
-            "name": "PredictionIO",
-            "tagline": "Open source machine learning to predict/learn user behavior",
-            "ph_url": "posts/predictionio",
-            "comments": "4"
-        },
-        "user": {
-            "id": "jaimefjorge",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jaimefjorge.jpg",
-            "twitter": "jaimefjorge",
-            "name": "jaime jorge",
-            "tagline": "CEO Founder of @Codacy"
         }
     },
     {
