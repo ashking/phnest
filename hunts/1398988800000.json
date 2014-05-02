@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "10",
+            "link": "http://papermine.com",
+            "name": "Papermine",
+            "tagline": "Create stunning digital booklets.",
+            "ph_url": "posts/papermine",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "9",
             "link": "http://www.airsquirrels.com/airparrot/",
             "name": "AirParrot",
@@ -36,27 +54,9 @@
         }
     },
     {
-        "id": 3,
-        "post": {
-            "votes": "9",
-            "link": "http://papermine.com",
-            "name": "Papermine",
-            "tagline": "Create stunning digital booklets.",
-            "ph_url": "posts/papermine",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
-        }
-    },
-    {
         "id": 4,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://karan.github.io/SoundWall/index.html",
             "name": "Soundcloud Wall",
             "tagline": "Discover new music faster",
