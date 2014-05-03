@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://erambert.me/en/goodies/better-tweetdeck/",
             "name": "Better TweetDeck",
             "tagline": "Make TweetDeck even better!",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://heymosaic.com/",
             "name": "Mosaic",
             "tagline": "Create a physical photo book from your phone in a snap.",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "4",
+            "link": "http://nextsociety.com/",
+            "name": "Next Society",
+            "tagline": "Network Smarter",
+            "ph_url": "posts/next-society",
+            "comments": "2"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "3",
             "link": "https://burnnote.com/",
             "name": "Burn Note",
@@ -87,24 +105,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "3",
-            "link": "http://nextsociety.com/",
-            "name": "Next Society",
-            "tagline": "Network Smarter",
-            "ph_url": "posts/next-society",
-            "comments": "2"
-        },
-        "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
         }
     }
 ]
