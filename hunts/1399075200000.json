@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "4",
+            "link": "http://heymosaic.com/",
+            "name": "Mosaic",
+            "tagline": "Create a physical photo book from your phone in a snap.",
+            "ph_url": "posts/mosaic",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kaz",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kaz.jpg",
+            "twitter": "kaz",
+            "name": "Adam Kazwell",
+            "tagline": "Product Manager"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "3",
             "link": "https://burnnote.com/",
             "name": "Burn Note",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "3",
             "link": "http://nextsociety.com/",
@@ -72,27 +90,9 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "3",
-            "link": "http://heymosaic.com/",
-            "name": "Mosaic",
-            "tagline": "Create a physical photo book from your phone in a snap.",
-            "ph_url": "posts/mosaic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kaz",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kaz.jpg",
-            "twitter": "kaz",
-            "name": "Adam Kazwell",
-            "tagline": "Product Manager"
-        }
-    },
-    {
         "id": 6,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://erambert.me/en/goodies/better-tweetdeck/",
             "name": "Better TweetDeck",
             "tagline": "Make TweetDeck even better!",
