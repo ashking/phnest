@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "24",
+            "votes": "25",
             "link": "http://getwiser.com/",
             "name": "Wiser",
             "tagline": "Share relevant content w/in your organization.",
@@ -133,7 +133,7 @@
             "name": "One-click addonlist",
             "tagline": "Get services like MongoLab with a single click",
             "ph_url": "posts/one-click-addonlist",
-            "comments": "1 comment"
+            "comments": "3"
         },
         "user": {
             "id": "_jacksmith",
@@ -200,30 +200,12 @@
     {
         "id": 12,
         "post": {
-            "votes": "2",
-            "link": "http://twinery.org/",
-            "name": "Twine",
-            "tagline": "Make your own narrative-based games",
-            "ph_url": "posts/twine-2",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "nayafia",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nayafia.jpg",
-            "twitter": "nayafia",
-            "name": "Nadia Eghbal",
-            "tagline": "Cofounder, Feast"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://www.iconbaker.com/",
             "name": "Icon Baker",
             "tagline": "Test your app icon designs on your homescreen",
             "ph_url": "posts/icon-baker",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "KristoferTM",
@@ -234,7 +216,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 13,
         "post": {
             "votes": "2",
             "link": "http://www.squadhelp.com/",
@@ -252,14 +234,14 @@
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "post": {
             "votes": "2",
             "link": "http://www.jobrapp.com/",
             "name": "Jobr",
             "tagline": "Tindr for job hunting",
             "ph_url": "posts/jobr",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "adamsigel",
@@ -270,7 +252,7 @@
         }
     },
     {
-        "id": 16,
+        "id": 15,
         "post": {
             "votes": "2",
             "link": "http://www.prototypo.io/",
@@ -288,7 +270,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 16,
         "post": {
             "votes": "2",
             "link": "http://finallybulbs.com/",
@@ -303,6 +285,24 @@
             "twitter": "adamsigel",
             "name": "Adam Sigel",
             "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
+            "votes": "2",
+            "link": "http://twinery.org/",
+            "name": "Twine",
+            "tagline": "Make your own narrative-based games",
+            "ph_url": "posts/twine-2",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nayafia",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nayafia.jpg",
+            "twitter": "nayafia",
+            "name": "Nadia Eghbal",
+            "tagline": "Cofounder, Feast"
         }
     }
 ]
