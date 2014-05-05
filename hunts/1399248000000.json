@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "https://www.google.com/shopping/express/",
             "name": "Google Express",
             "tagline": "Same-day delivery for groceries and more (now in NYC &amp; LA)",
@@ -21,6 +21,24 @@
         "id": 2,
         "post": {
             "votes": "8",
+            "link": "http://getwiser.com/",
+            "name": "Wiser",
+            "tagline": "Share relevant content w/in your organization.",
+            "ph_url": "posts/get-wiser",
+            "comments": "2"
+        },
+        "user": {
+            "id": "dskaletsky",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dskaletsky.jpg",
+            "twitter": "dskaletsky",
+            "name": "Derek Skaletsky",
+            "tagline": "Founder &amp; CEO, Knowtify.io"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "8",
             "link": "https://github.com/pickhardt/betty",
             "name": "Betty",
             "tagline": "Natural language input for the command line",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "8",
             "link": "http://nusii.com",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "7",
             "link": "http://yourfirstcustomers.com/",
@@ -72,43 +90,7 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "http://getwiser.com/",
-            "name": "Wiser",
-            "tagline": "Share relevant content w/in your organization.",
-            "ph_url": "posts/get-wiser",
-            "comments": "2"
-        },
-        "user": {
-            "id": "dskaletsky",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dskaletsky.jpg",
-            "twitter": "dskaletsky",
-            "name": "Derek Skaletsky",
-            "tagline": "Founder &amp; CEO, Knowtify.io"
-        }
-    },
-    {
         "id": 6,
-        "post": {
-            "votes": "6",
-            "link": "https://peerby.com/",
-            "name": "Peerby",
-            "tagline": "Borrow the things you need from people in your neighborhood",
-            "ph_url": "posts/peerby",
-            "comments": "2"
-        },
-        "user": {
-            "id": "yvoschaap",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/yvoschaap.jpg",
-            "twitter": "yvoschaap",
-            "name": "Yvo Schaap",
-            "tagline": "Founder &amp; Developer"
-        }
-    },
-    {
-        "id": 7,
         "post": {
             "votes": "6",
             "link": "https://www.soundtrap.com/",
@@ -123,6 +105,24 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "6",
+            "link": "https://peerby.com/",
+            "name": "Peerby",
+            "tagline": "Borrow the things you need from people in your neighborhood",
+            "ph_url": "posts/peerby",
+            "comments": "2"
+        },
+        "user": {
+            "id": "yvoschaap",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/yvoschaap.jpg",
+            "twitter": "yvoschaap",
+            "name": "Yvo Schaap",
+            "tagline": "Founder &amp; Developer"
         }
     },
     {
@@ -205,7 +205,7 @@
             "name": "WriterKata",
             "tagline": "Simple exercises to become a better writer",
             "ph_url": "posts/writerkata",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "rrhoover",
