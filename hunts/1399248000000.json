@@ -75,6 +75,24 @@
         "id": 5,
         "post": {
             "votes": "1",
+            "link": "https://www.soundtrap.com/",
+            "name": "Soundtrap",
+            "tagline": "Jam with friends",
+            "ph_url": "posts/soundtrap",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "1",
             "link": "http://www.squadhelp.com/",
             "name": "SquadHelp",
             "tagline": "99designs for company names/domains",
@@ -90,21 +108,21 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "1",
-            "link": "https://www.soundtrap.com/",
-            "name": "Soundtrap",
-            "tagline": "Jam with friends",
-            "ph_url": "posts/soundtrap",
-            "comments": "1 comment"
+            "link": "http://yourfirstcustomers.com/",
+            "name": "Your First Customers",
+            "tagline": "Podcast &amp; book about finding your first customers.",
+            "ph_url": "posts/your-first-customers",
+            "comments": "View details"
         },
         "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
+            "id": "adii",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adii.jpg",
+            "twitter": "adii",
+            "name": "adii",
+            "tagline": "Founder, PublicBeta"
         }
     }
 ]
