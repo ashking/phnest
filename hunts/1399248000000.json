@@ -3,6 +3,24 @@
         "id": 1,
         "post": {
             "votes": "8",
+            "link": "http://nusii.com",
+            "name": "Nusii",
+            "tagline": "Simple online proposal software for designers and studios",
+            "ph_url": "posts/nusii",
+            "comments": "2"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
+            "votes": "8",
             "link": "https://github.com/pickhardt/betty",
             "name": "Betty",
             "tagline": "Natural language input for the command line",
@@ -18,9 +36,9 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "https://www.google.com/shopping/express/",
             "name": "Google Express",
             "tagline": "Same-day delivery for groceries and more (now in NYC &amp; LA)",
@@ -33,24 +51,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "7",
-            "link": "http://nusii.com",
-            "name": "Nusii",
-            "tagline": "Simple online proposal software for designers and studios",
-            "ph_url": "posts/nusii",
-            "comments": "2"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
         }
     },
     {
@@ -75,6 +75,24 @@
         "id": 5,
         "post": {
             "votes": "5",
+            "link": "http://getwiser.com/",
+            "name": "Get Wiser",
+            "tagline": "Share relevant content w/in your organization.",
+            "ph_url": "posts/get-wiser",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "dskaletsky",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dskaletsky.jpg",
+            "twitter": "dskaletsky",
+            "name": "Derek Skaletsky",
+            "tagline": "Founder &amp; CEO, Knowtify.io"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "5",
             "link": "https://peerby.com/",
             "name": "Peerby",
             "tagline": "Borrow the things you need from people in your neighborhood",
@@ -90,7 +108,25 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
+        "post": {
+            "votes": "4",
+            "link": "https://addonlist.com/one-click",
+            "name": "One-click addonlist",
+            "tagline": "Get services like MongoLab with a single click",
+            "ph_url": "posts/one-click-addonlist",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 8,
         "post": {
             "votes": "4",
             "link": "http://feedpress.it",
@@ -108,7 +144,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 9,
         "post": {
             "votes": "4",
             "link": "http://yourfirstcustomers.com/",
@@ -126,45 +162,9 @@
         }
     },
     {
-        "id": 8,
-        "post": {
-            "votes": "4",
-            "link": "http://getwiser.com/",
-            "name": "Get Wiser",
-            "tagline": "Share relevant content w/in your organization.",
-            "ph_url": "posts/get-wiser",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "dskaletsky",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dskaletsky.jpg",
-            "twitter": "dskaletsky",
-            "name": "Derek Skaletsky",
-            "tagline": "Founder &amp; CEO, Knowtify.io"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "3",
-            "link": "https://addonlist.com/one-click",
-            "name": "One-click addonlist",
-            "tagline": "Get services like MongoLab with a single click",
-            "ph_url": "posts/one-click-addonlist",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
         "id": 10,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://www.squadhelp.com/",
             "name": "SquadHelp",
             "tagline": "99designs for company names/domains",
@@ -205,7 +205,7 @@
             "name": "Icon Baker",
             "tagline": "Test your app icon designs on your homescreen",
             "ph_url": "posts/icon-baker",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "KristoferTM",
