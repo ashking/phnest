@@ -111,6 +111,24 @@
         "id": 7,
         "post": {
             "votes": "2",
+            "link": "http://yourfirstcustomers.com/",
+            "name": "Your First Customers",
+            "tagline": "Podcast &amp; book about finding your first customers.",
+            "ph_url": "posts/your-first-customers",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "adii",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adii.jpg",
+            "twitter": "adii",
+            "name": "adii",
+            "tagline": "Founder, PublicBeta"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "2",
             "link": "https://www.google.com/shopping/express/",
             "name": "Google Express",
             "tagline": "Same-day delivery for groceries and more (now in NYC &amp; LA)",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "1",
             "link": "http://www.squadhelp.com/",
@@ -141,24 +159,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "1",
-            "link": "http://yourfirstcustomers.com/",
-            "name": "Your First Customers",
-            "tagline": "Podcast &amp; book about finding your first customers.",
-            "ph_url": "posts/your-first-customers",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "adii",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adii.jpg",
-            "twitter": "adii",
-            "name": "adii",
-            "tagline": "Founder, PublicBeta"
         }
     }
 ]
