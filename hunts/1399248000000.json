@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "2",
+            "link": "http://feedpress.it",
+            "name": "FeedPress",
+            "tagline": "Feed analytics done right",
+            "ph_url": "posts/feedpress",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "1",
             "link": "http://www.squadhelp.com/",
             "name": "SquadHelp",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "https://www.soundtrap.com/",
@@ -87,24 +105,6 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "http://feedpress.it",
-            "name": "FeedPress",
-            "tagline": "Feed analytics done right",
-            "ph_url": "posts/feedpress",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Partner, Hornli"
         }
     }
 ]
