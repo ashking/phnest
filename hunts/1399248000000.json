@@ -2,11 +2,47 @@
     {
         "id": 1,
         "post": {
+            "votes": "2",
+            "link": "http://nusii.com",
+            "name": "Nusii",
+            "tagline": "Simple online proposal software for designers and studios",
+            "ph_url": "posts/nusii",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Partner, Hornli"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "1",
             "link": "http://www.squadhelp.com/",
             "name": "SquadHelp",
             "tagline": "99designs for company names/domains",
             "ph_url": "posts/squadhelp",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "1",
+            "link": "https://github.com/pickhardt/betty",
+            "name": "betty",
+            "tagline": "Natural language input for the command line",
+            "ph_url": "posts/betty-2",
             "comments": "1 comment"
         },
         "user": {
