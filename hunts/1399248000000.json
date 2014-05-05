@@ -7,7 +7,7 @@
             "name": "Wiser",
             "tagline": "Share relevant content w/in your organization.",
             "ph_url": "posts/get-wiser",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "dskaletsky",
@@ -57,24 +57,6 @@
         "id": 4,
         "post": {
             "votes": "10",
-            "link": "https://www.soundtrap.com/",
-            "name": "Soundtrap",
-            "tagline": "Jam with friends",
-            "ph_url": "posts/soundtrap",
-            "comments": "2"
-        },
-        "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "9",
             "link": "https://github.com/pickhardt/betty",
             "name": "Betty",
             "tagline": "Natural language input for the command line",
@@ -90,7 +72,43 @@
         }
     },
     {
+        "id": 5,
+        "post": {
+            "votes": "10",
+            "link": "https://www.soundtrap.com/",
+            "name": "Soundtrap",
+            "tagline": "Jam with friends",
+            "ph_url": "posts/soundtrap",
+            "comments": "2"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
         "id": 6,
+        "post": {
+            "votes": "8",
+            "link": "https://addonlist.com/one-click",
+            "name": "One-click addonlist",
+            "tagline": "Get services like MongoLab with a single click",
+            "ph_url": "posts/one-click-addonlist",
+            "comments": "4"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 7,
         "post": {
             "votes": "8",
             "link": "http://nusii.com",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "7",
             "link": "https://peerby.com/",
@@ -123,24 +141,6 @@
             "twitter": "yvoschaap",
             "name": "Yvo Schaap",
             "tagline": "Founder &amp; Developer"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "6",
-            "link": "https://addonlist.com/one-click",
-            "name": "One-click addonlist",
-            "tagline": "Get services like MongoLab with a single click",
-            "ph_url": "posts/one-click-addonlist",
-            "comments": "4"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -219,29 +219,11 @@
         "id": 13,
         "post": {
             "votes": "2",
-            "link": "http://www.squadhelp.com/",
-            "name": "SquadHelp",
-            "tagline": "99designs for company names/domains",
-            "ph_url": "posts/squadhelp",
-            "comments": "2"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "2",
-            "link": "http://www.jobrapp.com/",
-            "name": "Jobr",
-            "tagline": "Tindr for job hunting",
-            "ph_url": "posts/jobr",
-            "comments": "3"
+            "link": "http://finallybulbs.com/",
+            "name": "Finally Bulb",
+            "tagline": "Energy efficient incandescent-style light bulb",
+            "ph_url": "posts/finally-bulb",
+            "comments": "1 comment"
         },
         "user": {
             "id": "adamsigel",
@@ -252,7 +234,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "post": {
             "votes": "2",
             "link": "http://www.prototypo.io/",
@@ -270,14 +252,14 @@
         }
     },
     {
-        "id": 16,
+        "id": 15,
         "post": {
             "votes": "2",
-            "link": "http://finallybulbs.com/",
-            "name": "Finally Bulb",
-            "tagline": "Energy efficient incandescent-style light bulb",
-            "ph_url": "posts/finally-bulb",
-            "comments": "1 comment"
+            "link": "http://www.jobrapp.com/",
+            "name": "Jobr",
+            "tagline": "Tindr for job hunting",
+            "ph_url": "posts/jobr",
+            "comments": "3"
         },
         "user": {
             "id": "adamsigel",
@@ -285,6 +267,24 @@
             "twitter": "adamsigel",
             "name": "Adam Sigel",
             "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 16,
+        "post": {
+            "votes": "2",
+            "link": "http://www.squadhelp.com/",
+            "name": "SquadHelp",
+            "tagline": "99designs for company names/domains",
+            "ph_url": "posts/squadhelp",
+            "comments": "2"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
