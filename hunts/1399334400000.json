@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "http://kennedyapp.com/",
             "name": "Kennedy",
             "tagline": "Capture notes with context",
@@ -147,11 +147,11 @@
         "id": 9,
         "post": {
             "votes": "7",
-            "link": "http://osxc.github.io/",
-            "name": "osxc",
-            "tagline": "simple configuration tool for os x",
-            "ph_url": "posts/osxc",
-            "comments": "1 comment"
+            "link": "http://prose.io/",
+            "name": "Prose",
+            "tagline": "CMS-free content manager w/ Jekyll &amp; markdown support",
+            "ph_url": "posts/prose",
+            "comments": "View details"
         },
         "user": {
             "id": "_jacksmith",
@@ -165,11 +165,11 @@
         "id": 10,
         "post": {
             "votes": "7",
-            "link": "http://prose.io/",
-            "name": "Prose",
-            "tagline": "CMS-free content manager w/ Jekyll &amp; markdown support",
-            "ph_url": "posts/prose",
-            "comments": "View details"
+            "link": "http://osxc.github.io/",
+            "name": "osxc",
+            "tagline": "simple configuration tool for os x",
+            "ph_url": "posts/osxc",
+            "comments": "1 comment"
         },
         "user": {
             "id": "_jacksmith",
@@ -201,6 +201,24 @@
         "id": 12,
         "post": {
             "votes": "5",
+            "link": "https://handmadetea.com",
+            "name": "Handmade Tea",
+            "tagline": "Unique loose leaf tea blends delivered monthly",
+            "ph_url": "posts/handmade-tea",
+            "comments": "8"
+        },
+        "user": {
+            "id": "calebrown",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/calebrown.jpg",
+            "twitter": "calebrown",
+            "name": "Caleb Brown",
+            "tagline": "Founder, Handmade Tea"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "5",
             "link": "http://www.hugdug.com/",
             "name": "hugdug",
             "tagline": "Raise money for charities by sharing your favorite things",
@@ -216,7 +234,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "5",
             "link": "https://reko.me/",
@@ -231,24 +249,6 @@
             "twitter": "CCMoberg",
             "name": "CCMoberg",
             "tagline": "CEO, SnowShoe Stamp"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "5",
-            "link": "https://handmadetea.com",
-            "name": "Handmade Tea",
-            "tagline": "Unique loose leaf tea blends delivered monthly",
-            "ph_url": "posts/handmade-tea",
-            "comments": "8"
-        },
-        "user": {
-            "id": "calebrown",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/calebrown.jpg",
-            "twitter": "calebrown",
-            "name": "Caleb Brown",
-            "tagline": "Founder, Handmade Tea"
         }
     },
     {
@@ -327,24 +327,6 @@
         "id": 19,
         "post": {
             "votes": "1",
-            "link": "http://www.paintcodeapp.com",
-            "name": "PaintCode 2",
-            "tagline": "The missing bridge between developers and graphic designers",
-            "ph_url": "posts/paintcode",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "42Burnside",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/42Burnside.jpg",
-            "twitter": "42Burnside",
-            "name": "Rich Henderson",
-            "tagline": "One Man Band, 42Burnside"
-        }
-    },
-    {
-        "id": 20,
-        "post": {
-            "votes": "1",
             "link": "http://www.applause.com/",
             "name": "Applause",
             "tagline": "Winning apps get it.",
@@ -357,6 +339,24 @@
             "twitter": "malaparte",
             "name": "Andrei M. Marinescu",
             "tagline": "Growth Lead, 500 Startups"
+        }
+    },
+    {
+        "id": 20,
+        "post": {
+            "votes": "1",
+            "link": "http://www.paintcodeapp.com",
+            "name": "PaintCode 2",
+            "tagline": "The missing bridge between developers and graphic designers",
+            "ph_url": "posts/paintcode",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "42Burnside",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/42Burnside.jpg",
+            "twitter": "42Burnside",
+            "name": "Rich Henderson",
+            "tagline": "One Man Band, 42Burnside"
         }
     }
 ]
