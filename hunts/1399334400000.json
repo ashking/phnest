@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "18",
+            "votes": "19",
             "link": "https://plasso.co/",
             "name": "Plasso",
             "tagline": "Payments Made Simple",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "17",
+            "link": "http://ouija.io",
+            "name": "Ouija",
+            "tagline": "Realtime, inline commenting for Ghost blogging platform",
+            "ph_url": "posts/ouija",
+            "comments": "9"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "16",
             "link": "https://www.compass.co/",
             "name": "Compass",
@@ -51,24 +69,6 @@
             "twitter": "skinnyandbald",
             "name": "Ben Fisher",
             "tagline": "Designer+Hacker, SKINNY&amp;bald"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "16",
-            "link": "http://ouija.io",
-            "name": "Ouija",
-            "tagline": "Realtime, inline commenting for Ghost blogging platform",
-            "ph_url": "posts/ouija",
-            "comments": "9"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
