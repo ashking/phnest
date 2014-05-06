@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "26",
+            "votes": "27",
             "link": "https://reko.me/",
             "name": "Reko.me",
             "tagline": "Find your photos, when you want them.",
@@ -236,6 +236,24 @@
     {
         "id": 14,
         "post": {
+            "votes": "6",
+            "link": "http://sortingapp.com/",
+            "name": "Sorting",
+            "tagline": "Sort the people you follow on Twitter into tidy lists.",
+            "ph_url": "posts/sorting",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "andyfortson",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andyfortson.jpg",
+            "twitter": "andyfortson",
+            "name": "Andy Fortson",
+            "tagline": "Co-founder, Co-Ed Supply"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
             "votes": "5",
             "link": "http://www.hugdug.com/",
             "name": "hugdug",
@@ -249,24 +267,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "5",
-            "link": "http://sortingapp.com/",
-            "name": "Sorting",
-            "tagline": "Sort the people you follow on Twitter into tidy lists.",
-            "ph_url": "posts/sorting",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "andyfortson",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andyfortson.jpg",
-            "twitter": "andyfortson",
-            "name": "Andy Fortson",
-            "tagline": "Co-founder, Co-Ed Supply"
         }
     },
     {
@@ -291,24 +291,6 @@
         "id": 17,
         "post": {
             "votes": "2",
-            "link": "http://www.cardiio.com",
-            "name": "Cardiio",
-            "tagline": "Measure your heart rate through your iPhone camera",
-            "ph_url": "posts/cardiio",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "Owens",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/Owens.jpg",
-            "twitter": "Owens",
-            "name": "Hunter Owens",
-            "tagline": "Party Leader, MLGen"
-        }
-    },
-    {
-        "id": 18,
-        "post": {
-            "votes": "2",
             "link": "https://www.startup.sx/",
             "name": "StartupStockExchange",
             "tagline": "Regulated Global Marketplace for Startup Investing &amp; Funding",
@@ -321,6 +303,24 @@
             "twitter": "marckohlbrugge",
             "name": "Marc Köhlbrugge",
             "tagline": "Founder of Beta List"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
+            "votes": "2",
+            "link": "http://www.cardiio.com",
+            "name": "Cardiio",
+            "tagline": "Measure your heart rate through your iPhone camera",
+            "ph_url": "posts/cardiio",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "Owens",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/Owens.jpg",
+            "twitter": "Owens",
+            "name": "Hunter Owens",
+            "tagline": "Party Leader, MLGen"
         }
     },
     {
