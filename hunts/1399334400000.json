@@ -75,6 +75,24 @@
         "id": 5,
         "post": {
             "votes": "5",
+            "link": "http://kennedyapp.com/",
+            "name": "Kennedy",
+            "tagline": "Capture notes with context",
+            "ph_url": "posts/kennedy",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "daveambrose",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
+            "twitter": "daveambrose",
+            "name": "Dave Ambrose",
+            "tagline": "Venture Investor"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "5",
             "link": "http://freshdesk.com/",
             "name": "Freshdesk",
             "tagline": "Everything you need to deliver exceptional customer support.",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "5",
             "link": "http://ouija.io",
@@ -108,43 +126,7 @@
         }
     },
     {
-        "id": 7,
-        "post": {
-            "votes": "4",
-            "link": "http://kennedyapp.com/",
-            "name": "Kennedy",
-            "tagline": "Capture notes with context",
-            "ph_url": "posts/kennedy",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "daveambrose",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daveambrose.jpg",
-            "twitter": "daveambrose",
-            "name": "Dave Ambrose",
-            "tagline": "Venture Investor"
-        }
-    },
-    {
         "id": 8,
-        "post": {
-            "votes": "4",
-            "link": "http://www.hugdug.com/",
-            "name": "hugdug",
-            "tagline": "Raise money for charities by sharing your favorite things",
-            "ph_url": "posts/hugdug",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
-        }
-    },
-    {
-        "id": 9,
         "post": {
             "votes": "4",
             "link": "http://osxc.github.io/",
@@ -159,6 +141,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "4",
+            "link": "http://www.hugdug.com/",
+            "name": "hugdug",
+            "tagline": "Raise money for charities by sharing your favorite things",
+            "ph_url": "posts/hugdug",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
         }
     },
     {
