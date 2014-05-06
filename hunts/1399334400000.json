@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "https://plasso.co/",
             "name": "Plasso",
             "tagline": "Payments Made Simple",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "6",
+            "link": "http://ouija.io",
+            "name": "Ouija",
+            "tagline": "Realtime, inline commenting for Ghost blogging platform",
+            "ph_url": "posts/ouija",
+            "comments": "5"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "5",
             "link": "http://kennedyapp.com/",
             "name": "Kennedy",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "5",
             "link": "http://freshdesk.com/",
@@ -105,24 +123,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "5",
-            "link": "http://ouija.io",
-            "name": "Ouija",
-            "tagline": "Realtime, inline commenting for Ghost blogging platform",
-            "ph_url": "posts/ouija",
-            "comments": "5"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
