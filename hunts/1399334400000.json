@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "6",
+            "link": "http://osxc.github.io/",
+            "name": "osxc",
+            "tagline": "simple configuration tool for os x",
+            "ph_url": "posts/osxc",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "5",
             "link": "http://kennedyapp.com/",
             "name": "Kennedy",
@@ -123,24 +141,6 @@
             "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "5",
-            "link": "http://osxc.github.io/",
-            "name": "osxc",
-            "tagline": "simple configuration tool for os x",
-            "ph_url": "posts/osxc",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -201,24 +201,6 @@
         "id": 12,
         "post": {
             "votes": "3",
-            "link": "https://handmadetea.com",
-            "name": "Handmade Tea",
-            "tagline": "Unique loose leaf tea blends delivered monthly",
-            "ph_url": "posts/handmade-tea",
-            "comments": "3"
-        },
-        "user": {
-            "id": "calebrown",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/calebrown.jpg",
-            "twitter": "calebrown",
-            "name": "Caleb Brown",
-            "tagline": "Founder, Handmade Tea"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "3",
             "link": "https://reko.me/",
             "name": "Reko.me",
             "tagline": "Find your photos, when you want them.",
@@ -234,25 +216,25 @@
         }
     },
     {
-        "id": 14,
+        "id": 13,
         "post": {
-            "votes": "2",
-            "link": "http://sortingapp.com/",
-            "name": "Sorting",
-            "tagline": "Sort the people you follow on Twitter into tidy lists.",
-            "ph_url": "posts/sorting",
-            "comments": "View details"
+            "votes": "3",
+            "link": "https://handmadetea.com",
+            "name": "Handmade Tea",
+            "tagline": "Unique loose leaf tea blends delivered monthly",
+            "ph_url": "posts/handmade-tea",
+            "comments": "3"
         },
         "user": {
-            "id": "andyfortson",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andyfortson.jpg",
-            "twitter": "andyfortson",
-            "name": "Andy Fortson",
-            "tagline": "Co-founder, Co-Ed Supply"
+            "id": "calebrown",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/calebrown.jpg",
+            "twitter": "calebrown",
+            "name": "Caleb Brown",
+            "tagline": "Founder, Handmade Tea"
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "post": {
             "votes": "2",
             "link": "https://www.startup.sx/",
@@ -267,6 +249,24 @@
             "twitter": "marckohlbrugge",
             "name": "Marc Köhlbrugge",
             "tagline": "Founder of Beta List"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "2",
+            "link": "http://sortingapp.com/",
+            "name": "Sorting",
+            "tagline": "Sort the people you follow on Twitter into tidy lists.",
+            "ph_url": "posts/sorting",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "andyfortson",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/andyfortson.jpg",
+            "twitter": "andyfortson",
+            "name": "Andy Fortson",
+            "tagline": "Co-founder, Co-Ed Supply"
         }
     }
 ]
