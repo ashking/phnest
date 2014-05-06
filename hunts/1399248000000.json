@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "75",
+            "votes": "81",
             "link": "http://getwiser.com/",
             "name": "Wiser",
             "tagline": "Share relevant content w/in your organization.",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "36",
+            "votes": "38",
             "link": "https://www.google.com/shopping/express/",
             "name": "Google Express",
             "tagline": "Same-day delivery for groceries and more (now in NYC &amp; LA)",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "22",
+            "link": "http://yourfirstcustomers.com/",
+            "name": "Your First Customers",
+            "tagline": "Podcast &amp; book about finding your first customers.",
+            "ph_url": "posts/your-first-customers",
+            "comments": "4"
+        },
+        "user": {
+            "id": "adii",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adii.jpg",
+            "twitter": "adii",
+            "name": "adii",
+            "tagline": "Founder, PublicBeta"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "21",
             "link": "https://github.com/pickhardt/betty",
             "name": "Betty",
@@ -69,24 +87,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "21",
-            "link": "http://yourfirstcustomers.com/",
-            "name": "Your First Customers",
-            "tagline": "Podcast &amp; book about finding your first customers.",
-            "ph_url": "posts/your-first-customers",
-            "comments": "4"
-        },
-        "user": {
-            "id": "adii",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adii.jpg",
-            "twitter": "adii",
-            "name": "adii",
-            "tagline": "Founder, PublicBeta"
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "https://next.duckduckgo.com",
             "name": "Next Duck Duck Go",
             "tagline": "Hot new version of Duck Duck Go",
@@ -169,7 +169,7 @@
             "name": "Nusii",
             "tagline": "Simple online proposal software for designers and studios",
             "ph_url": "posts/nusii",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "gregoiregilbert",
