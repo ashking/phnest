@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://jekyllrb.com/",
             "name": "Jekyll 2.0",
             "tagline": "Transform your plain text into static websites and blogs.",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "5",
+            "link": "http://conjure.io/",
+            "name": "Conjure",
+            "tagline": "Share designs, gather feedback and get approval",
+            "ph_url": "posts/conjure",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "stef",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stef.jpg",
+            "twitter": "stef",
+            "name": "Stef Lewandowski",
+            "tagline": "Founder, Makeshift"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "3",
             "link": "https://stpcollege.com/",
             "name": "Startup College",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "3",
             "link": "http://www.dropmessages.com/",
@@ -105,24 +123,6 @@
             "twitter": "KristoferTM",
             "name": "Kris Minkstein",
             "tagline": "Founder @ Lamplighter Labs"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "3",
-            "link": "http://conjure.io/",
-            "name": "Conjure",
-            "tagline": "Share designs, gather feedback and get approval",
-            "ph_url": "posts/conjure",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "stef",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stef.jpg",
-            "twitter": "stef",
-            "name": "Stef Lewandowski",
-            "tagline": "Founder, Makeshift"
         }
     },
     {
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://www.kiwimotion.io/",
             "name": "Kiwi Motion",
             "tagline": "Bring Motion Into Your App",
