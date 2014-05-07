@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://jekyllrb.com/",
             "name": "Jekyll 2.0",
             "tagline": "Transform your plain text into static websites and blogs.",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "5",
+            "link": "http://startupbeer.me/",
+            "name": "Startup Beer",
+            "tagline": "Friday Startup Beer. Every Friday. Online!",
+            "ph_url": "posts/startup-beer",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bogomep",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
+            "twitter": "bogomep",
+            "name": "Bogomil Shopov -Bogo",
+            "tagline": "VP of Marketing, Usersnap"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "3",
             "link": "http://www.hipsterdomainfinder.com/",
             "name": "hipsterdomainfinder",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "3",
             "link": "http://getablink.com/",
@@ -51,24 +69,6 @@
             "twitter": "kjemperud",
             "name": "Thomas Kjemperud",
             "tagline": "Founder &amp; Curator, Startup Letters"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "3",
-            "link": "http://startupbeer.me/",
-            "name": "Startup Beer",
-            "tagline": "Friday Startup Beer. Every Friday. Online!",
-            "ph_url": "posts/startup-beer",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bogomep",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
-            "twitter": "bogomep",
-            "name": "Bogomil Shopov -Bogo",
-            "tagline": "VP of Marketing, Usersnap"
         }
     },
     {
