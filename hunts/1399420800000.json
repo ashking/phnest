@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "7",
+            "link": "http://startupbeer.me/",
+            "name": "Startup Beer",
+            "tagline": "Friday Startup Beer. Every Friday. Online!",
+            "ph_url": "posts/startup-beer",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bogomep",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
+            "twitter": "bogomep",
+            "name": "Bogomil Shopov -Bogo",
+            "tagline": "VP of Marketing, Usersnap"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "5",
             "link": "http://jekyllrb.com/",
             "name": "Jekyll 2.0",
@@ -18,25 +36,25 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
-            "votes": "5",
-            "link": "http://startupbeer.me/",
-            "name": "Startup Beer",
-            "tagline": "Friday Startup Beer. Every Friday. Online!",
-            "ph_url": "posts/startup-beer",
-            "comments": "1 comment"
+            "votes": "4",
+            "link": "http://getablink.com/",
+            "name": "Blink",
+            "tagline": "Snapchat meets Tinder meets Vine. Really.",
+            "ph_url": "posts/blink",
+            "comments": "2"
         },
         "user": {
-            "id": "bogomep",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bogomep.jpg",
-            "twitter": "bogomep",
-            "name": "Bogomil Shopov -Bogo",
-            "tagline": "VP of Marketing, Usersnap"
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "3",
             "link": "http://www.hipsterdomainfinder.com/",
@@ -51,24 +69,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "3",
-            "link": "http://getablink.com/",
-            "name": "Blink",
-            "tagline": "Snapchat meets Tinder meets Vine. Really.",
-            "ph_url": "posts/blink",
-            "comments": "2"
-        },
-        "user": {
-            "id": "kjemperud",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
-            "twitter": "kjemperud",
-            "name": "Thomas Kjemperud",
-            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     },
     {
