@@ -75,6 +75,24 @@
         "id": 5,
         "post": {
             "votes": "2",
+            "link": "http://www.showkit.com/",
+            "name": "Showkit",
+            "tagline": "In-app mobile support.  Real-time and personal.",
+            "ph_url": "posts/showkit",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kwdinc",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
+            "twitter": "kwdinc",
+            "name": "Kevin William David",
+            "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "2",
             "link": "http://llllll.li/typewriter/",
             "name": "Typewriter",
             "tagline": "A Text Editor with No Features",
@@ -87,24 +105,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "https://stpcollege.com/",
-            "name": "Startup College",
-            "tagline": "Startup skills as online courses",
-            "ph_url": "posts/startup-college",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kjemperud",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
-            "twitter": "kjemperud",
-            "name": "Thomas Kjemperud",
-            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     },
     {
@@ -129,18 +129,18 @@
         "id": 8,
         "post": {
             "votes": "1",
-            "link": "http://www.showkit.com/",
-            "name": "Showkit",
-            "tagline": "In-app mobile support.  Real-time and personal.",
-            "ph_url": "posts/showkit",
-            "comments": "View details"
+            "link": "https://stpcollege.com/",
+            "name": "Startup College",
+            "tagline": "Startup skills as online courses",
+            "ph_url": "posts/startup-college",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "kwdinc",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kwdinc.jpg",
-            "twitter": "kwdinc",
-            "name": "Kevin William David",
-            "tagline": "CEO,WalletKit"
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     }
 ]
