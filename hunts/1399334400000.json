@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "34",
+            "votes": "35",
             "link": "https://reko.me/",
             "name": "Reko.me",
             "tagline": "Find your photos, when you want them.",
@@ -39,6 +39,24 @@
         "id": 3,
         "post": {
             "votes": "20",
+            "link": "http://ouija.io",
+            "name": "Ouija",
+            "tagline": "Realtime, inline commenting for Ghost blogging platform",
+            "ph_url": "posts/ouija",
+            "comments": "10"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "20",
             "link": "https://www.compass.co/",
             "name": "Compass",
             "tagline": "Compare your biz metrics to a similar biz&#39;s. Auto-magically.",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "20",
             "link": "https://plasso.co/",
@@ -69,24 +87,6 @@
             "twitter": "Jonnotie",
             "name": "Jonno Riekwel",
             "tagline": "Product designer, Jonnotie"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "19",
-            "link": "http://ouija.io",
-            "name": "Ouija",
-            "tagline": "Realtime, inline commenting for Ghost blogging platform",
-            "ph_url": "posts/ouija",
-            "comments": "10"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
