@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "http://threecentsapp.com",
             "name": "Three Cents App",
             "tagline": "Get Three Cents from your friends.",
@@ -129,6 +129,24 @@
         "id": 8,
         "post": {
             "votes": "3",
+            "link": "http://www.kensho.com/",
+            "name": "Kensho",
+            "tagline": "Your Intelligent Market Research Assistant.",
+            "ph_url": "posts/kensho",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "badboyboyce",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/badboyboyce.jpg",
+            "twitter": "badboyboyce",
+            "name": "Peter Boyce",
+            "tagline": "Rough Draft Ventures"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "3",
             "link": "http://thyb.github.io/contentify/",
             "name": "Contentify",
             "tagline": "a real-time collaborative content manager on top of Github",
@@ -144,7 +162,25 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
+        "post": {
+            "votes": "3",
+            "link": "http://hipstamatic.com/cinamatic/",
+            "name": "Cinamatic",
+            "tagline": "Beautiful short films (from Hipstamatic)",
+            "ph_url": "posts/cinamatic",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 11,
         "post": {
             "votes": "2",
             "link": "http://www.stylestats.org/",
@@ -162,7 +198,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 12,
         "post": {
             "votes": "2",
             "link": "http://www.sonte.com/",
@@ -177,42 +213,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "2",
-            "link": "http://www.kensho.com/",
-            "name": "Kensho",
-            "tagline": "Your Intelligent Market Research Assistant.",
-            "ph_url": "posts/kensho",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "badboyboyce",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/badboyboyce.jpg",
-            "twitter": "badboyboyce",
-            "name": "Peter Boyce",
-            "tagline": "Rough Draft Ventures"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "2",
-            "link": "http://hipstamatic.com/cinamatic/",
-            "name": "Cinamatic",
-            "tagline": "Beautiful short films (from Hipstamatic)",
-            "ph_url": "posts/cinamatic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
