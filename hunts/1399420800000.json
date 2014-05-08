@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "32",
+            "votes": "33",
             "link": "http://jekyllrb.com/",
             "name": "Jekyll 2.0",
             "tagline": "Transform your plain text into static websites and blogs.",
@@ -218,7 +218,7 @@
     {
         "id": 13,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://www.bookvibe.com/",
             "name": "BookVibe",
             "tagline": "Helps you find new books by mining your Twitter stream",
@@ -399,24 +399,6 @@
         "id": 23,
         "post": {
             "votes": "3",
-            "link": "http://connu.co",
-            "name": "Connu",
-            "tagline": "No time for novels? Try literary quickies!",
-            "ph_url": "posts/connu",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
-        }
-    },
-    {
-        "id": 24,
-        "post": {
-            "votes": "3",
             "link": "https://www.stereomood.com/",
             "name": "Stereo Mood",
             "tagline": "Turn your mood into music.",
@@ -432,21 +414,39 @@
         }
     },
     {
-        "id": 25,
+        "id": 24,
         "post": {
-            "votes": "1",
-            "link": "http://www.tangibleplay.com/",
-            "name": "TangiblePlay",
-            "tagline": "A magical way to play. ",
-            "ph_url": "posts/tangibleplay",
+            "votes": "3",
+            "link": "http://connu.co",
+            "name": "Connu",
+            "tagline": "No time for novels? Try literary quickies!",
+            "ph_url": "posts/connu",
             "comments": "1 comment"
         },
         "user": {
-            "id": "agoldner",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/agoldner.jpg",
-            "twitter": "agoldner",
-            "name": "Andrew Goldner",
-            "tagline": "VP, Global Audience"
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
+        "id": 25,
+        "post": {
+            "votes": "1",
+            "link": "http://www.lifedots.com/",
+            "name": "Lifedots",
+            "tagline": "The easiest way to collect your memories",
+            "ph_url": "posts/lifedots",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "innonate",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/innonate.jpg",
+            "twitter": "innonate",
+            "name": "Nate Westheimer",
+            "tagline": "CEO, Picturelife"
         }
     },
     {
@@ -471,18 +471,18 @@
         "id": 27,
         "post": {
             "votes": "1",
-            "link": "http://www.lifedots.com/",
-            "name": "Lifedots",
-            "tagline": "The easiest way to collect your memories",
-            "ph_url": "posts/lifedots",
+            "link": "http://www.tangibleplay.com/",
+            "name": "TangiblePlay",
+            "tagline": "A magical way to play. ",
+            "ph_url": "posts/tangibleplay",
             "comments": "1 comment"
         },
         "user": {
-            "id": "innonate",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/innonate.jpg",
-            "twitter": "innonate",
-            "name": "Nate Westheimer",
-            "tagline": "CEO, Picturelife"
+            "id": "agoldner",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/agoldner.jpg",
+            "twitter": "agoldner",
+            "name": "Andrew Goldner",
+            "tagline": "VP, Global Audience"
         }
     },
     {
