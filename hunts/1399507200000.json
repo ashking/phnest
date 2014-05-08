@@ -93,6 +93,24 @@
         "id": 6,
         "post": {
             "votes": "3",
+            "link": "http://noosfeer.com",
+            "name": "Noosfeer",
+            "tagline": "Discover great content instantly!",
+            "ph_url": "posts/noosfeer",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "3",
             "link": "http://thyb.github.io/contentify/",
             "name": "Contentify",
             "tagline": "a real-time collaborative content manager on top of Github",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "2",
             "link": "http://www.stylestats.org/",
@@ -126,7 +144,25 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
+        "post": {
+            "votes": "2",
+            "link": "http://hipstamatic.com/cinamatic/",
+            "name": "Cinamatic",
+            "tagline": "Beautiful short films (from Hipstamatic)",
+            "ph_url": "posts/cinamatic",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 10,
         "post": {
             "votes": "2",
             "link": "http://www.sonte.com/",
@@ -144,7 +180,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 11,
         "post": {
             "votes": "1",
             "link": "http://wallspacefinder.com/",
@@ -162,7 +198,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 12,
         "post": {
             "votes": "1",
             "link": "http://www.kensho.com/",
@@ -180,25 +216,7 @@
         }
     },
     {
-        "id": 11,
-        "post": {
-            "votes": "1",
-            "link": "http://hipstamatic.com/cinamatic/",
-            "name": "Cinamatic",
-            "tagline": "Beautiful short films (from Hipstamatic)",
-            "ph_url": "posts/cinamatic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 12,
+        "id": 13,
         "post": {
             "votes": "1",
             "link": "http://css3ps.com/",
@@ -213,24 +231,6 @@
             "twitter": "NeerajT4",
             "name": "Neeraj Thakur",
             "tagline": "co-founder, Appska"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "1",
-            "link": "http://noosfeer.com",
-            "name": "Noosfeer",
-            "tagline": "Discover great content instantly!",
-            "ph_url": "posts/noosfeer",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
         }
     }
 ]
