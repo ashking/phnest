@@ -327,6 +327,24 @@
         "id": 19,
         "post": {
             "votes": "2",
+            "link": "http://www.doneliner.com/",
+            "name": "Doneliner",
+            "tagline": "Instant movie line playback",
+            "ph_url": "posts/doneliner",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "findinbay",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/findinbay.jpg",
+            "twitter": "findinbay",
+            "name": "david kim",
+            "tagline": "PM"
+        }
+    },
+    {
+        "id": 20,
+        "post": {
+            "votes": "2",
             "link": "http://wallspacefinder.com/",
             "name": "Wallspace Finder",
             "tagline": "Art, localized. ",
@@ -339,24 +357,6 @@
             "twitter": "nowmiles",
             "name": "Miles Matthias",
             "tagline": "software engineer, dojo4"
-        }
-    },
-    {
-        "id": 20,
-        "post": {
-            "votes": "1",
-            "link": "http://privacyfix.com/start/install",
-            "name": "Privacy Fix",
-            "tagline": "Lock Down Your Privacy",
-            "ph_url": "posts/privacy-fix",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
         }
     },
     {
@@ -381,18 +381,18 @@
         "id": 22,
         "post": {
             "votes": "1",
-            "link": "http://www.doneliner.com/",
-            "name": "Doneliner",
-            "tagline": "Instant movie line playback",
-            "ph_url": "posts/doneliner",
+            "link": "http://privacyfix.com/start/install",
+            "name": "Privacy Fix",
+            "tagline": "Lock Down Your Privacy",
+            "ph_url": "posts/privacy-fix",
             "comments": "View details"
         },
         "user": {
-            "id": "findinbay",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/findinbay.jpg",
-            "twitter": "findinbay",
-            "name": "david kim",
-            "tagline": "PM"
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
         }
     }
 ]
