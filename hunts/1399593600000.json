@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "23",
+            "votes": "25",
             "link": "http://redsgned.com/",
             "name": "Redsgned",
             "tagline": "showcase of the very best redesigns from across the web",
@@ -25,7 +25,7 @@
             "name": "HackDesign",
             "tagline": "Newsletter that teaches you design via 50 curated courses",
             "ph_url": "posts/hackdesign",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "GeoffreyWeg",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "https://www.helpshift.com/",
             "name": "Helpshift",
             "tagline": "All-in-one mobile in-app CRM to increase retention.",
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "5",
-            "link": "http://cylonjs.com/",
-            "name": "Cylon.js",
-            "tagline": "JavaScript framework for robotics and IoT",
-            "ph_url": "posts/cylon-js",
-            "comments": "2"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "5",
             "link": "http://iblazr.com/",
             "name": "iblazr",
             "tagline": "fully synchronized flash for iPhone, iPad &amp; Android",
@@ -195,6 +177,24 @@
             "twitter": "helencrozier",
             "name": "Helen Crozier",
             "tagline": "Keyboard Karma"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "5",
+            "link": "http://cylonjs.com/",
+            "name": "Cylon.js",
+            "tagline": "JavaScript framework for robotics and IoT",
+            "ph_url": "posts/cylon-js",
+            "comments": "2"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
