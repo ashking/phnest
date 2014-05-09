@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "http://leanstack.io/cloud-stacks",
             "name": "Leanstack",
             "tagline": "See what product stacks the worlds best start-ups use",
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "http://www.followupthen.com/",
             "name": "FollowUpThen",
             "tagline": "Free &amp; Easy Email Reminder",
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "11",
+            "link": "http://www.kensho.com/",
+            "name": "Kensho",
+            "tagline": "Your Intelligent Market Research Assistant.",
+            "ph_url": "posts/kensho",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "badboyboyce",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/badboyboyce.jpg",
+            "twitter": "badboyboyce",
+            "name": "Peter Boyce",
+            "tagline": "Rough Draft Ventures"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "10",
             "link": "https://itunes.apple.com/us/app/cubits!/id844517321?mt=8",
             "name": "Cubits!",
@@ -159,24 +177,6 @@
             "twitter": "bugaboosal",
             "name": "Ian",
             "tagline": "COO, Rocket Mobile"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "10",
-            "link": "http://www.kensho.com/",
-            "name": "Kensho",
-            "tagline": "Your Intelligent Market Research Assistant.",
-            "ph_url": "posts/kensho",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "badboyboyce",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/badboyboyce.jpg",
-            "twitter": "badboyboyce",
-            "name": "Peter Boyce",
-            "tagline": "Rough Draft Ventures"
         }
     },
     {
@@ -219,24 +219,6 @@
         "id": 13,
         "post": {
             "votes": "7",
-            "link": "http://hipstamatic.com/cinamatic/",
-            "name": "Cinamatic",
-            "tagline": "Beautiful short films (from Hipstamatic)",
-            "ph_url": "posts/cinamatic",
-            "comments": "3"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "7",
             "link": "http://thyb.github.io/contentify/",
             "name": "Contentify",
             "tagline": "a real-time collaborative content manager on top of Github",
@@ -249,6 +231,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "7",
+            "link": "http://hipstamatic.com/cinamatic/",
+            "name": "Cinamatic",
+            "tagline": "Beautiful short films (from Hipstamatic)",
+            "ph_url": "posts/cinamatic",
+            "comments": "3"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
