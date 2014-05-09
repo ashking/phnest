@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "https://www.helpshift.com/",
             "name": "Helpshift",
             "tagline": "All-in-one mobile in-app CRM to increase retention.",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "12",
+            "link": "https://hackdesign.org",
+            "name": "HackDesign",
+            "tagline": "Newsletter that teaches you design via 50 curated courses",
+            "ph_url": "posts/hackdesign",
+            "comments": "2"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "11",
             "link": "http://visualping.io/",
             "name": "VisualPing",
@@ -51,24 +69,6 @@
             "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "11",
-            "link": "https://hackdesign.org",
-            "name": "HackDesign",
-            "tagline": "Newsletter that teaches you design via 50 curated courses",
-            "ph_url": "posts/hackdesign",
-            "comments": "2"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "4",
+            "link": "http://cylonjs.com/",
+            "name": "Cylon.js",
+            "tagline": "JavaScript framework for robotics and IoT",
+            "ph_url": "posts/cylon-js",
+            "comments": "2"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "3",
             "link": "http://snapshotletter.com",
             "name": "Snapshot Letter",
@@ -216,7 +234,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "3",
             "link": "http://floatapp.com",
@@ -231,24 +249,6 @@
             "twitter": "mattlanham",
             "name": "Matthew Lanham",
             "tagline": "Founder of @enquiryhq"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "3",
-            "link": "http://cylonjs.com/",
-            "name": "Cylon.js",
-            "tagline": "JavaScript framework for robotics and IoT",
-            "ph_url": "posts/cylon-js",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/byosko.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
