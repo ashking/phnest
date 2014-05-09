@@ -327,6 +327,24 @@
         "id": 19,
         "post": {
             "votes": "3",
+            "link": "http://helpjuice.com",
+            "name": "HelpJuice",
+            "tagline": "Less support emails &amp; more happy customers",
+            "ph_url": "posts/helpjuice",
+            "comments": "3"
+        },
+        "user": {
+            "id": "dshan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
+            "twitter": "dshan",
+            "name": "Derek Shanahan",
+            "tagline": "Growth Marketer, Playerize"
+        }
+    },
+    {
+        "id": 20,
+        "post": {
+            "votes": "3",
             "link": "http://www.stylestats.org/",
             "name": "Stylestats",
             "tagline": "A Node.js library to collect CSS statistics",
@@ -342,27 +360,9 @@
         }
     },
     {
-        "id": 20,
-        "post": {
-            "votes": "2",
-            "link": "https://myheatworks.com/",
-            "name": "Model 1",
-            "tagline": "Your next water heater",
-            "ph_url": "posts/model-1",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "malaparte",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/malaparte.jpg",
-            "twitter": "malaparte",
-            "name": "Andrei M. Marinescu",
-            "tagline": "Growth Lead, 500 Startups"
-        }
-    },
-    {
         "id": 21,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "http://privacyfix.com/start/install",
             "name": "Privacy Fix",
             "tagline": "Lock Down Your Privacy",
@@ -381,18 +381,18 @@
         "id": 22,
         "post": {
             "votes": "2",
-            "link": "http://helpjuice.com",
-            "name": "HelpJuice",
-            "tagline": "Less support emails &amp; more happy customers",
-            "ph_url": "posts/helpjuice",
-            "comments": "3"
+            "link": "https://myheatworks.com/",
+            "name": "Model 1",
+            "tagline": "Your next water heater",
+            "ph_url": "posts/model-1",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "dshan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
-            "twitter": "dshan",
-            "name": "Derek Shanahan",
-            "tagline": "Growth Marketer, Playerize"
+            "id": "malaparte",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/malaparte.jpg",
+            "twitter": "malaparte",
+            "name": "Andrei M. Marinescu",
+            "tagline": "Growth Lead, 500 Startups"
         }
     },
     {
