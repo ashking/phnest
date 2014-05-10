@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "http://questapp.co",
             "name": "Quest",
             "tagline": "A simple and fun way to get answers from people around you.",
@@ -129,6 +129,24 @@
         "id": 8,
         "post": {
             "votes": "2",
+            "link": "http://get.pressybutton.com/",
+            "name": "Pressy",
+            "tagline": "Add a button to your Android phone",
+            "ph_url": "posts/pressy",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "2",
             "link": "http://www.claimair.com",
             "name": "ClaimAir",
             "tagline": "Collect flight compensations easily on the go",
@@ -144,7 +162,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "1",
             "link": "http://hubyard.com",
@@ -162,7 +180,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "post": {
             "votes": "1",
             "link": "http://www.multcloud.com",
@@ -177,24 +195,6 @@
             "twitter": "kjemperud",
             "name": "Thomas Kjemperud",
             "tagline": "Founder &amp; Curator, Startup Letters"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
-            "link": "http://get.pressybutton.com/",
-            "name": "Pressy",
-            "tagline": "Add a button to your Android phone",
-            "ph_url": "posts/pressy",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
         }
     }
 ]
