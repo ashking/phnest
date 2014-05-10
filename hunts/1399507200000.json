@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "35",
+            "link": "http://leanstack.io/cloud-stacks",
+            "name": "Leanstack",
+            "tagline": "See what product stacks the worlds best start-ups use",
+            "ph_url": "posts/lean-stacks",
+            "comments": "8"
+        },
+        "user": {
+            "id": "jasondainter",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
+            "twitter": "jasondainter",
+            "name": "Jason Dainter",
+            "tagline": "Co-Founder, Ecomarket.com"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "34",
             "link": " http://www.storemaven.com/",
             "name": "Store Maven",
@@ -51,24 +69,6 @@
             "twitter": "raphaelouzan",
             "name": "Raphael Ouzan",
             "tagline": "Founder, BillGuard"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "34",
-            "link": "http://leanstack.io/cloud-stacks",
-            "name": "Leanstack",
-            "tagline": "See what product stacks the worlds best start-ups use",
-            "ph_url": "posts/lean-stacks",
-            "comments": "8"
-        },
-        "user": {
-            "id": "jasondainter",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jasondainter.jpg",
-            "twitter": "jasondainter",
-            "name": "Jason Dainter",
-            "tagline": "Co-Founder, Ecomarket.com"
         }
     },
     {
@@ -237,24 +237,6 @@
         "id": 14,
         "post": {
             "votes": "8",
-            "link": "http://thyb.github.io/contentify/",
-            "name": "Contentify",
-            "tagline": "a real-time collaborative content manager on top of Github",
-            "ph_url": "posts/contentify",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "8",
             "link": "http://www.doneliner.com/",
             "name": "Doneliner",
             "tagline": "Instant movie line playback",
@@ -267,6 +249,24 @@
             "twitter": "findinbay",
             "name": "david kim",
             "tagline": "PM"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "8",
+            "link": "http://thyb.github.io/contentify/",
+            "name": "Contentify",
+            "tagline": "a real-time collaborative content manager on top of Github",
+            "ph_url": "posts/contentify",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -308,7 +308,7 @@
     {
         "id": 18,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "https://myheatworks.com/",
             "name": "Model 1",
             "tagline": "Your next water heater",
