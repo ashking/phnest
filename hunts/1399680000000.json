@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "http://edmdesigner.com/",
             "name": "EDM Designer",
             "tagline": "Make Responsive Email Templates. No Code.",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "3",
+            "link": "http://www.claimair.com",
+            "name": "ClaimAir",
+            "tagline": "Collect flight compensations easily on the go",
+            "ph_url": "posts/claimair",
+            "comments": "3"
+        },
+        "user": {
+            "id": "JakubLadra",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/JakubLadra.jpg",
+            "twitter": "JakubLadra",
+            "name": "Jakub Ladra",
+            "tagline": "CEO &amp; Founder, ClaimAir"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "2",
             "link": "http://allofbach.com/en/",
             "name": "All of Bach",
@@ -105,24 +123,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "2",
-            "link": "http://www.claimair.com",
-            "name": "ClaimAir",
-            "tagline": "Collect flight compensations easily on the go",
-            "ph_url": "posts/claimair",
-            "comments": "3"
-        },
-        "user": {
-            "id": "JakubLadra",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/JakubLadra.jpg",
-            "twitter": "JakubLadra",
-            "name": "Jakub Ladra",
-            "tagline": "CEO &amp; Founder, ClaimAir"
         }
     },
     {
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "1",
-            "link": "http://hubyard.com",
-            "name": "HubYard",
-            "tagline": "Like Hootsuite and Pinterest had a baby. ",
-            "ph_url": "posts/hubyard",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "pomajp",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/pomajp.jpg",
-            "twitter": "pomajp",
-            "name": "jonathan poma",
-            "tagline": "Digital Director, Homage"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
             "link": "http://www.multcloud.com",
             "name": "MultCloud",
             "tagline": "All your cloud storage in one",
@@ -195,6 +177,24 @@
             "twitter": "kjemperud",
             "name": "Thomas Kjemperud",
             "tagline": "Founder &amp; Curator, Startup Letters"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "1",
+            "link": "http://hubyard.com",
+            "name": "HubYard",
+            "tagline": "Like Hootsuite and Pinterest had a baby. ",
+            "ph_url": "posts/hubyard",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "pomajp",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/pomajp.jpg",
+            "twitter": "pomajp",
+            "name": "jonathan poma",
+            "tagline": "Digital Director, Homage"
         }
     }
 ]
