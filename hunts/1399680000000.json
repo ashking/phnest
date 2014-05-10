@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://questapp.co",
             "name": "Quest",
             "tagline": "A simple and fun way to get answers from people around you.",
@@ -87,6 +87,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "1",
+            "link": "http://www.multcloud.com",
+            "name": "MultCloud",
+            "tagline": "All your cloud storage in one",
+            "ph_url": "posts/multcloud",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     }
 ]
