@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "14",
+            "votes": "15",
             "link": "https://usersnap.com",
             "name": "Usersnap",
             "tagline": "Visual annotated feedback via screenshots for web projects",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "http://speedcurve.com/",
             "name": "SpeedCurve",
             "tagline": "Monitor front-end performance. Beat the competition.",
@@ -57,24 +57,6 @@
         "id": 4,
         "post": {
             "votes": "2",
-            "link": "http://www.me-mover.com/",
-            "name": "Me-Mover",
-            "tagline": "Like a Human Powered Segway",
-            "ph_url": "posts/me-mover",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "2",
             "link": "http://allofbach.com/en/",
             "name": "All of Bach",
             "tagline": "Cataloguing all the works of Bach; updated weekly",
@@ -90,21 +72,39 @@
         }
     },
     {
+        "id": 5,
+        "post": {
+            "votes": "2",
+            "link": "http://www.me-mover.com/",
+            "name": "Me-Mover",
+            "tagline": "Like a Human Powered Segway",
+            "ph_url": "posts/me-mover",
+            "comments": "2"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
         "id": 6,
         "post": {
             "votes": "1",
-            "link": "https://lqd.io/",
-            "name": "Liquid",
-            "tagline": "App analytics &amp; personalisation",
-            "ph_url": "posts/liquid",
+            "link": "http://get.pressybutton.com/",
+            "name": "Pressy",
+            "tagline": "Add a button to your Android phone",
+            "ph_url": "posts/pressy",
             "comments": "View details"
         },
         "user": {
-            "id": "MendzappJames",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MendzappJames.jpg",
-            "twitter": "MendzappJames",
-            "name": "James Mundy",
-            "tagline": "Founder, Foundbite"
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
         }
     },
     {
@@ -129,18 +129,18 @@
         "id": 8,
         "post": {
             "votes": "1",
-            "link": "http://get.pressybutton.com/",
-            "name": "Pressy",
-            "tagline": "Add a button to your Android phone",
-            "ph_url": "posts/pressy",
+            "link": "https://lqd.io/",
+            "name": "Liquid",
+            "tagline": "App analytics &amp; personalisation",
+            "ph_url": "posts/liquid",
             "comments": "View details"
         },
         "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
+            "id": "MendzappJames",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MendzappJames.jpg",
+            "twitter": "MendzappJames",
+            "name": "James Mundy",
+            "tagline": "Founder, Foundbite"
         }
     }
 ]
