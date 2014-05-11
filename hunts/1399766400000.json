@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "https://layer.com/",
             "name": "Layer",
             "tagline": "Build messaging, voice and video into your app in minutes.",
             "ph_url": "posts/layer",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "ozguralaz",
@@ -51,6 +51,24 @@
             "twitter": "myhong08",
             "name": "Mandy Hong",
             "tagline": "Associate, Techstars"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "1",
+            "link": "http://99tests.com",
+            "name": "99tests",
+            "tagline": "Crowdsourced Software Testing",
+            "ph_url": "posts/99tests",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "vpsingh",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/vpsingh.jpg",
+            "twitter": "vpsingh",
+            "name": "Praveen Singh",
+            "tagline": "founder, 99tests"
         }
     }
 ]
