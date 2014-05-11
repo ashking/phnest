@@ -38,12 +38,12 @@
     {
         "id": 3,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "https://bidaway.com",
             "name": "BidAway",
             "tagline": "Travel Experiences Reimagined",
             "ph_url": "posts/bidaway",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "taylorhou",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "http://99tests.com",
             "name": "99tests",
             "tagline": "Crowdsourced Software Testing",
@@ -75,24 +75,6 @@
         "id": 5,
         "post": {
             "votes": "4",
-            "link": "http://hackmatch.com/",
-            "name": "HackMatch",
-            "tagline": "StumbleUpon for hacker internships &amp; full-time jobs",
-            "ph_url": "posts/hackmatch",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "arjunblj",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/arjunblj.jpg",
-            "twitter": "arjunblj",
-            "name": "Arjun Balaji",
-            "tagline": "Northeastern University, student"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "4",
             "link": "http://chimeapp.com",
             "name": "Chime",
             "tagline": "Notification Center in your browser",
@@ -105,6 +87,24 @@
             "twitter": "fahdananta",
             "name": "fahd",
             "tagline": "Thinker"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "4",
+            "link": "http://hackmatch.com/",
+            "name": "HackMatch",
+            "tagline": "StumbleUpon for hacker internships &amp; full-time jobs",
+            "ph_url": "posts/hackmatch",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "arjunblj",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/arjunblj.jpg",
+            "twitter": "arjunblj",
+            "name": "Arjun Balaji",
+            "tagline": "Northeastern University, student"
         }
     },
     {
@@ -129,40 +129,22 @@
         "id": 8,
         "post": {
             "votes": "1",
-            "link": "http://www.startupsocial.com",
-            "name": "StartupSocial",
-            "tagline": "A rolodex for the global startup community.",
-            "ph_url": "posts/startupsocial",
-            "comments": "1 comment"
+            "link": "http://salesloft.com/",
+            "name": "SalesLoft",
+            "tagline": "Smarter sales. More deals.",
+            "ph_url": "posts/salesloft",
+            "comments": "View details"
         },
         "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
         }
     },
     {
         "id": 9,
-        "post": {
-            "votes": "1",
-            "link": "https://circuithub.com",
-            "name": "CircuitHub",
-            "tagline": "AWS for hardware startups and makers.",
-            "ph_url": "posts/circuithub",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "MendzappJames",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MendzappJames.jpg",
-            "twitter": "MendzappJames",
-            "name": "James Mundy",
-            "tagline": "Founder, Foundbite"
-        }
-    },
-    {
-        "id": 10,
         "post": {
             "votes": "1",
             "link": "http://karmaplatform.com/",
@@ -180,21 +162,39 @@
         }
     },
     {
+        "id": 10,
+        "post": {
+            "votes": "1",
+            "link": "http://www.startupsocial.com",
+            "name": "StartupSocial",
+            "tagline": "A rolodex for the global startup community.",
+            "ph_url": "posts/startupsocial",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
         "id": 11,
         "post": {
             "votes": "1",
-            "link": "http://salesloft.com/",
-            "name": "SalesLoft",
-            "tagline": "Smarter sales. More deals.",
-            "ph_url": "posts/salesloft",
+            "link": "https://circuithub.com",
+            "name": "CircuitHub",
+            "tagline": "AWS for hardware startups and makers.",
+            "ph_url": "posts/circuithub",
             "comments": "View details"
         },
         "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
+            "id": "MendzappJames",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MendzappJames.jpg",
+            "twitter": "MendzappJames",
+            "name": "James Mundy",
+            "tagline": "Founder, Foundbite"
         }
     }
 ]
