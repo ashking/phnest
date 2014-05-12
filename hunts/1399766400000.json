@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "21",
+            "votes": "23",
             "link": "http://99tests.com",
             "name": "99tests",
             "tagline": "Crowdsourced Software Testing",
@@ -74,12 +74,12 @@
     {
         "id": 5,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "http://hackmatch.com/",
             "name": "HackMatch",
             "tagline": "StumbleUpon for hacker internships &amp; full-time jobs",
             "ph_url": "posts/hackmatch",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "arjunblj",
@@ -91,6 +91,24 @@
     },
     {
         "id": 6,
+        "post": {
+            "votes": "10",
+            "link": "http://dumb.domains/",
+            "name": "Dumb Domains",
+            "tagline": "Dumb domains that are available to be registered",
+            "ph_url": "posts/dumb-domains",
+            "comments": "5"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 7,
         "post": {
             "votes": "10",
             "link": "http://chimeapp.com",
@@ -108,27 +126,9 @@
         }
     },
     {
-        "id": 7,
-        "post": {
-            "votes": "9",
-            "link": "http://dumb.domains/",
-            "name": "Dumb Domains",
-            "tagline": "Dumb domains that are available to be registered",
-            "ph_url": "posts/dumb-domains",
-            "comments": "5"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
         "id": 8,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://quilljs.com/",
             "name": "Quill",
             "tagline": "An Open Source Rich Text Editor with an API.",
@@ -147,24 +147,6 @@
         "id": 9,
         "post": {
             "votes": "7",
-            "link": "http://www.startupsocial.com",
-            "name": "StartupSocial",
-            "tagline": "A rolodex for the global startup community.",
-            "ph_url": "posts/startupsocial",
-            "comments": "4"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "7",
             "link": "https://circuithub.com",
             "name": "CircuitHub",
             "tagline": "AWS for hardware startups and makers.",
@@ -180,14 +162,14 @@
         }
     },
     {
-        "id": 11,
+        "id": 10,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "https://habitrpg.com/",
             "name": "HabitRPG",
             "tagline": "A free habit building app that treats your life like a game.",
             "ph_url": "posts/habitrpg",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "Jonnotie",
@@ -195,6 +177,24 @@
             "twitter": "Jonnotie",
             "name": "Jonno Riekwel",
             "tagline": "Product designer, Jonnotie"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "7",
+            "link": "http://www.startupsocial.com",
+            "name": "StartupSocial",
+            "tagline": "A rolodex for the global startup community.",
+            "ph_url": "posts/startupsocial",
+            "comments": "4"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
         }
     },
     {
