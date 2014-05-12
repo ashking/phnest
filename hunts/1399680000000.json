@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "http://questapp.co",
             "name": "Quest",
             "tagline": "A simple and fun way to get answers from people around you.",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://hubyard.com",
             "name": "HubYard",
             "tagline": "Like Hootsuite and Pinterest had a baby. ",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "9",
+            "link": "http://edmdesigner.com/",
+            "name": "EDM Designer",
+            "tagline": "Make Responsive Email Templates. No Code.",
+            "ph_url": "posts/edm-designer",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "uxceo",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/uxceo.jpg",
+            "twitter": "uxceo",
+            "name": "Grace Ng",
+            "tagline": "Designer Founder, Javelin"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "8",
             "link": "http://www.claimair.com",
             "name": "ClaimAir",
@@ -126,27 +144,9 @@
         }
     },
     {
-        "id": 8,
-        "post": {
-            "votes": "8",
-            "link": "http://edmdesigner.com/",
-            "name": "EDM Designer",
-            "tagline": "Make Responsive Email Templates. No Code.",
-            "ph_url": "posts/edm-designer",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "uxceo",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/uxceo.jpg",
-            "twitter": "uxceo",
-            "name": "Grace Ng",
-            "tagline": "Designer Founder, Javelin"
-        }
-    },
-    {
         "id": 9,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://tweetwall.com/",
             "name": "Tweetwall",
             "tagline": "&quot;We make it easy to display your #hashtag at your event.&quot;",
@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "3",
+            "link": "http://www.multcloud.com",
+            "name": "MultCloud",
+            "tagline": "All your cloud storage in one",
+            "ph_url": "posts/multcloud",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "2",
             "link": "https://guiltypledgers.com",
             "name": "GuiltyPledgers",
@@ -213,24 +231,6 @@
             "twitter": "ozguralaz",
             "name": "Özgür Alaz",
             "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "2",
-            "link": "http://www.multcloud.com",
-            "name": "MultCloud",
-            "tagline": "All your cloud storage in one",
-            "ph_url": "posts/multcloud",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kjemperud",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
-            "twitter": "kjemperud",
-            "name": "Thomas Kjemperud",
-            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     }
 ]
