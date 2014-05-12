@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "2",
+            "link": "https://www.gathercontent.com/",
+            "name": "GatherContent",
+            "tagline": "Gather content from your clients, painlessly",
+            "ph_url": "posts/gathercontent",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "mattlanham",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mattlanham.jpg",
+            "twitter": "mattlanham",
+            "name": "Matthew Lanham",
+            "tagline": "Founder of @enquiryhq"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "1",
             "link": "http://www.wickedlasers.com/arctic",
             "name": "Arctic Laser",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "1",
             "link": "http://timebird.co",
@@ -51,24 +69,6 @@
             "twitter": "neilswmurray",
             "name": "Neil S W Murray",
             "tagline": "Entrepreneur"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "1",
-            "link": "https://www.gathercontent.com/",
-            "name": "GatherContent",
-            "tagline": "Gather content from your clients, painlessly",
-            "ph_url": "posts/gathercontent",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "mattlanham",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mattlanham.jpg",
-            "twitter": "mattlanham",
-            "name": "Matthew Lanham",
-            "tagline": "Founder of @enquiryhq"
         }
     }
 ]
