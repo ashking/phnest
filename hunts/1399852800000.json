@@ -21,6 +21,24 @@
         "id": 2,
         "post": {
             "votes": "2",
+            "link": "http://timebird.co",
+            "name": "Timebird",
+            "tagline": "Find the time to meet with people.",
+            "ph_url": "posts/timebird",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "neilswmurray",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/neilswmurray.jpg",
+            "twitter": "neilswmurray",
+            "name": "Neil S W Murray",
+            "tagline": "Entrepreneur"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "2",
             "link": "https://www.gathercontent.com/",
             "name": "GatherContent",
             "tagline": "Gather content from your clients, painlessly",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "1",
             "link": "http://monkeyparking.strikingly.com/",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "1",
             "link": "http://www.wickedlasers.com/arctic",
@@ -69,24 +87,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "1",
-            "link": "http://timebird.co",
-            "name": "Timebird",
-            "tagline": "Find the time to meet with people.",
-            "ph_url": "posts/timebird",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "neilswmurray",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/neilswmurray.jpg",
-            "twitter": "neilswmurray",
-            "name": "Neil S W Murray",
-            "tagline": "Entrepreneur"
         }
     }
 ]
