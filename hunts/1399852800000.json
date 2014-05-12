@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "14",
+            "link": "http://tentwentyapp.com",
+            "name": "TenTwenty",
+            "tagline": "Your local, anonymous message board",
+            "ph_url": "posts/tentwenty",
+            "comments": "6"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "13",
             "link": "https://www.gathercontent.com/",
             "name": "GatherContent",
@@ -105,24 +123,6 @@
             "twitter": "mattlanham",
             "name": "Matthew Lanham",
             "tagline": "Founder of @enquiryhq"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "13",
-            "link": "http://tentwentyapp.com",
-            "name": "TenTwenty",
-            "tagline": "Your local, anonymous message board",
-            "ph_url": "posts/tentwenty",
-            "comments": "6"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -151,7 +151,7 @@
             "name": "Two Margins",
             "tagline": "Annotate financial documents (ex. SEC filings) w/ the crowd",
             "ph_url": "posts/two-margins",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "GeoffreyWeg",
