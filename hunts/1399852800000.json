@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "3",
+            "link": "http://timebird.co",
+            "name": "Timebird",
+            "tagline": "Find the time to meet with people.",
+            "ph_url": "posts/timebird",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "neilswmurray",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/neilswmurray.jpg",
+            "twitter": "neilswmurray",
+            "name": "Neil S W Murray",
+            "tagline": "Entrepreneur"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "2",
             "link": "http://halfbikes.com/",
             "name": "halfbike",
@@ -15,24 +33,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "2",
-            "link": "http://timebird.co",
-            "name": "Timebird",
-            "tagline": "Find the time to meet with people.",
-            "ph_url": "posts/timebird",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "neilswmurray",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/neilswmurray.jpg",
-            "twitter": "neilswmurray",
-            "name": "Neil S W Murray",
-            "tagline": "Entrepreneur"
         }
     },
     {
