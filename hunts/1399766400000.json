@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "22",
+            "link": "https://en.bidaway.com",
+            "name": "BidAway",
+            "tagline": "Travel Experiences Reimagined",
+            "ph_url": "posts/bidaway",
+            "comments": "2"
+        },
+        "user": {
+            "id": "taylorhou",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/taylorhou.jpg",
+            "twitter": "taylorhou",
+            "name": "Taylor Hou",
+            "tagline": "Product - RemarkHQ.com"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "20",
             "link": "https://layer.com/",
             "name": "Layer",
@@ -15,24 +33,6 @@
             "twitter": "ozguralaz",
             "name": "Özgür Alaz",
             "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "19",
-            "link": "https://en.bidaway.com",
-            "name": "BidAway",
-            "tagline": "Travel Experiences Reimagined",
-            "ph_url": "posts/bidaway",
-            "comments": "2"
-        },
-        "user": {
-            "id": "taylorhou",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/taylorhou.jpg",
-            "twitter": "taylorhou",
-            "name": "Taylor Hou",
-            "tagline": "Product - RemarkHQ.com"
         }
     },
     {
@@ -111,6 +111,24 @@
         "id": 7,
         "post": {
             "votes": "5",
+            "link": "http://www.startupsocial.com",
+            "name": "StartupSocial",
+            "tagline": "A rolodex for the global startup community.",
+            "ph_url": "posts/startupsocial",
+            "comments": "3"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "5",
             "link": "http://quilljs.com/",
             "name": "Quill",
             "tagline": "An Open Source Rich Text Editor with an API.",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "4",
             "link": "https://habitrpg.com/",
@@ -144,27 +162,9 @@
         }
     },
     {
-        "id": 9,
-        "post": {
-            "votes": "4",
-            "link": "http://www.startupsocial.com",
-            "name": "StartupSocial",
-            "tagline": "A rolodex for the global startup community.",
-            "ph_url": "posts/startupsocial",
-            "comments": "3"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
-        }
-    },
-    {
         "id": 10,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "http://aminoapps.com/",
             "name": "Amino ",
             "tagline": "Mobile communities for niche interests ",
@@ -183,24 +183,6 @@
         "id": 11,
         "post": {
             "votes": "2",
-            "link": "http://salesloft.com/",
-            "name": "SalesLoft",
-            "tagline": "Smarter sales. More deals.",
-            "ph_url": "posts/salesloft",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "1",
             "link": "http://karmaplatform.com/",
             "name": "Karma ",
             "tagline": "Excel to Web App, in Minutes.",
@@ -213,6 +195,24 @@
             "twitter": "neilswmurray",
             "name": "Neil S W Murray",
             "tagline": "Entrepreneur"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "2",
+            "link": "http://salesloft.com/",
+            "name": "SalesLoft",
+            "tagline": "Smarter sales. More deals.",
+            "ph_url": "posts/salesloft",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
         }
     },
     {
