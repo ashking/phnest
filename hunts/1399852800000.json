@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "http://halfbikes.com/",
             "name": "halfbike",
             "tagline": "The personal vehicle that&#39;s like a mix of cycling &amp; running",
@@ -33,6 +33,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "1",
+            "link": "http://timebird.co",
+            "name": "Timebird",
+            "tagline": "Find the time to meet with people.",
+            "ph_url": "posts/timebird",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "neilswmurray",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/neilswmurray.jpg",
+            "twitter": "neilswmurray",
+            "name": "Neil S W Murray",
+            "tagline": "Entrepreneur"
         }
     }
 ]
