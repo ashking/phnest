@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://chimeapp.com",
             "name": "Chime",
             "tagline": "Notification Center in your browser",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "6",
+            "link": "http://hackmatch.com/",
+            "name": "HackMatch",
+            "tagline": "StumbleUpon for hacker internships &amp; full-time jobs",
+            "ph_url": "posts/hackmatch",
+            "comments": "2"
+        },
+        "user": {
+            "id": "arjunblj",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/arjunblj.jpg",
+            "twitter": "arjunblj",
+            "name": "Arjun Balaji",
+            "tagline": "Northeastern University, student"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "5",
             "link": "http://quilljs.com/",
             "name": "Quill",
@@ -108,43 +126,7 @@
         }
     },
     {
-        "id": 7,
-        "post": {
-            "votes": "5",
-            "link": "http://hackmatch.com/",
-            "name": "HackMatch",
-            "tagline": "StumbleUpon for hacker internships &amp; full-time jobs",
-            "ph_url": "posts/hackmatch",
-            "comments": "2"
-        },
-        "user": {
-            "id": "arjunblj",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/arjunblj.jpg",
-            "twitter": "arjunblj",
-            "name": "Arjun Balaji",
-            "tagline": "Northeastern University, student"
-        }
-    },
-    {
         "id": 8,
-        "post": {
-            "votes": "4",
-            "link": "http://www.startupsocial.com",
-            "name": "StartupSocial",
-            "tagline": "A rolodex for the global startup community.",
-            "ph_url": "posts/startupsocial",
-            "comments": "2"
-        },
-        "user": {
-            "id": "V4Violetta",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
-            "twitter": "V4Violetta",
-            "name": "Violeta Nedkova",
-            "tagline": "Founder, BeTweet"
-        }
-    },
-    {
-        "id": 9,
         "post": {
             "votes": "4",
             "link": "https://habitrpg.com/",
@@ -159,6 +141,24 @@
             "twitter": "Jonnotie",
             "name": "Jonno Riekwel",
             "tagline": "Product designer, Jonnotie"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "4",
+            "link": "http://www.startupsocial.com",
+            "name": "StartupSocial",
+            "tagline": "A rolodex for the global startup community.",
+            "ph_url": "posts/startupsocial",
+            "comments": "2"
+        },
+        "user": {
+            "id": "V4Violetta",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/V4Violetta.jpg",
+            "twitter": "V4Violetta",
+            "name": "Violeta Nedkova",
+            "tagline": "Founder, BeTweet"
         }
     },
     {
