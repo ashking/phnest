@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "27",
+            "votes": "28",
             "link": "http://producthunt.iam.dj",
             "name": "iam.dj",
             "tagline": "The world’s greatest DJs in one spot! (early beta access)",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "3",
+            "link": "http://StartupJob.me",
+            "name": "StartupJob.me",
+            "tagline": "Job Candidate Newsletter. Get your resume to 50+ startups",
+            "ph_url": "posts/startupjob-me",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "FrankDenbow",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrankDenbow.jpg",
+            "twitter": "FrankDenbow",
+            "name": "Frank Denbow",
+            "tagline": "Founder of StartupThreads"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "15",
             "link": "https://squareup.com/feedback",
             "name": "Square Feedback",
@@ -33,24 +51,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "2",
-            "link": "http://StartupJob.me",
-            "name": "StartupJob.me",
-            "tagline": "Job Candidate Newsletter. Get your resume to 50+ startups",
-            "ph_url": "posts/startupjob-me",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "FrankDenbow",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FrankDenbow.jpg",
-            "twitter": "FrankDenbow",
-            "name": "Frank Denbow",
-            "tagline": "Founder of StartupThreads"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "http://getmoju.com",
             "name": "Moju",
             "tagline": "Capture moments with a bunch of photos (iOS)",
@@ -164,24 +164,6 @@
     {
         "id": 10,
         "post": {
-            "votes": "3",
-            "link": "https://barkcare.com/",
-            "name": "BarkCare",
-            "tagline": "Home vet visits, without lifting a paw",
-            "ph_url": "posts/barkcare",
-            "comments": "5"
-        },
-        "user": {
-            "id": "sandimac",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/sandimac.jpg",
-            "twitter": "sandimac",
-            "name": "Sandi MacPherson",
-            "tagline": "Editor-in-Chief, Quibb"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
             "votes": "7",
             "link": "http://thenightlight.com/",
             "name": "The NightLight",
@@ -195,6 +177,24 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "3",
+            "link": "https://barkcare.com/",
+            "name": "BarkCare",
+            "tagline": "Home vet visits, without lifting a paw",
+            "ph_url": "posts/barkcare",
+            "comments": "5"
+        },
+        "user": {
+            "id": "sandimac",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/sandimac.jpg",
+            "twitter": "sandimac",
+            "name": "Sandi MacPherson",
+            "tagline": "Editor-in-Chief, Quibb"
         }
     },
     {
