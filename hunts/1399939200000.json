@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "32",
+            "link": "https://experiments.javelin.com/",
+            "name": "Experiments",
+            "tagline": "Plan &amp; track your experiments",
+            "ph_url": "posts/experiments",
+            "comments": "6"
+        },
+        "user": {
+            "id": "FelixReznik",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FelixReznik.jpg",
+            "twitter": "FelixReznik",
+            "name": "Felix Reznik",
+            "tagline": "Co-Founder, YourCard"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "34",
             "link": "http://socialrank.co/intelligence",
             "name": "Market Intelligence",
@@ -15,24 +33,6 @@
             "twitter": "ajt",
             "name": "Alexander Taub",
             "tagline": "Co-founder, SocialRank"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "31",
-            "link": "https://experiments.javelin.com/",
-            "name": "Experiments",
-            "tagline": "Plan &amp; track your experiments",
-            "ph_url": "posts/experiments",
-            "comments": "6"
-        },
-        "user": {
-            "id": "FelixReznik",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/FelixReznik.jpg",
-            "twitter": "FelixReznik",
-            "name": "Felix Reznik",
-            "tagline": "Co-Founder, YourCard"
         }
     },
     {
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "30",
+            "votes": "31",
             "link": "http://StartupJob.me",
             "name": "StartupJob.me",
             "tagline": "Job Candidate Newsletter. Get your resume to 50+ startups",
