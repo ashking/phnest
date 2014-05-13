@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "2",
+            "link": "http://www.fronto.co",
+            "name": "Fronto",
+            "tagline": "Swipe for $. Earn money &amp; rewards for unlocking your Android",
+            "ph_url": "posts/fronto",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kellymcgrath",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kellymcgrath.jpg",
+            "twitter": "kellymcgrath",
+            "name": "Kelly McGrath",
+            "tagline": "Publisher Manager, PlayHaven"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "15",
             "link": "http://getmoju.com",
             "name": "Moju",
@@ -54,27 +72,9 @@
         }
     },
     {
-        "id": 4,
-        "post": {
-            "votes": "4",
-            "link": "http://www.parrot.com/usa/products/bebop-drone/",
-            "name": "Parrot Bepop Drone",
-            "tagline": "Drone + Tablet + Oculus Rift --&gt; magical combination",
-            "ph_url": "posts/parrot-bepop-drone",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bonatsos",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bonatsos.jpg",
-            "twitter": "bonatsos",
-            "name": "Niko Bonatsos",
-            "tagline": "Principal, General Catalyst Partners"
-        }
-    },
-    {
         "id": 5,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "http://pro.com",
             "name": "Pro.com",
             "tagline": "Get a price, get a pro, get it done.",
@@ -92,19 +92,19 @@
     {
         "id": 6,
         "post": {
-            "votes": "1",
-            "link": "http://www.fronto.co",
-            "name": "Fronto",
-            "tagline": "Your favorites at the front.",
-            "ph_url": "posts/fronto",
-            "comments": "View details"
+            "votes": "4",
+            "link": "http://www.parrot.com/usa/products/bebop-drone/",
+            "name": "Parrot Bepop Drone",
+            "tagline": "Drone + Tablet + Oculus Rift --&gt; magical combination",
+            "ph_url": "posts/parrot-bepop-drone",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "kellymcgrath",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kellymcgrath.jpg",
-            "twitter": "kellymcgrath",
-            "name": "Kelly McGrath",
-            "tagline": "Publisher Manager, PlayHaven"
+            "id": "bonatsos",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bonatsos.jpg",
+            "twitter": "bonatsos",
+            "name": "Niko Bonatsos",
+            "tagline": "Principal, General Catalyst Partners"
         }
     },
     {
@@ -151,7 +151,7 @@
             "name": "The NightLight",
             "tagline": "A Wirecutter-esque site for baby gear",
             "ph_url": "posts/the-nightlight",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "kaz",
@@ -200,24 +200,6 @@
     {
         "id": 12,
         "post": {
-            "votes": "1",
-            "link": "http://slidebureau.com/",
-            "name": "The Slide Bureau",
-            "tagline": "Create presentations from iPad, and control from any device.",
-            "ph_url": "posts/the-slide-bureau",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "adamb0mb",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamb0mb.jpg",
-            "twitter": "adamb0mb",
-            "name": "Adam Phillabaum",
-            "tagline": "Program Manager, PayScale"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
             "votes": "3",
             "link": "http://launch.blendle.nl/welkom/?lang=en",
             "name": "Blendle",
@@ -231,6 +213,24 @@
             "twitter": "thisisjorik",
             "name": "Jorik",
             "tagline": "Marketing head @meetsoda &amp; @digined. Startup contributor @Wantnl"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "1",
+            "link": "http://slidebureau.com/",
+            "name": "The Slide Bureau",
+            "tagline": "Create presentations from iPad, and control from any device.",
+            "ph_url": "posts/the-slide-bureau",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "adamb0mb",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamb0mb.jpg",
+            "twitter": "adamb0mb",
+            "name": "Adam Phillabaum",
+            "tagline": "Program Manager, PayScale"
         }
     },
     {
