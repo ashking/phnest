@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "http://producthunt.iam.dj",
             "name": "iam.dj",
             "tagline": "The world’s greatest DJs in one spot! (early beta access)",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://getmoju.com",
             "name": "Moju",
             "tagline": "Capture moments with a bunch of photos (iOS)",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "3",
+            "link": "http://pro.com",
+            "name": "Pro.com",
+            "tagline": "Get a price, get a pro, get it done.",
+            "ph_url": "posts/pro-com",
+            "comments": "2"
+        },
+        "user": {
+            "id": "grmeyer",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/grmeyer.jpg",
+            "twitter": "grmeyer",
+            "name": "Greg Meyer",
+            "tagline": "Customer Whisperer"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "2",
             "link": "https://squareup.com/feedback",
             "name": "Square Feedback",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "6",
             "link": "http://thenightlight.com/",
@@ -69,24 +87,6 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "2",
-            "link": "http://pro.com",
-            "name": "Pro.com",
-            "tagline": "Get a price, get a pro, get it done.",
-            "ph_url": "posts/pro-com",
-            "comments": "2"
-        },
-        "user": {
-            "id": "grmeyer",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/grmeyer.jpg",
-            "twitter": "grmeyer",
-            "name": "Greg Meyer",
-            "tagline": "Customer Whisperer"
         }
     },
     {
