@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "https://squareup.com/feedback",
             "name": "Square Feedback",
             "tagline": "Use digital receipts to collect feedback",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "3",
+            "link": "http://launch.blendle.nl/welkom/?lang=en",
+            "name": "Blendle",
+            "tagline": "The newspaper revolutionized",
+            "ph_url": "posts/blendle",
+            "comments": "2"
+        },
+        "user": {
+            "id": "thisisjorik",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/thisisjorik.jpg",
+            "twitter": "thisisjorik",
+            "name": "Jorik",
+            "tagline": "Marketing head @meetsoda &amp; @digined. Startup contributor @Wantnl"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "9",
             "link": "http://diamondarmor.suitart.com",
             "name": "Diamond Armor",
@@ -180,7 +198,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "3",
             "link": "http://techstudios.io/",
@@ -195,24 +213,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "2",
-            "link": "http://launch.blendle.nl/welkom/?lang=en",
-            "name": "Blendle",
-            "tagline": "The newspaper revolutionized",
-            "ph_url": "posts/blendle",
-            "comments": "2"
-        },
-        "user": {
-            "id": "thisisjorik",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/thisisjorik.jpg",
-            "twitter": "thisisjorik",
-            "name": "Jorik",
-            "tagline": "Marketing head @meetsoda &amp; @digined. Startup contributor @Wantnl"
         }
     },
     {
@@ -237,24 +237,6 @@
         "id": 14,
         "post": {
             "votes": "3",
-            "link": "https://devart.withgoogle.com/",
-            "name": "DevArt",
-            "tagline": "DevArt is a new type of art made with code (by Google)",
-            "ph_url": "posts/devart",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "2",
             "link": "https://itunes.apple.com/gb/app/cleaner-pro-remove-duplicate/id519077149?mt=8",
             "name": "Cleaner",
             "tagline": "Clean your iPhone contacts in a few taps",
@@ -267,6 +249,24 @@
             "twitter": "mattlanham",
             "name": "Matthew Lanham",
             "tagline": "Founder of @enquiryhq"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "3",
+            "link": "https://devart.withgoogle.com/",
+            "name": "DevArt",
+            "tagline": "DevArt is a new type of art made with code (by Google)",
+            "ph_url": "posts/devart",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     }
 ]
