@@ -20,24 +20,6 @@
     {
         "id": 2,
         "post": {
-            "votes": "28",
-            "link": "http://99tests.com",
-            "name": "99tests",
-            "tagline": "Crowdsourced Software Testing",
-            "ph_url": "posts/99tests",
-            "comments": "5"
-        },
-        "user": {
-            "id": "vpsingh",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/vpsingh.jpg",
-            "twitter": "vpsingh",
-            "name": "Praveen Singh",
-            "tagline": "founder, 99tests"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
             "votes": "33",
             "link": "https://layer.com/",
             "name": "Layer",
@@ -51,6 +33,24 @@
             "twitter": "ozguralaz",
             "name": "Özgür Alaz",
             "tagline": "Co-founder @usefulideasnet @optlooknet @habitclock @pointrome"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "28",
+            "link": "http://99tests.com",
+            "name": "99tests",
+            "tagline": "Crowdsourced Software Testing",
+            "ph_url": "posts/99tests",
+            "comments": "5"
+        },
+        "user": {
+            "id": "vpsingh",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/vpsingh.jpg",
+            "twitter": "vpsingh",
+            "name": "Praveen Singh",
+            "tagline": "founder, 99tests"
         }
     },
     {
@@ -92,24 +92,6 @@
     {
         "id": 6,
         "post": {
-            "votes": "13",
-            "link": "http://quilljs.com/",
-            "name": "Quill",
-            "tagline": "An Open Source Rich Text Editor with an API.",
-            "ph_url": "posts/quill",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "NeerajT4",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/NeerajT4.jpg",
-            "twitter": "NeerajT4",
-            "name": "Neeraj Thakur",
-            "tagline": "co-founder, Appska"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
             "votes": "15",
             "link": "http://hackmatch.com/",
             "name": "HackMatch",
@@ -123,6 +105,24 @@
             "twitter": "arjunblj",
             "name": "Arjun Balaji",
             "tagline": "Northeastern University, student"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "13",
+            "link": "http://quilljs.com/",
+            "name": "Quill",
+            "tagline": "An Open Source Rich Text Editor with an API.",
+            "ph_url": "posts/quill",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "NeerajT4",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/NeerajT4.jpg",
+            "twitter": "NeerajT4",
+            "name": "Neeraj Thakur",
+            "tagline": "co-founder, Appska"
         }
     },
     {
