@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "10",
+            "votes": "12",
             "link": "https://squareup.com/feedback",
             "name": "Square Feedback",
             "tagline": "Use digital receipts to collect feedback",
@@ -79,7 +79,7 @@
             "name": "Pro.com",
             "tagline": "Get a price, get a pro, get it done.",
             "ph_url": "posts/pro-com",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "grmeyer",
@@ -115,7 +115,7 @@
             "name": "The NightLight",
             "tagline": "A Wirecutter-esque site for baby gear",
             "ph_url": "posts/the-nightlight",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "kaz",
@@ -255,24 +255,6 @@
         "id": 15,
         "post": {
             "votes": "4",
-            "link": "https://devart.withgoogle.com/",
-            "name": "DevArt",
-            "tagline": "DevArt is a new type of art made with code (by Google)",
-            "ph_url": "posts/devart",
-            "comments": "2"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 16,
-        "post": {
-            "votes": "3",
             "link": "https://itunes.apple.com/gb/app/cleaner-pro-remove-duplicate/id519077149?mt=8",
             "name": "Cleaner",
             "tagline": "Clean your iPhone contacts in a few taps",
@@ -285,6 +267,24 @@
             "twitter": "mattlanham",
             "name": "Matthew Lanham",
             "tagline": "Founder of @enquiryhq"
+        }
+    },
+    {
+        "id": 16,
+        "post": {
+            "votes": "4",
+            "link": "https://devart.withgoogle.com/",
+            "name": "DevArt",
+            "tagline": "DevArt is a new type of art made with code (by Google)",
+            "ph_url": "posts/devart",
+            "comments": "2"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     }
 ]
