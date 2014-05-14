@@ -75,6 +75,24 @@
         "id": 5,
         "post": {
             "votes": "2",
+            "link": "https://cue.me/",
+            "name": "Cue",
+            "tagline": "Deep Health Tracker - Beyond Steps and Weight",
+            "ph_url": "posts/cue",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "adamsigel",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamsigel.jpg",
+            "twitter": "adamsigel",
+            "name": "Adam Sigel",
+            "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "2",
             "link": "http://www.appsumo.com/image-sharer/",
             "name": "Image Sharer",
             "tagline": "Get more traffic from your images",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "3",
             "link": "http://www.motorola.com/us/consumers/shop-all-other/Moto-E/moto-e.html",
@@ -108,24 +126,6 @@
         }
     },
     {
-        "id": 7,
-        "post": {
-            "votes": "1",
-            "link": "https://cue.me/",
-            "name": "Cue",
-            "tagline": "Deep Health Tracker - Beyond Steps and Weight",
-            "ph_url": "posts/cue",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "adamsigel",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamsigel.jpg",
-            "twitter": "adamsigel",
-            "name": "Adam Sigel",
-            "tagline": "Product Manager, Aereo"
-        }
-    },
-    {
         "id": 8,
         "post": {
             "votes": "1",
@@ -133,7 +133,7 @@
             "name": "Spot On",
             "tagline": "Helping you arrive on time",
             "ph_url": "posts/spot-on",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "KristoferTM",
