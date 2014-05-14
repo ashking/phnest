@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "15",
+            "link": "http://quaderno.io/",
+            "name": "Quaderno",
+            "tagline": "Invoicing for Stripe",
+            "ph_url": "posts/quaderno",
+            "comments": "2"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "10",
             "link": "https://cue.me/",
             "name": "Cue",
@@ -87,24 +105,6 @@
             "twitter": "adamsigel",
             "name": "Adam Sigel",
             "tagline": "Product Manager, Aereo"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "14",
-            "link": "http://quaderno.io/",
-            "name": "Quaderno",
-            "tagline": "Invoicing for Stripe",
-            "ph_url": "posts/quaderno",
-            "comments": "2"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://cooking.nytimes.com/",
             "name": "NYT Cooking",
             "tagline": "Recipe resource and community by the New York Times",
@@ -236,24 +236,6 @@
     {
         "id": 14,
         "post": {
-            "votes": "1",
-            "link": "http://www.sols.co/",
-            "name": "Sols",
-            "tagline": "Changing the way people walk one step at a time.",
-            "ph_url": "posts/sols",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "dshan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
-            "twitter": "dshan",
-            "name": "Derek Shanahan",
-            "tagline": "Growth Marketer, Playerize"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
             "votes": "2",
             "link": "http://www.spotontime.com/",
             "name": "Spot On",
@@ -267,6 +249,24 @@
             "twitter": "KristoferTM",
             "name": "Kris Minkstein",
             "tagline": "Founder @ Lamplighter Labs"
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "1",
+            "link": "http://www.sols.co/",
+            "name": "Sols",
+            "tagline": "Changing the way people walk one step at a time.",
+            "ph_url": "posts/sols",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "dshan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dshan.jpg",
+            "twitter": "dshan",
+            "name": "Derek Shanahan",
+            "tagline": "Growth Marketer, Playerize"
         }
     },
     {
