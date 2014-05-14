@@ -7,7 +7,7 @@
             "name": "Formisimo",
             "tagline": "Online form analytics with real time feedback loops",
             "ph_url": "posts/formisimo",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "ediggs",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "9",
+            "link": "https://cue.me/",
+            "name": "Cue",
+            "tagline": "Deep Health Tracker - Beyond Steps and Weight",
+            "ph_url": "posts/cue",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "adamsigel",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamsigel.jpg",
+            "twitter": "adamsigel",
+            "name": "Adam Sigel",
+            "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "12",
             "link": "http://quaderno.io/",
             "name": "Quaderno",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "8",
             "link": "http://namevine.com",
@@ -105,24 +123,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "8",
-            "link": "https://cue.me/",
-            "name": "Cue",
-            "tagline": "Deep Health Tracker - Beyond Steps and Weight",
-            "ph_url": "posts/cue",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "adamsigel",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamsigel.jpg",
-            "twitter": "adamsigel",
-            "name": "Adam Sigel",
-            "tagline": "Product Manager, Aereo"
         }
     },
     {
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "https://www.kickstarter.com/projects/375798653/superhot",
             "name": "SuperHot",
             "tagline": "Game - time moves only when you move",
@@ -201,24 +201,6 @@
         "id": 12,
         "post": {
             "votes": "3",
-            "link": "http://www.appsumo.com/image-sharer/",
-            "name": "Image Sharer",
-            "tagline": "Get more traffic from your images",
-            "ph_url": "posts/image-sharer",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "francoismat",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/francoismat.jpg",
-            "twitter": "francoismat",
-            "name": "Francois Mathieu",
-            "tagline": "Inbound Marketing Manager, Uberflip"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "2",
             "link": "http://whatsapplebees.com/",
             "name": "WhatsApplebee&#39;s",
             "tagline": "The premier social chat app for fans of Applebee&#39;s",
@@ -231,6 +213,24 @@
             "twitter": "adamsigel",
             "name": "Adam Sigel",
             "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "3",
+            "link": "http://www.appsumo.com/image-sharer/",
+            "name": "Image Sharer",
+            "tagline": "Get more traffic from your images",
+            "ph_url": "posts/image-sharer",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "francoismat",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/francoismat.jpg",
+            "twitter": "francoismat",
+            "name": "Francois Mathieu",
+            "tagline": "Inbound Marketing Manager, Uberflip"
         }
     },
     {
