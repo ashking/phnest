@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "30",
+            "votes": "31",
             "link": "https://www.firebase.com/hosting.html",
             "name": "Firebase Hosting",
             "tagline": "Production-grade Hosting for Developers",
@@ -290,6 +290,24 @@
     {
         "id": 17,
         "post": {
+            "votes": "6",
+            "link": "http://www.spotontime.com/",
+            "name": "Spot On",
+            "tagline": "Helping you arrive on time",
+            "ph_url": "posts/spot-on",
+            "comments": "5"
+        },
+        "user": {
+            "id": "KristoferTM",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
+            "twitter": "KristoferTM",
+            "name": "Kris Minkstein",
+            "tagline": "Founder @ Lamplighter Labs"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
             "votes": "3",
             "link": "http://www.gliffy.com/",
             "name": "Gliffy",
@@ -303,24 +321,6 @@
             "twitter": "elizacormack",
             "name": "Liz Cormack",
             "tagline": "Marketing Manager, The Tap Lab"
-        }
-    },
-    {
-        "id": 18,
-        "post": {
-            "votes": "5",
-            "link": "http://www.spotontime.com/",
-            "name": "Spot On",
-            "tagline": "Helping you arrive on time",
-            "ph_url": "posts/spot-on",
-            "comments": "5"
-        },
-        "user": {
-            "id": "KristoferTM",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KristoferTM.jpg",
-            "twitter": "KristoferTM",
-            "name": "Kris Minkstein",
-            "tagline": "Founder @ Lamplighter Labs"
         }
     },
     {
@@ -362,6 +362,24 @@
     {
         "id": 21,
         "post": {
+            "votes": "1",
+            "link": "https://www.competehub.com/",
+            "name": "Compete Hub",
+            "tagline": "All your triathlons, all your friends, all in one place.",
+            "ph_url": "posts/compete-hub",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gwintrob",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/gwintrob.jpg",
+            "twitter": "gwintrob",
+            "name": "Gordon Wintrob",
+            "tagline": "Hacker"
+        }
+    },
+    {
+        "id": 22,
+        "post": {
             "votes": "2",
             "link": "http://teddytheguardian.com",
             "name": "Teddy the Guardian",
@@ -378,7 +396,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 23,
         "post": {
             "votes": "1",
             "link": "http://getscoreboard.com/",
@@ -396,7 +414,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 24,
         "post": {
             "votes": "1",
             "link": "http://villas.com",
