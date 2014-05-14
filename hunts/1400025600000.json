@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "20",
+            "link": "https://www.firebase.com/hosting.html",
+            "name": "Firebase Hosting",
+            "tagline": "Production-grade Hosting for Developers",
+            "ph_url": "posts/firebase-hosting",
+            "comments": "2"
+        },
+        "user": {
+            "id": "startupandrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/startupandrew.jpg",
+            "twitter": "startupandrew",
+            "name": "Andrew Lee",
+            "tagline": "Hacker"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "16",
             "link": "http://quaderno.io/",
             "name": "Quaderno",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "11",
             "link": "http://namevine.com",
@@ -105,24 +123,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "19",
-            "link": "https://www.firebase.com/hosting.html",
-            "name": "Firebase Hosting",
-            "tagline": "Production-grade Hosting for Developers",
-            "ph_url": "posts/firebase-hosting",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "startupandrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/startupandrew.jpg",
-            "twitter": "startupandrew",
-            "name": "Andrew Lee",
-            "tagline": "Hacker"
         }
     },
     {
