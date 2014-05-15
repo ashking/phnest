@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "22",
+            "votes": "23",
             "link": "http://cloudpeeps.com",
             "name": "CloudPeeps",
             "tagline": "The marketplace for remote community managers ",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "6",
+            "link": "https://reissued.com/",
+            "name": "Reissued",
+            "tagline": "A curated social marketplace for vintage goods",
+            "ph_url": "posts/reissued",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "SDMattG",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/SDMattG.jpg",
+            "twitter": "SDMattG",
+            "name": "Matt Goldman",
+            "tagline": "Founder, Small HQ"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "12",
             "link": "http://discover.typography.com",
             "name": "Discover.typography",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "15",
             "link": "http://www.prestashop.com/",
@@ -69,24 +87,6 @@
             "twitter": "EveretteTaylor",
             "name": "Everette Taylor Jr.",
             "tagline": "GrowthHackers.com"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "http://skylock.cc/",
-            "name": "Skylock",
-            "tagline": "A smart bike lock",
-            "ph_url": "posts/skylock",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "msg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
-            "twitter": "msg",
-            "name": "Michael S Galpert",
-            "tagline": "Founder of Superhuman"
         }
     },
     {
@@ -110,19 +110,19 @@
     {
         "id": 7,
         "post": {
-            "votes": "4",
-            "link": "https://reissued.com/",
-            "name": "Reissued",
-            "tagline": "A curated social marketplace for vintage goods",
-            "ph_url": "posts/reissued",
+            "votes": "6",
+            "link": "http://skylock.cc/",
+            "name": "Skylock",
+            "tagline": "A smart bike lock",
+            "ph_url": "posts/skylock",
             "comments": "View details"
         },
         "user": {
-            "id": "SDMattG",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/SDMattG.jpg",
-            "twitter": "SDMattG",
-            "name": "Matt Goldman",
-            "tagline": "Founder, Small HQ"
+            "id": "msg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
+            "twitter": "msg",
+            "name": "Michael S Galpert",
+            "tagline": "Founder of Superhuman"
         }
     },
     {
@@ -200,7 +200,7 @@
     {
         "id": 12,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "http://www.sinch.com/",
             "name": "Sinch",
             "tagline": "Build calling and messaging into your apps",
