@@ -129,7 +129,7 @@
         "id": 8,
         "post": {
             "votes": "2",
-            "link": "https://itunes.apple.com/app/kanvas/id653298682?ls=1&mt=8",
+            "link": "http://www.getkanvas.com/",
             "name": "Kanvas",
             "tagline": "Make awesome music videos with gifs and photos",
             "ph_url": "posts/kanvas",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "2",
+            "link": "http://churnbuster.io/",
+            "name": "Churn Buster",
+            "tagline": "Stop Losing Money to Failed Payments in Stripe",
+            "ph_url": "posts/churn-buster",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "1",
             "link": "http://www.mixtrss.com/",
             "name": "Mixtrss",
@@ -177,24 +195,6 @@
             "twitter": "jkupferman",
             "name": "Jonathan Kupferman",
             "tagline": "Developer of Gifs"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "1",
-            "link": "http://churnbuster.io/",
-            "name": "Churn Buster",
-            "tagline": "Stop Losing Money to Failed Payments in Stripe",
-            "ph_url": "posts/churn-buster",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
