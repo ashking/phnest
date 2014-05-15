@@ -2,11 +2,11 @@
     {
         "id": 1,
         "post": {
-            "votes": "11",
-            "link": "http://www.urbanmassage.com/",
-            "name": "Urban Massage",
-            "tagline": "Massage Delivered (Uber for Wellness and Medical Therapy)",
-            "ph_url": "posts/urban-massage",
+            "votes": "9",
+            "link": "https://chrome.google.com/webstore/detail/sunrise-calendar/mojepfklcankkmikonjlnidiooanmpbb?hl=en",
+            "name": "Sunrise for Chrome",
+            "tagline": "Sunrise Calendar: now available as an app for Google Chrome",
+            "ph_url": "posts/sunrise-for-chrome",
             "comments": "1 comment"
         },
         "user": {
@@ -20,11 +20,11 @@
     {
         "id": 2,
         "post": {
-            "votes": "9",
-            "link": "https://chrome.google.com/webstore/detail/sunrise-calendar/mojepfklcankkmikonjlnidiooanmpbb?hl=en",
-            "name": "Sunrise for Chrome",
-            "tagline": "Sunrise Calendar: now available as an app for Google Chrome",
-            "ph_url": "posts/sunrise-for-chrome",
+            "votes": "8",
+            "link": "http://www.urbanmassage.com/",
+            "name": "Urban Massage",
+            "tagline": "Massage Delivered (Uber for Wellness and Medical Therapy)",
+            "ph_url": "posts/urban-massage",
             "comments": "1 comment"
         },
         "user": {
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "3",
+            "link": "https://12ish.com",
+            "name": "12ish",
+            "tagline": "Make money for 12 minutes of your time.",
+            "ph_url": "posts/12ish",
+            "comments": "2"
+        },
+        "user": {
+            "id": "colinmathews",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/colinmathews.jpg",
+            "twitter": "colinmathews",
+            "name": "Colin Mathews",
+            "tagline": "CTO, 12ish.com"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "2",
             "link": "http://speedselfie.com",
             "name": "SpeedSelfie",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "2",
             "link": "https://kinsights.com/",
@@ -123,24 +141,6 @@
             "twitter": "MendzappJames",
             "name": "James Mundy",
             "tagline": "Founder, Foundbite"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "2",
-            "link": "https://12ish.com",
-            "name": "12ish",
-            "tagline": "Make money for 12 minutes of your time.",
-            "ph_url": "posts/12ish",
-            "comments": "2"
-        },
-        "user": {
-            "id": "colinmathews",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/colinmathews.jpg",
-            "twitter": "colinmathews",
-            "name": "Colin Mathews",
-            "tagline": "CTO, 12ish.com"
         }
     }
 ]
