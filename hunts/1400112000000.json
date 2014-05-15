@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "8",
+            "link": "http://cloudpeeps.com",
+            "name": "CloudPeeps",
+            "tagline": "The marketplace for remote community managers ",
+            "ph_url": "posts/cloudpeeps",
+            "comments": "2"
+        },
+        "user": {
+            "id": "KateKendall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KateKendall.jpg",
+            "twitter": "KateKendall",
+            "name": "Kate Kendall",
+            "tagline": "Founder of The Fetch and CloudPeeps"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "18",
             "link": "https://12ish.com",
             "name": "12ish",
@@ -18,25 +36,25 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
-            "votes": "7",
-            "link": "http://cloudpeeps.com",
-            "name": "CloudPeeps",
-            "tagline": "The marketplace for remote community managers ",
-            "ph_url": "posts/cloudpeeps",
-            "comments": "2"
+            "votes": "9",
+            "link": "http://discover.typography.com",
+            "name": "Discover.typography",
+            "tagline": "Discover great fonts through themes. ",
+            "ph_url": "posts/discover-typography",
+            "comments": "1 comment"
         },
         "user": {
-            "id": "KateKendall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KateKendall.jpg",
-            "twitter": "KateKendall",
-            "name": "Kate Kendall",
-            "tagline": "Founder of The Fetch and CloudPeeps"
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "11",
             "link": "http://www.prestashop.com/",
@@ -51,24 +69,6 @@
             "twitter": "EveretteTaylor",
             "name": "Everette Taylor Jr.",
             "tagline": "GrowthHackers.com"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "8",
-            "link": "http://discover.typography.com",
-            "name": "Discover.typography",
-            "tagline": "Discover great fonts through themes. ",
-            "ph_url": "posts/discover-typography",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -111,6 +111,24 @@
         "id": 7,
         "post": {
             "votes": "3",
+            "link": "http://www.getkanvas.com/",
+            "name": "Kanvas",
+            "tagline": "Make awesome music videos with gifs and photos",
+            "ph_url": "posts/kanvas",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "KwamesWorld",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KwamesWorld.jpg",
+            "twitter": "KwamesWorld",
+            "name": "Kwame Henderson",
+            "tagline": "Head of Growth at Kanvas"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "3",
             "link": "http://churnbuster.io/",
             "name": "Churn Buster",
             "tagline": "Stop Losing Money to Failed Payments in Stripe",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "6",
             "link": "http://www.sinch.com/",
@@ -141,24 +159,6 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "2",
-            "link": "http://www.getkanvas.com/",
-            "name": "Kanvas",
-            "tagline": "Make awesome music videos with gifs and photos",
-            "ph_url": "posts/kanvas",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "KwamesWorld",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KwamesWorld.jpg",
-            "twitter": "KwamesWorld",
-            "name": "Kwame Henderson",
-            "tagline": "Head of Growth at Kanvas"
         }
     },
     {
