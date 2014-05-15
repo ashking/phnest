@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "16",
+            "link": "http://www.prestashop.com/",
+            "name": "PrestaShop",
+            "tagline": "Build a free online store",
+            "ph_url": "posts/prestashop",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "EveretteTaylor",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EveretteTaylor.jpg",
+            "twitter": "EveretteTaylor",
+            "name": "Everette Taylor Jr.",
+            "tagline": "GrowthHackers.com"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "6",
             "link": "https://reissued.com/",
             "name": "Reissued",
@@ -54,7 +72,25 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
+        "post": {
+            "votes": "10",
+            "link": "http://churnbuster.io/",
+            "name": "Churn Buster",
+            "tagline": "Stop Losing Money to Failed Payments in Stripe",
+            "ph_url": "posts/churn-buster",
+            "comments": "2"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "12",
             "link": "http://discover.typography.com",
@@ -69,42 +105,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "15",
-            "link": "http://www.prestashop.com/",
-            "name": "PrestaShop",
-            "tagline": "Build a free online store",
-            "ph_url": "posts/prestashop",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "EveretteTaylor",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EveretteTaylor.jpg",
-            "twitter": "EveretteTaylor",
-            "name": "Everette Taylor Jr.",
-            "tagline": "GrowthHackers.com"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "9",
-            "link": "http://churnbuster.io/",
-            "name": "Churn Buster",
-            "tagline": "Stop Losing Money to Failed Payments in Stripe",
-            "ph_url": "posts/churn-buster",
-            "comments": "2"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
         }
     },
     {
@@ -200,7 +200,7 @@
     {
         "id": 12,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "http://www.sinch.com/",
             "name": "Sinch",
             "tagline": "Build calling and messaging into your apps",
@@ -219,6 +219,24 @@
         "id": 13,
         "post": {
             "votes": "4",
+            "link": "http://www.nextissue.com",
+            "name": "Next Issue",
+            "tagline": "Netflix for magazines",
+            "ph_url": "posts/next-issue",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "4",
             "link": "http://www.getkanvas.com/",
             "name": "Kanvas",
             "tagline": "Make awesome music videos with gifs and photos",
@@ -234,7 +252,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 15,
         "post": {
             "votes": "3",
             "link": "http://octobercms.com/",
@@ -249,24 +267,6 @@
             "twitter": "FrancoVarriano",
             "name": "Franco Varriano",
             "tagline": "Director of Publishing"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "3",
-            "link": "http://www.nextissue.com",
-            "name": "Next Issue",
-            "tagline": "Netflix for magazines",
-            "ph_url": "posts/next-issue",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kjemperud",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
-            "twitter": "kjemperud",
-            "name": "Thomas Kjemperud",
-            "tagline": "Founder &amp; Curator, Startup Letters"
         }
     },
     {
