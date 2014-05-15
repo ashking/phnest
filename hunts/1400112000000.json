@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "15",
+            "link": "http://www.prestashop.com/",
+            "name": "PrestaShop",
+            "tagline": "Build a free online store",
+            "ph_url": "posts/prestashop",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "EveretteTaylor",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EveretteTaylor.jpg",
+            "twitter": "EveretteTaylor",
+            "name": "Everette Taylor Jr.",
+            "tagline": "GrowthHackers.com"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "11",
             "link": "http://discover.typography.com",
             "name": "Discover.typography",
@@ -51,24 +69,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "14",
-            "link": "http://www.prestashop.com/",
-            "name": "PrestaShop",
-            "tagline": "Build a free online store",
-            "ph_url": "posts/prestashop",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "EveretteTaylor",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EveretteTaylor.jpg",
-            "twitter": "EveretteTaylor",
-            "name": "Everette Taylor Jr.",
-            "tagline": "GrowthHackers.com"
         }
     },
     {
@@ -147,24 +147,6 @@
         "id": 9,
         "post": {
             "votes": "3",
-            "link": "http://www.getkanvas.com/",
-            "name": "Kanvas",
-            "tagline": "Make awesome music videos with gifs and photos",
-            "ph_url": "posts/kanvas",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "KwamesWorld",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KwamesWorld.jpg",
-            "twitter": "KwamesWorld",
-            "name": "Kwame Henderson",
-            "tagline": "Head of Growth at Kanvas"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "2",
             "link": "http://octobercms.com/",
             "name": "October CMS",
             "tagline": "The Platform that gets back to basics.",
@@ -177,6 +159,24 @@
             "twitter": "FrancoVarriano",
             "name": "Franco Varriano",
             "tagline": "Director of Publishing"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "3",
+            "link": "http://www.getkanvas.com/",
+            "name": "Kanvas",
+            "tagline": "Make awesome music videos with gifs and photos",
+            "ph_url": "posts/kanvas",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "KwamesWorld",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/KwamesWorld.jpg",
+            "twitter": "KwamesWorld",
+            "name": "Kwame Henderson",
+            "tagline": "Head of Growth at Kanvas"
         }
     },
     {
