@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "5",
+            "link": "https://12ish.com",
+            "name": "12ish",
+            "tagline": "Make money for 12 minutes of your time.",
+            "ph_url": "posts/12ish",
+            "comments": "3"
+        },
+        "user": {
+            "id": "colinmathews",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/colinmathews.jpg",
+            "twitter": "colinmathews",
+            "name": "Colin Mathews",
+            "tagline": "CTO, 12ish.com"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "4",
             "link": "http://www.sinch.com/",
             "name": "Sinch",
@@ -69,24 +87,6 @@
             "twitter": "jasondainter",
             "name": "Jason Dainter",
             "tagline": "Co-Founder, Ecomarket.com"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "4",
-            "link": "https://12ish.com",
-            "name": "12ish",
-            "tagline": "Make money for 12 minutes of your time.",
-            "ph_url": "posts/12ish",
-            "comments": "3"
-        },
-        "user": {
-            "id": "colinmathews",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/colinmathews.jpg",
-            "twitter": "colinmathews",
-            "name": "Colin Mathews",
-            "tagline": "CTO, 12ish.com"
         }
     },
     {
@@ -133,7 +133,7 @@
             "name": "Discover.typography",
             "tagline": "Discover great fonts through themes. ",
             "ph_url": "posts/discover-typography",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "GeoffreyWeg",
