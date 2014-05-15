@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "http://drift-light.com/",
             "name": "Drift Light",
             "tagline": "Sleep easy.",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "4",
+            "link": "http://slapshotapp.com",
+            "name": "Slapshot",
+            "tagline": "Never forget anything.",
+            "ph_url": "posts/slapshot",
+            "comments": "5"
+        },
+        "user": {
+            "id": "thetylerhayes",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/thetylerhayes.jpg",
+            "twitter": "thetylerhayes",
+            "name": "Tyler Hayes",
+            "tagline": "CEO, Prime"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "12",
             "link": "http://www.sinch.com/",
             "name": "Sinch",
@@ -180,7 +198,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "12",
             "link": "http://www.urbanmassage.com/",
@@ -198,7 +216,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "post": {
             "votes": "6",
             "link": "http://www.nextissue.com",
@@ -216,14 +234,14 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "12",
             "link": "http://campaign.wearhaus.com/",
             "name": "Wearhaus",
             "tagline": "Wirelessly sync multiple headphones and listen together.",
             "ph_url": "posts/wearhaus",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "kwdinc",
@@ -231,24 +249,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "3",
-            "link": "http://slapshotapp.com",
-            "name": "Slapshot",
-            "tagline": "Never forget anything.",
-            "ph_url": "posts/slapshot",
-            "comments": "4"
-        },
-        "user": {
-            "id": "thetylerhayes",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/thetylerhayes.jpg",
-            "twitter": "thetylerhayes",
-            "name": "Tyler Hayes",
-            "tagline": "CEO, Prime"
         }
     },
     {
@@ -291,6 +291,42 @@
         "id": 17,
         "post": {
             "votes": "3",
+            "link": "http://everything.io/",
+            "name": "everything.io",
+            "tagline": "The Operating System for Your Stuff",
+            "ph_url": "posts/everything-io",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "elizacormack",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/elizacormack.jpg",
+            "twitter": "elizacormack",
+            "name": "Liz Cormack",
+            "tagline": "Marketing Manager, The Tap Lab"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
+            "votes": "2",
+            "link": "https://itunes.apple.com/us/app/swarm-by-foursquare/id870161082",
+            "name": "Swarm (iOS)",
+            "tagline": "Keep up &amp; meet up with your friends (Foursquare unbundled)",
+            "ph_url": "posts/swarm-ios",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bryankchang",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bryankchang.jpg",
+            "twitter": "bryankchang",
+            "name": "Bryan Chang",
+            "tagline": "Data Scientist, Mattermark"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
+            "votes": "3",
             "link": "http://www.countable.us/",
             "name": "Countable",
             "tagline": "Direct Democracy with Countable",
@@ -306,7 +342,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 20,
         "post": {
             "votes": "4",
             "link": "http://www.mixtrss.com/",
@@ -324,7 +360,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 21,
         "post": {
             "votes": "4",
             "link": "http://www.weespring.com",
@@ -342,7 +378,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 22,
         "post": {
             "votes": "3",
             "link": "http://octobercms.com/",
@@ -360,25 +396,7 @@
         }
     },
     {
-        "id": 21,
-        "post": {
-            "votes": "2",
-            "link": "http://everything.io/",
-            "name": "everything.io",
-            "tagline": "The Operating System for Your Stuff",
-            "ph_url": "posts/everything-io",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "elizacormack",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/elizacormack.jpg",
-            "twitter": "elizacormack",
-            "name": "Liz Cormack",
-            "tagline": "Marketing Manager, The Tap Lab"
-        }
-    },
-    {
-        "id": 22,
+        "id": 23,
         "post": {
             "votes": "2",
             "link": "http://typehere.co/",
@@ -396,7 +414,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 24,
         "post": {
             "votes": "2",
             "link": "http://xscopeapp.com/",
@@ -411,24 +429,6 @@
             "twitter": "arjunblj",
             "name": "Arjun Balaji",
             "tagline": "Northeastern University, student"
-        }
-    },
-    {
-        "id": 24,
-        "post": {
-            "votes": "1",
-            "link": "https://itunes.apple.com/us/app/swarm-by-foursquare/id870161082",
-            "name": "Swarm (iOS)",
-            "tagline": "Keep up &amp; meet up with your friends (Foursquare unbundled)",
-            "ph_url": "posts/swarm-ios",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bryankchang",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bryankchang.jpg",
-            "twitter": "bryankchang",
-            "name": "Bryan Chang",
-            "tagline": "Data Scientist, Mattermark"
         }
     },
     {
