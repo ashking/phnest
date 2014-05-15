@@ -43,7 +43,7 @@
             "name": "Skylock",
             "tagline": "A smart bike lock",
             "ph_url": "posts/skylock",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "msg",
@@ -218,6 +218,24 @@
     {
         "id": 13,
         "post": {
+            "votes": "5",
+            "link": "http://www.nextissue.com",
+            "name": "Next Issue",
+            "tagline": "Netflix for magazines",
+            "ph_url": "posts/next-issue",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "kjemperud",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
+            "twitter": "kjemperud",
+            "name": "Thomas Kjemperud",
+            "tagline": "Founder &amp; Curator, Startup Letters"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
             "votes": "4",
             "link": "http://www.yourfonts.com/",
             "name": "YourFonts",
@@ -234,27 +252,9 @@
         }
     },
     {
-        "id": 14,
-        "post": {
-            "votes": "4",
-            "link": "http://www.nextissue.com",
-            "name": "Next Issue",
-            "tagline": "Netflix for magazines",
-            "ph_url": "posts/next-issue",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "kjemperud",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/kjemperud.jpg",
-            "twitter": "kjemperud",
-            "name": "Thomas Kjemperud",
-            "tagline": "Founder &amp; Curator, Startup Letters"
-        }
-    },
-    {
         "id": 15,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "https://kinsights.com/",
             "name": "Kinsights",
             "tagline": "Advice network for parents.",
@@ -345,6 +345,24 @@
         "id": 20,
         "post": {
             "votes": "2",
+            "link": "http://everything.io/",
+            "name": "everything.io",
+            "tagline": "The Operating System for Your Stuff",
+            "ph_url": "posts/everything-io",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "elizacormack",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/elizacormack.jpg",
+            "twitter": "elizacormack",
+            "name": "Liz Cormack",
+            "tagline": "Marketing Manager, The Tap Lab"
+        }
+    },
+    {
+        "id": 21,
+        "post": {
+            "votes": "2",
             "link": "http://www.countable.us/",
             "name": "Countable",
             "tagline": "Direct Democracy with Countable",
@@ -360,7 +378,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 22,
         "post": {
             "votes": "2",
             "link": "http://typehere.co/",
@@ -378,7 +396,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 23,
         "post": {
             "votes": "2",
             "link": "http://xscopeapp.com/",
@@ -393,24 +411,6 @@
             "twitter": "arjunblj",
             "name": "Arjun Balaji",
             "tagline": "Northeastern University, student"
-        }
-    },
-    {
-        "id": 23,
-        "post": {
-            "votes": "1",
-            "link": "http://feedeebuzz.de/",
-            "name": "Feedeebuzz",
-            "tagline": "A free way to lock in your user feedback loop. ",
-            "ph_url": "posts/feedeebuzz",
-            "comments": "2"
-        },
-        "user": {
-            "id": "datarade",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/datarade.jpg",
-            "twitter": "datarade",
-            "name": "Kumar Thangudu",
-            "tagline": "growth hacker and manufacturing engineer"
         }
     },
     {
@@ -429,24 +429,6 @@
             "twitter": "danerobert",
             "name": "Dana Severson",
             "tagline": "CEO, Wahooly"
-        }
-    },
-    {
-        "id": 25,
-        "post": {
-            "votes": "1",
-            "link": "http://everything.io/",
-            "name": "everything.io",
-            "tagline": "The Operating System for Your Stuff",
-            "ph_url": "posts/everything-io",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "elizacormack",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/elizacormack.jpg",
-            "twitter": "elizacormack",
-            "name": "Liz Cormack",
-            "tagline": "Marketing Manager, The Tap Lab"
         }
     }
 ]
