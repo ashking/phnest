@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "9",
+            "link": "http://skylock.cc/",
+            "name": "Skylock",
+            "tagline": "A smart bike lock",
+            "ph_url": "posts/skylock",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "msg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
+            "twitter": "msg",
+            "name": "Michael S Galpert",
+            "tagline": "Founder of Superhuman"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "12",
             "link": "http://churnbuster.io/",
             "name": "Churn Buster",
@@ -51,24 +69,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "8",
-            "link": "http://skylock.cc/",
-            "name": "Skylock",
-            "tagline": "A smart bike lock",
-            "ph_url": "posts/skylock",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "msg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
-            "twitter": "msg",
-            "name": "Michael S Galpert",
-            "tagline": "Founder of Superhuman"
         }
     },
     {
@@ -259,7 +259,7 @@
             "name": "Kinsights",
             "tagline": "Advice network for parents.",
             "ph_url": "posts/kinsights",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "MendzappJames",
