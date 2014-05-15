@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "48",
+            "votes": "49",
             "link": "https://12ish.com",
             "name": "12ish",
             "tagline": "Make money for 12 minutes of your time.",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "9",
+            "link": "https://itunes.apple.com/us/app/swarm-by-foursquare/id870161082",
+            "name": "Swarm (iOS)",
+            "tagline": "Keep up &amp; meet up with your friends (Foursquare unbundled)",
+            "ph_url": "posts/swarm-ios",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bryankchang",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bryankchang.jpg",
+            "twitter": "bryankchang",
+            "name": "Bryan Chang",
+            "tagline": "Data Scientist, Mattermark"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "13",
             "link": "http://skylock.cc/",
             "name": "Skylock",
@@ -51,24 +69,6 @@
             "twitter": "msg",
             "name": "Michael S Galpert",
             "tagline": "Founder of Superhuman"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "8",
-            "link": "https://itunes.apple.com/us/app/swarm-by-foursquare/id870161082",
-            "name": "Swarm (iOS)",
-            "tagline": "Keep up &amp; meet up with your friends (Foursquare unbundled)",
-            "ph_url": "posts/swarm-ios",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bryankchang",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bryankchang.jpg",
-            "twitter": "bryankchang",
-            "name": "Bryan Chang",
-            "tagline": "Data Scientist, Mattermark"
         }
     },
     {
@@ -200,24 +200,6 @@
     {
         "id": 12,
         "post": {
-            "votes": "3",
-            "link": "http://nowrelax.me/",
-            "name": "Now Relax",
-            "tagline": "Dead-simple relaxation break",
-            "ph_url": "posts/now-relax",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "staringispolite",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
-            "twitter": "staringispolite",
-            "name": "Jonathan Howard",
-            "tagline": "Co-founder &amp; CEO, Emissary"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
             "votes": "13",
             "link": "http://www.urbanmassage.com/",
             "name": "Urban Massage",
@@ -231,6 +213,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "3",
+            "link": "http://nowrelax.me/",
+            "name": "Now Relax",
+            "tagline": "Dead-simple relaxation break",
+            "ph_url": "posts/now-relax",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "staringispolite",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
+            "twitter": "staringispolite",
+            "name": "Jonathan Howard",
+            "tagline": "Co-founder &amp; CEO, Emissary"
         }
     },
     {
