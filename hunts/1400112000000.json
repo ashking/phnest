@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "60",
+            "votes": "61",
             "link": "https://12ish.com",
             "name": "12ish",
             "tagline": "Make money for 12 minutes of your time.",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "28",
+            "votes": "30",
             "link": "https://itunes.apple.com/us/app/swarm-by-foursquare/id870161082",
             "name": "Swarm (iOS)",
             "tagline": "Keep up &amp; meet up with your friends (Foursquare unbundled)",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "25",
+            "link": "http://skylock.cc/",
+            "name": "Skylock",
+            "tagline": "A smart bike lock",
+            "ph_url": "posts/skylock",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "msg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
+            "twitter": "msg",
+            "name": "Michael S Galpert",
+            "tagline": "Founder of Superhuman"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "39",
             "link": "https://kinsights.com/",
             "name": "Kinsights",
@@ -72,27 +90,9 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "24",
-            "link": "http://skylock.cc/",
-            "name": "Skylock",
-            "tagline": "A smart bike lock",
-            "ph_url": "posts/skylock",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "msg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/msg.jpg",
-            "twitter": "msg",
-            "name": "Michael S Galpert",
-            "tagline": "Founder of Superhuman"
-        }
-    },
-    {
         "id": 6,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "http://drift-light.com/",
             "name": "Drift Light",
             "tagline": "Sleep easy.",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "22",
+            "link": "http://www.prestashop.com/",
+            "name": "PrestaShop",
+            "tagline": "Build a free online store",
+            "ph_url": "posts/prestashop",
+            "comments": "2"
+        },
+        "user": {
+            "id": "EveretteTaylor",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EveretteTaylor.jpg",
+            "twitter": "EveretteTaylor",
+            "name": "Everette Taylor Jr.",
+            "tagline": "GrowthHackers.com"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "12",
             "link": "https://itunes.apple.com/us/app/nuzzel-news-from-your-friends/id692285770",
             "name": "Nuzzel for iOS",
@@ -126,24 +144,6 @@
         }
     },
     {
-        "id": 8,
-        "post": {
-            "votes": "21",
-            "link": "http://www.prestashop.com/",
-            "name": "PrestaShop",
-            "tagline": "Build a free online store",
-            "ph_url": "posts/prestashop",
-            "comments": "2"
-        },
-        "user": {
-            "id": "EveretteTaylor",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/EveretteTaylor.jpg",
-            "twitter": "EveretteTaylor",
-            "name": "Everette Taylor Jr.",
-            "tagline": "GrowthHackers.com"
-        }
-    },
-    {
         "id": 9,
         "post": {
             "votes": "15",
@@ -151,7 +151,7 @@
             "name": "Churn Buster",
             "tagline": "Stop Losing Money to Failed Payments in Stripe",
             "ph_url": "posts/churn-buster",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "rrhoover",
@@ -200,24 +200,6 @@
     {
         "id": 12,
         "post": {
-            "votes": "8",
-            "link": "http://slapshotapp.com",
-            "name": "Slapshot",
-            "tagline": "Never forget anything.",
-            "ph_url": "posts/slapshot",
-            "comments": "8"
-        },
-        "user": {
-            "id": "thetylerhayes",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/thetylerhayes.jpg",
-            "twitter": "thetylerhayes",
-            "name": "Tyler Hayes",
-            "tagline": "CEO, Prime"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
             "votes": "10",
             "link": "http://www.nextissue.com",
             "name": "Next Issue",
@@ -231,6 +213,24 @@
             "twitter": "kjemperud",
             "name": "Thomas Kjemperud",
             "tagline": "Founder &amp; Curator, Startup Letters"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "8",
+            "link": "http://slapshotapp.com",
+            "name": "Slapshot",
+            "tagline": "Never forget anything.",
+            "ph_url": "posts/slapshot",
+            "comments": "8"
+        },
+        "user": {
+            "id": "thetylerhayes",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/thetylerhayes.jpg",
+            "twitter": "thetylerhayes",
+            "name": "Tyler Hayes",
+            "tagline": "CEO, Prime"
         }
     },
     {
