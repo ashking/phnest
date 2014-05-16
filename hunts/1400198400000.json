@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "https://barkbuddy.com/",
             "name": "BarkBuddy",
             "tagline": "Tinder for dogs. Adopt cute pups that need a home.",
             "ph_url": "posts/barkbuddy",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "wp",
@@ -37,6 +37,24 @@
     },
     {
         "id": 3,
+        "post": {
+            "votes": "15",
+            "link": "https://www.kickstarter.com/projects/1598272670/meet-otto-the-hackable-gif-camera",
+            "name": "OTTO",
+            "tagline": "A GIF Camera!",
+            "ph_url": "posts/otto",
+            "comments": "3"
+        },
+        "user": {
+            "id": "GeoffreyWeg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
+            "twitter": "GeoffreyWeg",
+            "name": "Geoffrey Weg",
+            "tagline": "Independent"
+        }
+    },
+    {
+        "id": 4,
         "post": {
             "votes": "8",
             "link": "http://www.chain.com",
@@ -51,24 +69,6 @@
             "twitter": "adamludwin",
             "name": "Adam Ludwin",
             "tagline": "Founder, Chain.com"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "14",
-            "link": "https://www.kickstarter.com/projects/1598272670/meet-otto-the-hackable-gif-camera",
-            "name": "OTTO",
-            "tagline": "A GIF Camera!",
-            "ph_url": "posts/otto",
-            "comments": "2"
-        },
-        "user": {
-            "id": "GeoffreyWeg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/GeoffreyWeg.jpg",
-            "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg",
-            "tagline": "Independent"
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "https://wwws.citruslane.com/#!/",
             "name": "Citrus Lane",
             "tagline": "Like Birchbox for kids. Get a monthly surprise for your kid.",
