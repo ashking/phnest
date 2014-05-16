@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "https://barkbuddy.com/",
             "name": "BarkBuddy",
             "tagline": "Tinder for dogs. Adopt cute pups that need a home.",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "https://justreachout.io/",
             "name": "JustReachOut",
             "tagline": "Forget PR Firms, a tool to pitch reporters yourself",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "11",
+            "votes": "13",
             "link": "http://www.chain.com",
             "name": "Chain",
             "tagline": "The Block Chain API for Developers",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "http://www.circle.com/",
             "name": "Circle",
             "tagline": "Bitcoin for the masses— store &amp; use Bitcoin for free",
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "4",
+            "link": "https://cloudfuse.io",
+            "name": "CloudFuse",
+            "tagline": "Simple file &amp; link sharing",
+            "ph_url": "posts/cloudfuse",
+            "comments": "2"
+        },
+        "user": {
+            "id": "DeanPerry",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/DeanPerry.jpg",
+            "twitter": "DeanPerry",
+            "name": "Dean Perry",
+            "tagline": "Voupe"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "7",
             "link": "http://new.soldsie.com/",
             "name": "Soldsie",
@@ -159,24 +177,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "3",
-            "link": "https://cloudfuse.io",
-            "name": "CloudFuse",
-            "tagline": "Simple file &amp; link sharing",
-            "ph_url": "posts/cloudfuse",
-            "comments": "2"
-        },
-        "user": {
-            "id": "DeanPerry",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/DeanPerry.jpg",
-            "twitter": "DeanPerry",
-            "name": "Dean Perry",
-            "tagline": "Voupe"
         }
     },
     {
@@ -218,24 +218,6 @@
     {
         "id": 13,
         "post": {
-            "votes": "3",
-            "link": "http://www.madesquare.com",
-            "name": "Madesquare",
-            "tagline": "Turn your mobile photos into crafts",
-            "ph_url": "posts/madesquare",
-            "comments": "2"
-        },
-        "user": {
-            "id": "edsuh",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/edsuh.jpg",
-            "twitter": "edsuh",
-            "name": "Edward Suh",
-            "tagline": "Associate, Redpoint Ventures"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
             "votes": "7",
             "link": "https://www.zumper.com/",
             "name": "Zumper",
@@ -249,6 +231,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "3",
+            "link": "http://www.madesquare.com",
+            "name": "Madesquare",
+            "tagline": "Turn your mobile photos into crafts",
+            "ph_url": "posts/madesquare",
+            "comments": "2"
+        },
+        "user": {
+            "id": "edsuh",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/edsuh.jpg",
+            "twitter": "edsuh",
+            "name": "Edward Suh",
+            "tagline": "Associate, Redpoint Ventures"
         }
     },
     {
