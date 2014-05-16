@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "17",
+            "link": "http://www.chain.com",
+            "name": "Chain",
+            "tagline": "The Block Chain API for Developers",
+            "ph_url": "posts/chain",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "adamludwin",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamludwin.jpg",
+            "twitter": "adamludwin",
+            "name": "Adam Ludwin",
+            "tagline": "Founder, Chain.com"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "20",
             "link": "https://justreachout.io/",
             "name": "JustReachOut",
@@ -33,24 +51,6 @@
             "twitter": "dragilev",
             "name": "Dmitry Dragilev",
             "tagline": "Growth Hacker, Criminally Prolific"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "16",
-            "link": "http://www.chain.com",
-            "name": "Chain",
-            "tagline": "The Block Chain API for Developers",
-            "ph_url": "posts/chain",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "adamludwin",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/adamludwin.jpg",
-            "twitter": "adamludwin",
-            "name": "Adam Ludwin",
-            "tagline": "Founder, Chain.com"
         }
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "https://github.com/fisher-lebo/updn",
             "name": "updn",
             "tagline": "Open source HN/Digg/reddit-style app that uses bitcoins",
@@ -218,6 +218,24 @@
     {
         "id": 13,
         "post": {
+            "votes": "8",
+            "link": "https://www.zumper.com/",
+            "name": "Zumper",
+            "tagline": "a more efficient &amp; transparent apartment rental market",
+            "ph_url": "posts/zumper",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
             "votes": "4",
             "link": "http://depop.com/en/",
             "name": "Depop",
@@ -234,7 +252,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 15,
         "post": {
             "votes": "7",
             "link": "http://uixspot.com/",
@@ -252,7 +270,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 16,
         "post": {
             "votes": "3",
             "link": "http://klyme.com/",
@@ -267,24 +285,6 @@
             "twitter": "ahmednaguib",
             "name": "Ahmed Naguib",
             "tagline": "PR &amp; Comms Officer, Klyme"
-        }
-    },
-    {
-        "id": 16,
-        "post": {
-            "votes": "7",
-            "link": "https://www.zumper.com/",
-            "name": "Zumper",
-            "tagline": "a more efficient &amp; transparent apartment rental market",
-            "ph_url": "posts/zumper",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
