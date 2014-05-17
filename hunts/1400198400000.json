@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "25",
+            "link": "https://justreachout.io/",
+            "name": "JustReachOut",
+            "tagline": "Forget PR Firms, a tool to pitch reporters yourself",
+            "ph_url": "posts/justreachout",
+            "comments": "12"
+        },
+        "user": {
+            "id": "dragilev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dragilev.jpg",
+            "twitter": "dragilev",
+            "name": "Dmitry Dragilev",
+            "tagline": "Growth Hacker, Criminally Prolific"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "22",
             "link": "http://www.chain.com",
             "name": "Chain",
@@ -33,24 +51,6 @@
             "twitter": "adamludwin",
             "name": "Adam Ludwin",
             "tagline": "Founder, Chain.com"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "24",
-            "link": "https://justreachout.io/",
-            "name": "JustReachOut",
-            "tagline": "Forget PR Firms, a tool to pitch reporters yourself",
-            "ph_url": "posts/justreachout",
-            "comments": "11"
-        },
-        "user": {
-            "id": "dragilev",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/dragilev.jpg",
-            "twitter": "dragilev",
-            "name": "Dmitry Dragilev",
-            "tagline": "Growth Hacker, Criminally Prolific"
         }
     },
     {
@@ -115,7 +115,7 @@
             "name": "updn",
             "tagline": "Open source HN/Digg/reddit-style app that uses bitcoins",
             "ph_url": "posts/updn",
-            "comments": "12"
+            "comments": "13"
         },
         "user": {
             "id": "rrhoover",
