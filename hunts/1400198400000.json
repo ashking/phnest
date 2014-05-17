@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "20",
+            "votes": "21",
             "link": "http://www.chain.com",
             "name": "Chain",
             "tagline": "The Block Chain API for Developers",
@@ -115,7 +115,7 @@
             "name": "updn",
             "tagline": "Open source HN/Digg/reddit-style app that uses bitcoins",
             "ph_url": "posts/updn",
-            "comments": "9"
+            "comments": "10"
         },
         "user": {
             "id": "rrhoover",
@@ -146,24 +146,6 @@
     {
         "id": 9,
         "post": {
-            "votes": "3",
-            "link": "https://helpful.io/",
-            "name": "Helpful",
-            "tagline": "Get support out of the way, focus on being a helpful human.",
-            "ph_url": "posts/helpful",
-            "comments": "2"
-        },
-        "user": {
-            "id": "Jonnotie",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/Jonnotie.jpg",
-            "twitter": "Jonnotie",
-            "name": "Jonno Riekwel",
-            "tagline": "Product designer, Jonnotie"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
             "votes": "11",
             "link": "http://new.soldsie.com/",
             "name": "Soldsie",
@@ -177,6 +159,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "3",
+            "link": "https://helpful.io/",
+            "name": "Helpful",
+            "tagline": "Get support out of the way, focus on being a helpful human.",
+            "ph_url": "posts/helpful",
+            "comments": "2"
+        },
+        "user": {
+            "id": "Jonnotie",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/Jonnotie.jpg",
+            "twitter": "Jonnotie",
+            "name": "Jonno Riekwel",
+            "tagline": "Product designer, Jonnotie"
         }
     },
     {
