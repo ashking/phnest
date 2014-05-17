@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "2",
+            "link": "http://photomaticapp.com/",
+            "name": "Photomatic",
+            "tagline": "Automatically organizes and backs up all your photos.",
+            "ph_url": "posts/photomatic",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "maroun",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maroun.jpg",
+            "twitter": "maroun",
+            "name": "Maroun",
+            "tagline": "Designer, Change Collective"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "3",
             "link": "https://protonmail.ch",
             "name": "ProtonMail",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "4",
             "link": "http://www.fullcontact.com/cardreader/",
@@ -54,31 +72,13 @@
         }
     },
     {
-        "id": 4,
-        "post": {
-            "votes": "1",
-            "link": "http://photomaticapp.com/",
-            "name": "Photomatic",
-            "tagline": "Automatically organizes and backs up all your photos.",
-            "ph_url": "posts/photomatic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "maroun",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/maroun.jpg",
-            "twitter": "maroun",
-            "name": "Maroun",
-            "tagline": "Designer, Change Collective"
-        }
-    },
-    {
         "id": 5,
         "post": {
-            "votes": "2",
-            "link": "http://diplopiagame.com/",
-            "name": "Diplopia",
-            "tagline": "Using Oculus Rift to cure lazy-eye by playing a game.",
-            "ph_url": "posts/diplopia",
+            "votes": "3",
+            "link": "http://www.motionsavvy.com/",
+            "name": "MotionSavvy",
+            "tagline": "You sign. It speaks. : translating sign language into speech",
+            "ph_url": "posts/motionsavvy",
             "comments": "1 comment"
         },
         "user": {
@@ -93,10 +93,10 @@
         "id": 6,
         "post": {
             "votes": "2",
-            "link": "http://www.motionsavvy.com/",
-            "name": "MotionSavvy",
-            "tagline": "You sign. It speaks. : translating sign language into speech",
-            "ph_url": "posts/motionsavvy",
+            "link": "http://diplopiagame.com/",
+            "name": "Diplopia",
+            "tagline": "Using Oculus Rift to cure lazy-eye by playing a game.",
+            "ph_url": "posts/diplopia",
             "comments": "1 comment"
         },
         "user": {
