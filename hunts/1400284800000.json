@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "42",
+            "votes": "43",
             "link": "http://www.fullcontact.com/cardreader/",
             "name": "FullContact Card Reader",
             "tagline": "Automagically scan biz cards into LinkedIn/Gmail contacts",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "22",
+            "votes": "23",
             "link": "http://nerdydata.com/",
             "name": "NerdyData",
             "tagline": "A Search Engine for Source Code",
@@ -128,6 +128,24 @@
     {
         "id": 8,
         "post": {
+            "votes": "6",
+            "link": "http://supapp.co/",
+            "name": "Sup",
+            "tagline": "Pill Reminder and Quantified Self for Supplements (iOS)",
+            "ph_url": "posts/sup",
+            "comments": "3"
+        },
+        "user": {
+            "id": "AreUEnt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/AreUEnt.jpg",
+            "twitter": "AreUEnt",
+            "name": "Alex Prushynskyy",
+            "tagline": "Product/QA at Officepal"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
             "votes": "9",
             "link": "http://diplopiagame.com/",
             "name": "Diplopia",
@@ -141,24 +159,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "5",
-            "link": "http://supapp.co/",
-            "name": "Sup",
-            "tagline": "Pill Reminder and Quantified Self for Supplements (iOS)",
-            "ph_url": "posts/sup",
-            "comments": "3"
-        },
-        "user": {
-            "id": "AreUEnt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/AreUEnt.jpg",
-            "twitter": "AreUEnt",
-            "name": "Alex Prushynskyy",
-            "tagline": "Product/QA at Officepal"
         }
     }
 ]
