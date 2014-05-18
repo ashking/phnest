@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "12",
+            "link": "https://stripe.com/checkout",
+            "name": "Stripe: Checkout",
+            "tagline": "he best payment flow, on web and mobile.",
+            "ph_url": "posts/stripe-checkout",
+            "comments": "2"
+        },
+        "user": {
+            "id": "hopkinschris",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/hopkinschris.jpg",
+            "twitter": "hopkinschris",
+            "name": "Christopher Hopkins",
+            "tagline": "Software Developer"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "11",
             "link": "https://gun.io/blog/openspritz-a-free-speed-reading-bookmarklet/",
             "name": "OpenSpritz",
@@ -213,24 +231,6 @@
             "twitter": "tonysheng",
             "name": "Tony Sheng",
             "tagline": "marketing, ZEFR"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "11",
-            "link": "https://stripe.com/checkout",
-            "name": "Stripe: Checkout",
-            "tagline": "he best payment flow, on web and mobile.",
-            "ph_url": "posts/stripe-checkout",
-            "comments": "2"
-        },
-        "user": {
-            "id": "hopkinschris",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/hopkinschris.jpg",
-            "twitter": "hopkinschris",
-            "name": "Christopher Hopkins",
-            "tagline": "Software Developer"
         }
     },
     {
