@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "7",
+            "link": "http://www.justyo.co",
+            "name": "Yo",
+            "tagline": "A simple app to say &quot;yo&quot; to friends.",
+            "ph_url": "posts/yo",
+            "comments": "5"
+        },
+        "user": {
+            "id": "danlev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/danlev.jpg",
+            "twitter": "danlev",
+            "name": "Dan Leveille",
+            "tagline": "Product Marketing Manager, deviantART.com"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "16",
             "link": "https://www.airseed.com/",
             "name": "Airseed",
@@ -54,7 +72,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 5,
         "post": {
             "votes": "21",
             "link": "http://www.inkndrinkmarkers.com/index.html#",
@@ -72,43 +90,7 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "http://www.justyo.co",
-            "name": "Yo",
-            "tagline": "A simple app to say &quot;yo&quot; to friends.",
-            "ph_url": "posts/yo",
-            "comments": "5"
-        },
-        "user": {
-            "id": "danlev",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/danlev.jpg",
-            "twitter": "danlev",
-            "name": "Dan Leveille",
-            "tagline": "Product Marketing Manager, deviantART.com"
-        }
-    },
-    {
         "id": 6,
-        "post": {
-            "votes": "11",
-            "link": "http://www.choosemuse.com/",
-            "name": "Muse",
-            "tagline": "The brain sensing headband",
-            "ph_url": "posts/muse",
-            "comments": "4"
-        },
-        "user": {
-            "id": "mutlu82",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mutlu82.jpg",
-            "twitter": "mutlu82",
-            "name": "Murat Mutlu",
-            "tagline": "Co-Founder, Marvelapp"
-        }
-    },
-    {
-        "id": 7,
         "post": {
             "votes": "13",
             "link": "https://www.jetpac.com/spotter",
@@ -123,6 +105,24 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "11",
+            "link": "http://www.choosemuse.com/",
+            "name": "Muse",
+            "tagline": "The brain sensing headband",
+            "ph_url": "posts/muse",
+            "comments": "4"
+        },
+        "user": {
+            "id": "mutlu82",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mutlu82.jpg",
+            "twitter": "mutlu82",
+            "name": "Murat Mutlu",
+            "tagline": "Co-Founder, Marvelapp"
         }
     },
     {
@@ -277,7 +277,7 @@
             "name": "Blueboard",
             "tagline": "the best way to reward individuals on your team.",
             "ph_url": "posts/blueboard",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "_jacksmith",
