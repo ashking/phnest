@@ -75,6 +75,42 @@
         "id": 5,
         "post": {
             "votes": "1",
+            "link": "https://www.airseed.com/",
+            "name": "Airseed",
+            "tagline": "A Free, Automated Personal Assistant Built Just For You.",
+            "ph_url": "posts/airseed",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "1",
+            "link": "https://www.loomio.org/",
+            "name": "Loomio",
+            "tagline": "Helping groups make better decisions together",
+            "ph_url": "posts/loomio",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "daualset",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/daualset.jpg",
+            "twitter": "daualset",
+            "name": "Claudio Gallo",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "1",
             "link": "http://www.choosemuse.com/",
             "name": "Muse",
             "tagline": "The brain sensing headband",
@@ -90,7 +126,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 8,
         "post": {
             "votes": "1",
             "link": "https://www.jetpac.com/spotter",
@@ -105,24 +141,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "1",
-            "link": "https://www.airseed.com/",
-            "name": "Airseed",
-            "tagline": "A Free, Automated Personal Assistant Built Just For You.",
-            "ph_url": "posts/airseed",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     }
 ]
