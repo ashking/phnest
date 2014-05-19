@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "22",
+            "votes": "23",
             "link": "http://assistant.to",
             "name": "Assistant To",
             "tagline": "Schedule in seconds all within email",
@@ -79,7 +79,7 @@
             "name": "Yo",
             "tagline": "A simple app to say &quot;yo&quot; to friends.",
             "ph_url": "posts/yo",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "danlev",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "3",
+            "link": "http://fuldans.se/?v=vlybdmpbvd",
+            "name": "&quot;The Ugly Dance&quot;",
+            "tagline": "Upload a friend&#39;s picture &amp; make them do &quot;The Ugly Dance&quot;",
+            "ph_url": "posts/the-ugly-dance",
+            "comments": "2"
+        },
+        "user": {
+            "id": "staringispolite",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
+            "twitter": "staringispolite",
+            "name": "Jonathan Howard",
+            "tagline": "Co-founder &amp; CEO, Emissary"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "7",
             "link": "https://www.loomio.org/",
             "name": "Loomio",
@@ -180,14 +198,14 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "3",
             "link": "https://www.svyft.com/",
             "name": "S V Y F T",
             "tagline": "Free Team Collaboration Built Around Group Chat",
             "ph_url": "posts/s-v-y-f-t",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "charlieirish",
@@ -195,24 +213,6 @@
             "twitter": "charlieirish",
             "name": "Charlie Irish",
             "tagline": ""
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "2",
-            "link": "http://fuldans.se/?v=vlybdmpbvd",
-            "name": "&quot;The Ugly Dance&quot;",
-            "tagline": "Upload a friend&#39;s picture &amp; make them do &quot;The Ugly Dance&quot;",
-            "ph_url": "posts/the-ugly-dance",
-            "comments": "2"
-        },
-        "user": {
-            "id": "staringispolite",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
-            "twitter": "staringispolite",
-            "name": "Jonathan Howard",
-            "tagline": "Co-founder &amp; CEO, Emissary"
         }
     },
     {
