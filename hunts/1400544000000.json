@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "64",
+            "votes": "65",
             "link": "http://www.getnotifyr.com",
             "name": "Notifyr",
             "tagline": "Receive iOS notifications on your Mac",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "20",
+            "votes": "21",
             "link": "http://screenshotter.net/",
             "name": "Screenshotter",
             "tagline": "The simplest way to organize and manage mobile screenshots.",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "10",
+            "link": "http://staringispolite.github.io/airportbingo/",
+            "name": "Airport BINGO",
+            "tagline": "A cynical ray of sunshine in your bleak travel experience",
+            "ph_url": "posts/airport-bingo",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "staringispolite",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
+            "twitter": "staringispolite",
+            "name": "Jonathan Howard",
+            "tagline": "Co-founder &amp; CEO, Emissary"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "31",
             "link": "http://sbaam.com",
             "name": "Sbaam",
@@ -51,24 +69,6 @@
             "twitter": "Giuliano84",
             "name": "Giuliano Iacobelli",
             "tagline": "Co-Founder, Stamplay"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "9",
-            "link": "http://staringispolite.github.io/airportbingo/",
-            "name": "Airport BINGO",
-            "tagline": "A cynical ray of sunshine in your bleak travel experience",
-            "ph_url": "posts/airport-bingo",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "staringispolite",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
-            "twitter": "staringispolite",
-            "name": "Jonathan Howard",
-            "tagline": "Co-founder &amp; CEO, Emissary"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "18",
+            "votes": "19",
             "link": "http://apps.npr.org/commencement/",
             "name": "Commencement, by NPR",
             "tagline": "The best commencement speeches. Curated &amp; searchable.",
