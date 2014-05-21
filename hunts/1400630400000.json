@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "http://oozled.com/",
             "name": "Oozled",
             "tagline": "Curated resources for everything design related",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "8",
+            "link": "https://scramblage.com/",
+            "name": "Scramblage",
+            "tagline": "Encrypt and share photos with friends",
+            "ph_url": "posts/scramblage",
+            "comments": "2"
+        },
+        "user": {
+            "id": "ryanlelek",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryanlelek.jpg",
+            "twitter": "ryanlelek",
+            "name": "Ryan Lelek",
+            "tagline": "Founder at Orbzah"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "6",
             "link": "http://www.unheap.com/",
             "name": "Unheap",
@@ -33,24 +51,6 @@
             "twitter": "syswarren",
             "name": "julie c.",
             "tagline": "UI/UX @Dailymotion @Deezer - co-founder kimd.cc"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "7",
-            "link": "https://scramblage.com/",
-            "name": "Scramblage",
-            "tagline": "Encrypt and share photos with friends",
-            "ph_url": "posts/scramblage",
-            "comments": "2"
-        },
-        "user": {
-            "id": "ryanlelek",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/ryanlelek.jpg",
-            "twitter": "ryanlelek",
-            "name": "Ryan Lelek",
-            "tagline": "Founder at Orbzah"
         }
     },
     {
@@ -148,9 +148,9 @@
         "post": {
             "votes": "2",
             "link": "https://www.ravellaw.com",
-            "name": "Ravel Law",
+            "name": "Ravel",
             "tagline": "Search and visualize the law.",
-            "ph_url": "posts/ravel-law",
+            "ph_url": "posts/ravel",
             "comments": "View details"
         },
         "user": {
