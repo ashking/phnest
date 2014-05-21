@@ -61,7 +61,7 @@
             "name": "Crated.",
             "tagline": "Sell your art to millions of art lovers.",
             "ph_url": "posts/crated",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "karlclement",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "5",
+            "link": "http://minbox.com",
+            "name": "Minbox 2",
+            "tagline": "The new standard in file sharing",
+            "ph_url": "posts/minbox",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "amimran",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/amimran.jpg",
+            "twitter": "amimran",
+            "name": "Alexander Mimran",
+            "tagline": "Founder, Minbox"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "4",
             "link": "https://www.secret.ly/",
             "name": "Secret 3.0",
@@ -126,7 +144,25 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
+        "post": {
+            "votes": "11",
+            "link": "http://googleblog.blogspot.com/2014/05/google-stories-and-movies-memories-made.html",
+            "name": "Google+ Stories",
+            "tagline": "Automatically weave your photos into a beautiful travelogue.",
+            "ph_url": "posts/google-stories",
+            "comments": "3"
+        },
+        "user": {
+            "id": "staringispolite",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
+            "twitter": "staringispolite",
+            "name": "Jonathan Howard",
+            "tagline": "Co-founder &amp; CEO, Emissary"
+        }
+    },
+    {
+        "id": 10,
         "post": {
             "votes": "12",
             "link": "http://www.whistle.com/gps/",
@@ -141,42 +177,6 @@
             "twitter": "shellen",
             "name": "Jason Shellen",
             "tagline": "Founder, The Secret Agency"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "4",
-            "link": "http://minbox.com",
-            "name": "Minbox 2",
-            "tagline": "The new standard in file sharing",
-            "ph_url": "posts/minbox",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "amimran",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/amimran.jpg",
-            "twitter": "amimran",
-            "name": "Alexander Mimran",
-            "tagline": "Founder, Minbox"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "10",
-            "link": "http://googleblog.blogspot.com/2014/05/google-stories-and-movies-memories-made.html",
-            "name": "Google+ Stories",
-            "tagline": "Automatically weave your photos into a beautiful travelogue.",
-            "ph_url": "posts/google-stories",
-            "comments": "3"
-        },
-        "user": {
-            "id": "staringispolite",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/staringispolite.jpg",
-            "twitter": "staringispolite",
-            "name": "Jonathan Howard",
-            "tagline": "Co-founder &amp; CEO, Emissary"
         }
     },
     {
@@ -309,6 +309,42 @@
         "id": 18,
         "post": {
             "votes": "1",
+            "link": "http://blog.websecurify.com/2014/05/proxy-app-lands-in-app-store.html",
+            "name": "Proxy.app",
+            "tagline": "An app to proxy your network connections, native for OS X",
+            "ph_url": "posts/proxy-app",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "mattlanham",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mattlanham.jpg",
+            "twitter": "mattlanham",
+            "name": "Matthew Lanham",
+            "tagline": "Founder of @enquiryhq"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
+            "votes": "1",
+            "link": "http://www.ringo.co",
+            "name": "Ringo",
+            "tagline": "Low Cost International Calls (without Internet)",
+            "ph_url": "posts/ringo",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "nikitakorotaev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/nikitakorotaev.jpg",
+            "twitter": "nikitakorotaev",
+            "name": "Nikita Korotaev",
+            "tagline": "Incubating products @ Glocal Partners"
+        }
+    },
+    {
+        "id": 20,
+        "post": {
+            "votes": "1",
             "link": "http://between.us/en/",
             "name": "Between Us",
             "tagline": "A Social App for Couples",
@@ -324,7 +360,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 21,
         "post": {
             "votes": "1",
             "link": "http://recruiterbox.com/",
