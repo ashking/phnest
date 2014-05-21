@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "27",
+            "link": "http://gethoneybadger.com/",
+            "name": "Honeybadger",
+            "tagline": "Dig up company info for the sites you visit (Chrome Ext.)",
+            "ph_url": "posts/honeybadger",
+            "comments": "4"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt / Tradecraft"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "49",
             "link": "http://oozled.com/",
             "name": "Oozled",
@@ -72,27 +90,9 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "25",
-            "link": "http://gethoneybadger.com/",
-            "name": "Honeybadger",
-            "tagline": "Dig up company info for the sites you visit (Chrome Ext.)",
-            "ph_url": "posts/honeybadger",
-            "comments": "4"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt / Tradecraft"
-        }
-    },
-    {
         "id": 6,
         "post": {
-            "votes": "24",
+            "votes": "25",
             "link": "http://www.unheap.com/",
             "name": "Unheap",
             "tagline": "A nice repository of jQuery plugins",
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "http://www.goodaudience.com/",
             "name": "Good Audience ",
             "tagline": "Build an audience the smart way",
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "http://minbox.com",
             "name": "Minbox 2",
             "tagline": "The new standard in file sharing",
