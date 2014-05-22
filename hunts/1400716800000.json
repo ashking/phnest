@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "44",
+            "votes": "45",
             "link": "https://www.playosmo.com",
             "name": "Osmo",
             "tagline": "The best toy ever for kids!",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "15",
+            "link": "http://elevateapp.com/",
+            "name": "Elevate",
+            "tagline": "Personal brain trainer for iPhone",
+            "ph_url": "posts/elevate",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "Owens",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/Owens.jpg",
+            "twitter": "Owens",
+            "name": "Hunter Owens",
+            "tagline": "Party Leader, MLGen"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "31",
             "link": "http://findmarcopolo.com/",
             "name": "Marco Polo",
@@ -33,24 +51,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "13",
-            "link": "http://elevateapp.com/",
-            "name": "Elevate",
-            "tagline": "Personal brain trainer for iPhone",
-            "ph_url": "posts/elevate",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "Owens",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/Owens.jpg",
-            "twitter": "Owens",
-            "name": "Hunter Owens",
-            "tagline": "Party Leader, MLGen"
         }
     },
     {
@@ -79,7 +79,7 @@
             "name": "AlleyOop",
             "tagline": "Create cameras that you share with friends. ",
             "ph_url": "posts/alleyoop",
-            "comments": "11"
+            "comments": "12"
         },
         "user": {
             "id": "phixx",
