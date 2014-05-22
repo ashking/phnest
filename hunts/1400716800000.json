@@ -38,24 +38,6 @@
     {
         "id": 3,
         "post": {
-            "votes": "10",
-            "link": "https://cluster.co/download",
-            "name": "Cluster 2.0",
-            "tagline": "Private spaces for you and your friends",
-            "ph_url": "posts/cluster-2-0",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "mulligan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mulligan.jpg",
-            "twitter": "mulligan",
-            "name": "Brenden Mulligan",
-            "tagline": "Founder, Cluster"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
             "votes": "35",
             "link": "http://www.reclog.me",
             "name": "Reclog",
@@ -69,6 +51,24 @@
             "twitter": "Giuliano84",
             "name": "Giuliano Iacobelli",
             "tagline": "Co-Founder, Stamplay"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "10",
+            "link": "https://cluster.co/download",
+            "name": "Cluster 2.0",
+            "tagline": "Private spaces for you and your friends",
+            "ph_url": "posts/cluster-2-0",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "mulligan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mulligan.jpg",
+            "twitter": "mulligan",
+            "name": "Brenden Mulligan",
+            "tagline": "Founder, Cluster"
         }
     },
     {
@@ -187,7 +187,7 @@
             "name": "x.ai",
             "tagline": "x.ai is a personal assistant who schedules meetings for you",
             "ph_url": "posts/x-ai",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "FelixReznik",
