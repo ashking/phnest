@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "20",
+            "votes": "21",
             "link": "http://minbox.com",
             "name": "Minbox 2",
             "tagline": "The new standard in file sharing",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "11",
+            "link": "http://www.datapad.io/",
+            "name": "Datapad",
+            "tagline": "Beautiful visual analytics",
+            "ph_url": "posts/datapad",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "stefanobernardi",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stefanobernardi.jpg",
+            "twitter": "stefanobernardi",
+            "name": "Stefano Bernardi",
+            "tagline": "Wild Card, Betable"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "22",
             "link": "http://www.whistle.com/gps/",
             "name": "WhistleGPS",
@@ -177,24 +195,6 @@
             "twitter": "shellen",
             "name": "Jason Shellen",
             "tagline": "Founder, The Secret Agency"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "10",
-            "link": "http://www.datapad.io/",
-            "name": "Datapad",
-            "tagline": "Beautiful visual analytics",
-            "ph_url": "posts/datapad",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "stefanobernardi",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stefanobernardi.jpg",
-            "twitter": "stefanobernardi",
-            "name": "Stefano Bernardi",
-            "tagline": "Wild Card, Betable"
         }
     },
     {
@@ -218,7 +218,7 @@
     {
         "id": 13,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "http://www.overlook.io/",
             "name": "Overlook",
             "tagline": "Make it easy for non-techies to participate in the dev cycle",
