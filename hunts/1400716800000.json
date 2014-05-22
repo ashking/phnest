@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "32",
+            "votes": "33",
             "link": "https://www.playosmo.com",
             "name": "Osmo",
             "tagline": "The best toy ever for kids!",
@@ -61,7 +61,7 @@
             "name": "Marco Polo",
             "tagline": "Find Your  Phone by Shouting MARCO!",
             "ph_url": "posts/marco-polo-2",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "rrhoover",
@@ -73,6 +73,24 @@
     },
     {
         "id": 5,
+        "post": {
+            "votes": "16",
+            "link": "http://www.alleyoop.camera/",
+            "name": "AlleyOop",
+            "tagline": "Create cameras that you share with friends. ",
+            "ph_url": "posts/alleyoop",
+            "comments": "8"
+        },
+        "user": {
+            "id": "phixx",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/phixx.jpg",
+            "twitter": "phixx",
+            "name": "Duncan Blair",
+            "tagline": "Head of Marketing, Invoke Labs"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "36",
             "link": "http://www.reclog.me",
@@ -87,24 +105,6 @@
             "twitter": "Giuliano84",
             "name": "Giuliano Iacobelli",
             "tagline": "Co-Founder, Stamplay"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "14",
-            "link": "http://www.alleyoop.camera/",
-            "name": "AlleyOop",
-            "tagline": "Create cameras that you share with friends. ",
-            "ph_url": "posts/alleyoop",
-            "comments": "8"
-        },
-        "user": {
-            "id": "phixx",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/phixx.jpg",
-            "twitter": "phixx",
-            "name": "Duncan Blair",
-            "tagline": "Head of Marketing, Invoke Labs"
         }
     },
     {
@@ -272,24 +272,6 @@
     {
         "id": 16,
         "post": {
-            "votes": "3",
-            "link": "http://www.tamr.com/",
-            "name": "Tamr",
-            "tagline": "Data analytics with mix of machine learning &amp; human experts",
-            "ph_url": "posts/tamr",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "stefanobernardi",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stefanobernardi.jpg",
-            "twitter": "stefanobernardi",
-            "name": "Stefano Bernardi",
-            "tagline": "Wild Card, Betable"
-        }
-    },
-    {
-        "id": 17,
-        "post": {
             "votes": "7",
             "link": "https://www.roli.com/seaboard/",
             "name": "Seaboard GRAND",
@@ -303,6 +285,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
+            "votes": "3",
+            "link": "http://www.tamr.com/",
+            "name": "Tamr",
+            "tagline": "Data analytics with mix of machine learning &amp; human experts",
+            "ph_url": "posts/tamr",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "stefanobernardi",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stefanobernardi.jpg",
+            "twitter": "stefanobernardi",
+            "name": "Stefano Bernardi",
+            "tagline": "Wild Card, Betable"
         }
     },
     {
