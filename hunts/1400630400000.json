@@ -182,6 +182,24 @@
     {
         "id": 11,
         "post": {
+            "votes": "9",
+            "link": "http://www.datapad.io/",
+            "name": "Datapad",
+            "tagline": "Beautiful visual analytics",
+            "ph_url": "posts/datapad",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "stefanobernardi",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stefanobernardi.jpg",
+            "twitter": "stefanobernardi",
+            "name": "Stefano Bernardi",
+            "tagline": "Wild Card, Betable"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
             "votes": "18",
             "link": "http://googleblog.blogspot.com/2014/05/google-stories-and-movies-memories-made.html",
             "name": "Google+ Stories",
@@ -195,24 +213,6 @@
             "twitter": "staringispolite",
             "name": "Jonathan Howard",
             "tagline": "Co-founder &amp; CEO, Emissary"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "8",
-            "link": "http://www.datapad.io/",
-            "name": "Datapad",
-            "tagline": "Beautiful visual analytics",
-            "ph_url": "posts/datapad",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "stefanobernardi",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/stefanobernardi.jpg",
-            "twitter": "stefanobernardi",
-            "name": "Stefano Bernardi",
-            "tagline": "Wild Card, Betable"
         }
     },
     {
@@ -362,24 +362,6 @@
     {
         "id": 21,
         "post": {
-            "votes": "3",
-            "link": "https://managewp.com",
-            "name": "ManageWP",
-            "tagline": "Update Your Wordpress Sites Quickly, Easily and Securely",
-            "ph_url": "posts/managewp",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "MarcEglon",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MarcEglon.jpg",
-            "twitter": "MarcEglon",
-            "name": "Marc Eglon",
-            "tagline": "Owner, Hackerpreneur Magazine"
-        }
-    },
-    {
-        "id": 22,
-        "post": {
             "votes": "6",
             "link": "http://browsersync.io/",
             "name": "BrowserSync",
@@ -393,6 +375,24 @@
             "twitter": "bkrall",
             "name": "Brian Krall",
             "tagline": "Interaction Designer, Duo Consulting"
+        }
+    },
+    {
+        "id": 22,
+        "post": {
+            "votes": "3",
+            "link": "https://managewp.com",
+            "name": "ManageWP",
+            "tagline": "Update Your Wordpress Sites Quickly, Easily and Securely",
+            "ph_url": "posts/managewp",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "MarcEglon",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MarcEglon.jpg",
+            "twitter": "MarcEglon",
+            "name": "Marc Eglon",
+            "tagline": "Owner, Hackerpreneur Magazine"
         }
     },
     {
