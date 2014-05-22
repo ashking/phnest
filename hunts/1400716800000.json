@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "3",
+            "link": "https://www.playosmo.com",
+            "name": "Osmo",
+            "tagline": "The best toy ever for kids!",
+            "ph_url": "posts/osmo",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "jtriest",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jtriest.jpg",
+            "twitter": "jtriest",
+            "name": "Jonathon Triest",
+            "tagline": "Ludlow Ventures"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "7",
             "link": "https://www.roli.com/seaboard/",
             "name": "Seaboard GRAND",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "6",
             "link": "http://www.isketchnote.com/",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "6",
             "link": "http://x.ai/how-amy-schedules-your-meetings/",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "2",
             "link": "http://tinybop.com/products/plants#plants",
@@ -141,24 +159,6 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "1",
-            "link": "https://www.playosmo.com",
-            "name": "Osmo",
-            "tagline": "The best toy ever for kids!",
-            "ph_url": "posts/osmo",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "jtriest",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/jtriest.jpg",
-            "twitter": "jtriest",
-            "name": "Jonathon Triest",
-            "tagline": "Ludlow Ventures"
         }
     }
 ]
