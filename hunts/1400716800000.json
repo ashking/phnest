@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "11",
+            "link": "https://cluster.co/download",
+            "name": "Cluster 2.0",
+            "tagline": "Private spaces for you and your friends",
+            "ph_url": "posts/cluster-2-0",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "mulligan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mulligan.jpg",
+            "twitter": "mulligan",
+            "name": "Brenden Mulligan",
+            "tagline": "Founder, Cluster"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "35",
             "link": "http://www.reclog.me",
             "name": "Reclog",
@@ -51,24 +69,6 @@
             "twitter": "Giuliano84",
             "name": "Giuliano Iacobelli",
             "tagline": "Co-Founder, Stamplay"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "10",
-            "link": "https://cluster.co/download",
-            "name": "Cluster 2.0",
-            "tagline": "Private spaces for you and your friends",
-            "ph_url": "posts/cluster-2-0",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "mulligan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/mulligan.jpg",
-            "twitter": "mulligan",
-            "name": "Brenden Mulligan",
-            "tagline": "Founder, Cluster"
         }
     },
     {
@@ -128,24 +128,6 @@
     {
         "id": 8,
         "post": {
-            "votes": "7",
-            "link": "http://www.gigs2gousb.com",
-            "name": "Gigs 2 Go",
-            "tagline": "Tear-and-share flash drive pack",
-            "ph_url": "posts/gigs-2-go",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "MikePreuss",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MikePreuss.jpg",
-            "twitter": "MikePreuss",
-            "name": "Mike Preuss",
-            "tagline": "Founder, Visible.vc"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
             "votes": "16",
             "link": "http://devrocket.uiparade.com/",
             "name": "DevRocket",
@@ -159,6 +141,24 @@
             "twitter": "andrewpyott",
             "name": "Andrew Pyott",
             "tagline": "Creative, Art Director"
+        }
+    },
+    {
+        "id": 9,
+        "post": {
+            "votes": "7",
+            "link": "http://www.gigs2gousb.com",
+            "name": "Gigs 2 Go",
+            "tagline": "Tear-and-share flash drive pack",
+            "ph_url": "posts/gigs-2-go",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "MikePreuss",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/MikePreuss.jpg",
+            "twitter": "MikePreuss",
+            "name": "Mike Preuss",
+            "tagline": "Founder, Visible.vc"
         }
     },
     {
@@ -223,7 +223,7 @@
             "name": "x.ai",
             "tagline": "x.ai is a personal assistant who schedules meetings for you",
             "ph_url": "posts/x-ai",
-            "comments": "7"
+            "comments": "8"
         },
         "user": {
             "id": "FelixReznik",
@@ -272,24 +272,6 @@
     {
         "id": 16,
         "post": {
-            "votes": "2",
-            "link": "http://www.bitgypsy.com/home/",
-            "name": "BitGypsy",
-            "tagline": "Distributed network of hackers and designers (closed alpha)",
-            "ph_url": "posts/bitgypsy",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "AnjneyMidha",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/AnjneyMidha.jpg",
-            "twitter": "AnjneyMidha",
-            "name": "Anjney",
-            "tagline": "Student, Stanford"
-        }
-    },
-    {
-        "id": 17,
-        "post": {
             "votes": "6",
             "link": "http://www.isketchnote.com/",
             "name": "iSketchnote",
@@ -303,6 +285,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
+            "votes": "2",
+            "link": "http://www.bitgypsy.com/home/",
+            "name": "BitGypsy",
+            "tagline": "Distributed network of hackers and designers (closed alpha)",
+            "ph_url": "posts/bitgypsy",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "AnjneyMidha",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/AnjneyMidha.jpg",
+            "twitter": "AnjneyMidha",
+            "name": "Anjney",
+            "tagline": "Student, Stanford"
         }
     },
     {
