@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "55",
+            "link": "http://gethoneybadger.com/",
+            "name": "Honeybadger",
+            "tagline": "Dig up company info for the sites you visit (Chrome Ext.)",
+            "ph_url": "posts/honeybadger",
+            "comments": "7"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "70",
             "link": "http://oozled.com/",
             "name": "Oozled",
@@ -33,24 +51,6 @@
             "twitter": "andrewpyott",
             "name": "Andrew Pyott",
             "tagline": "Creative, Art Director"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "54",
-            "link": "http://gethoneybadger.com/",
-            "name": "Honeybadger",
-            "tagline": "Dig up company info for the sites you visit (Chrome Ext.)",
-            "ph_url": "posts/honeybadger",
-            "comments": "7"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt"
         }
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "http://minbox.com",
             "name": "Minbox 2",
             "tagline": "The new standard in file sharing",
@@ -380,24 +380,6 @@
     {
         "id": 22,
         "post": {
-            "votes": "6",
-            "link": "http://browsersync.io/",
-            "name": "BrowserSync",
-            "tagline": "Keep multiple browsers &amp; devices in sync when building sites",
-            "ph_url": "posts/browsersync",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
-            "twitter": "bkrall",
-            "name": "Brian Krall",
-            "tagline": "Interaction Designer, Duo Consulting"
-        }
-    },
-    {
-        "id": 23,
-        "post": {
             "votes": "7",
             "link": "http://www.jibe.com/",
             "name": "Jibe",
@@ -411,6 +393,24 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded @vungle &amp; @shyp"
+        }
+    },
+    {
+        "id": 23,
+        "post": {
+            "votes": "6",
+            "link": "http://browsersync.io/",
+            "name": "BrowserSync",
+            "tagline": "Keep multiple browsers &amp; devices in sync when building sites",
+            "ph_url": "posts/browsersync",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,g_face,h_60,r_max,w_60/bkrall.jpg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Interaction Designer, Duo Consulting"
         }
     },
     {
