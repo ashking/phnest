@@ -138,7 +138,7 @@ function phNest(){
         $.each(pPosts,function(index,post){
             var card = $('#template .namecard').clone();
             card.find('.votes-count').text(post.post.votes);
-            card.find('.post-name').attr('href', post.post.link).text(post.post.name);
+            card.find('.post-name').attr('href', "http://www.producthunt.co" + post.post.link).text(post.post.name);
             card.find('.post-tagline').text(post.post.tagline);
             card.find('.post-comments a').attr('href', "http://www.producthunt.co/" + post.post.ph_url).text(post.post.comments + " comments");
 
