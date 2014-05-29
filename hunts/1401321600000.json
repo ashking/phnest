@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "37",
+            "votes": "38",
             "link": "/l/85601ad255",
             "name": "Designer Chat",
             "tagline": "The Designer News community in a private Slack chat.",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "14",
+            "votes": "16",
             "link": "/l/794fbebd39",
             "name": "Sunrise",
             "tagline": "Sunrise Calendar on the web!",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "8",
+            "link": "/l/0e7c5bc3e3",
+            "name": "Group Tweet",
+            "tagline": "Multiple Contributers, One Twitter Account",
+            "ph_url": "posts/group-tweet",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "10",
             "link": "/l/cc98ffc8a2",
             "name": "CENTR",
@@ -105,24 +123,6 @@
             "twitter": "nikitakorotaev",
             "name": "Nikita Korotaev",
             "tagline": "Incubating products @ Glocal Partners"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "7",
-            "link": "/l/0e7c5bc3e3",
-            "name": "Group Tweet",
-            "tagline": "Multiple Contributers, One Twitter Account",
-            "ph_url": "posts/group-tweet",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "4",
+            "votes": "6",
             "link": "/l/bad659ba46",
             "name": "Web Design Manual",
             "tagline": "Collection of web design resources and quotes.",
@@ -200,12 +200,30 @@
     {
         "id": 12,
         "post": {
+            "votes": "4",
+            "link": "/l/1125050814",
+            "name": "Team Gantt",
+            "tagline": "Simple Project Scheduling",
+            "ph_url": "posts/team-gantt",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "samcambridge",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/samcambridge.jpg",
+            "twitter": "samcambridge",
+            "name": "Sam Cambridge",
+            "tagline": "Front End Developer, Ferocia"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "2",
             "link": "/l/6ad29ac2dc",
             "name": "Peak",
             "tagline": "Take your brain to the gym with cognitive games",
             "ph_url": "posts/peak-2",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "ediggs",
@@ -216,7 +234,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "2",
             "link": "/l/fd2ef27335",
@@ -231,24 +249,6 @@
             "twitter": "bkrall",
             "name": "Brian Krall",
             "tagline": "Interaction Designer, Duo Consulting"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "3",
-            "link": "/l/1125050814",
-            "name": "Team Gantt",
-            "tagline": "Simple Project Scheduling",
-            "ph_url": "posts/team-gantt",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "samcambridge",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/samcambridge.jpg",
-            "twitter": "samcambridge",
-            "name": "Sam Cambridge",
-            "tagline": "Front End Developer, Ferocia"
         }
     },
     {
