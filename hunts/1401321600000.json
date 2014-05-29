@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "42",
+            "votes": "43",
             "link": "/l/85601ad255",
             "name": "Designer Chat",
             "tagline": "The Designer News community in a private Slack chat.",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "14",
+            "link": "/l/0e7c5bc3e3",
+            "name": "Group Tweet",
+            "tagline": "Multiple Contributers, One Twitter Account",
+            "ph_url": "posts/group-tweet",
+            "comments": "5"
+        },
+        "user": {
+            "id": "UXAndrew",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/UXAndrew.jpg",
+            "twitter": "UXAndrew",
+            "name": "Andrew Zusman",
+            "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "12",
             "link": "/l/f9f2af0dde",
             "name": "CODY",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "20",
             "link": "/l/6077b6959c",
@@ -90,32 +108,14 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "13",
-            "link": "/l/0e7c5bc3e3",
-            "name": "Group Tweet",
-            "tagline": "Multiple Contributers, One Twitter Account",
-            "ph_url": "posts/group-tweet",
-            "comments": "5"
-        },
-        "user": {
-            "id": "UXAndrew",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/UXAndrew.jpg",
-            "twitter": "UXAndrew",
-            "name": "Andrew Zusman",
-            "tagline": "UX Designer"
-        }
-    },
-    {
         "id": 7,
         "post": {
-            "votes": "11",
-            "link": "/l/bad659ba46",
-            "name": "Web Design Manual",
-            "tagline": "Collection of web design resources and quotes.",
-            "ph_url": "posts/web-design-manual",
-            "comments": "3"
+            "votes": "12",
+            "link": "/l/de51e8920f",
+            "name": "Emoji Zone",
+            "tagline": "Emoji flying at your screen!",
+            "ph_url": "posts/emoji-zone",
+            "comments": "9"
         },
         "user": {
             "id": "GeoffreyWeg",
@@ -129,11 +129,11 @@
         "id": 8,
         "post": {
             "votes": "11",
-            "link": "/l/de51e8920f",
-            "name": "Emoji Zone",
-            "tagline": "Emoji flying at your screen!",
-            "ph_url": "posts/emoji-zone",
-            "comments": "9"
+            "link": "/l/bad659ba46",
+            "name": "Web Design Manual",
+            "tagline": "Collection of web design resources and quotes.",
+            "ph_url": "posts/web-design-manual",
+            "comments": "4"
         },
         "user": {
             "id": "GeoffreyWeg",
@@ -187,7 +187,7 @@
             "name": "Peak",
             "tagline": "Take your brain to the gym with cognitive games",
             "ph_url": "posts/peak-2",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "ediggs",
