@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "15",
+            "link": "/l/f3294ce745",
+            "name": "Ship and Dip",
+            "tagline": "Discover your next favorite dips (Birchbox for condiments)",
+            "ph_url": "posts/ship-and-dip",
+            "comments": "9"
+        },
+        "user": {
+            "id": "ducttape",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/ducttape.jpg",
+            "twitter": "ducttape",
+            "name": "John Jantsch",
+            "tagline": "CEO"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "14",
             "link": "/l/516081afe5",
             "name": "Brix",
@@ -51,24 +69,6 @@
             "twitter": "tomharari",
             "name": "tomharari",
             "tagline": "CEO, Cleanly"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "13",
-            "link": "/l/f3294ce745",
-            "name": "Ship and Dip",
-            "tagline": "Discover your next favorite dips (Birchbox for condiments)",
-            "ph_url": "posts/ship-and-dip",
-            "comments": "9"
-        },
-        "user": {
-            "id": "ducttape",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/ducttape.jpg",
-            "twitter": "ducttape",
-            "name": "John Jantsch",
-            "tagline": "CEO"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "/l/11260aaabc",
             "name": "Bricks",
             "tagline": "Bricks is a reinvention of the classic Brick Breaker game.",
@@ -205,7 +205,7 @@
             "name": "Bevvy",
             "tagline": "Catalog of cocktails, spirits, and beers - Github for Drinks",
             "ph_url": "posts/bevvy",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "GehaniNeil",
