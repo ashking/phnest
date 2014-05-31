@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "8",
+            "link": "/l/42a07f5742",
+            "name": "MessageBus",
+            "tagline": "Send email with a powerful API, track it with our platform.",
+            "ph_url": "posts/messagebus",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "Jonnotie",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/Jonnotie.jpg",
+            "twitter": "Jonnotie",
+            "name": "Jonno Riekwel",
+            "tagline": "Product designer, Jonnotie"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "4",
             "link": "/l/6aac0008ef",
             "name": "FindMySong",
@@ -213,24 +231,6 @@
             "twitter": "ashbhoopathy",
             "name": "ash bhoopathy",
             "tagline": "entrepreneur, sequoia capital"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "7",
-            "link": "/l/42a07f5742",
-            "name": "MessageBus",
-            "tagline": "Send email with a powerful API, track it with our platform.",
-            "ph_url": "posts/messagebus",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "Jonnotie",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/Jonnotie.jpg",
-            "twitter": "Jonnotie",
-            "name": "Jonno Riekwel",
-            "tagline": "Product designer, Jonnotie"
         }
     },
     {
@@ -290,24 +290,6 @@
     {
         "id": 17,
         "post": {
-            "votes": "1",
-            "link": "/l/3083617916",
-            "name": "Watchup",
-            "tagline": "Your daily newscast",
-            "ph_url": "posts/watchup",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "kenromano",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/kenromano.jpg",
-            "twitter": "kenromano",
-            "name": "Ken Romano",
-            "tagline": "Director of Broadcast Products, Associated Press"
-        }
-    },
-    {
-        "id": 18,
-        "post": {
             "votes": "4",
             "link": "/l/517c5940db",
             "name": "P.S. XO",
@@ -321,6 +303,24 @@
             "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Independent"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
+            "votes": "1",
+            "link": "/l/3083617916",
+            "name": "Watchup",
+            "tagline": "Your daily newscast",
+            "ph_url": "posts/watchup",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "kenromano",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/kenromano.jpg",
+            "twitter": "kenromano",
+            "name": "Ken Romano",
+            "tagline": "Director of Broadcast Products, Associated Press"
         }
     }
 ]
