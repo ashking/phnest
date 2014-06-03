@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "/l/9376fc01f0",
             "name": "SuperCook",
             "tagline": "Find recipes for ingredients you already have.",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "2",
+            "link": "/l/349ab7c05a",
+            "name": "Pippit",
+            "tagline": "Share &#39;pips&#39; from blog posts, photos, videos on your phone.",
+            "ph_url": "posts/pippit",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "alyssaaldersley",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/alyssaaldersley.jpg",
+            "twitter": "alyssaaldersley",
+            "name": "Alyssa Aldersley",
+            "tagline": "blogger. cape swoosher. mama."
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "4",
             "link": "/l/f06c2e48d0",
             "name": "The Web in Real-Time",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "2",
             "link": "/l/308f27fc83",
@@ -87,24 +105,6 @@
             "twitter": "brnt",
             "name": "Bernat Fages",
             "tagline": "Full stack hacker + Product guy"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "1",
-            "link": "/l/349ab7c05a",
-            "name": "Pippit",
-            "tagline": "Share &#39;pips&#39; from blog posts, photos, videos on your phone.",
-            "ph_url": "posts/pippit",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "alyssaaldersley",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/alyssaaldersley.jpg",
-            "twitter": "alyssaaldersley",
-            "name": "Alyssa Aldersley",
-            "tagline": "blogger. cape swoosher. mama."
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "/l/dfac17a511",
             "name": "cloudXLS",
             "tagline": "API to Create Awesome Excel reports from CSV files",
