@@ -97,7 +97,7 @@
             "name": "Socratic",
             "tagline": "Learn and help others learn",
             "ph_url": "posts/socratic",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "DavidSpinks",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "7",
+            "link": "/l/2f20ea7f4c",
+            "name": "Mitya",
+            "tagline": "Prototyping for Interaction Designers",
+            "ph_url": "posts/mitya",
+            "comments": "2"
+        },
+        "user": {
+            "id": "munsonbh",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/munsonbh.jpg",
+            "twitter": "munsonbh",
+            "name": "Ben Munson",
+            "tagline": "Designer/Founder"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "8",
             "link": "/l/466eb13ec5",
             "name": "A Light Year",
@@ -180,14 +198,14 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "8",
             "link": "/l/253cd80183",
             "name": "CleverPet",
             "tagline": "Learning Game Console for Your Pet",
             "ph_url": "posts/cleverpet",
-            "comments": "8"
+            "comments": "9"
         },
         "user": {
             "id": "techtidbitsme",
@@ -195,24 +213,6 @@
             "twitter": "techtidbitsme",
             "name": "techtidbits.me",
             "tagline": "TechTidbits.me"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "6",
-            "link": "/l/2f20ea7f4c",
-            "name": "Mitya",
-            "tagline": "Prototyping for Interaction Designers",
-            "ph_url": "posts/mitya",
-            "comments": "2"
-        },
-        "user": {
-            "id": "munsonbh",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/munsonbh.jpg",
-            "twitter": "munsonbh",
-            "name": "Ben Munson",
-            "tagline": "Designer/Founder"
         }
     },
     {
@@ -326,7 +326,7 @@
     {
         "id": 19,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "/l/f06c2e48d0",
             "name": "The Web in Real-Time",
             "tagline": "See How Quickly Data is Generated",
