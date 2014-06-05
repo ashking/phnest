@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "2",
+            "link": "/l/fe20300430",
+            "name": "Micro Python",
+            "tagline": "Python for microcontrollers",
+            "ph_url": "posts/micro-python",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Founder, Openslot.io"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "1",
             "link": "/l/49282c9aa2",
             "name": "Control",
@@ -18,7 +36,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 3,
         "post": {
             "votes": "1",
             "link": "/l/94f456b62d",
@@ -33,24 +51,6 @@
             "twitter": "makeusabrew",
             "name": "Nick Payne",
             "tagline": "Owner, Payne Digital Ltd"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "1",
-            "link": "/l/fe20300430",
-            "name": "Micro Python",
-            "tagline": "Python for microcontrollers",
-            "ph_url": "posts/micro-python",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Founder, Openslot.io"
         }
     }
 ]
