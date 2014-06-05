@@ -43,7 +43,7 @@
             "name": "StatHat",
             "tagline": "Track custom stats and view them in real-time.",
             "ph_url": "posts/stathat",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "naveen",
@@ -182,6 +182,24 @@
     {
         "id": 11,
         "post": {
+            "votes": "4",
+            "link": "/l/fe20300430",
+            "name": "Micro Python",
+            "tagline": "Python for microcontrollers",
+            "ph_url": "posts/micro-python",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/gregoiregilbert.jpg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Founder, Openslot.io"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
             "votes": "3",
             "link": "/l/30ddbd80a2",
             "name": "Tweet Seeker",
@@ -198,25 +216,25 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "post": {
-            "votes": "3",
-            "link": "/l/fe20300430",
-            "name": "Micro Python",
-            "tagline": "Python for microcontrollers",
-            "ph_url": "posts/micro-python",
+            "votes": "2",
+            "link": "/l/338eed35d3",
+            "name": "ScreenLab",
+            "tagline": "Discover what users see and optimise websites and apps",
+            "ph_url": "posts/screenlab",
             "comments": "View details"
         },
         "user": {
-            "id": "gregoiregilbert",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/gregoiregilbert.jpg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Founder, Openslot.io"
+            "id": "pendeavor",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/pendeavor.jpg",
+            "twitter": "pendeavor",
+            "name": "Matt Farley",
+            "tagline": "UX Designer"
         }
     },
     {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "1",
             "link": "/l/5966232416",
@@ -231,24 +249,6 @@
             "twitter": "ediggs",
             "name": "Eze Vidra",
             "tagline": "Head of Google for Entrepreneurs Europe"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "1",
-            "link": "/l/338eed35d3",
-            "name": "ScreenLab",
-            "tagline": "Discover what users see and optimise websites and apps",
-            "ph_url": "posts/screenlab",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "pendeavor",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/pendeavor.jpg",
-            "twitter": "pendeavor",
-            "name": "Matt Farley",
-            "tagline": "UX Designer"
         }
     }
 ]
