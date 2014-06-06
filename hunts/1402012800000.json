@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "/l/9d33de565b",
             "name": "Boatbound",
             "tagline": "Airbnb for boats",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "5",
+            "link": "/l/5c4dcc3b30",
+            "name": "Herenow",
+            "tagline": "Send and receive messages with anyone within 100 metres.",
+            "ph_url": "posts/herenow",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bnolan",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/bnolan.jpg",
+            "twitter": "bnolan",
+            "name": "Ben Nolan",
+            "tagline": "Founder, Nolan Consulting"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "6",
             "link": "/l/44d4c4f2b1",
             "name": "App in the Air",
@@ -51,24 +69,6 @@
             "twitter": "nikitakorotaev",
             "name": "Nikita Korotaev",
             "tagline": "Incubating products @ Glocal Partners"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "4",
-            "link": "/l/5c4dcc3b30",
-            "name": "Herenow",
-            "tagline": "Send and receive messages with anyone within 100 metres.",
-            "ph_url": "posts/herenow",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bnolan",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/bnolan.jpg",
-            "twitter": "bnolan",
-            "name": "Ben Nolan",
-            "tagline": "Founder, Nolan Consulting"
         }
     },
     {
@@ -169,7 +169,7 @@
             "name": "Kidpost",
             "tagline": "Use #kidpost to email your social media posts to non-techies",
             "ph_url": "posts/kidpost",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "GeoffreyWeg",
@@ -205,7 +205,7 @@
             "name": "Mo+",
             "tagline": "Unlimited free calls and text to any phone numbers",
             "ph_url": "posts/mo",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "EmmanuelAmber",
