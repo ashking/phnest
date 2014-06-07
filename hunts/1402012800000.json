@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "35",
+            "link": "/l/5d40d330d7",
+            "name": "Gmail Offline",
+            "tagline": "Use Gmail offline, freaking fast",
+            "ph_url": "posts/gmail-offline",
+            "comments": "4"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "36",
             "link": "/l/477fdfc4ca",
             "name": "The Happy Crate",
@@ -87,24 +105,6 @@
             "twitter": "paulgambill",
             "name": "Paul Gambill",
             "tagline": "Founder, The Happy Crate"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "34",
-            "link": "/l/5d40d330d7",
-            "name": "Gmail Offline",
-            "tagline": "Use Gmail offline, freaking fast",
-            "ph_url": "posts/gmail-offline",
-            "comments": "4"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt"
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "/l/c7b57cd79d",
             "name": "Ocean Cleanup",
             "tagline": "Large-scale, passive, and efficient ocean plastic removal",
