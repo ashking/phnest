@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "/l/7deb38ffcc",
             "name": "Hullabalu",
             "tagline": "Interactive stories for kids",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "6",
+            "link": "/l/df1668c3e2",
+            "name": "Swift Weekly",
+            "tagline": "Free Swift development newsletter",
+            "ph_url": "posts/swift-weekly",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "sippndipp",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/sippndipp.jpg",
+            "twitter": "sippndipp",
+            "name": "Sebastian Deutsch",
+            "tagline": "9elements"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "3",
             "link": "/l/9f59197f11",
             "name": "Concert Window",
@@ -51,24 +69,6 @@
             "twitter": "alexiskold",
             "name": "Alex Iskold",
             "tagline": "Managing Director, Techstars NYC"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "5",
-            "link": "/l/df1668c3e2",
-            "name": "Swift Weekly",
-            "tagline": "Free Swift development newsletter",
-            "ph_url": "posts/swift-weekly",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "sippndipp",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/sippndipp.jpg",
-            "twitter": "sippndipp",
-            "name": "Sebastian Deutsch",
-            "tagline": "9elements"
         }
     },
     {
@@ -115,7 +115,7 @@
             "name": "miCoach Smart Soccer Ball",
             "tagline": "Improve your game via connected soccer ball",
             "ph_url": "posts/micoach-smart-soccer-ball",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "KristoferTM",
