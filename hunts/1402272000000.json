@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "50",
+            "votes": "51",
             "link": "/l/f26249d1bd",
             "name": "InstaNerd",
             "tagline": "Be smart, instantly",
             "ph_url": "posts/instanerd",
-            "comments": "16"
+            "comments": "17"
         },
         "user": {
             "id": "mightyalex",
@@ -19,6 +19,24 @@
     },
     {
         "id": 2,
+        "post": {
+            "votes": "23",
+            "link": "/l/8392387e6a",
+            "name": "Matter",
+            "tagline": "A new magazine built on Medium",
+            "ph_url": "posts/matter",
+            "comments": "7"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/rrhoover.jpg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt"
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "40",
             "link": "/l/f7f598f7ea",
@@ -36,14 +54,14 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "13",
             "link": "/l/e50a3b3aee",
             "name": "Slingshot",
             "tagline": "Facebook&#39;s new photo and video app (like Snapchat)",
             "ph_url": "posts/slingshot-2",
-            "comments": "12"
+            "comments": "16"
         },
         "user": {
             "id": "daveambrose",
@@ -51,24 +69,6 @@
             "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "20",
-            "link": "/l/8392387e6a",
-            "name": "Matter",
-            "tagline": "A new magazine built on Medium",
-            "ph_url": "posts/matter",
-            "comments": "7"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/rrhoover.jpg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt"
         }
     },
     {
@@ -218,24 +218,6 @@
     {
         "id": 13,
         "post": {
-            "votes": "4",
-            "link": "/l/782ba072e0",
-            "name": "MeetEarnest",
-            "tagline": "Loans For Living Life",
-            "ph_url": "posts/meetearnest",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "dohertyjf",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/dohertyjf.jpg",
-            "twitter": "dohertyjf",
-            "name": "John Doherty",
-            "tagline": "Marketing Manager, HotPads"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
             "votes": "29",
             "link": "/l/a303c3324a",
             "name": "Todoist",
@@ -249,6 +231,24 @@
             "twitter": "enricenrich",
             "name": "Enric Enrich",
             "tagline": "iOS Developer at Doist"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "4",
+            "link": "/l/782ba072e0",
+            "name": "MeetEarnest",
+            "tagline": "Loans For Living Life",
+            "ph_url": "posts/meetearnest",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "dohertyjf",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/dohertyjf.jpg",
+            "twitter": "dohertyjf",
+            "name": "John Doherty",
+            "tagline": "Marketing Manager, HotPads"
         }
     },
     {
