@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "34",
+            "votes": "35",
             "link": "/l/f26249d1bd",
             "name": "InstaNerd",
             "tagline": "Be smart, instantly",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "26",
+            "votes": "27",
             "link": "/l/63dddf2f73",
             "name": "RebelMouse",
             "tagline": "Social CMS. Beautiful. Efficient. Mobile-first. (BIG update)",
@@ -75,11 +75,29 @@
         "id": 5,
         "post": {
             "votes": "11",
+            "link": "/l/01519b4d7e",
+            "name": "Meeting Hero",
+            "tagline": "Highly productive, engaging meetings",
+            "ph_url": "posts/meeting-hero",
+            "comments": "4"
+        },
+        "user": {
+            "id": "mbavio",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/mbavio.jpg",
+            "twitter": "mbavio",
+            "name": "Martin Bavio",
+            "tagline": "User Interface Engineer"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "11",
             "link": "/l/8392387e6a",
             "name": "Matter",
             "tagline": "A new magazine built on Medium",
             "ph_url": "posts/matter",
-            "comments": "2"
+            "comments": "4"
         },
         "user": {
             "id": "rrhoover",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "16",
             "link": "/l/3bd6eabe02",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "17",
             "link": "/l/624c1e5778",
@@ -123,24 +141,6 @@
             "twitter": "NeerajT4",
             "name": "Neeraj Thakur",
             "tagline": "co-founder, Appska"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "9",
-            "link": "/l/01519b4d7e",
-            "name": "Meeting Hero",
-            "tagline": "Highly productive, engaging meetings",
-            "ph_url": "posts/meeting-hero",
-            "comments": "4"
-        },
-        "user": {
-            "id": "mbavio",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/mbavio.jpg",
-            "twitter": "mbavio",
-            "name": "Martin Bavio",
-            "tagline": "User Interface Engineer"
         }
     },
     {
@@ -241,7 +241,7 @@
             "name": "Secret Dens",
             "tagline": "A private Secret for work and school",
             "ph_url": "posts/secret-dens",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "davidbyttow",
