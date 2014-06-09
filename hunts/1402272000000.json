@@ -14,11 +14,29 @@
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/enricenrich.jpg",
             "twitter": "enricenrich",
             "name": "Enric Enrich",
-            "tagline": "iOS Developer / Creator of Veern"
+            "tagline": "iOS Developer at Doist / Creator of Veern"
         }
     },
     {
         "id": 2,
+        "post": {
+            "votes": "7",
+            "link": "/l/02ca00debc",
+            "name": "Brewbot",
+            "tagline": "The world&#39;s smartest personal brewery.",
+            "ph_url": "posts/brewbot",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "brnt",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/brnt.jpg",
+            "twitter": "brnt",
+            "name": "Bernat Fages",
+            "tagline": "Full stack hacker + Product guy"
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "7",
             "link": "/l/4c00f8e20e",
@@ -33,24 +51,6 @@
             "twitter": "datarade",
             "name": "Kumar Thangudu",
             "tagline": "growth hacker and manufacturing engineer"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "6",
-            "link": "/l/02ca00debc",
-            "name": "Brewbot",
-            "tagline": "The world&#39;s smartest personal brewery.",
-            "ph_url": "posts/brewbot",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "brnt",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/brnt.jpg",
-            "twitter": "brnt",
-            "name": "Bernat Fages",
-            "tagline": "Full stack hacker + Product guy"
         }
     },
     {
@@ -79,7 +79,7 @@
             "name": "Monochrome",
             "tagline": "Browser with fixed iPhone5 viewport",
             "ph_url": "posts/monochrome",
-            "comments": "View details"
+            "comments": "1 comment"
         },
         "user": {
             "id": "nikitakorotaev",
