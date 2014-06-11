@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "46",
+            "link": "/l/4bfa8a5fcf",
+            "name": "Little Pork Chop",
+            "tagline": "Auto turns longer thoughts into series of 140 char tweets",
+            "ph_url": "posts/little-pork-chop",
+            "comments": "18"
+        },
+        "user": {
+            "id": "hunterwalk",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/hunterwalk.jpg",
+            "twitter": "hunterwalk",
+            "name": "Hunter Walk",
+            "tagline": "Partner, Homebrew"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "84",
             "link": "/l/7deb38ffcc",
             "name": "Hullabalu",
@@ -51,24 +69,6 @@
             "twitter": "alexiskold",
             "name": "Alex Iskold",
             "tagline": "Managing Director, Techstars NYC"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "45",
-            "link": "/l/4bfa8a5fcf",
-            "name": "Little Pork Chop",
-            "tagline": "Auto turns longer thoughts into series of 140 char tweets",
-            "ph_url": "posts/little-pork-chop",
-            "comments": "18"
-        },
-        "user": {
-            "id": "hunterwalk",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/hunterwalk.jpg",
-            "twitter": "hunterwalk",
-            "name": "Hunter Walk",
-            "tagline": "Partner, Homebrew"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "/l/c378fb9ee9",
             "name": "Cookbook Create",
             "tagline": "Turn your favorite recipes into a printed cookbook",
