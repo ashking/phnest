@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "/l/48911cd354",
             "name": "Hook - ProductHunt API",
             "tagline": "ProductHunt API for retrieving today&#39;s hunts",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "3",
+            "link": "/l/67418b44ad",
+            "name": "Pikichat",
+            "tagline": "Take the spot and be the star of your friends&#39; groups",
+            "ph_url": "posts/pikichat",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "adulong",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/adulong.jpg",
+            "twitter": "adulong",
+            "name": "Adrien Dulong",
+            "tagline": "CEO"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "1",
             "link": "/l/8ba02529ba",
             "name": "Google World Cup trends",
@@ -69,24 +87,6 @@
             "twitter": "_jamesmundy",
             "name": "James Mundy",
             "tagline": "Founder, Foundbite"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "1",
-            "link": "/l/67418b44ad",
-            "name": "Pikichat",
-            "tagline": "Take the spot and be the star of your friends&#39; groups",
-            "ph_url": "posts/pikichat",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "adulong",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/adulong.jpg",
-            "twitter": "adulong",
-            "name": "Adrien Dulong",
-            "tagline": "CEO"
         }
     }
 ]
