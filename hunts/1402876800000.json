@@ -38,6 +38,42 @@
     {
         "id": 3,
         "post": {
+            "votes": "15",
+            "link": "/l/3af310c82d",
+            "name": "IsoPlex",
+            "tagline": "Popcorn time alternative maintained by Isohunt",
+            "ph_url": "posts/isoplex",
+            "comments": "4"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "7",
+            "link": "/l/7aced11d92",
+            "name": "Postatic",
+            "tagline": "Create your own HackerNews",
+            "ph_url": "posts/postatic",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "CAustinB",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/CAustinB.jpg",
+            "twitter": "CAustinB",
+            "name": "Chad Byers",
+            "tagline": "General Partner, Susa Ventures"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "8",
             "link": "/l/769cc92967",
             "name": "Ramen",
@@ -54,45 +90,9 @@
         }
     },
     {
-        "id": 4,
-        "post": {
-            "votes": "14",
-            "link": "/l/3af310c82d",
-            "name": "IsoPlex",
-            "tagline": "Popcorn time alternative maintained by Isohunt",
-            "ph_url": "posts/isoplex",
-            "comments": "4"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "/l/7aced11d92",
-            "name": "Postatic",
-            "tagline": "Create your own HackerNews",
-            "ph_url": "posts/postatic",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "CAustinB",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/CAustinB.jpg",
-            "twitter": "CAustinB",
-            "name": "Chad Byers",
-            "tagline": "General Partner, Susa Ventures"
-        }
-    },
-    {
         "id": 6,
         "post": {
-            "votes": "6",
+            "votes": "7",
             "link": "/l/6ab2e2c68f",
             "name": "AeroFS",
             "tagline": "Dropbox behind your corporate firewall",
