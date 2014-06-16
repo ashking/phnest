@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "18",
+            "link": "/l/7aced11d92",
+            "name": "Postatic",
+            "tagline": "Create your own HackerNews",
+            "ph_url": "posts/postatic",
+            "comments": "7"
+        },
+        "user": {
+            "id": "CAustinB",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/CAustinB.jpg",
+            "twitter": "CAustinB",
+            "name": "Chad Byers",
+            "tagline": "General Partner, Susa Ventures"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "33",
             "link": "/l/4f5d2632e4",
             "name": "Robin",
@@ -15,24 +33,6 @@
             "twitter": "BlendahTom",
             "name": "Tom Masiero",
             "tagline": "Helping Grow @BuySellAds &amp; @FormulaDRIFT"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "17",
-            "link": "/l/7aced11d92",
-            "name": "Postatic",
-            "tagline": "Create your own HackerNews",
-            "ph_url": "posts/postatic",
-            "comments": "7"
-        },
-        "user": {
-            "id": "CAustinB",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/CAustinB.jpg",
-            "twitter": "CAustinB",
-            "name": "Chad Byers",
-            "tagline": "General Partner, Susa Ventures"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "/l/6ab2e2c68f",
             "name": "AeroFS",
             "tagline": "Dropbox behind your corporate firewall",
@@ -110,25 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "9",
-            "link": "/l/2040b08dd0",
-            "name": "Homeless Fonts",
-            "tagline": "Homeless can create a font and get paid for it.",
-            "ph_url": "posts/homeless-fonts",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "petershankman",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/petershankman.jpg",
-            "twitter": "petershankman",
-            "name": "Peter Shankman",
-            "tagline": "CEO, The Geek Factory, Inc."
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "/l/4080149509",
             "name": "Play It",
             "tagline": "A better music app",
@@ -141,6 +123,24 @@
             "twitter": "vral",
             "name": "Veeral Patel",
             "tagline": "App maker, 17."
+        }
+    },
+    {
+        "id": 8,
+        "post": {
+            "votes": "9",
+            "link": "/l/2040b08dd0",
+            "name": "Homeless Fonts",
+            "tagline": "Homeless can create a font and get paid for it.",
+            "ph_url": "posts/homeless-fonts",
+            "comments": "2"
+        },
+        "user": {
+            "id": "petershankman",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/petershankman.jpg",
+            "twitter": "petershankman",
+            "name": "Peter Shankman",
+            "tagline": "CEO, The Geek Factory, Inc."
         }
     },
     {
