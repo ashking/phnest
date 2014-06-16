@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "40",
+            "link": "/l/23dbe41ed4",
+            "name": "Picfair",
+            "tagline": "Marketplace for amazing photos",
+            "ph_url": "posts/picfair",
+            "comments": "9"
+        },
+        "user": {
+            "id": "alexisohanian",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/alexisohanian.jpg",
+            "twitter": "alexisohanian",
+            "name": "Alexis Ohanian",
+            "tagline": "dude"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "36",
             "link": "/l/72e02ff121",
             "name": "Wealthfront",
@@ -15,24 +33,6 @@
             "twitter": "hunterwalk",
             "name": "Hunter Walk",
             "tagline": "Partner, Homebrew"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "36",
-            "link": "/l/23dbe41ed4",
-            "name": "Picfair",
-            "tagline": "Marketplace for amazing photos",
-            "ph_url": "posts/picfair",
-            "comments": "9"
-        },
-        "user": {
-            "id": "alexisohanian",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/alexisohanian.jpg",
-            "twitter": "alexisohanian",
-            "name": "Alexis Ohanian",
-            "tagline": "dude"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "/l/6fdc01c3b4",
             "name": "Load Impact",
             "tagline": "On Demand Load Testing",
