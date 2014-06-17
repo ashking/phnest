@@ -20,25 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "79",
-            "link": "/l/b7d6d7cf67",
-            "name": "BetaList",
-            "tagline": "Discover tomorrow&#39;s startups, today.",
-            "ph_url": "posts/betalist",
-            "comments": "7"
-        },
-        "user": {
-            "id": "marckohlbrugge",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/marckohlbrugge.jpg",
-            "twitter": "marckohlbrugge",
-            "name": "Marc Köhlbrugge",
-            "tagline": "Founder of Beta List"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "28",
+            "votes": "30",
             "link": "/l/2c3b710af0",
             "name": "Optimizely for iOS",
             "tagline": "Fast and scalable A/B testing for iOS apps (public beta)",
@@ -51,6 +33,24 @@
             "twitter": "stefanobernardi",
             "name": "Stefano Bernardi",
             "tagline": "Wild Card, Betable"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "80",
+            "link": "/l/b7d6d7cf67",
+            "name": "BetaList",
+            "tagline": "Discover tomorrow&#39;s startups, today.",
+            "ph_url": "posts/betalist",
+            "comments": "7"
+        },
+        "user": {
+            "id": "marckohlbrugge",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/marckohlbrugge.jpg",
+            "twitter": "marckohlbrugge",
+            "name": "Marc Köhlbrugge",
+            "tagline": "Founder of Beta List"
         }
     },
     {
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "14",
+            "votes": "15",
             "link": "/l/c2f2c362b9",
             "name": "Cup Scout",
             "tagline": "World cup prediction game (created by 68-year-old retiree)",
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "20",
+            "link": "/l/ccea39b581",
+            "name": "Spire",
+            "tagline": "The first activity, breath &amp; state of mind tracker",
+            "ph_url": "posts/spire",
+            "comments": "8"
+        },
+        "user": {
+            "id": "helencrozier",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/helencrozier.jpg",
+            "twitter": "helencrozier",
+            "name": "Helen Crozier",
+            "tagline": "Keyboard Karma"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "19",
             "link": "/l/6ba03d8400",
             "name": "PSTMRK",
@@ -159,24 +177,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "19",
-            "link": "/l/ccea39b581",
-            "name": "Spire",
-            "tagline": "The first activity, breath &amp; state of mind tracker",
-            "ph_url": "posts/spire",
-            "comments": "8"
-        },
-        "user": {
-            "id": "helencrozier",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/helencrozier.jpg",
-            "twitter": "helencrozier",
-            "name": "Helen Crozier",
-            "tagline": "Keyboard Karma"
         }
     },
     {
@@ -223,7 +223,7 @@
             "name": "Authority (2nd edition)",
             "tagline": "Learn to profit from self-publishing",
             "ph_url": "posts/authority",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "nathanbarry",
@@ -308,24 +308,6 @@
     {
         "id": 18,
         "post": {
-            "votes": "7",
-            "link": "/l/41b48cc7f5",
-            "name": "Artoo",
-            "tagline": "The client-side scraping companion",
-            "ph_url": "posts/artoo",
-            "comments": "2"
-        },
-        "user": {
-            "id": "DylanLaCom",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/DylanLaCom.jpg",
-            "twitter": "DylanLaCom",
-            "name": "Dylan La Com",
-            "tagline": "Growth Product Manager, Qualaroo"
-        }
-    },
-    {
-        "id": 19,
-        "post": {
             "votes": "15",
             "link": "/l/c9dc18a766",
             "name": "Marquee",
@@ -339,6 +321,24 @@
             "twitter": "BlendahTom",
             "name": "Tom Masiero",
             "tagline": "Helping Grow @BuySellAds &amp; @FormulaDRIFT"
+        }
+    },
+    {
+        "id": 19,
+        "post": {
+            "votes": "7",
+            "link": "/l/41b48cc7f5",
+            "name": "Artoo",
+            "tagline": "The client-side scraping companion",
+            "ph_url": "posts/artoo",
+            "comments": "2"
+        },
+        "user": {
+            "id": "DylanLaCom",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/DylanLaCom.jpg",
+            "twitter": "DylanLaCom",
+            "name": "Dylan La Com",
+            "tagline": "Growth Product Manager, Qualaroo"
         }
     },
     {
@@ -434,24 +434,6 @@
     {
         "id": 25,
         "post": {
-            "votes": "4",
-            "link": "/l/e5845c05fd",
-            "name": "LaMetric",
-            "tagline": "Stock Ticker for Anything: Hackable, real-time display",
-            "ph_url": "posts/lametric",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 26,
-        "post": {
             "votes": "8",
             "link": "/l/77712a1ccc",
             "name": "SPOT Park",
@@ -465,6 +447,24 @@
             "twitter": "adamsigel",
             "name": "Adam Sigel",
             "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 26,
+        "post": {
+            "votes": "4",
+            "link": "/l/e5845c05fd",
+            "name": "LaMetric",
+            "tagline": "Stock Ticker for Anything: Hackable, real-time display",
+            "ph_url": "posts/lametric",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -614,24 +614,6 @@
     {
         "id": 35,
         "post": {
-            "votes": "2",
-            "link": "/l/55d568ea14",
-            "name": "SpritePad",
-            "tagline": "The easiest way to create your CSS sprites",
-            "ph_url": "posts/spritepad",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "pendeavor",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/pendeavor.jpg",
-            "twitter": "pendeavor",
-            "name": "Matt Farley",
-            "tagline": "UX Designer"
-        }
-    },
-    {
-        "id": 36,
-        "post": {
             "votes": "4",
             "link": "/l/7e6bfb2179",
             "name": "Infinite Sunset",
@@ -645,6 +627,24 @@
             "twitter": "daualset",
             "name": "Claudio Gallo",
             "tagline": "Stereomood / Bad Panda Records"
+        }
+    },
+    {
+        "id": 36,
+        "post": {
+            "votes": "2",
+            "link": "/l/55d568ea14",
+            "name": "SpritePad",
+            "tagline": "The easiest way to create your CSS sprites",
+            "ph_url": "posts/spritepad",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "pendeavor",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/pendeavor.jpg",
+            "twitter": "pendeavor",
+            "name": "Matt Farley",
+            "tagline": "UX Designer"
         }
     },
     {
