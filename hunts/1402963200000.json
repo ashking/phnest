@@ -7,7 +7,7 @@
             "name": "Slingshot",
             "tagline": "Facebook&#39;s new ephemeral photo/video app",
             "ph_url": "posts/slingshot-3",
-            "comments": "13"
+            "comments": "14"
         },
         "user": {
             "id": "mg",
@@ -19,6 +19,24 @@
     },
     {
         "id": 2,
+        "post": {
+            "votes": "65",
+            "link": "/l/b7d6d7cf67",
+            "name": "BetaList",
+            "tagline": "Discover tomorrow&#39;s startups, today.",
+            "ph_url": "posts/betalist",
+            "comments": "4"
+        },
+        "user": {
+            "id": "marckohlbrugge",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/marckohlbrugge.jpg",
+            "twitter": "marckohlbrugge",
+            "name": "Marc Köhlbrugge",
+            "tagline": "Founder of Beta List"
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "46",
             "link": "/l/390db97c35",
@@ -33,24 +51,6 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "64",
-            "link": "/l/b7d6d7cf67",
-            "name": "BetaList",
-            "tagline": "Discover tomorrow&#39;s startups, today.",
-            "ph_url": "posts/betalist",
-            "comments": "4"
-        },
-        "user": {
-            "id": "marckohlbrugge",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/marckohlbrugge.jpg",
-            "twitter": "marckohlbrugge",
-            "name": "Marc Köhlbrugge",
-            "tagline": "Founder of Beta List"
         }
     },
     {
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "/l/2c3b710af0",
             "name": "Optimizely for iOS",
             "tagline": "Fast and scalable A/B testing for iOS apps (public beta)",
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "15",
+            "link": "/l/ccea39b581",
+            "name": "Spire",
+            "tagline": "The first activity, breath &amp; state of mind tracker",
+            "ph_url": "posts/spire",
+            "comments": "5"
+        },
+        "user": {
+            "id": "helencrozier",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/helencrozier.jpg",
+            "twitter": "helencrozier",
+            "name": "Helen Crozier",
+            "tagline": "Keyboard Karma"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "9",
             "link": "/l/c2f2c362b9",
             "name": "Cup Scout",
@@ -159,24 +177,6 @@
             "twitter": "nbashaw",
             "name": "Nathan Bashaw",
             "tagline": "PM, General Assembly"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "14",
-            "link": "/l/ccea39b581",
-            "name": "Spire",
-            "tagline": "The first activity, breath &amp; state of mind tracker",
-            "ph_url": "posts/spire",
-            "comments": "5"
-        },
-        "user": {
-            "id": "helencrozier",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/helencrozier.jpg",
-            "twitter": "helencrozier",
-            "name": "Helen Crozier",
-            "tagline": "Keyboard Karma"
         }
     },
     {
@@ -349,7 +349,7 @@
             "name": "SPOT Park",
             "tagline": "Airbnb for parking spots",
             "ph_url": "posts/spot-park",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "adamsigel",
@@ -398,7 +398,7 @@
     {
         "id": 23,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "/l/5a77b7065a",
             "name": "Morph",
             "tagline": "Heroku for Scrapers",
@@ -416,7 +416,7 @@
     {
         "id": 24,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "/l/8403cc548e",
             "name": "Zuli Smartplug",
             "tagline": "Micro-location based home automation",
