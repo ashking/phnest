@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "71",
+            "votes": "76",
             "link": "/l/b7d6d7cf67",
             "name": "BetaList",
             "tagline": "Discover tomorrow&#39;s startups, today.",
             "ph_url": "posts/betalist",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "marckohlbrugge",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "21",
+            "votes": "22",
             "link": "/l/2c3b710af0",
             "name": "Optimizely for iOS",
             "tagline": "Fast and scalable A/B testing for iOS apps (public beta)",
@@ -110,12 +110,12 @@
     {
         "id": 7,
         "post": {
-            "votes": "28",
+            "votes": "29",
             "link": "/l/0e0697dc09",
             "name": "Bannerman",
             "tagline": "Uber for security",
             "ph_url": "posts/bannerman",
-            "comments": "11"
+            "comments": "13"
         },
         "user": {
             "id": "mccannatron",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "19",
+            "link": "/l/ccea39b581",
+            "name": "Spire",
+            "tagline": "The first activity, breath &amp; state of mind tracker",
+            "ph_url": "posts/spire",
+            "comments": "8"
+        },
+        "user": {
+            "id": "helencrozier",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/helencrozier.jpg",
+            "twitter": "helencrozier",
+            "name": "Helen Crozier",
+            "tagline": "Keyboard Karma"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "17",
             "link": "/l/8ef98222cc",
             "name": "Spotify Web API",
@@ -180,43 +198,7 @@
         }
     },
     {
-        "id": 11,
-        "post": {
-            "votes": "17",
-            "link": "/l/ccea39b581",
-            "name": "Spire",
-            "tagline": "The first activity, breath &amp; state of mind tracker",
-            "ph_url": "posts/spire",
-            "comments": "8"
-        },
-        "user": {
-            "id": "helencrozier",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/helencrozier.jpg",
-            "twitter": "helencrozier",
-            "name": "Helen Crozier",
-            "tagline": "Keyboard Karma"
-        }
-    },
-    {
         "id": 12,
-        "post": {
-            "votes": "7",
-            "link": "/l/d8528a97ab",
-            "name": "Authority (2nd edition)",
-            "tagline": "Learn to profit from self-publishing",
-            "ph_url": "posts/authority",
-            "comments": "2"
-        },
-        "user": {
-            "id": "nathanbarry",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/nathanbarry.jpg",
-            "twitter": "nathanbarry",
-            "name": "Nathan Barry",
-            "tagline": "Founder, ConvertKit"
-        }
-    },
-    {
-        "id": 13,
         "post": {
             "votes": "18",
             "link": "/l/2f0fef315e",
@@ -231,6 +213,24 @@
             "twitter": "gregoiregilbert",
             "name": "Grégoire Gilbert",
             "tagline": "Founder, Openslot.io"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
+            "votes": "7",
+            "link": "/l/d8528a97ab",
+            "name": "Authority (2nd edition)",
+            "tagline": "Learn to profit from self-publishing",
+            "ph_url": "posts/authority",
+            "comments": "2"
+        },
+        "user": {
+            "id": "nathanbarry",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/nathanbarry.jpg",
+            "twitter": "nathanbarry",
+            "name": "Nathan Barry",
+            "tagline": "Founder, ConvertKit"
         }
     },
     {
@@ -380,24 +380,6 @@
     {
         "id": 22,
         "post": {
-            "votes": "4",
-            "link": "/l/e5845c05fd",
-            "name": "LaMetric",
-            "tagline": "Stock Ticker for Anything: Hackable, real-time display",
-            "ph_url": "posts/lametric",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/_jacksmith.jpg",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded @vungle &amp; @shyp"
-        }
-    },
-    {
-        "id": 23,
-        "post": {
             "votes": "9",
             "link": "/l/4c6254dc37",
             "name": "Dimple.io",
@@ -411,6 +393,24 @@
             "twitter": "bkrall",
             "name": "Brian Krall",
             "tagline": "Founder, Sideproject.io"
+        }
+    },
+    {
+        "id": 23,
+        "post": {
+            "votes": "4",
+            "link": "/l/e5845c05fd",
+            "name": "LaMetric",
+            "tagline": "Stock Ticker for Anything: Hackable, real-time display",
+            "ph_url": "posts/lametric",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/_jacksmith.jpg",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded @vungle &amp; @shyp"
         }
     },
     {
@@ -439,7 +439,7 @@
             "name": "SPOT Park",
             "tagline": "Airbnb for parking spots",
             "ph_url": "posts/spot-park",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "adamsigel",
@@ -470,7 +470,7 @@
     {
         "id": 27,
         "post": {
-            "votes": "5",
+            "votes": "6",
             "link": "/l/1d338dc298",
             "name": "Greenhouse",
             "tagline": "Finally, Recruiting software that works the way you want",
