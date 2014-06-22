@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "38",
+            "link": "/l/08ffd9851e",
+            "name": "Sprites",
+            "tagline": "Infographic creation tool",
+            "ph_url": "posts/sprites",
+            "comments": "7"
+        },
+        "user": {
+            "id": "volpav",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/volpav.jpg",
+            "twitter": "volpav",
+            "name": "Pavel Volgarev",
+            "tagline": "Founder, Sprites"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "45",
             "link": "/l/4254928926",
             "name": "SideProjectors",
@@ -69,24 +87,6 @@
             "twitter": "benln",
             "name": "Ben Lang",
             "tagline": "Founder, Mapped In Israel"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "37",
-            "link": "/l/08ffd9851e",
-            "name": "Sprites",
-            "tagline": "Infographic creation tool",
-            "ph_url": "posts/sprites",
-            "comments": "7"
-        },
-        "user": {
-            "id": "volpav",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/volpav.jpg",
-            "twitter": "volpav",
-            "name": "Pavel Volgarev",
-            "tagline": "Founder, Sprites"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "/l/b65e98097a",
             "name": "BitBooks",
             "tagline": "Build online books directly from Github",
