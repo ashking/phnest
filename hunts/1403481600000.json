@@ -56,12 +56,30 @@
     {
         "id": 4,
         "post": {
+            "votes": "2",
+            "link": "/l/25767fd7f7",
+            "name": "Doddle",
+            "tagline": "Parcel pick up from your railway station after work (UK)",
+            "ph_url": "posts/doddle",
+            "comments": "2"
+        },
+        "user": {
+            "id": "_jamesmundy",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/_jamesmundy.jpg",
+            "twitter": "_jamesmundy",
+            "name": "James Mundy",
+            "tagline": "Founder, Foundbite"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "1",
             "link": "/l/8f54b37921",
             "name": "Mowz",
             "tagline": "Now you can mow your lawn like a boss from the web",
             "ph_url": "posts/mowz-2",
-            "comments": "1 comment"
+            "comments": "3"
         },
         "user": {
             "id": "KristoferTM",
@@ -72,7 +90,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 6,
         "post": {
             "votes": "1",
             "link": "/l/67dfc1bb8d",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "1",
             "link": "/l/6731ef3869",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "1",
             "link": "/l/b8d9aa3e85",
@@ -123,24 +141,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "CEO,WalletKit"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "1",
-            "link": "/l/25767fd7f7",
-            "name": "Doddle",
-            "tagline": "Parcel pick up from your railway station after work (UK)",
-            "ph_url": "posts/doddle",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "_jamesmundy",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/_jamesmundy.jpg",
-            "twitter": "_jamesmundy",
-            "name": "James Mundy",
-            "tagline": "Founder, Foundbite"
         }
     }
 ]
