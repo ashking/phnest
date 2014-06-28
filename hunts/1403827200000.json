@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "11",
+            "link": "/l/79ba6da07c",
+            "name": "Jelly Note",
+            "tagline": "Learn how to play music online.",
+            "ph_url": "posts/jelly-note",
+            "comments": "3"
+        },
+        "user": {
+            "id": "alexiskold",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/alexiskold.jpg",
+            "twitter": "alexiskold",
+            "name": "Alex Iskold",
+            "tagline": "Managing Director, Techstars NYC"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "34",
             "link": "/l/4123ec50d4",
             "name": "Mango",
@@ -216,24 +234,6 @@
         }
     },
     {
-        "id": 13,
-        "post": {
-            "votes": "10",
-            "link": "/l/79ba6da07c",
-            "name": "Jelly Note",
-            "tagline": "Learn how to play music online.",
-            "ph_url": "posts/jelly-note",
-            "comments": "3"
-        },
-        "user": {
-            "id": "alexiskold",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/alexiskold.jpg",
-            "twitter": "alexiskold",
-            "name": "Alex Iskold",
-            "tagline": "Managing Director, Techstars NYC"
-        }
-    },
-    {
         "id": 14,
         "post": {
             "votes": "16",
@@ -241,7 +241,7 @@
             "name": "Nature Box",
             "tagline": "Birchbox for Healthy Snacks ",
             "ph_url": "posts/nature-box",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "EAWharton",
