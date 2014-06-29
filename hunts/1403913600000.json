@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "23",
+            "link": "/l/3a6efb1854",
+            "name": "The Simpsons in CSS",
+            "tagline": "CSS for d&#39;oh!",
+            "ph_url": "posts/the-simpsons-in-css",
+            "comments": "5"
+        },
+        "user": {
+            "id": "ketau",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/ketau.jpg",
+            "twitter": "ketau",
+            "name": "Ryan Hudson",
+            "tagline": "co-founder, Honey"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "20",
             "link": "/l/7ae3abf500",
             "name": "Blank Walls Are Criminal",
@@ -69,24 +87,6 @@
             "twitter": "i_am_grant",
             "name": "Grant MacLennan",
             "tagline": "Creative Technologist "
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "22",
-            "link": "/l/3a6efb1854",
-            "name": "The Simpsons in CSS",
-            "tagline": "CSS for d&#39;oh!",
-            "ph_url": "posts/the-simpsons-in-css",
-            "comments": "5"
-        },
-        "user": {
-            "id": "ketau",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/ketau.jpg",
-            "twitter": "ketau",
-            "name": "Ryan Hudson",
-            "tagline": "co-founder, Honey"
         }
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "11",
+            "votes": "12",
             "link": "/l/0aade841d9",
             "name": "Visual Website Optimizer",
             "tagline": "A/B Testing tool (a brand new version)",
