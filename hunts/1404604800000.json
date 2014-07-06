@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "40",
+            "votes": "41",
             "link": "/l/e3bef90980",
             "name": "Explee",
             "tagline": "Create Animated Videos",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "/l/9cd96882a9",
             "name": "Polymo",
             "tagline": "A better place for photos. ",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "15",
+            "votes": "16",
             "link": "/l/a99e7a36c7",
             "name": "Escriba",
             "tagline": "Online text editor",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "7",
+            "link": "/l/62e824754d",
+            "name": "Epoch",
+            "tagline": "A general purpose library for building real-time charts. ",
+            "ph_url": "posts/epoch",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/bkrall.jpg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Sideproject.io"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "6",
             "link": "/l/963b5651d1",
             "name": "Kaffee Bitte",
@@ -87,24 +105,6 @@
             "twitter": "kylebragger",
             "name": "Kyle Bragger",
             "tagline": "made Exposure, Forrst, Tinyproj"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "6",
-            "link": "/l/62e824754d",
-            "name": "Epoch",
-            "tagline": "A general purpose library for building real-time charts. ",
-            "ph_url": "posts/epoch",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/bkrall.jpg",
-            "twitter": "bkrall",
-            "name": "Brian Krall",
-            "tagline": "Sideproject.io"
         }
     },
     {
@@ -128,24 +128,6 @@
     {
         "id": 8,
         "post": {
-            "votes": "1",
-            "link": "/l/e4ddfbf038",
-            "name": "Yo Plays Flappy Bird",
-            "tagline": "&lt;-",
-            "ph_url": "posts/yo-plays-flappy-bird",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "rjvir",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/rjvir.jpg",
-            "twitter": "rjvir",
-            "name": "Raj Vir",
-            "tagline": "Hacker, student @umich"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
             "votes": "4",
             "link": "/l/08615a2ea5",
             "name": "MTN",
@@ -162,7 +144,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "post": {
             "votes": "2",
             "link": "/l/fc355dc9dd",
@@ -177,6 +159,24 @@
             "twitter": "UXAndrew",
             "name": "Andrew Zusman",
             "tagline": "UX Designer"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "3",
+            "link": "/l/e4ddfbf038",
+            "name": "Yo Plays Flappy Bird",
+            "tagline": "Yo meets Flappy Bird",
+            "ph_url": "posts/yo-plays-flappy-bird",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "rjvir",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/c_fill,h_60,r_max,w_60/rjvir.jpg",
+            "twitter": "rjvir",
+            "name": "Raj Vir",
+            "tagline": "Hacker, student @umich"
         }
     }
 ]
