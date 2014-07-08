@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "103",
+            "votes": "104",
             "link": "/l/7a76811e79",
             "name": "Sprayable Energy",
             "tagline": "Welcome to The End of Tired",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "33",
+            "link": "/l/7a8f35fdc1",
+            "name": "Bugsnag",
+            "tagline": "Automated crash monitoring for web and mobile apps",
+            "ph_url": "posts/bugsnag",
+            "comments": "5"
+        },
+        "user": {
+            "id": "loopj",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/loopj.jpg",
+            "twitter": "loopj",
+            "name": "James Smith",
+            "tagline": "CEO, Bugsnag"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "45",
             "link": "/l/c6e13edb28",
             "name": "Google Trends Visualizer",
@@ -123,24 +141,6 @@
             "twitter": "ryandawidjan",
             "name": "Ryan",
             "tagline": ""
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "32",
-            "link": "/l/7a8f35fdc1",
-            "name": "Bugsnag",
-            "tagline": "Automated crash monitoring for web and mobile apps",
-            "ph_url": "posts/bugsnag",
-            "comments": "5"
-        },
-        "user": {
-            "id": "loopj",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/loopj.jpg",
-            "twitter": "loopj",
-            "name": "James Smith",
-            "tagline": "CEO, Bugsnag"
         }
     },
     {
@@ -218,24 +218,6 @@
     {
         "id": 13,
         "post": {
-            "votes": "23",
-            "link": "/l/d0d43e5277",
-            "name": "Quibly",
-            "tagline": "Apps to help parents raise their kids",
-            "ph_url": "posts/quibly",
-            "comments": "6"
-        },
-        "user": {
-            "id": "eriktorenberg",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/eriktorenberg.jpg",
-            "twitter": "eriktorenberg",
-            "name": "Erik Torenberg",
-            "tagline": "rapt.fm, Product Hunt"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
             "votes": "25",
             "link": "/l/1a1cdb6bd3",
             "name": "Priori Data",
@@ -249,6 +231,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "Co-Founder,WalletKit"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
+            "votes": "23",
+            "link": "/l/d0d43e5277",
+            "name": "Quibly",
+            "tagline": "Apps to help parents raise their kids",
+            "ph_url": "posts/quibly",
+            "comments": "6"
+        },
+        "user": {
+            "id": "eriktorenberg",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/eriktorenberg.jpg",
+            "twitter": "eriktorenberg",
+            "name": "Erik Torenberg",
+            "tagline": "rapt.fm, Product Hunt"
         }
     },
     {
@@ -313,7 +313,7 @@
             "name": "Shares 2",
             "tagline": "A beautiful, minimal app for tracking stocks",
             "ph_url": "posts/shares-2",
-            "comments": "12"
+            "comments": "13"
         },
         "user": {
             "id": "_jacksmith",
@@ -529,7 +529,7 @@
             "name": "The Long Tail ",
             "tagline": "Play the least popular tracks of artists on Spotify ",
             "ph_url": "posts/the-long-tail",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "nickgrosvenor",
