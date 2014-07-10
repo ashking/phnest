@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "119",
+            "link": "/l/2e9373409b",
+            "name": "Share Some Style",
+            "tagline": "Get your own personal stylist.",
+            "ph_url": "posts/share-some-style",
+            "comments": "12"
+        },
+        "user": {
+            "id": "thorpus",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/thorpus.jpg",
+            "twitter": "thorpus",
+            "name": "Justin Thorp",
+            "tagline": "VP of Marketing, Tech Cocktail"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "125",
             "link": "/l/10f1fdd03c",
             "name": "Email Insights",
@@ -51,24 +69,6 @@
             "twitter": "rodrigofuentes7",
             "name": "Rodrigo Fuentes",
             "tagline": "Cofounder, FeatureKicker"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "118",
-            "link": "/l/2e9373409b",
-            "name": "Share Some Style",
-            "tagline": "Get your own personal stylist.",
-            "ph_url": "posts/share-some-style",
-            "comments": "12"
-        },
-        "user": {
-            "id": "thorpus",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/thorpus.jpg",
-            "twitter": "thorpus",
-            "name": "Justin Thorp",
-            "tagline": "VP of Marketing, Tech Cocktail"
         }
     },
     {
@@ -133,7 +133,7 @@
             "name": "Ultratext",
             "tagline": "Type-to-create interface for GIF creation in seconds",
             "ph_url": "posts/ultratext",
-            "comments": "20"
+            "comments": "21"
         },
         "user": {
             "id": "courtstarr",
