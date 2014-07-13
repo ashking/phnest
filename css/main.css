@@ -183,7 +183,10 @@ ul.posts span {
     font-size: 16px;
 }
 .namecard .static .user-image{
-    margin-top: 10px;
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+    border: 3px solid #fff;
 }
 
 .namecard a:link {color: #2E2E2E;text-decoration:none;}      /* unvisited link */
