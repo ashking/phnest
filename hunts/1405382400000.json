@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "48",
+            "link": "/l/0d26367fee",
+            "name": "Realm",
+            "tagline": "Realm, Mobile-first database. Build fast apps, faster.",
+            "ph_url": "posts/realm",
+            "comments": "15"
+        },
+        "user": {
+            "id": "grmeyer",
+            "image": "https://pbs.twimg.com/profile_images/459069023850745857/YgXGeO5m.jpeg",
+            "twitter": "grmeyer",
+            "name": "Greg Meyer",
+            "tagline": "Customer Whisperer"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "56",
             "link": "/l/30693b8654",
             "name": "Schnapps",
@@ -69,24 +87,6 @@
             "twitter": "Jonnotie",
             "name": "Jonno Riekwel",
             "tagline": "Product designer, Jonnotie"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "47",
-            "link": "/l/0d26367fee",
-            "name": "Realm",
-            "tagline": "Realm, Mobile-first database. Build fast apps, faster.",
-            "ph_url": "posts/realm",
-            "comments": "15"
-        },
-        "user": {
-            "id": "grmeyer",
-            "image": "https://pbs.twimg.com/profile_images/459069023850745857/YgXGeO5m.jpeg",
-            "twitter": "grmeyer",
-            "name": "Greg Meyer",
-            "tagline": "Customer Whisperer"
         }
     },
     {
@@ -241,7 +241,7 @@
             "name": "BetterDoctor",
             "tagline": "Search 1,000,000 doctors by specialty, location or insurance",
             "ph_url": "posts/betterdoctor",
-            "comments": "8"
+            "comments": "10"
         },
         "user": {
             "id": "kwdinc",
