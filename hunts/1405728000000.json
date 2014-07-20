@@ -25,7 +25,7 @@
             "name": "Swapt",
             "tagline": "Yelp for Apartments",
             "ph_url": "posts/swapt",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "blakeir",
@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "7",
+            "link": "/l/d55483b6c1",
+            "name": "Best About Pages",
+            "tagline": "Showcasing the best about page examples on the web.",
+            "ph_url": "posts/best-about-pages",
+            "comments": "3"
+        },
+        "user": {
+            "id": "waqasaday",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/waqasaday.jpg",
+            "twitter": "waqasaday",
+            "name": "Waqas Ali",
+            "tagline": "Founder of Markhor, Writer, Thinker"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "17",
             "link": "/l/bed89d1dd1",
             "name": "Tracksmith",
@@ -69,24 +87,6 @@
             "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "6",
-            "link": "/l/d55483b6c1",
-            "name": "Best About Pages",
-            "tagline": "Showcasing the best about page examples on the web.",
-            "ph_url": "posts/best-about-pages",
-            "comments": "3"
-        },
-        "user": {
-            "id": "waqasaday",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/waqasaday.jpg",
-            "twitter": "waqasaday",
-            "name": "Waqas Ali",
-            "tagline": "Founder of Markhor, Writer, Thinker"
         }
     },
     {
@@ -164,24 +164,6 @@
     {
         "id": 10,
         "post": {
-            "votes": "4",
-            "link": "/l/903f885dce",
-            "name": "JSwipe",
-            "tagline": "Tinder for Jewish People",
-            "ph_url": "posts/jswipe",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "_jamesmundy",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/_jamesmundy.jpg",
-            "twitter": "_jamesmundy",
-            "name": "James Mundy",
-            "tagline": "Founder, Foundbite"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
             "votes": "5",
             "link": "/l/34b9db78f6",
             "name": "Higgle",
@@ -195,6 +177,24 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "Co-Founder,WalletKit"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "4",
+            "link": "/l/903f885dce",
+            "name": "JSwipe",
+            "tagline": "Tinder for Jewish People",
+            "ph_url": "posts/jswipe",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "_jamesmundy",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_150,h_150/_jamesmundy.jpg",
+            "twitter": "_jamesmundy",
+            "name": "James Mundy",
+            "tagline": "Founder, Foundbite"
         }
     },
     {
