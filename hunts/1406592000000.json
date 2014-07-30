@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "63",
+            "link": "/l/a16a15f686",
+            "name": "Wedgies",
+            "tagline": "Realtime polling over social media",
+            "ph_url": "posts/wedgies",
+            "comments": "18"
+        },
+        "user": {
+            "id": "thorpus",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/thorpus.jpg",
+            "twitter": "thorpus",
+            "name": "Justin Thorp",
+            "tagline": "VP of Marketing, Tech Cocktail"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "84",
             "link": "/l/9acb4863a3",
             "name": "HotJar Insights",
@@ -87,24 +105,6 @@
             "twitter": "daviddarmanin",
             "name": "Dr David Darmanin",
             "tagline": "CEO &amp; Founder, Hotjar"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "62",
-            "link": "/l/a16a15f686",
-            "name": "Wedgies",
-            "tagline": "Realtime polling over social media",
-            "ph_url": "posts/wedgies",
-            "comments": "18"
-        },
-        "user": {
-            "id": "thorpus",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/thorpus.jpg",
-            "twitter": "thorpus",
-            "name": "Justin Thorp",
-            "tagline": "VP of Marketing, Tech Cocktail"
         }
     },
     {
@@ -272,24 +272,6 @@
     {
         "id": 16,
         "post": {
-            "votes": "33",
-            "link": "/l/f8d84ddc16",
-            "name": "ExpeditedSSL",
-            "tagline": "Fastest + Easiest Heroku SSL",
-            "ph_url": "posts/expeditedssl",
-            "comments": "12"
-        },
-        "user": {
-            "id": "charlieirish",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/charlieirish.jpg",
-            "twitter": "charlieirish",
-            "name": "Charlie Irish",
-            "tagline": ""
-        }
-    },
-    {
-        "id": 17,
-        "post": {
             "votes": "37",
             "link": "/l/5ddc020432",
             "name": "Blab 2.0",
@@ -303,6 +285,24 @@
             "twitter": "ShaanVP",
             "name": "Shaan Puri",
             "tagline": "ceo, Monkey Inferno"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
+            "votes": "33",
+            "link": "/l/f8d84ddc16",
+            "name": "ExpeditedSSL",
+            "tagline": "Fastest + Easiest Heroku SSL",
+            "ph_url": "posts/expeditedssl",
+            "comments": "12"
+        },
+        "user": {
+            "id": "charlieirish",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/charlieirish.jpg",
+            "twitter": "charlieirish",
+            "name": "Charlie Irish",
+            "tagline": ""
         }
     },
     {
@@ -385,7 +385,7 @@
             "name": "Eaze",
             "tagline": "Uber for Medical Marijuana",
             "ph_url": "posts/eaze",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "_shahedk",
