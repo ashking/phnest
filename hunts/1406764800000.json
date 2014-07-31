@@ -92,12 +92,30 @@
     {
         "id": 6,
         "post": {
+            "votes": "4",
+            "link": "/l/1f37c57784",
+            "name": "Ph",
+            "tagline": "An open source mobile web app for Product Hunt",
+            "ph_url": "posts/ph",
+            "comments": "4"
+        },
+        "user": {
+            "id": "bram_gg",
+            "image": "https://pbs.twimg.com/profile_images/494801160570544128/z2N0rja6_normal.png",
+            "twitter": "bram_gg",
+            "name": "Bram",
+            "tagline": "Hacker, ph.bram.gg"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "5",
             "link": "/l/0db9e8cbd9",
             "name": "MUJI to Sleep",
             "tagline": "An App to Support Your Sleep Whenever and Wherever You Are",
             "ph_url": "posts/muji-to-sleep",
-            "comments": "1 comment"
+            "comments": "2"
         },
         "user": {
             "id": "duanewilsonsf",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "5",
             "link": "/l/d5c904184b",
@@ -126,7 +144,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
             "votes": "4",
             "link": "/l/921c608e01",
@@ -141,24 +159,6 @@
             "twitter": "SchmidtA1988",
             "name": "Andreas Schmidt",
             "tagline": "Founder Yasoon.com"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "2",
-            "link": "/l/1f37c57784",
-            "name": "Ph",
-            "tagline": "An open source mobile web app for Product Hunt",
-            "ph_url": "posts/ph",
-            "comments": "4"
-        },
-        "user": {
-            "id": "bram_gg",
-            "image": "https://pbs.twimg.com/profile_images/494801160570544128/z2N0rja6_normal.png",
-            "twitter": "bram_gg",
-            "name": "Bram",
-            "tagline": "Hacker, ph.bram.gg"
         }
     }
 ]
