@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "36",
+            "votes": "37",
             "link": "/l/a338ebd9cd",
             "name": "Shazam (Mac)",
             "tagline": "Teach your mac a few new tricks",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "43",
+            "votes": "44",
             "link": "/l/9bd85dc2ae",
             "name": "Captain Train",
             "tagline": "The first travel app on your wrist (Android Wear)",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "/l/4b1aaebf0d",
             "name": "Swipe",
             "tagline": "Get the latest news directly to your lock screen",
@@ -164,6 +164,24 @@
     {
         "id": 10,
         "post": {
+            "votes": "6",
+            "link": "/l/5500bdc829",
+            "name": "Timeful",
+            "tagline": "Smart calendar and to-do list",
+            "ph_url": "posts/timeful-2",
+            "comments": "2"
+        },
+        "user": {
+            "id": "benln",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/benln.jpg",
+            "twitter": "benln",
+            "name": "Ben Lang",
+            "tagline": "Founder, Mapped In Israel"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "5",
             "link": "/l/c83bd2645c",
             "name": "Refresh (web app)",
@@ -180,7 +198,25 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
+        "post": {
+            "votes": "5",
+            "link": "/l/a5513695de",
+            "name": "Reedsy",
+            "tagline": "The all-in-one self publishing solution (pre-launch)",
+            "ph_url": "posts/reedsy",
+            "comments": "1 comment"
+        },
+        "user": {
+            "id": "byosko",
+            "image": "https://pbs.twimg.com/profile_images/1266153693/ben-yoskovitz-DEFAULT_reasonably_small_normal.jpg",
+            "twitter": "byosko",
+            "name": "Ben Yoskovitz",
+            "tagline": "GoInstant/Salesforce, VP Product"
+        }
+    },
+    {
+        "id": 13,
         "post": {
             "votes": "5",
             "link": "/l/93f6899aef",
@@ -198,32 +234,14 @@
         }
     },
     {
-        "id": 12,
-        "post": {
-            "votes": "4",
-            "link": "/l/5500bdc829",
-            "name": "Timeful",
-            "tagline": "Smart calendar and to-do list",
-            "ph_url": "posts/timeful-2",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "benln",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/benln.jpg",
-            "twitter": "benln",
-            "name": "Ben Lang",
-            "tagline": "Founder, Mapped In Israel"
-        }
-    },
-    {
-        "id": 13,
+        "id": 14,
         "post": {
             "votes": "8",
             "link": "/l/0db9e8cbd9",
             "name": "MUJI to Sleep",
             "tagline": "An App to Support Your Sleep Whenever and Wherever You Are",
             "ph_url": "posts/muji-to-sleep",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "duanewilsonsf",
@@ -231,24 +249,6 @@
             "twitter": "duanewilsonsf",
             "name": "Duane Wilson",
             "tagline": "Product Guy, Founder, Hacker"
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "4",
-            "link": "/l/a5513695de",
-            "name": "Reedsy",
-            "tagline": "The all-in-one self publishing solution (pre-launch)",
-            "ph_url": "posts/reedsy",
-            "comments": "1 comment"
-        },
-        "user": {
-            "id": "byosko",
-            "image": "https://pbs.twimg.com/profile_images/1266153693/ben-yoskovitz-DEFAULT_reasonably_small_normal.jpg",
-            "twitter": "byosko",
-            "name": "Ben Yoskovitz",
-            "tagline": "GoInstant/Salesforce, VP Product"
         }
     },
     {
@@ -274,9 +274,9 @@
         "post": {
             "votes": "2",
             "link": "/l/dabf10d736",
-            "name": "TouchPico (Pre-Launch)",
-            "tagline": "Turn any surface into a touch screen. ",
-            "ph_url": "posts/touchpico-pre-launch",
+            "name": "TouchPico",
+            "tagline": "Turn any surface into a touch screen (pre-launch)",
+            "ph_url": "posts/touchpico",
             "comments": "View details"
         },
         "user": {
