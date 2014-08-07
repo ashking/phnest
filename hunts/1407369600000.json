@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "6",
+            "link": "/l/ae57e7821a",
+            "name": "Pinterest Messaging",
+            "tagline": "Share your best discoveries",
+            "ph_url": "posts/pinterest-messaging",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "Siwicadilly",
+            "image": "https://pbs.twimg.com/profile_images/445318849869520896/chbE21uz_normal.jpeg",
+            "twitter": "Siwicadilly",
+            "name": "John Siwicki",
+            "tagline": "front end developer"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "9",
             "link": "/l/7809f27393",
             "name": "SupportKit.io",
@@ -36,7 +54,43 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
+        "post": {
+            "votes": "5",
+            "link": "/l/3a05d4494f",
+            "name": "Twitcasting",
+            "tagline": "No more Justin.tv? Say hi to live streaming on your phone!",
+            "ph_url": "posts/twitcasting",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "taylorhou",
+            "image": "https://pbs.twimg.com/profile_images/3392538947/3ce76a7ca59d709ab3187e0ba506f70d_normal.jpeg",
+            "twitter": "taylorhou",
+            "name": "Taylor Hou",
+            "tagline": "Product - RemarkHQ.com"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
+            "votes": "9",
+            "link": "/l/566faa4b4c",
+            "name": "Wingme",
+            "tagline": "Find better matches with the help of your friends",
+            "ph_url": "posts/wingme",
+            "comments": "4"
+        },
+        "user": {
+            "id": "bramk",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/bramk.jpg",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Startup Strategy &amp; Product Development"
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "16",
             "link": "/l/efe981dfb7",
@@ -54,7 +108,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 7,
         "post": {
             "votes": "7",
             "link": "/l/636ea0f392",
@@ -72,60 +126,6 @@
         }
     },
     {
-        "id": 5,
-        "post": {
-            "votes": "4",
-            "link": "/l/3a05d4494f",
-            "name": "Twitcasting",
-            "tagline": "No more Justin.tv? Say hi to live streaming on your phone!",
-            "ph_url": "posts/twitcasting",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "taylorhou",
-            "image": "https://pbs.twimg.com/profile_images/3392538947/3ce76a7ca59d709ab3187e0ba506f70d_normal.jpeg",
-            "twitter": "taylorhou",
-            "name": "Taylor Hou",
-            "tagline": "Product - RemarkHQ.com"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "4",
-            "link": "/l/ae57e7821a",
-            "name": "Pinterest Messaging",
-            "tagline": "Share your best discoveries",
-            "ph_url": "posts/pinterest-messaging",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "Siwicadilly",
-            "image": "https://pbs.twimg.com/profile_images/445318849869520896/chbE21uz_normal.jpeg",
-            "twitter": "Siwicadilly",
-            "name": "John Siwicki",
-            "tagline": "front end developer"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "8",
-            "link": "/l/566faa4b4c",
-            "name": "Wingme",
-            "tagline": "Find better matches with the help of your friends",
-            "ph_url": "posts/wingme",
-            "comments": "4"
-        },
-        "user": {
-            "id": "bramk",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/bramk.jpg",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Startup Strategy &amp; Product Development"
-        }
-    },
-    {
         "id": 8,
         "post": {
             "votes": "4",
@@ -133,7 +133,7 @@
             "name": "SimplyBuilt",
             "tagline": "Weebly for Businesses",
             "ph_url": "posts/simplybuilt",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "BlendahTom",
