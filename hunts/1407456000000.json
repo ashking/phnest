@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "43",
+            "votes": "44",
             "link": "/l/0662cd3118",
             "name": "Filter News",
             "tagline": "Filter Product Hunt, Hacker News and Designer News",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "22",
+            "link": "/l/b1e0df959b",
+            "name": "Godus",
+            "tagline": "Play God",
+            "ph_url": "posts/godus",
+            "comments": "8"
+        },
+        "user": {
+            "id": "jtriest",
+            "image": "https://pbs.twimg.com/profile_images/2729528915/067ec28d98284bf952bc75798c4cc7c5_normal.png",
+            "twitter": "jtriest",
+            "name": "Jonathon Triest",
+            "tagline": "Ludlow Ventures"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "19",
             "link": "/l/d41bebc66b",
             "name": "SERPWoo.com",
@@ -51,24 +69,6 @@
             "twitter": "leanvertising",
             "name": "Jason Brown",
             "tagline": "Founder, SERPWoo.com"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "20",
-            "link": "/l/b1e0df959b",
-            "name": "Godus",
-            "tagline": "Play God",
-            "ph_url": "posts/godus",
-            "comments": "8"
-        },
-        "user": {
-            "id": "jtriest",
-            "image": "https://pbs.twimg.com/profile_images/2729528915/067ec28d98284bf952bc75798c4cc7c5_normal.png",
-            "twitter": "jtriest",
-            "name": "Jonathon Triest",
-            "tagline": "Ludlow Ventures"
         }
     },
     {
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "15",
+            "link": "/l/1220689370",
+            "name": "RushWallet",
+            "tagline": "The Fastest and Easiest (HTML5) Bitcoin Wallet Ever.",
+            "ph_url": "posts/rushwallet",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "wmougayar",
+            "image": "https://pbs.twimg.com/profile_images/378800000130962998/380712b1f996b11166d270d36ba15c3a_normal.jpeg",
+            "twitter": "wmougayar",
+            "name": "William Mougayar",
+            "tagline": "Founder, Startup Management"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "20",
             "link": "/l/d167a4f4f5",
             "name": "WhoHasAccess",
@@ -105,24 +123,6 @@
             "twitter": "boehr",
             "name": "Martin Böhringer",
             "tagline": "CEO"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "14",
-            "link": "/l/1220689370",
-            "name": "RushWallet",
-            "tagline": "The Fastest and Easiest (HTML5) Bitcoin Wallet Ever.",
-            "ph_url": "posts/rushwallet",
-            "comments": "View details"
-        },
-        "user": {
-            "id": "wmougayar",
-            "image": "https://pbs.twimg.com/profile_images/378800000130962998/380712b1f996b11166d270d36ba15c3a_normal.jpeg",
-            "twitter": "wmougayar",
-            "name": "William Mougayar",
-            "tagline": "Founder, Startup Management"
         }
     },
     {
@@ -151,7 +151,7 @@
             "name": "Belong.io",
             "tagline": "Twitter-powered link aggregator, favors projects &gt; articles",
             "ph_url": "posts/belong-io",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "rrhoover",
