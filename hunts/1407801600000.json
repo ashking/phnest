@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "12",
+            "link": "/l/3c0fa53a04",
+            "name": "Git Quiz",
+            "tagline": "A tiny quiz based on your git repo!",
+            "ph_url": "posts/git-quiz",
+            "comments": "View details"
+        },
+        "user": {
+            "id": "navidsafa",
+            "image": "https://pbs.twimg.com/profile_images/473195082682609664/ErWj6nkU_normal.jpeg",
+            "twitter": "navidsafa",
+            "name": "Navid",
+            "tagline": "Freshout"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "16",
             "link": "/l/28e6270196",
             "name": "Farmigo",
@@ -108,7 +126,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
         "post": {
             "votes": "19",
             "link": "/l/88fc7571ce",
@@ -126,25 +144,25 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "post": {
-            "votes": "11",
-            "link": "/l/3c0fa53a04",
-            "name": "Git Quiz",
-            "tagline": "A tiny quiz based on your git repo!",
-            "ph_url": "posts/git-quiz",
-            "comments": "View details"
+            "votes": "24",
+            "link": "/l/af146f5777",
+            "name": "TVShow Time",
+            "tagline": "Watch and track TV shows online",
+            "ph_url": "posts/tvshow-time",
+            "comments": "4"
         },
         "user": {
-            "id": "navidsafa",
-            "image": "https://pbs.twimg.com/profile_images/473195082682609664/ErWj6nkU_normal.jpeg",
-            "twitter": "navidsafa",
-            "name": "Navid",
-            "tagline": "Freshout"
+            "id": "rdardour",
+            "image": "https://pbs.twimg.com/profile_images/1172315053/48949_550254749_8044190_n_normal.jpg",
+            "twitter": "rdardour",
+            "name": "Romain Dardour",
+            "tagline": "CEO @ hull.io"
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "9",
             "link": "/l/b6829b7c35",
@@ -159,24 +177,6 @@
             "twitter": "nikkielizdemere",
             "name": "Nichole Elizabeth",
             "tagline": "Community at Product Hunt"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "23",
-            "link": "/l/af146f5777",
-            "name": "TVShow Time",
-            "tagline": "Watch and track TV shows online",
-            "ph_url": "posts/tvshow-time",
-            "comments": "4"
-        },
-        "user": {
-            "id": "rdardour",
-            "image": "https://pbs.twimg.com/profile_images/1172315053/48949_550254749_8044190_n_normal.jpg",
-            "twitter": "rdardour",
-            "name": "Romain Dardour",
-            "tagline": "CEO @ hull.io"
         }
     },
     {
@@ -349,7 +349,7 @@
             "name": "Naked Wines",
             "tagline": "Where wine drinkers can fun winemakers",
             "ph_url": "posts/naked-wines",
-            "comments": "View details"
+            "comments": "2"
         },
         "user": {
             "id": "ak310i",
