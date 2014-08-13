@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "32",
+            "link": "/l/956f5a4566",
+            "name": "Vint",
+            "tagline": "Uber of fitness",
+            "ph_url": "posts/vint",
+            "comments": "5"
+        },
+        "user": {
+            "id": "spencerchen",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/spencerchen.jpg",
+            "twitter": "spencerchen",
+            "name": "Spencer Chen",
+            "tagline": "CMO at Vint"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "45",
             "link": "/l/0afcc4caa8",
             "name": "Framebench",
@@ -105,24 +123,6 @@
             "twitter": "kwdinc",
             "name": "Kevin William David",
             "tagline": "Co-Founder,WalletKit"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "31",
-            "link": "/l/956f5a4566",
-            "name": "Vint",
-            "tagline": "Uber of fitness",
-            "ph_url": "posts/vint",
-            "comments": "5"
-        },
-        "user": {
-            "id": "spencerchen",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/spencerchen.jpg",
-            "twitter": "spencerchen",
-            "name": "Spencer Chen",
-            "tagline": "CMO at Vint"
         }
     },
     {
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "/l/ee00ab16b9",
             "name": "Doctory",
             "tagline": "Millions of doctors, effortless appointments. ",
