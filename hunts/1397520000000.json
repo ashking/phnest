@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "28",
+            "link": "/l/5d91cbf1eb",
+            "name": "Postman",
+            "tagline": "Postman is a powerful HTTP client to test REST API",
+            "ph_url": "posts/postman",
+            "comments": "2"
+        },
+        "user": {
+            "id": "geneles",
+            "image": "https://pbs.twimg.com/profile_images/378800000792306156/944344cc1ce4a475ea56987c24da6ea6_normal.jpeg",
+            "twitter": "geneles",
+            "name": "Michael Geneles",
+            "tagline": "Co-founder // Pitchbox"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "27",
             "link": "/l/063eb1db54",
             "name": "Flock",
@@ -87,24 +105,6 @@
             "twitter": "\n          The maker of this product joined the comments\n        ",
             "name": "Jack Altman",
             "tagline": "Head of BD, Teespring"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "27",
-            "link": "/l/5d91cbf1eb",
-            "name": "Postman",
-            "tagline": "Postman is a powerful HTTP client to test REST API",
-            "ph_url": "posts/postman",
-            "comments": "2"
-        },
-        "user": {
-            "id": "geneles",
-            "image": "https://pbs.twimg.com/profile_images/378800000792306156/944344cc1ce4a475ea56987c24da6ea6_normal.jpeg",
-            "twitter": "geneles",
-            "name": "Michael Geneles",
-            "tagline": "Co-founder // Pitchbox"
         }
     },
     {
@@ -227,7 +227,7 @@
         },
         "user": {
             "id": "_jacksmith",
-            "image": "https://pbs.twimg.com/profile_images/458840883610136576/9Wbvj6UF_normal.jpeg",
+            "image": "http://pbs.twimg.com/profile_images/458840883610136576/9Wbvj6UF_normal.jpeg",
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded Vungle - Advisor to Coin"
