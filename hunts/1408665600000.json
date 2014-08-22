@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "80",
+            "link": "/l/77ccc2ada7",
+            "name": "Party with a Local",
+            "tagline": "Connecting travelers &amp; locals who want to party.",
+            "ph_url": "posts/party-with-a-local",
+            "comments": "5"
+        },
+        "user": {
+            "id": "bramk",
+            "image": "http://pbs.twimg.com/profile_images/500730196954071040/p22QG84k_normal.png",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Startup Strategy &amp; Product Development"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "46",
             "link": "/l/e3387c1f0f",
             "name": "Google Cultural Institute",
@@ -15,24 +33,6 @@
             "twitter": "ediggs",
             "name": "Eze Vidra",
             "tagline": "Partner, Google Ventures Europe"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "78",
-            "link": "/l/77ccc2ada7",
-            "name": "Party with a Local",
-            "tagline": "Connecting travelers &amp; locals who want to party.",
-            "ph_url": "posts/party-with-a-local",
-            "comments": "5"
-        },
-        "user": {
-            "id": "bramk",
-            "image": "http://pbs.twimg.com/profile_images/500730196954071040/p22QG84k_normal.png",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Startup Strategy &amp; Product Development"
         }
     },
     {
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "14",
+            "votes": "15",
             "link": "/l/c3ad9b6fd9",
             "name": "ZipLocate",
             "tagline": "An API for geolocating zip codes",
