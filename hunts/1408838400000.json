@@ -56,6 +56,24 @@
     {
         "id": 4,
         "post": {
+            "votes": "29",
+            "link": "/l/051b8b3b3f",
+            "name": "Mapbuildr",
+            "tagline": "Create Google Maps without the need to search API docs.",
+            "ph_url": "posts/mapbuildr",
+            "comments": "0"
+        },
+        "user": {
+            "id": "lukesbeard",
+            "image": "http://pbs.twimg.com/profile_images/454063334283685888/tCh7SLgP_normal.jpeg",
+            "twitter": "lukesbeard",
+            "name": "Luke Beard",
+            "tagline": "Creative Director/Co-Founder at Exposure"
+        }
+    },
+    {
+        "id": 5,
+        "post": {
             "votes": "32",
             "link": "/l/f2f688cd22",
             "name": "Balance",
@@ -69,24 +87,6 @@
             "twitter": "erictwillis",
             "name": "Eric",
             "tagline": "Founder, Near Inc. "
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "27",
-            "link": "/l/051b8b3b3f",
-            "name": "Mapbuildr",
-            "tagline": "Create Google Maps without the need to search API docs.",
-            "ph_url": "posts/mapbuildr",
-            "comments": "0"
-        },
-        "user": {
-            "id": "lukesbeard",
-            "image": "http://pbs.twimg.com/profile_images/454063334283685888/tCh7SLgP_normal.jpeg",
-            "twitter": "lukesbeard",
-            "name": "Luke Beard",
-            "tagline": "Creative Director/Co-Founder at Exposure"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "21",
+            "votes": "22",
             "link": "/l/9db1ba68bb",
             "name": "Sweep.js",
             "tagline": "A JavaScript library for smoother color transitions",
