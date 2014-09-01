@@ -30,7 +30,7 @@
         "user": {
             "id": "michaelsacca",
             "image": "https://pbs.twimg.com/profile_images/378800000325923380/a24355b591455d7e8afcac31b9219d51_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "michaelsacca",
             "name": "michaelsacca",
             "tagline": "Founder, Tiny Factory"
         }
@@ -47,8 +47,8 @@
         },
         "user": {
             "id": "thetylerhayes",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/thetylerhayes.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "image": "https://pbs.twimg.com/profile_images/472437300664598528/k_3Wks6e_normal.jpeg",
+            "twitter": "thetylerhayes",
             "name": "Tyler Hayes",
             "tagline": "CEO, Prime"
         }
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "26",
+            "link": "/l/4a1537f462",
+            "name": "Haiku Deck",
+            "tagline": "Presentation software that inspires",
+            "ph_url": "posts/haiku-deck",
+            "comments": "3"
+        },
+        "user": {
+            "id": "adamsigel",
+            "image": "http://pbs.twimg.com/profile_images/471683686136426496/OSnf6tUZ_normal.jpeg",
+            "twitter": "adamsigel",
+            "name": "Adam Sigel",
+            "tagline": "Product Manager, Aereo"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "25",
             "link": "/l/df34280fac",
             "name": "Poolside Radio",
@@ -105,24 +123,6 @@
             "twitter": "mbavio",
             "name": "Martin Bavio",
             "tagline": "User Interface Person"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "25",
-            "link": "/l/4a1537f462",
-            "name": "Haiku Deck",
-            "tagline": "Presentation software that inspires",
-            "ph_url": "posts/haiku-deck",
-            "comments": "3"
-        },
-        "user": {
-            "id": "adamsigel",
-            "image": "http://pbs.twimg.com/profile_images/471683686136426496/OSnf6tUZ_normal.jpeg",
-            "twitter": "adamsigel",
-            "name": "Adam Sigel",
-            "tagline": "Product Manager, Aereo"
         }
     },
     {
@@ -165,24 +165,6 @@
         "id": 10,
         "post": {
             "votes": "14",
-            "link": "/l/95d94e6c2d",
-            "name": "SXSW by WillCall",
-            "tagline": "Register for every SXSW party, courtesy of WillCall",
-            "ph_url": "posts/sxsw-by-willcall",
-            "comments": "5"
-        },
-        "user": {
-            "id": "zackshapiro",
-            "image": "http://pbs.twimg.com/profile_images/378800000418101090/fc7162b0f1aa511f1f5c9261757cd8ae_normal.png",
-            "twitter": "zackshapiro",
-            "name": "Zack Shapiro",
-            "tagline": "Hacking on Product Hunt &amp; Something New"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "13",
             "link": "/l/68a351b33e",
             "name": "Opprtunity",
             "tagline": "Discover sales leads, job opportunities, candidates and more",
@@ -195,6 +177,24 @@
             "twitter": "rahulvarshneya",
             "name": "Rahul Varshneya",
             "tagline": "Co-founder, Foster.fm"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "14",
+            "link": "/l/95d94e6c2d",
+            "name": "SXSW by WillCall",
+            "tagline": "Register for every SXSW party, courtesy of WillCall",
+            "ph_url": "posts/sxsw-by-willcall",
+            "comments": "5"
+        },
+        "user": {
+            "id": "zackshapiro",
+            "image": "http://pbs.twimg.com/profile_images/378800000418101090/fc7162b0f1aa511f1f5c9261757cd8ae_normal.png",
+            "twitter": "zackshapiro",
+            "name": "Zack Shapiro",
+            "tagline": "Hacking on Product Hunt &amp; Something New"
         }
     },
     {
@@ -300,7 +300,7 @@
         "user": {
             "id": "italianst4",
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/italianst4.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "italianst4",
             "name": "Anthony Montalbano",
             "tagline": "*, AMBR Detroit"
         }

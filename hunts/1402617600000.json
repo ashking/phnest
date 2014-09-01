@@ -12,7 +12,7 @@
         "user": {
             "id": "karangoel",
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/karangoel.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "karangoel",
             "name": "Karan Goel",
             "tagline": "Developer, Student"
         }
@@ -30,7 +30,7 @@
         "user": {
             "id": "syswarren",
             "image": "http://pbs.twimg.com/profile_images/465835171501985793/OUU0041o_normal.png",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "syswarren",
             "name": "Julie Chabin",
             "tagline": "UI/UX - co-founder kimd.cc"
         }
@@ -48,7 +48,7 @@
         "user": {
             "id": "riaface",
             "image": "http://pbs.twimg.com/profile_images/474509832494800898/fXzJdjIs_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "riaface",
             "name": "Ria Blagburn",
             "tagline": "Co-founder, emble"
         }
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "47",
+            "votes": "48",
             "link": "/l/525ce5f72a",
             "name": "namegrep",
             "tagline": "Domain name search with regular expressions and curated sets",
@@ -102,7 +102,7 @@
         "user": {
             "id": "alwaysunday",
             "image": "http://pbs.twimg.com/profile_images/453965940514762752/OwBFEtc4_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "alwaysunday",
             "name": "Andy Keil",
             "tagline": "Product at Visage.co"
         }
@@ -120,13 +120,31 @@
         "user": {
             "id": "nbashaw",
             "image": "http://pbs.twimg.com/profile_images/491659145209081856/f2KgYlQz_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "nbashaw",
             "name": "Nathan Bashaw",
             "tagline": "PM, General Assembly"
         }
     },
     {
         "id": 8,
+        "post": {
+            "votes": "24",
+            "link": "/l/e726d2021c",
+            "name": "Tile",
+            "tagline": "Track your lost items",
+            "ph_url": "posts/tile",
+            "comments": "5"
+        },
+        "user": {
+            "id": "nayafia",
+            "image": "https://pbs.twimg.com/profile_images/1648848489/twitter_normal.png",
+            "twitter": "nayafia",
+            "name": "Nadia Eghbal",
+            "tagline": "Collaborative Fund"
+        }
+    },
+    {
+        "id": 9,
         "post": {
             "votes": "23",
             "link": "/l/f5c08c4ad3",
@@ -144,7 +162,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 10,
         "post": {
             "votes": "23",
             "link": "/l/8ba02529ba",
@@ -159,24 +177,6 @@
             "twitter": "_jamesmundy",
             "name": "James Mundy",
             "tagline": "Founder, Foundbite"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "22",
-            "link": "/l/e726d2021c",
-            "name": "Tile",
-            "tagline": "Track your lost items",
-            "ph_url": "posts/tile",
-            "comments": "5"
-        },
-        "user": {
-            "id": "nayafia",
-            "image": "https://pbs.twimg.com/profile_images/1648848489/twitter_normal.png",
-            "twitter": "nayafia",
-            "name": "Nadia Eghbal",
-            "tagline": "Collaborative Fund"
         }
     },
     {
@@ -209,8 +209,8 @@
         },
         "user": {
             "id": "adulong",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/adulong.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "image": "http://pbs.twimg.com/profile_images/1324557044/IMG_0809_BQ_normal.jpg",
+            "twitter": "adulong",
             "name": "Adrien Dulong",
             "tagline": "CEO"
         }
@@ -228,7 +228,7 @@
         "user": {
             "id": "sal_matteis",
             "image": "http://pbs.twimg.com/profile_images/460502027747880960/e7fZb9BH_normal.png",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "sal_matteis",
             "name": "Sal Matteis",
             "tagline": "Founder, Milkster.com / Seedcamp Alumni"
         }
@@ -272,6 +272,24 @@
     {
         "id": 16,
         "post": {
+            "votes": "9",
+            "link": "/l/2cbe25d516",
+            "name": "SickWeather",
+            "tagline": "Track illness and see what&#39;s going around",
+            "ph_url": "posts/sickweather",
+            "comments": "1"
+        },
+        "user": {
+            "id": "philtoronto",
+            "image": "http://pbs.twimg.com/profile_images/467331611927662592/V3S4-xTN_normal.jpeg",
+            "twitter": "philtoronto",
+            "name": "Phil Toronto",
+            "tagline": "Vayner/RSE"
+        }
+    },
+    {
+        "id": 17,
+        "post": {
             "votes": "8",
             "link": "/l/c6e3da7e4e",
             "name": "CapTable.IO",
@@ -285,24 +303,6 @@
             "twitter": "danerobert",
             "name": "Dana Severson",
             "tagline": "CEO, StartupsAnonymous.com "
-        }
-    },
-    {
-        "id": 17,
-        "post": {
-            "votes": "8",
-            "link": "/l/2cbe25d516",
-            "name": "SickWeather",
-            "tagline": "Track illness and see what&#39;s going around",
-            "ph_url": "posts/sickweather",
-            "comments": "1"
-        },
-        "user": {
-            "id": "philtoronto",
-            "image": "http://pbs.twimg.com/profile_images/467331611927662592/V3S4-xTN_normal.jpeg",
-            "twitter": "philtoronto",
-            "name": "Phil Toronto",
-            "tagline": "Vayner/RSE"
         }
     },
     {
@@ -336,7 +336,7 @@
         "user": {
             "id": "theforthwall",
             "image": "http://pbs.twimg.com/profile_images/477639652019404800/_PPMm2gf_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "theforthwall",
             "name": "Shubham Naik",
             "tagline": "CEO &amp; Founder HubYard"
         }
@@ -380,7 +380,7 @@
     {
         "id": 22,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "/l/5520a14f58",
             "name": "Mentimeter",
             "tagline": "Conduct live polls during conferences and lectures",

@@ -12,7 +12,7 @@
         "user": {
             "id": "blakeir",
             "image": "http://pbs.twimg.com/profile_images/475486618225082369/hUI5VcJb_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "blakeir",
             "name": "Blake Robbins",
             "tagline": "Reverse Logistics Intern, Nest Labs"
         }
@@ -48,7 +48,7 @@
         "user": {
             "id": "daveambrose",
             "image": "http://pbs.twimg.com/profile_images/113005746/avatar128_normal.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
         }
@@ -66,13 +66,31 @@
         "user": {
             "id": "riaface",
             "image": "http://pbs.twimg.com/profile_images/474509832494800898/fXzJdjIs_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "riaface",
             "name": "Ria Blagburn",
             "tagline": "Co-founder, emble"
         }
     },
     {
         "id": 5,
+        "post": {
+            "votes": "70",
+            "link": "/l/e93c3206fd",
+            "name": "Framer Studio",
+            "tagline": "A new interaction design tool",
+            "ph_url": "posts/framer-studio",
+            "comments": "3"
+        },
+        "user": {
+            "id": "robinraszka",
+            "image": "http://pbs.twimg.com/profile_images/484741765467877377/VvZZY-RP_normal.jpeg",
+            "twitter": "robinraszka",
+            "name": "Robin Raszka",
+            "tagline": "Principal, Beyond Labs, Inc."
+        }
+    },
+    {
+        "id": 6,
         "post": {
             "votes": "70",
             "link": "/l/edfa40ab76",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "69",
             "link": "/l/734e824cf1",
@@ -101,28 +119,10 @@
         },
         "user": {
             "id": "EAWharton",
-            "image": "http://pbs.twimg.com/profile_images/459779656296574976/YM5lcRxS_normal.png",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "image": "https://pbs.twimg.com/profile_images/459779656296574976/YM5lcRxS_normal.png",
+            "twitter": "EAWharton",
             "name": "Eddie Wharton",
             "tagline": ""
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "69",
-            "link": "/l/e93c3206fd",
-            "name": "Framer Studio",
-            "tagline": "A new interaction design tool",
-            "ph_url": "posts/framer-studio",
-            "comments": "3"
-        },
-        "user": {
-            "id": "robinraszka",
-            "image": "http://pbs.twimg.com/profile_images/484741765467877377/VvZZY-RP_normal.jpeg",
-            "twitter": "robinraszka",
-            "name": "Robin Raszka",
-            "tagline": "Principal, Beyond Labs, Inc."
         }
     },
     {
@@ -174,7 +174,7 @@
         "user": {
             "id": "GeoffreyWeg",
             "image": "http://pbs.twimg.com/profile_images/1768772247/image_normal.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "GeoffreyWeg",
             "name": "Geoffrey Weg",
             "tagline": "Startups + VC"
         }
@@ -255,24 +255,6 @@
         "id": 15,
         "post": {
             "votes": "23",
-            "link": "/l/ada3ff6130",
-            "name": "Mozilla WebIDE",
-            "tagline": "Create websites and apps right in your browser",
-            "ph_url": "posts/mozilla-webide",
-            "comments": "0"
-        },
-        "user": {
-            "id": "gkoberger",
-            "image": "https://pbs.twimg.com/profile_images/1832334052/image1329434115_normal.png",
-            "twitter": "gkoberger",
-            "name": "Gregory Koberger",
-            "tagline": "Founder, ReadMe.io"
-        }
-    },
-    {
-        "id": 16,
-        "post": {
-            "votes": "22",
             "link": "/l/87d23266ea",
             "name": "Underground Cellar",
             "tagline": "Upgrade your wine. Upgrade your life.",
@@ -285,6 +267,24 @@
             "twitter": "ryanajon1",
             "name": "Ryan Jones",
             "tagline": "co-founder, Go Dish"
+        }
+    },
+    {
+        "id": 16,
+        "post": {
+            "votes": "23",
+            "link": "/l/ada3ff6130",
+            "name": "Mozilla WebIDE",
+            "tagline": "Create websites and apps right in your browser",
+            "ph_url": "posts/mozilla-webide",
+            "comments": "0"
+        },
+        "user": {
+            "id": "gkoberger",
+            "image": "https://pbs.twimg.com/profile_images/1832334052/image1329434115_normal.png",
+            "twitter": "gkoberger",
+            "name": "Gregory Koberger",
+            "tagline": "Founder, ReadMe.io"
         }
     },
     {
@@ -336,7 +336,7 @@
         "user": {
             "id": "gilbitron",
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/gilbitron.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "gilbitron",
             "name": "Gilbert Pellegrom",
             "tagline": "Web Developer, Founder of Dev7studios"
         }
@@ -497,7 +497,7 @@
         },
         "user": {
             "id": "_jacksmith",
-            "image": "http://pbs.twimg.com/profile_images/458840883610136576/9Wbvj6UF_normal.jpeg",
+            "image": "http://pbs.twimg.com/profile_images/505259361157910529/022ehIu4_normal.png",
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded Vungle - Advisor to Coin"
@@ -516,7 +516,7 @@
         "user": {
             "id": "daveambrose",
             "image": "http://pbs.twimg.com/profile_images/113005746/avatar128_normal.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "daveambrose",
             "name": "Dave Ambrose",
             "tagline": "Venture Investor"
         }
@@ -560,7 +560,7 @@
     {
         "id": 32,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "/l/1bc3fd68c1",
             "name": "Tower",
             "tagline": "Changing the way you interact w/ your community (pre-launch)",
@@ -651,6 +651,24 @@
         "id": 37,
         "post": {
             "votes": "6",
+            "link": "/l/c7bb811f31",
+            "name": "PostHang",
+            "tagline": "A real-time, collaborative tumblr",
+            "ph_url": "posts/posthang",
+            "comments": "2"
+        },
+        "user": {
+            "id": "daualset",
+            "image": "https://pbs.twimg.com/profile_images/378800000508791384/a60110729755caa5a2e62eed7f8d884b_normal.jpeg",
+            "twitter": "daualset",
+            "name": "Claudio Gallo",
+            "tagline": "Stereomood / Bad Panda Records"
+        }
+    },
+    {
+        "id": 38,
+        "post": {
+            "votes": "6",
             "link": "/l/1d4e4f8a8e",
             "name": "SigFig",
             "tagline": "Manage &amp; improve your investment portfolio",
@@ -659,14 +677,14 @@
         },
         "user": {
             "id": "benhoffman_",
-            "image": "https://pbs.twimg.com/profile_images/420588146451955712/CF0EKoYN_normal.png",
+            "image": "https://pbs.twimg.com/profile_images/502627448542867456/KRWYlA0u_normal.jpeg",
             "twitter": "benhoffman_",
             "name": "Benjamin Hoffman",
             "tagline": ""
         }
     },
     {
-        "id": 38,
+        "id": 39,
         "post": {
             "votes": "6",
             "link": "/l/db3bb9e8eb",
@@ -677,14 +695,14 @@
         },
         "user": {
             "id": "bkrall",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/bkrall.jpg",
+            "image": "https://pbs.twimg.com/profile_images/477119932849594368/AdUOLXMf_normal.jpeg",
             "twitter": "bkrall",
             "name": "Brian Krall",
             "tagline": "Sr. Front-End Developer, Sideproject.io"
         }
     },
     {
-        "id": 39,
+        "id": 40,
         "post": {
             "votes": "5",
             "link": "/l/a18e21aec5",
@@ -702,7 +720,7 @@
         }
     },
     {
-        "id": 40,
+        "id": 41,
         "post": {
             "votes": "5",
             "link": "/l/23586c14fa",
@@ -717,24 +735,6 @@
             "twitter": "stefanobernardi",
             "name": "Stefano Bernardi",
             "tagline": "Wild Card, Betable"
-        }
-    },
-    {
-        "id": 41,
-        "post": {
-            "votes": "5",
-            "link": "/l/c7bb811f31",
-            "name": "PostHang",
-            "tagline": "A real-time, collaborative tumblr",
-            "ph_url": "posts/posthang",
-            "comments": "2"
-        },
-        "user": {
-            "id": "daualset",
-            "image": "https://pbs.twimg.com/profile_images/378800000508791384/a60110729755caa5a2e62eed7f8d884b_normal.jpeg",
-            "twitter": "daualset",
-            "name": "Claudio Gallo",
-            "tagline": "Stereomood / Bad Panda Records"
         }
     },
     {
@@ -785,7 +785,7 @@
         },
         "user": {
             "id": "_jacksmith",
-            "image": "http://pbs.twimg.com/profile_images/458840883610136576/9Wbvj6UF_normal.jpeg",
+            "image": "http://pbs.twimg.com/profile_images/505259361157910529/022ehIu4_normal.png",
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded Vungle - Advisor to Coin"

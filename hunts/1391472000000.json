@@ -12,7 +12,7 @@
         "user": {
             "id": "LenKendall",
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/LenKendall.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "LenKendall",
             "name": "Len Kendall",
             "tagline": "CEO - CentUp"
         }
@@ -20,25 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "61",
-            "link": "/l/db25c09fc9",
-            "name": "Infinit",
-            "tagline": "Fast, elegant and unlimited file transfer application (Mac)",
-            "ph_url": "posts/infinit",
-            "comments": "3"
-        },
-        "user": {
-            "id": "AnthonyMarnell",
-            "image": "http://pbs.twimg.com/profile_images/493599037073788929/TfU_BLXE_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
-            "name": "Anthony Marnell",
-            "tagline": "VP North America, Mailjet"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "60",
+            "votes": "62",
             "link": "/l/d3e4d35d7b",
             "name": "PillPack",
             "tagline": "Parmacy that delivers a better, simpler experience.",
@@ -54,6 +36,24 @@
         }
     },
     {
+        "id": 3,
+        "post": {
+            "votes": "61",
+            "link": "/l/db25c09fc9",
+            "name": "Infinit",
+            "tagline": "Fast, elegant and unlimited file transfer application (Mac)",
+            "ph_url": "posts/infinit",
+            "comments": "3"
+        },
+        "user": {
+            "id": "AnthonyMarnell",
+            "image": "http://pbs.twimg.com/profile_images/493599037073788929/TfU_BLXE_normal.jpeg",
+            "twitter": "AnthonyMarnell",
+            "name": "Anthony Marnell",
+            "tagline": "VP North America, Mailjet"
+        }
+    },
+    {
         "id": 4,
         "post": {
             "votes": "50",
@@ -66,7 +66,7 @@
         "user": {
             "id": "alwaysunday",
             "image": "http://pbs.twimg.com/profile_images/453965940514762752/OwBFEtc4_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "alwaysunday",
             "name": "Andy Keil",
             "tagline": "Product at Visage.co"
         }
@@ -84,7 +84,7 @@
         "user": {
             "id": "parterburn",
             "image": "http://pbs.twimg.com/profile_images/378800000256828231/b2d74cda45a56c5ceb69a5f86cd557ed_normal.jpeg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "parterburn",
             "name": "Paul Arterburn",
             "tagline": "Cofounder, Brandfolder"
         }
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "18",
+            "votes": "19",
             "link": "/l/08da87a5b8",
             "name": "Strikingly",
             "tagline": "Simple Mobile Optimized Landing Page",
@@ -156,7 +156,7 @@
         "user": {
             "id": "jenskanis",
             "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/jenskanis.jpg",
-            "twitter": "\n          The maker of this product joined the comments\n        ",
+            "twitter": "jenskanis",
             "name": "Jens Kanis",
             "tagline": "CEO Widg.it"
         }
@@ -183,24 +183,6 @@
         "id": 11,
         "post": {
             "votes": "15",
-            "link": "/l/45e7c55e5e",
-            "name": "Beyond Surge",
-            "tagline": "Surge pricing for Airbnb hosts.",
-            "ph_url": "posts/beyond-surge",
-            "comments": "2"
-        },
-        "user": {
-            "id": "ericwu01",
-            "image": "https://pbs.twimg.com/profile_images/378800000187028405/d1306ef37fd1b1563d4d15047caf53cc_normal.jpeg",
-            "twitter": "ericwu01",
-            "name": "Eric Wu",
-            "tagline": "Partner, Curious Endeavors"
-        }
-    },
-    {
-        "id": 12,
-        "post": {
-            "votes": "14",
             "link": "/l/cd63579af5",
             "name": "Workshop",
             "tagline": "The best freelance leads in your inbox",
@@ -213,6 +195,24 @@
             "twitter": "Massaroma",
             "name": "Marco Massaro",
             "tagline": "Founder, Clientflow.io"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "15",
+            "link": "/l/45e7c55e5e",
+            "name": "Beyond Surge",
+            "tagline": "Surge pricing for Airbnb hosts.",
+            "ph_url": "posts/beyond-surge",
+            "comments": "2"
+        },
+        "user": {
+            "id": "ericwu01",
+            "image": "https://pbs.twimg.com/profile_images/378800000187028405/d1306ef37fd1b1563d4d15047caf53cc_normal.jpeg",
+            "twitter": "ericwu01",
+            "name": "Eric Wu",
+            "tagline": "Partner, Curious Endeavors"
         }
     },
     {
@@ -254,7 +254,7 @@
     {
         "id": 15,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "/l/9e85147321",
             "name": "Cactus for Mac",
             "tagline": "A better workflow for hand coding websites",
