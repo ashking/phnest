@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "60",
+            "votes": "61",
             "link": "/l/bcb1bca3ae",
             "name": "Gyde",
             "tagline": "Movie recommendations for iOS",
@@ -38,12 +38,12 @@
     {
         "id": 3,
         "post": {
-            "votes": "16",
+            "votes": "18",
             "link": "/l/38a632e3f0",
             "name": "Buy by Twitter",
             "tagline": "Buy directly in your twitter feed.",
             "ph_url": "posts/buy-by-twitter",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "erictwillis",
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "/l/5d545e263f",
             "name": "Chat.cc",
             "tagline": "Turn your email conversations into a real-time chat",
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "/l/5be9aaeaed",
             "name": "Baking Steel",
             "tagline": "The best way to make pizza",
@@ -200,7 +200,7 @@
     {
         "id": 12,
         "post": {
-            "votes": "6",
+            "votes": "8",
             "link": "/l/730775a907",
             "name": "Recon Jet",
             "tagline": "The First-heads up display for sports",
@@ -218,6 +218,24 @@
     {
         "id": 13,
         "post": {
+            "votes": "5",
+            "link": "/l/c892d7f042",
+            "name": "Withings Home",
+            "tagline": "An elegant HD camera with environmental sensors",
+            "ph_url": "posts/withings-home",
+            "comments": "0"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "https://pbs.twimg.com/profile_images/378800000207381250/243c157d4fb92e06467b3ea1536eb1cd_normal.jpeg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Entrepreneur - Entrepreneurloop.com"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
             "votes": "7",
             "link": "/l/9481279d26",
             "name": "Font Hero",
@@ -234,7 +252,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 15,
         "post": {
             "votes": "7",
             "link": "/l/6aff0381db",
@@ -249,24 +267,6 @@
             "twitter": "erictwillis",
             "name": "Eric Willis",
             "tagline": "Founder, Near Inc. "
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "4",
-            "link": "/l/c892d7f042",
-            "name": "Withings Home",
-            "tagline": "An elegant HD camera with environmental sensors",
-            "ph_url": "posts/withings-home",
-            "comments": "0"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "https://pbs.twimg.com/profile_images/378800000207381250/243c157d4fb92e06467b3ea1536eb1cd_normal.jpeg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Entrepreneur - Entrepreneurloop.com"
         }
     },
     {
@@ -295,7 +295,7 @@
             "name": "Catalyst",
             "tagline": "Tinder meets foursquare",
             "ph_url": "posts/catalyst",
-            "comments": "1"
+            "comments": "2"
         },
         "user": {
             "id": "IndianIdle",
@@ -309,42 +309,6 @@
         "id": 18,
         "post": {
             "votes": "3",
-            "link": "/l/46fb4bead9",
-            "name": "Digital Concert Hall",
-            "tagline": "Stream live classical music concerts to your mobile devices",
-            "ph_url": "posts/digital-concert-hall",
-            "comments": "1"
-        },
-        "user": {
-            "id": "nikkielizdemere",
-            "image": "http://pbs.twimg.com/profile_images/462976562275430400/7n6vDLrd_normal.jpeg",
-            "twitter": "nikkielizdemere",
-            "name": "Nichole Elizabeth",
-            "tagline": "Community at Product Hunt"
-        }
-    },
-    {
-        "id": 19,
-        "post": {
-            "votes": "5",
-            "link": "/l/50705447f2",
-            "name": "The League",
-            "tagline": "Date. Intelligently.",
-            "ph_url": "posts/the-league",
-            "comments": "1"
-        },
-        "user": {
-            "id": "liveink",
-            "image": "http://pbs.twimg.com/profile_images/493350831354179586/SxJt5oNu_normal.jpeg",
-            "twitter": "liveink",
-            "name": "Kevin Li",
-            "tagline": "MessageMe"
-        }
-    },
-    {
-        "id": 20,
-        "post": {
-            "votes": "2",
             "link": "/l/504dadd99e",
             "name": "DRAGON QUEST IV",
             "tagline": "The first installment in the Zenithia trilogy now on mobile",
@@ -360,6 +324,42 @@
         }
     },
     {
+        "id": 19,
+        "post": {
+            "votes": "3",
+            "link": "/l/46fb4bead9",
+            "name": "Digital Concert Hall",
+            "tagline": "Stream live classical music concerts to your mobile devices",
+            "ph_url": "posts/digital-concert-hall",
+            "comments": "2"
+        },
+        "user": {
+            "id": "nikkielizdemere",
+            "image": "http://pbs.twimg.com/profile_images/462976562275430400/7n6vDLrd_normal.jpeg",
+            "twitter": "nikkielizdemere",
+            "name": "Nichole Elizabeth",
+            "tagline": "Community at Product Hunt"
+        }
+    },
+    {
+        "id": 20,
+        "post": {
+            "votes": "5",
+            "link": "/l/50705447f2",
+            "name": "The League (pre-launch)",
+            "tagline": "Date. Intelligently.",
+            "ph_url": "posts/the-league",
+            "comments": "1"
+        },
+        "user": {
+            "id": "liveink",
+            "image": "http://pbs.twimg.com/profile_images/493350831354179586/SxJt5oNu_normal.jpeg",
+            "twitter": "liveink",
+            "name": "Kevin Li",
+            "tagline": "MessageMe"
+        }
+    },
+    {
         "id": 21,
         "post": {
             "votes": "1",
@@ -367,7 +367,7 @@
             "name": "TiVo Mega",
             "tagline": "A $5000 server-sized 24TeraByte DVR ",
             "ph_url": "posts/tivo-mega",
-            "comments": "1"
+            "comments": "2"
         },
         "user": {
             "id": "bramk",
