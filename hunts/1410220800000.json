@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "328",
+            "votes": "332",
             "link": "/l/d909c2abac",
             "name": "Apple Watch",
             "tagline": "The most personal device Apple has ever created",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "302",
+            "votes": "305",
             "link": "/l/049a30fd06",
             "name": "iPhone 6",
             "tagline": "Bigger, better iPhone",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "240",
+            "votes": "244",
             "link": "/l/38683010c3",
             "name": "Apple Pay",
             "tagline": "Integrated hardware, software, and services for payments",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "255",
+            "votes": "256",
             "link": "/l/d288f86c7a",
             "name": "StartUp ",
             "tagline": "Alex Blumberg&#39;s (Planet Money/NPR) new startup podcast.",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "201",
+            "votes": "204",
             "link": "/l/304531885d",
             "name": "TestFlight (iOS app)",
             "tagline": "Beta testing is easier than ever",
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "91",
+            "link": "/l/56c716521c",
+            "name": "Stripe: Apple Pay",
+            "tagline": "One-touch payment on iOS",
+            "ph_url": "posts/stripe-apple-pay",
+            "comments": "2"
+        },
+        "user": {
+            "id": "thomasoffinga",
+            "image": "https://pbs.twimg.com/profile_images/489130310890569728/1bOvkKyM_normal.jpeg",
+            "twitter": "thomasoffinga",
+            "name": "Thomas Offinga",
+            "tagline": "Designer at Gibbon"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "127",
             "link": "/l/f12ebf345e",
             "name": "Apple Bingo! ",
@@ -123,24 +141,6 @@
             "twitter": "ow",
             "name": "Owen Williams",
             "tagline": "Weekend Editor, The Next Web"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "89",
-            "link": "/l/56c716521c",
-            "name": "Stripe: Apple Pay",
-            "tagline": "One-touch payment on iOS",
-            "ph_url": "posts/stripe-apple-pay",
-            "comments": "2"
-        },
-        "user": {
-            "id": "thomasoffinga",
-            "image": "https://pbs.twimg.com/profile_images/489130310890569728/1bOvkKyM_normal.jpeg",
-            "twitter": "thomasoffinga",
-            "name": "Thomas Offinga",
-            "tagline": "Designer at Gibbon"
         }
     },
     {
@@ -344,6 +344,24 @@
     {
         "id": 20,
         "post": {
+            "votes": "9",
+            "link": "/l/503127060a",
+            "name": "Smartcuts (book)",
+            "tagline": "How Hackers, Innovators, and Icons Accelerate Success",
+            "ph_url": "posts/smartcuts-book",
+            "comments": "3"
+        },
+        "user": {
+            "id": "erictwillis",
+            "image": "https://pbs.twimg.com/profile_images/2272007191/wvrexvyjybx1zx9flwi7_normal.jpeg",
+            "twitter": "erictwillis",
+            "name": "Eric Willis",
+            "tagline": "Founder, Near Inc. "
+        }
+    },
+    {
+        "id": 21,
+        "post": {
             "votes": "14",
             "link": "/l/3212de3482",
             "name": "Road Trip Planner",
@@ -357,24 +375,6 @@
             "twitter": "staringispolite",
             "name": "Jonathan Howard",
             "tagline": "Co-founder &amp; CEO, Emissary"
-        }
-    },
-    {
-        "id": 21,
-        "post": {
-            "votes": "8",
-            "link": "/l/503127060a",
-            "name": "Smartcuts (book)",
-            "tagline": "How Hackers, Innovators, and Icons Accelerate Success",
-            "ph_url": "posts/smartcuts-book",
-            "comments": "3"
-        },
-        "user": {
-            "id": "erictwillis",
-            "image": "https://pbs.twimg.com/profile_images/2272007191/wvrexvyjybx1zx9flwi7_normal.jpeg",
-            "twitter": "erictwillis",
-            "name": "Eric Willis",
-            "tagline": "Founder, Near Inc. "
         }
     },
     {
@@ -416,7 +416,7 @@
     {
         "id": 24,
         "post": {
-            "votes": "17",
+            "votes": "18",
             "link": "/l/1ae77603c4",
             "name": "Juicer ",
             "tagline": "Create Social Media Feeds",
