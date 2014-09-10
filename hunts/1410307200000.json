@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "79",
+            "votes": "83",
             "link": "/l/8febc0bf43",
             "name": "The Complete iOS8 Course",
             "tagline": "Learn by Building 14 Different Apps in Swift",
@@ -20,25 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "32",
-            "link": "/l/1df9918144",
-            "name": "Datacoup",
-            "tagline": "Your personal data marketplace. Aggregate, package and sell!",
-            "ph_url": "posts/datacoup",
-            "comments": "2"
-        },
-        "user": {
-            "id": "dvdoliveira",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/dvdoliveira.jpg",
-            "twitter": "dvdoliveira",
-            "name": "Deivide Oliveira",
-            "tagline": "Consultant, Developer &amp; Growth Hacker at Logyc"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "24",
+            "votes": "26",
             "link": "/l/e329ae90f1",
             "name": "GifDeck",
             "tagline": "Turn SlideShare presentations into beautifully animated GIFs",
@@ -51,6 +33,24 @@
             "twitter": "jaipandya",
             "name": "Jai Pandya",
             "tagline": "Hacker at LinkedIn"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "32",
+            "link": "/l/1df9918144",
+            "name": "Datacoup",
+            "tagline": "Your personal data marketplace. Aggregate, package and sell!",
+            "ph_url": "posts/datacoup",
+            "comments": "3"
+        },
+        "user": {
+            "id": "dvdoliveira",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/dvdoliveira.jpg",
+            "twitter": "dvdoliveira",
+            "name": "Deivide Oliveira",
+            "tagline": "Consultant, Developer &amp; Growth Hacker at Logyc"
         }
     },
     {
@@ -92,19 +92,19 @@
     {
         "id": 6,
         "post": {
-            "votes": "14",
-            "link": "/l/07c61e1a84",
-            "name": "Accumi",
-            "tagline": "Free App for Co-Founder Equity Splitting",
-            "ph_url": "posts/accumi",
-            "comments": "6"
+            "votes": "12",
+            "link": "/l/613f46c888",
+            "name": "Pillow Talk",
+            "tagline": "Playtime Ideas for Busy Couples",
+            "ph_url": "posts/pillow-talk",
+            "comments": "2"
         },
         "user": {
-            "id": "erictwillis",
-            "image": "https://pbs.twimg.com/profile_images/2272007191/wvrexvyjybx1zx9flwi7_normal.jpeg",
-            "twitter": "erictwillis",
-            "name": "Eric Willis",
-            "tagline": "Founder, Near Inc. "
+            "id": "bramk",
+            "image": "http://pbs.twimg.com/profile_images/505754869605474305/VMPabp4p_normal.jpeg",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Startup Strategy &amp; Product Development"
         }
     },
     {
@@ -128,25 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "11",
-            "link": "/l/613f46c888",
-            "name": "Pillow Talk",
-            "tagline": "Playtime Ideas for Busy Couples",
-            "ph_url": "posts/pillow-talk",
-            "comments": "2"
-        },
-        "user": {
-            "id": "bramk",
-            "image": "http://pbs.twimg.com/profile_images/505754869605474305/VMPabp4p_normal.jpeg",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Startup Strategy &amp; Product Development"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "7",
+            "votes": "10",
             "link": "/l/3034470f03",
             "name": "Creddle",
             "tagline": "Build modern resumes for the web and for paper",
@@ -162,27 +144,9 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "post": {
-            "votes": "5",
-            "link": "/l/f46a515cbe",
-            "name": "Electric Sheep",
-            "tagline": "Collaborative abstract artwork as a screensaver",
-            "ph_url": "posts/electric-sheep",
-            "comments": "1"
-        },
-        "user": {
-            "id": "nikkielizdemere",
-            "image": "https://pbs.twimg.com/profile_images/462976562275430400/7n6vDLrd_normal.jpeg",
-            "twitter": "nikkielizdemere",
-            "name": "Nichole Elizabeth DeMeré",
-            "tagline": "Community at Product Hunt"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "9",
+            "votes": "12",
             "link": "/l/e8709a1dad",
             "name": "Knotable",
             "tagline": "Cut the noise out of busy email threads",
@@ -195,6 +159,42 @@
             "twitter": "workbymark",
             "name": "Mark Hendriks",
             "tagline": "Designer"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "14",
+            "link": "/l/07c61e1a84",
+            "name": "Accumi",
+            "tagline": "Free App for Co-Founder Equity Splitting",
+            "ph_url": "posts/accumi",
+            "comments": "6"
+        },
+        "user": {
+            "id": "erictwillis",
+            "image": "https://pbs.twimg.com/profile_images/2272007191/wvrexvyjybx1zx9flwi7_normal.jpeg",
+            "twitter": "erictwillis",
+            "name": "Eric Willis",
+            "tagline": "Founder, Near Inc. "
+        }
+    },
+    {
+        "id": 11,
+        "post": {
+            "votes": "6",
+            "link": "/l/f46a515cbe",
+            "name": "Electric Sheep",
+            "tagline": "Collaborative abstract artwork as a screensaver",
+            "ph_url": "posts/electric-sheep",
+            "comments": "1"
+        },
+        "user": {
+            "id": "nikkielizdemere",
+            "image": "https://pbs.twimg.com/profile_images/462976562275430400/7n6vDLrd_normal.jpeg",
+            "twitter": "nikkielizdemere",
+            "name": "Nichole Elizabeth DeMeré",
+            "tagline": "Community at Product Hunt"
         }
     },
     {
