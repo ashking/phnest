@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "28",
+            "votes": "30",
             "link": "/l/09ede8d9bf",
             "name": "Swift Devs",
             "tagline": "A community for developers and students of Swift",
@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "32",
+            "link": "/l/0821b8dc1c",
+            "name": "SpeakUp",
+            "tagline": "Employee-sourced problem solving and idea generation",
+            "ph_url": "posts/speakup",
+            "comments": "2"
+        },
+        "user": {
+            "id": "andyfortson",
+            "image": "https://pbs.twimg.com/profile_images/460487749045190657/zFlpdhG2_normal.jpeg",
+            "twitter": "andyfortson",
+            "name": "Andy Fortson",
+            "tagline": "Startup growth and marketing"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "25",
             "link": "/l/0a432e8c04",
             "name": "Instagate",
@@ -213,24 +231,6 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "31",
-            "link": "/l/0821b8dc1c",
-            "name": "SpeakUp",
-            "tagline": "Employee-sourced problem solving and idea generation",
-            "ph_url": "posts/speakup",
-            "comments": "2"
-        },
-        "user": {
-            "id": "andyfortson",
-            "image": "https://pbs.twimg.com/profile_images/460487749045190657/zFlpdhG2_normal.jpeg",
-            "twitter": "andyfortson",
-            "name": "Andy Fortson",
-            "tagline": "Startup growth and marketing"
         }
     },
     {
@@ -331,7 +331,7 @@
             "name": "Word of Mouth",
             "tagline": "Socially activated users for your mobile app",
             "ph_url": "posts/word-of-mouth",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "MackFlavelle",
@@ -385,7 +385,7 @@
             "name": "Playlistful",
             "tagline": "Collaborative playlists for parties!",
             "ph_url": "posts/playlistful",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "johnmurch",
@@ -416,6 +416,24 @@
     {
         "id": 24,
         "post": {
+            "votes": "13",
+            "link": "/l/2dae555196",
+            "name": "Codecov",
+            "tagline": "Don&#39;t deploy naked. Cover your code.",
+            "ph_url": "posts/codecov",
+            "comments": "3"
+        },
+        "user": {
+            "id": "mscccc",
+            "image": "https://pbs.twimg.com/profile_images/378800000843642981/936fa2fff8fac215d4d636a8d944576d_normal.jpeg",
+            "twitter": "mscccc",
+            "name": "Mike Coutermarsh",
+            "tagline": "Software Engineer, Gazelle.com"
+        }
+    },
+    {
+        "id": 25,
+        "post": {
             "votes": "15",
             "link": "/l/f470e4b7dd",
             "name": "Mozilla Appmaker",
@@ -429,24 +447,6 @@
             "twitter": "bogomep",
             "name": "Bogomil Shopov -Bogo",
             "tagline": "Marketer, Doer, Developer, Hacker"
-        }
-    },
-    {
-        "id": 25,
-        "post": {
-            "votes": "12",
-            "link": "/l/2dae555196",
-            "name": "Codecov",
-            "tagline": "Don&#39;t deploy naked. Cover your code.",
-            "ph_url": "posts/codecov",
-            "comments": "3"
-        },
-        "user": {
-            "id": "mscccc",
-            "image": "https://pbs.twimg.com/profile_images/378800000843642981/936fa2fff8fac215d4d636a8d944576d_normal.jpeg",
-            "twitter": "mscccc",
-            "name": "Mike Coutermarsh",
-            "tagline": "Software Engineer, Gazelle.com"
         }
     },
     {
@@ -511,7 +511,7 @@
             "name": "Relay",
             "tagline": "Freshly filtered water at the speed of your faucet.",
             "ph_url": "posts/relay",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "NeerajT4",
@@ -565,7 +565,7 @@
             "name": "Pipeline",
             "tagline": "Send journalists the perfect product pitch.",
             "ph_url": "posts/pipeline",
-            "comments": "1"
+            "comments": "2"
         },
         "user": {
             "id": "cliffdailey",
