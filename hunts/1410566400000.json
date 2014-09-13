@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "8",
+            "link": "/l/59e0bd848a",
+            "name": "Random Quote",
+            "tagline": "Replace new tabs with a quote (Chrome extension)",
+            "ph_url": "posts/random-quote",
+            "comments": "0"
+        },
+        "user": {
+            "id": "sterlingsrq",
+            "image": "https://pbs.twimg.com/profile_images/504684034241208320/KI-V8DYu_normal.png",
+            "twitter": "sterlingsrq",
+            "name": "Sterling",
+            "tagline": "front-end developer"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "20",
             "link": "/l/b5f74c4f3e",
             "name": "Hypermasher",
@@ -15,24 +33,6 @@
             "twitter": "tacomanator",
             "name": "Drew Goodwin",
             "tagline": "Founder, Composed"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "6",
-            "link": "/l/59e0bd848a",
-            "name": "Random Quote",
-            "tagline": "Replace new tabs with a quote (Chrome extension)",
-            "ph_url": "posts/random-quote",
-            "comments": "0"
-        },
-        "user": {
-            "id": "sterlingsrq",
-            "image": "https://pbs.twimg.com/profile_images/504684034241208320/KI-V8DYu_normal.png",
-            "twitter": "sterlingsrq",
-            "name": "Sterling",
-            "tagline": "front-end developer"
         }
     },
     {
@@ -61,7 +61,7 @@
             "name": "Emojis &amp; Earth Porn",
             "tagline": "Find the unmoving emoji amongst the beauty of the world.",
             "ph_url": "posts/emojis-earth-porn",
-            "comments": "3"
+            "comments": "4"
         },
         "user": {
             "id": "jkdncn",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "51",
+            "votes": "52",
             "link": "/l/f6816f5caa",
             "name": "Gravit",
             "tagline": "Open-source design tool",
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "26",
+            "votes": "27",
             "link": "/l/9e48eff21c",
             "name": "SoftShell Wallet ",
             "tagline": "Insanely durable, super-thin (&lt;0.5mm) wallet: from SlimFold.",
