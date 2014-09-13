@@ -2,6 +2,42 @@
     {
         "id": 1,
         "post": {
+            "votes": "12",
+            "link": "/l/0077c97571",
+            "name": "Mermur",
+            "tagline": "Anonymous text messages. No replies. ",
+            "ph_url": "posts/mermur",
+            "comments": "0"
+        },
+        "user": {
+            "id": "mutlu82",
+            "image": "http://pbs.twimg.com/profile_images/434718211586535425/vQSvWnZI_normal.jpeg",
+            "twitter": "mutlu82",
+            "name": "Murat Mutlu",
+            "tagline": "Co-Founder, Marvelapp"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
+            "votes": "12",
+            "link": "/l/f6816f5caa",
+            "name": "Gravit",
+            "tagline": "Open-source design tool",
+            "ph_url": "posts/gravit",
+            "comments": "0"
+        },
+        "user": {
+            "id": "mattlanham",
+            "image": "http://pbs.twimg.com/profile_images/485008715834486785/B6tLk-br_normal.jpeg",
+            "twitter": "mattlanham",
+            "name": "Matthew Lanham",
+            "tagline": "Founder of @geckoform"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "15",
             "link": "/l/9e48eff21c",
             "name": "SoftShell Wallet ",
@@ -18,27 +54,9 @@
         }
     },
     {
-        "id": 2,
+        "id": 4,
         "post": {
-            "votes": "11",
-            "link": "/l/0077c97571",
-            "name": "Mermur",
-            "tagline": "Anonymous text messages. No replies. ",
-            "ph_url": "posts/mermur",
-            "comments": "0"
-        },
-        "user": {
-            "id": "mutlu82",
-            "image": "http://pbs.twimg.com/profile_images/434718211586535425/vQSvWnZI_normal.jpeg",
-            "twitter": "mutlu82",
-            "name": "Murat Mutlu",
-            "tagline": "Co-Founder, Marvelapp"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "13",
+            "votes": "14",
             "link": "/l/7c96b77e18",
             "name": "Zurf ",
             "tagline": "Leave “Sticky Notes” On Websites.",
@@ -54,24 +72,6 @@
         }
     },
     {
-        "id": 4,
-        "post": {
-            "votes": "9",
-            "link": "/l/f6816f5caa",
-            "name": "Gravit",
-            "tagline": "Open-source design tool",
-            "ph_url": "posts/gravit",
-            "comments": "0"
-        },
-        "user": {
-            "id": "mattlanham",
-            "image": "http://pbs.twimg.com/profile_images/485008715834486785/B6tLk-br_normal.jpeg",
-            "twitter": "mattlanham",
-            "name": "Matthew Lanham",
-            "tagline": "Founder of @geckoform"
-        }
-    },
-    {
         "id": 5,
         "post": {
             "votes": "2",
@@ -79,7 +79,7 @@
             "name": "Hypermasher",
             "tagline": "a stream of the latest Hyperlapse videos set to chill music",
             "ph_url": "posts/hypermasher",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "tacomanator",
