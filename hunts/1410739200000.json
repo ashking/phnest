@@ -7,7 +7,7 @@
             "name": "New York Times APIs",
             "tagline": "why just read the news when you can hack it?",
             "ph_url": "posts/new-york-times-apis",
-            "comments": "13"
+            "comments": "14"
         },
         "user": {
             "id": "_jacksmith",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "30",
+            "votes": "31",
             "link": "/l/e633c4ee1f",
             "name": "Checky",
             "tagline": "How many times a day do you check your phone?",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "32",
+            "link": "/l/a314072852",
+            "name": "TechReporter",
+            "tagline": "The day’s top tech headlines from across the web",
+            "ph_url": "posts/techreporter",
+            "comments": "2"
+        },
+        "user": {
+            "id": "nbashaw",
+            "image": "http://pbs.twimg.com/profile_images/491659145209081856/f2KgYlQz_normal.jpeg",
+            "twitter": "nbashaw",
+            "name": "Nathan Bashaw",
+            "tagline": "PM, General Assembly"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "48",
             "link": "/l/15031b8097",
             "name": "Contentbuilder.js",
@@ -90,27 +108,9 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "31",
-            "link": "/l/a314072852",
-            "name": "TechReporter",
-            "tagline": "The day’s top tech headlines from across the web",
-            "ph_url": "posts/techreporter",
-            "comments": "2"
-        },
-        "user": {
-            "id": "nbashaw",
-            "image": "http://pbs.twimg.com/profile_images/491659145209081856/f2KgYlQz_normal.jpeg",
-            "twitter": "nbashaw",
-            "name": "Nathan Bashaw",
-            "tagline": "PM, General Assembly"
-        }
-    },
-    {
         "id": 7,
         "post": {
-            "votes": "80",
+            "votes": "81",
             "link": "/l/8d386800bd",
             "name": "Share",
             "tagline": "The easiest way to get more shares on your website",
@@ -290,6 +290,24 @@
     {
         "id": 17,
         "post": {
+            "votes": "5",
+            "link": "/l/4deaff0cc4",
+            "name": "Geofeedia",
+            "tagline": "Location-based social media monitoring",
+            "ph_url": "posts/geofeedia",
+            "comments": "1"
+        },
+        "user": {
+            "id": "Hello_BenHere",
+            "image": "https://pbs.twimg.com/profile_images/2031887352/image_normal.jpg",
+            "twitter": "Hello_BenHere",
+            "name": "Ben Adelt",
+            "tagline": "Online Marketing Manager"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
             "votes": "11",
             "link": "/l/28d04d9ef5",
             "name": "Social Doe",
@@ -306,7 +324,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 19,
         "post": {
             "votes": "6",
             "link": "/l/2ae06b82b0",
@@ -321,24 +339,6 @@
             "twitter": "zackshapiro",
             "name": "Zack Shapiro",
             "tagline": "Hacking on Product Hunt &amp; something new"
-        }
-    },
-    {
-        "id": 19,
-        "post": {
-            "votes": "4",
-            "link": "/l/4deaff0cc4",
-            "name": "Geofeedia",
-            "tagline": "Location-based social media monitoring",
-            "ph_url": "posts/geofeedia",
-            "comments": "1"
-        },
-        "user": {
-            "id": "Hello_BenHere",
-            "image": "https://pbs.twimg.com/profile_images/2031887352/image_normal.jpg",
-            "twitter": "Hello_BenHere",
-            "name": "Ben Adelt",
-            "tagline": "Online Marketing Manager"
         }
     },
     {
