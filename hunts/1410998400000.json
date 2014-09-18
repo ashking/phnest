@@ -2,25 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "32",
-            "link": "/l/5f21698497",
-            "name": "Campus Job",
-            "tagline": "Find students to hire as your Campus Reps effortlessly",
-            "ph_url": "posts/campus-job",
-            "comments": "3"
-        },
-        "user": {
-            "id": "lizwessel",
-            "image": "https://pbs.twimg.com/profile_images/2361390108/qbkh4cgklgmf594sbj9p_normal.jpeg",
-            "twitter": "lizwessel",
-            "name": "Liz Wessel",
-            "tagline": "CEO, The Campus Job"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "44",
+            "votes": "45",
             "link": "/l/78a404ed78",
             "name": "WeekendHacker",
             "tagline": "Find help for your (very) small projects or MVPs",
@@ -36,9 +18,9 @@
         }
     },
     {
-        "id": 3,
+        "id": 2,
         "post": {
-            "votes": "30",
+            "votes": "32",
             "link": "/l/3aab0e5c4f",
             "name": "EatWith",
             "tagline": "Dine in homes around the world.",
@@ -54,7 +36,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 3,
         "post": {
             "votes": "24",
             "link": "/l/435f79e8d6",
@@ -72,7 +54,79 @@
         }
     },
     {
+        "id": 4,
+        "post": {
+            "votes": "12",
+            "link": "/l/954431d811",
+            "name": "MonkeyLearn",
+            "tagline": "Easily extract and classify information from text",
+            "ph_url": "posts/monkeylearn",
+            "comments": "1"
+        },
+        "user": {
+            "id": "federicopascual",
+            "image": "https://pbs.twimg.com/profile_images/499605018123587585/WrEhXYBc_normal.jpeg",
+            "twitter": "federicopascual",
+            "name": "Federico Pascual",
+            "tagline": "Business Developer Manager, Tryolabs"
+        }
+    },
+    {
         "id": 5,
+        "post": {
+            "votes": "25",
+            "link": "/l/3d4183873b",
+            "name": "Sumo Drop",
+            "tagline": "Like Airdrop Online for Any Device ",
+            "ph_url": "posts/sumo-drop",
+            "comments": "1"
+        },
+        "user": {
+            "id": "erikfinman",
+            "image": "http://pbs.twimg.com/profile_images/495667446431641600/cQDJmWIP_normal.jpeg",
+            "twitter": "erikfinman",
+            "name": "Erik Finman",
+            "tagline": "CEO &amp; Founder, Botangle"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
+            "votes": "7",
+            "link": "/l/ca08e51951",
+            "name": "CONSULTED",
+            "tagline": "Management advice from world-class experts over the phone.",
+            "ph_url": "posts/consulted",
+            "comments": "0"
+        },
+        "user": {
+            "id": "joelandren",
+            "image": "http://pbs.twimg.com/profile_images/473383959108128768/1Yos74FX_normal.jpeg",
+            "twitter": "joelandren",
+            "name": "Joel Andren",
+            "tagline": "co-founder, PressFriendly"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
+            "votes": "5",
+            "link": "/l/81f3a0b813",
+            "name": "Tally",
+            "tagline": "Create tiny polls. No bullshit.",
+            "ph_url": "posts/tally",
+            "comments": "3"
+        },
+        "user": {
+            "id": "filipminev",
+            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/filipminev.jpg",
+            "twitter": "filipminev",
+            "name": "Filip Minev",
+            "tagline": "Founder, Strudel"
+        }
+    },
+    {
+        "id": 8,
         "post": {
             "votes": "9",
             "link": "/l/b70cf6ebdb",
@@ -90,79 +144,43 @@
         }
     },
     {
-        "id": 6,
-        "post": {
-            "votes": "24",
-            "link": "/l/3d4183873b",
-            "name": "Sumo Drop",
-            "tagline": "Like Airdrop Online for Any Device ",
-            "ph_url": "posts/sumo-drop",
-            "comments": "1"
-        },
-        "user": {
-            "id": "erikfinman",
-            "image": "http://pbs.twimg.com/profile_images/495667446431641600/cQDJmWIP_normal.jpeg",
-            "twitter": "erikfinman",
-            "name": "Erik Finman",
-            "tagline": "CEO &amp; Founder, Botangle"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "11",
-            "link": "/l/954431d811",
-            "name": "MonkeyLearn",
-            "tagline": "Easily extract and classify information from text",
-            "ph_url": "posts/monkeylearn",
-            "comments": "1"
-        },
-        "user": {
-            "id": "federicopascual",
-            "image": "https://pbs.twimg.com/profile_images/499605018123587585/WrEhXYBc_normal.jpeg",
-            "twitter": "federicopascual",
-            "name": "Federico Pascual",
-            "tagline": "Business Developer Manager, Tryolabs"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "4",
-            "link": "/l/81f3a0b813",
-            "name": "Tally",
-            "tagline": "Create tiny polls. No bullshit.",
-            "ph_url": "posts/tally",
-            "comments": "2"
-        },
-        "user": {
-            "id": "filipminev",
-            "image": "http://res.cloudinary.com/product-hunt/image/twitter_name/w_30,h_30,c_fill/filipminev.jpg",
-            "twitter": "filipminev",
-            "name": "Filip Minev",
-            "tagline": "Founder, Strudel"
-        }
-    },
-    {
         "id": 9,
         "post": {
-            "votes": "5",
-            "link": "/l/ca08e51951",
-            "name": "CONSULTED",
-            "tagline": "Management advice from world-class experts over the phone.",
-            "ph_url": "posts/consulted",
-            "comments": "0"
+            "votes": "36",
+            "link": "/l/5f21698497",
+            "name": "Campus Job",
+            "tagline": "Find students to hire as your Campus Reps effortlessly",
+            "ph_url": "posts/campus-job",
+            "comments": "3"
         },
         "user": {
-            "id": "joelandren",
-            "image": "http://pbs.twimg.com/profile_images/473383959108128768/1Yos74FX_normal.jpeg",
-            "twitter": "joelandren",
-            "name": "Joel Andren",
-            "tagline": "co-founder, PressFriendly"
+            "id": "lizwessel",
+            "image": "https://pbs.twimg.com/profile_images/2361390108/qbkh4cgklgmf594sbj9p_normal.jpeg",
+            "twitter": "lizwessel",
+            "name": "Liz Wessel",
+            "tagline": "CEO, The Campus Job"
         }
     },
     {
         "id": 10,
+        "post": {
+            "votes": "7",
+            "link": "/l/ea1fb7d384",
+            "name": "Kindle Voyage",
+            "tagline": "300 ppi display, reimagined page turns, adaptive front light",
+            "ph_url": "posts/kindle-voyage",
+            "comments": "0"
+        },
+        "user": {
+            "id": "cpwt",
+            "image": "http://pbs.twimg.com/profile_images/2450425614/4tii1nsphwgj5xnvzh29_normal.jpeg",
+            "twitter": "cpwt",
+            "name": "Chris Thorne",
+            "tagline": "Product Manager"
+        }
+    },
+    {
+        "id": 11,
         "post": {
             "votes": "7",
             "link": "/l/a63dcbece6",
@@ -177,24 +195,6 @@
             "twitter": "techtidbitsme",
             "name": "techtidbits.me",
             "tagline": "www.TechTidbits.me"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "6",
-            "link": "/l/ea1fb7d384",
-            "name": "Kindle Voyage",
-            "tagline": "300 ppi display, reimagined page turns, adaptive front light",
-            "ph_url": "posts/kindle-voyage",
-            "comments": "0"
-        },
-        "user": {
-            "id": "cpwt",
-            "image": "http://pbs.twimg.com/profile_images/2450425614/4tii1nsphwgj5xnvzh29_normal.jpeg",
-            "twitter": "cpwt",
-            "name": "Chris Thorne",
-            "tagline": "Product Manager"
         }
     },
     {
@@ -218,12 +218,12 @@
     {
         "id": 13,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "/l/5a19d81d40",
             "name": "Wdgts",
             "tagline": "A Collection of Awesome Notification Center Widgets",
             "ph_url": "posts/wdgts",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "robjama",
