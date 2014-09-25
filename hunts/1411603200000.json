@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "16",
+            "link": "/l/31e20dbcb9",
+            "name": "Follow App",
+            "tagline": "Draw things and watch as people build on your drawing",
+            "ph_url": "posts/follow-app",
+            "comments": "1"
+        },
+        "user": {
+            "id": "rrhoover",
+            "image": "http://pbs.twimg.com/profile_images/494960585109291011/5I-gacHE_normal.jpeg",
+            "twitter": "rrhoover",
+            "name": "Ryan Hoover",
+            "tagline": "Product Hunt"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "17",
             "link": "/l/ba524d6067",
             "name": "Snap Me Now",
@@ -33,24 +51,6 @@
             "twitter": "bobrenjc93",
             "name": "Bob Ren",
             "tagline": ""
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "15",
-            "link": "/l/31e20dbcb9",
-            "name": "Follow App",
-            "tagline": "Draw things and watch as people build on your drawing",
-            "ph_url": "posts/follow-app",
-            "comments": "1"
-        },
-        "user": {
-            "id": "rrhoover",
-            "image": "http://pbs.twimg.com/profile_images/494960585109291011/5I-gacHE_normal.jpeg",
-            "twitter": "rrhoover",
-            "name": "Ryan Hoover",
-            "tagline": "Product Hunt"
         }
     },
     {
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "12",
+            "votes": "13",
             "link": "/l/1e61bff814",
             "name": "8 bit weather",
             "tagline": "An 8bit weather app that tells you whats appropriate to wear",
