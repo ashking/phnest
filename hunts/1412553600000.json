@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "/l/581a44c1e9",
             "name": "Font Awesome",
             "tagline": "A font of scalable vector icons",
@@ -38,6 +38,24 @@
     {
         "id": 3,
         "post": {
+            "votes": "14",
+            "link": "/l/4b58c6cb82",
+            "name": "YoSold",
+            "tagline": "Get a Yo when a start-up gets acquired",
+            "ph_url": "posts/yosold",
+            "comments": "1"
+        },
+        "user": {
+            "id": "SkyWiiz",
+            "image": "https://pbs.twimg.com/profile_images/508975234305634304/4lPvyAVC_normal.png",
+            "twitter": "SkyWiiz",
+            "name": "Clément",
+            "tagline": "Startups acquisitions&#39; hunter"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
             "votes": "6",
             "link": "/l/50a200540c",
             "name": "M. Andreessen Tweetstorms",
@@ -51,24 +69,6 @@
             "twitter": "jberrebi",
             "name": "Jeremie Berrebi",
             "tagline": "Co-Founder, Kima Ventures - Investing in 2 startups a Week ;-)"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "13",
-            "link": "/l/4b58c6cb82",
-            "name": "YoSold",
-            "tagline": "Get a Yo when a start-up gets acquired",
-            "ph_url": "posts/yosold",
-            "comments": "1"
-        },
-        "user": {
-            "id": "SkyWiiz",
-            "image": "https://pbs.twimg.com/profile_images/508975234305634304/4lPvyAVC_normal.png",
-            "twitter": "SkyWiiz",
-            "name": "Clément",
-            "tagline": "Startups acquisitions&#39; hunter"
         }
     },
     {
@@ -93,24 +93,6 @@
         "id": 6,
         "post": {
             "votes": "3",
-            "link": "/l/0a763f022e",
-            "name": "Anura",
-            "tagline": "A sub $200 pocket sized drone",
-            "ph_url": "posts/anura",
-            "comments": "1"
-        },
-        "user": {
-            "id": "bramk",
-            "image": "http://pbs.twimg.com/profile_images/518443702146969601/5Z5IDYJE_normal.jpeg",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Startup Strategy &amp; Product Development"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "2",
             "link": "/l/b7dc4e77f8",
             "name": "Streamline",
             "tagline": "1600+ Vector Icons for Designers &amp; Developers",
@@ -126,9 +108,27 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "3",
+            "link": "/l/0a763f022e",
+            "name": "Anura",
+            "tagline": "A sub $200 pocket sized drone",
+            "ph_url": "posts/anura",
+            "comments": "1"
+        },
+        "user": {
+            "id": "bramk",
+            "image": "http://pbs.twimg.com/profile_images/518443702146969601/5Z5IDYJE_normal.jpeg",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Startup Strategy &amp; Product Development"
+        }
+    },
+    {
         "id": 8,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "/l/810d1d3890",
             "name": "UX Companion",
             "tagline": "A handy glossary of UX theories, tools and principles (iOS)",
