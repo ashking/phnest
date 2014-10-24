@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "114",
+            "votes": "115",
             "link": "/l/01fb17359c",
             "name": "Learn X in Y minutes",
             "tagline": "Take a tour of your next favorite programming language",
@@ -218,6 +218,24 @@
     {
         "id": 13,
         "post": {
+            "votes": "33",
+            "link": "/l/a121404317",
+            "name": "GoCode",
+            "tagline": "Become a developer in 8 weeks",
+            "ph_url": "posts/gocode",
+            "comments": "2"
+        },
+        "user": {
+            "id": "eriktorenberg",
+            "image": "https://pbs.twimg.com/profile_images/456217508668657664/n3MLu9Yv_normal.jpeg",
+            "twitter": "eriktorenberg",
+            "name": "Erik Torenberg",
+            "tagline": "Product Hunt"
+        }
+    },
+    {
+        "id": 14,
+        "post": {
             "votes": "53",
             "link": "/l/22a626cbc8",
             "name": "Entrepreneur Life T-Shirt",
@@ -231,24 +249,6 @@
             "twitter": "petershankman",
             "name": "Peter Shankman",
             "tagline": "CEO, The Geek Factory, Inc."
-        }
-    },
-    {
-        "id": 14,
-        "post": {
-            "votes": "32",
-            "link": "/l/a121404317",
-            "name": "GoCode",
-            "tagline": "Become a developer in 8 weeks",
-            "ph_url": "posts/gocode",
-            "comments": "2"
-        },
-        "user": {
-            "id": "eriktorenberg",
-            "image": "https://pbs.twimg.com/profile_images/456217508668657664/n3MLu9Yv_normal.jpeg",
-            "twitter": "eriktorenberg",
-            "name": "Erik Torenberg",
-            "tagline": "Product Hunt"
         }
     },
     {
@@ -290,24 +290,6 @@
     {
         "id": 17,
         "post": {
-            "votes": "30",
-            "link": "/l/76d259b7b8",
-            "name": "VisualCV",
-            "tagline": "A better way to build resumes for web and print",
-            "ph_url": "posts/visualcv",
-            "comments": "1"
-        },
-        "user": {
-            "id": "bramk",
-            "image": "http://pbs.twimg.com/profile_images/518443702146969601/5Z5IDYJE_normal.jpeg",
-            "twitter": "bramk",
-            "name": "Bram Kanstein",
-            "tagline": "Entrepreneurial early adopter"
-        }
-    },
-    {
-        "id": 18,
-        "post": {
             "votes": "58",
             "link": "/l/2c644d7309",
             "name": "London Datastore",
@@ -321,6 +303,24 @@
             "twitter": "_jamesmundy",
             "name": "James Mundy",
             "tagline": "Founder, Foundbite"
+        }
+    },
+    {
+        "id": 18,
+        "post": {
+            "votes": "30",
+            "link": "/l/76d259b7b8",
+            "name": "VisualCV",
+            "tagline": "A better way to build resumes for web and print",
+            "ph_url": "posts/visualcv",
+            "comments": "1"
+        },
+        "user": {
+            "id": "bramk",
+            "image": "http://pbs.twimg.com/profile_images/518443702146969601/5Z5IDYJE_normal.jpeg",
+            "twitter": "bramk",
+            "name": "Bram Kanstein",
+            "tagline": "Entrepreneurial early adopter"
         }
     },
     {
@@ -565,7 +565,7 @@
             "name": "Chew",
             "tagline": "Weekly customized gum deliveries",
             "ph_url": "posts/chew",
-            "comments": "6"
+            "comments": "7"
         },
         "user": {
             "id": "theforthwall",
