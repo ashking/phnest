@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "245",
+            "link": "/l/4814491a79",
+            "name": "Meteor 1.0",
+            "tagline": "Build apps faster than you ever thought possible",
+            "ph_url": "posts/meteor-1-0",
+            "comments": "7"
+        },
+        "user": {
+            "id": "_jacksmith",
+            "image": "http://pbs.twimg.com/profile_images/505259361157910529/022ehIu4_normal.png",
+            "twitter": "_jacksmith",
+            "name": "Jack Smith",
+            "tagline": "Co-Founded Vungle - Advisor to Coin"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "289",
             "link": "/l/9b42314787",
             "name": "Reserve",
@@ -33,24 +51,6 @@
             "twitter": "andyfortson",
             "name": "Andy Fortson",
             "tagline": "Startup growth and marketing"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "244",
-            "link": "/l/4814491a79",
-            "name": "Meteor 1.0",
-            "tagline": "Build apps faster than you ever thought possible",
-            "ph_url": "posts/meteor-1-0",
-            "comments": "7"
-        },
-        "user": {
-            "id": "_jacksmith",
-            "image": "http://pbs.twimg.com/profile_images/505259361157910529/022ehIu4_normal.png",
-            "twitter": "_jacksmith",
-            "name": "Jack Smith",
-            "tagline": "Co-Founded Vungle - Advisor to Coin"
         }
     },
     {
@@ -560,7 +560,7 @@
     {
         "id": 32,
         "post": {
-            "votes": "16",
+            "votes": "17",
             "link": "/l/43c6f100b4",
             "name": "Swagger",
             "tagline": "The World&#39;s Most Popular Framework for APIs.",
