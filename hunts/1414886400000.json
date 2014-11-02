@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "10",
+            "votes": "11",
             "link": "/l/3b7ad3d70b",
             "name": "Nimble Sense",
             "tagline": "Bring your hands into virtual reality.",
@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "14",
+            "link": "/l/c196397fb6",
+            "name": "Mac To The Future Bundle",
+            "tagline": "8 OSX apps for $29,99",
+            "ph_url": "posts/mac-to-the-future-bundle",
+            "comments": "2"
+        },
+        "user": {
+            "id": "emieljanson",
+            "image": "https://pbs.twimg.com/profile_images/439687165304635393/Z5jt6MTC_normal.jpeg",
+            "twitter": "emieljanson",
+            "name": "Emiel Janson",
+            "tagline": "Designer, emiel.io"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "7",
             "link": "/l/a048b19e31",
             "name": "The Internet Arcade",
@@ -33,24 +51,6 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "13",
-            "link": "/l/c196397fb6",
-            "name": "Mac To The Future Bundle",
-            "tagline": "8 OSX apps for $29,99",
-            "ph_url": "posts/mac-to-the-future-bundle",
-            "comments": "2"
-        },
-        "user": {
-            "id": "emieljanson",
-            "image": "https://pbs.twimg.com/profile_images/439687165304635393/Z5jt6MTC_normal.jpeg",
-            "twitter": "emieljanson",
-            "name": "Emiel Janson",
-            "tagline": "Designer, emiel.io"
         }
     },
     {
@@ -79,7 +79,7 @@
             "name": "Bitnami",
             "tagline": "Run server apps and development environments in one click",
             "ph_url": "posts/bitnami",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "erictwillis",
