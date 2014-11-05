@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "48",
+            "link": "/l/3cd24eadb4",
+            "name": "Shoot",
+            "tagline": "The better business card.",
+            "ph_url": "posts/shoot",
+            "comments": "9"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://aws.hunt-cdn.com/profile_image/66055/1414981696-AdUOLXMf30.jpeg",
+            "twitter": "bkrall",
+            "name": "BRAINS Krall",
+            "tagline": "Sr. Front-End Developer, Sideproject.io"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "47",
             "link": "/l/66e70e404c",
             "name": "iOS Hat",
@@ -87,24 +105,6 @@
             "twitter": "bracco",
             "name": "Mike Bracco",
             "tagline": "Sr. Product Manager, JibJab"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "47",
-            "link": "/l/3cd24eadb4",
-            "name": "Shoot",
-            "tagline": "The better business card.",
-            "ph_url": "posts/shoot",
-            "comments": "9"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://aws.hunt-cdn.com/profile_image/66055/1414981696-AdUOLXMf30.jpeg",
-            "twitter": "bkrall",
-            "name": "BRAINS Krall",
-            "tagline": "Sr. Front-End Developer, Sideproject.io"
         }
     },
     {
@@ -218,7 +218,7 @@
     {
         "id": 13,
         "post": {
-            "votes": "21",
+            "votes": "22",
             "link": "/l/c14568ed51",
             "name": "Fonts In Use",
             "tagline": "Type in the real world: an amazing archive of typography.",
