@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "93",
+            "link": "/l/fcacf58af1",
+            "name": "The Mobile Playbook",
+            "tagline": "Explains all the reasons to create a mobile-first experience",
+            "ph_url": "posts/the-mobile-playbook",
+            "comments": "3"
+        },
+        "user": {
+            "id": "bkrall",
+            "image": "http://aws.hunt-cdn.com/profile_image/66055/1414981696-AdUOLXMf30.jpeg",
+            "twitter": "bkrall",
+            "name": "Brian Krall",
+            "tagline": "Sr. Front-End Developer, Sideproject.io"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "97",
             "link": "/l/e35656973c",
             "name": "Paul Graham Essays Search",
@@ -33,24 +51,6 @@
             "twitter": "erictwillis",
             "name": "Eric Willis",
             "tagline": "Founder, Near Inc. "
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "92",
-            "link": "/l/fcacf58af1",
-            "name": "The Mobile Playbook",
-            "tagline": "Explains all the reasons to create a mobile-first experience",
-            "ph_url": "posts/the-mobile-playbook",
-            "comments": "2"
-        },
-        "user": {
-            "id": "bkrall",
-            "image": "http://aws.hunt-cdn.com/profile_image/66055/1414981696-AdUOLXMf30.jpeg",
-            "twitter": "bkrall",
-            "name": "Brian Krall",
-            "tagline": "Sr. Front-End Developer, Sideproject.io"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "43",
+            "votes": "44",
             "link": "/l/d488a76b24",
             "name": "IDEO&#39;s Field Guide to HCD",
             "tagline": "Design Kit in a beautiful book format",
