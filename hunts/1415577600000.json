@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "219",
+            "votes": "222",
             "link": "/l/014a598481",
             "name": "Material UI",
             "tagline": "A CSS Framework that Implements Google&#39;s Material Design",
@@ -20,12 +20,12 @@
     {
         "id": 2,
         "post": {
-            "votes": "156",
+            "votes": "158",
             "link": "/l/ba7a0f8d4a",
             "name": "Mattermark Daily",
             "tagline": "A curated newsletter of blog posts from investors &amp; founders",
             "ph_url": "posts/mattermark-daily",
-            "comments": "14"
+            "comments": "15"
         },
         "user": {
             "id": "thinker",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "60",
+            "votes": "61",
             "link": "/l/eeffa933c6",
             "name": "Firefox Developer Edition",
             "tagline": "Built for those who build the Web",
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "95",
+            "votes": "97",
             "link": "/l/30808be200",
             "name": "Startup Utility",
             "tagline": "Categorized Startup Resources",
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "75",
+            "votes": "77",
             "link": "/l/323e51eb89",
             "name": "Amazon Filler Item Finder",
             "tagline": "For when you&#39;re just short minimum order $ needed",
@@ -182,7 +182,7 @@
     {
         "id": 11,
         "post": {
-            "votes": "24",
+            "votes": "25",
             "link": "/l/65dfb67acf",
             "name": "The Moguard",
             "tagline": "Save your &#39;stache. Happy Movember.",
@@ -200,6 +200,24 @@
     {
         "id": 12,
         "post": {
+            "votes": "55",
+            "link": "/l/c4ad2f0e92",
+            "name": "LeCollektor Hoodies",
+            "tagline": "Hoodies with interchangeable hoods from top street artists",
+            "ph_url": "posts/lecollektor-hoodies",
+            "comments": "1"
+        },
+        "user": {
+            "id": "FrankDenbow",
+            "image": "http://aws.hunt-cdn.com/profile_image/55655/1414964622-Screen_Shot_2012-01-29_at_7.06.23_PM30.png",
+            "twitter": "FrankDenbow",
+            "name": "Frank Denbow",
+            "tagline": "Founder, StartupThreads.com"
+        }
+    },
+    {
+        "id": 13,
+        "post": {
             "votes": "17",
             "link": "/l/cbba56f803",
             "name": "Cards Against Humanity",
@@ -216,27 +234,9 @@
         }
     },
     {
-        "id": 13,
-        "post": {
-            "votes": "53",
-            "link": "/l/c4ad2f0e92",
-            "name": "LeCollektor Hoodies",
-            "tagline": "Hoodies with interchangeable hoods from top street artists",
-            "ph_url": "posts/lecollektor-hoodies",
-            "comments": "1"
-        },
-        "user": {
-            "id": "FrankDenbow",
-            "image": "http://aws.hunt-cdn.com/profile_image/55655/1414964622-Screen_Shot_2012-01-29_at_7.06.23_PM30.png",
-            "twitter": "FrankDenbow",
-            "name": "Frank Denbow",
-            "tagline": "Founder, StartupThreads.com"
-        }
-    },
-    {
         "id": 14,
         "post": {
-            "votes": "26",
+            "votes": "27",
             "link": "/l/0a242b582b",
             "name": "Podcats",
             "tagline": "Discover and upvote podcasts you love",
@@ -398,6 +398,24 @@
     {
         "id": 23,
         "post": {
+            "votes": "10",
+            "link": "/l/109bdab0de",
+            "name": "University of Reddit",
+            "tagline": "Learn 1000s of new things, from Reddit",
+            "ph_url": "posts/university-of-reddit",
+            "comments": "1"
+        },
+        "user": {
+            "id": "erikfinman",
+            "image": "http://aws.hunt-cdn.com/profile_image/72238/1414987819-cQDJmWIP30.jpeg",
+            "twitter": "erikfinman",
+            "name": "Erik Finman",
+            "tagline": "CEO &amp; Founder, Botangle"
+        }
+    },
+    {
+        "id": 24,
+        "post": {
             "votes": "11",
             "link": "/l/ec4e9c9724",
             "name": "Japan Trend Shop",
@@ -411,24 +429,6 @@
             "twitter": "carlobff",
             "name": "Carlo Almendral",
             "tagline": "Product | Truition.co"
-        }
-    },
-    {
-        "id": 24,
-        "post": {
-            "votes": "9",
-            "link": "/l/109bdab0de",
-            "name": "University of Reddit",
-            "tagline": "Learn 1000s of new things, from Reddit",
-            "ph_url": "posts/university-of-reddit",
-            "comments": "1"
-        },
-        "user": {
-            "id": "erikfinman",
-            "image": "http://aws.hunt-cdn.com/profile_image/72238/1414987819-cQDJmWIP30.jpeg",
-            "twitter": "erikfinman",
-            "name": "Erik Finman",
-            "tagline": "CEO &amp; Founder, Botangle"
         }
     },
     {
@@ -542,7 +542,7 @@
     {
         "id": 31,
         "post": {
-            "votes": "9",
+            "votes": "10",
             "link": "/l/1cec60dcfa",
             "name": "Downfie",
             "tagline": "Android app that takes upside down selfies",
