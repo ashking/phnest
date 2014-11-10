@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "157",
+            "votes": "162",
             "link": "/l/014a598481",
             "name": "Material UI",
             "tagline": "A CSS Framework that Implements Google&#39;s Material Design",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "100",
+            "votes": "104",
             "link": "/l/ba7a0f8d4a",
             "name": "Mattermark Daily",
             "tagline": "A curated newsletter of blog posts from investors &amp; founders",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "46",
+            "votes": "48",
             "link": "/l/ffad662fbf",
             "name": "Raspberry Pi Model A+",
             "tagline": "Smaller, better, and cheaper: $20",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "34",
+            "votes": "35",
             "link": "/l/eeffa933c6",
             "name": "Firefox Developer Edition",
             "tagline": "Built for those who build the Web",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "65",
+            "votes": "66",
             "link": "/l/30808be200",
             "name": "Startup Utility",
             "tagline": "Categorized Startup Resources",
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "54",
+            "votes": "55",
             "link": "/l/323e51eb89",
             "name": "Amazon Filler Item Finder",
             "tagline": "For when you&#39;re just short minimum order $ needed",
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "14",
+            "link": "/l/3bed79ce4e",
+            "name": "Companion",
+            "tagline": "Walking home alone is dangerous. Stop doing it alone.",
+            "ph_url": "posts/companion",
+            "comments": "1"
+        },
+        "user": {
+            "id": "blakeir",
+            "image": "http://aws.hunt-cdn.com/profile_image/69010/1414985310-WJhsjLRI30.jpeg",
+            "twitter": "blakeir",
+            "name": "Blake Robbins",
+            "tagline": "Fall Associate, Ludlow Ventures"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "13",
             "link": "/l/dafa12feea",
             "name": "Until AM",
@@ -159,24 +177,6 @@
             "twitter": "rrhoover",
             "name": "Ryan Hoover",
             "tagline": "Product Hunt"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "12",
-            "link": "/l/3bed79ce4e",
-            "name": "Companion",
-            "tagline": "Walking home alone is dangerous. Stop doing it alone.",
-            "ph_url": "posts/companion",
-            "comments": "1"
-        },
-        "user": {
-            "id": "blakeir",
-            "image": "http://aws.hunt-cdn.com/profile_image/69010/1414985310-WJhsjLRI30.jpeg",
-            "twitter": "blakeir",
-            "name": "Blake Robbins",
-            "tagline": "Fall Associate, Ludlow Ventures"
         }
     },
     {
@@ -313,7 +313,7 @@
             "name": "Boop",
             "tagline": "Self destructing animating text messages",
             "ph_url": "posts/boop",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "erictwillis",
