@@ -115,7 +115,7 @@
             "name": "Should I Wear a Shirt?",
             "tagline": "Uses local weather data to tell you how to dress",
             "ph_url": "posts/should-i-wear-a-shirt",
-            "comments": "2"
+            "comments": "3"
         },
         "user": {
             "id": "riaface",
@@ -146,12 +146,30 @@
     {
         "id": 9,
         "post": {
+            "votes": "3",
+            "link": "/l/7c434bf122",
+            "name": "Mindscapes",
+            "tagline": "Stochastic background music generator ",
+            "ph_url": "posts/mindscapes",
+            "comments": "0"
+        },
+        "user": {
+            "id": "erictwillis",
+            "image": "http://aws.hunt-cdn.com/profile_image/69382/1414985592-wvrexvyjybx1zx9flwi730.jpeg",
+            "twitter": "erictwillis",
+            "name": "Eric Willis",
+            "tagline": "Founder, Near "
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "1",
             "link": "/l/d939df7a62",
             "name": "Banza",
             "tagline": "Pasta made from chickpeas ",
             "ph_url": "posts/banza",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "EAWharton",
@@ -162,7 +180,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 11,
         "post": {
             "votes": "7",
             "link": "/l/2a378d1cdc",
@@ -177,24 +195,6 @@
             "twitter": "riaface",
             "name": "Ria Blagburn",
             "tagline": "Co-founder, emble"
-        }
-    },
-    {
-        "id": 11,
-        "post": {
-            "votes": "2",
-            "link": "/l/7c434bf122",
-            "name": "Mindscapes",
-            "tagline": "Stochastic background music generator ",
-            "ph_url": "posts/mindscapes",
-            "comments": "0"
-        },
-        "user": {
-            "id": "erictwillis",
-            "image": "http://aws.hunt-cdn.com/profile_image/69382/1414985592-wvrexvyjybx1zx9flwi730.jpeg",
-            "twitter": "erictwillis",
-            "name": "Eric Willis",
-            "tagline": "Founder, Near "
         }
     },
     {
