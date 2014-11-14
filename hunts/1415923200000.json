@@ -97,7 +97,7 @@
             "name": "Piggyjar",
             "tagline": "Break bad habits by using friends to keep you in check",
             "ph_url": "posts/piggyjar",
-            "comments": "5"
+            "comments": "6"
         },
         "user": {
             "id": "xenophin",
@@ -164,12 +164,30 @@
     {
         "id": 10,
         "post": {
+            "votes": "10",
+            "link": "/l/fa16088144",
+            "name": "Transcribe",
+            "tagline": "A great audio to text tool for journalists",
+            "ph_url": "posts/transcribe",
+            "comments": "1"
+        },
+        "user": {
+            "id": "riaface",
+            "image": "http://aws.hunt-cdn.com/profile_image/99444/1415908630-fXzJdjIs30.jpeg",
+            "twitter": "riaface",
+            "name": "Ria Blagburn",
+            "tagline": "Co-founder, emble"
+        }
+    },
+    {
+        "id": 11,
+        "post": {
             "votes": "1",
             "link": "/l/e2a885a35d",
             "name": "Creator",
             "tagline": "Free live prototyping tool to build better ionic apps",
             "ph_url": "posts/creator",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "erictwillis",
@@ -180,7 +198,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 12,
         "post": {
             "votes": "1",
             "link": "/l/48b6609854",
@@ -198,11 +216,11 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "post": {
             "votes": "3",
             "link": "/l/2d282c100d",
-            "name": "Dash API Docs",
+            "name": "Dash API Docs (iOS)",
             "tagline": "Instant search and offline access to 150+ APIs on iOS",
             "ph_url": "posts/dash-api-docs",
             "comments": "1"
@@ -213,24 +231,6 @@
             "twitter": "robjama",
             "name": "Robleh",
             "tagline": "Founder, Tiny Hearts"
-        }
-    },
-    {
-        "id": 13,
-        "post": {
-            "votes": "9",
-            "link": "/l/fa16088144",
-            "name": "Transcribe",
-            "tagline": "A great audio to text tool for journalists",
-            "ph_url": "posts/transcribe",
-            "comments": "1"
-        },
-        "user": {
-            "id": "riaface",
-            "image": "http://aws.hunt-cdn.com/profile_image/99444/1415908630-fXzJdjIs30.jpeg",
-            "twitter": "riaface",
-            "name": "Ria Blagburn",
-            "tagline": "Co-founder, emble"
         }
     },
     {
