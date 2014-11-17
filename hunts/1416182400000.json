@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "8",
+            "votes": "10",
             "link": "/l/d68e843e90",
             "name": "Ocean",
             "tagline": "A Community of Designers Sharing Feedback",
             "ph_url": "posts/ocean",
-            "comments": "1"
+            "comments": "2"
         },
         "user": {
             "id": "erikfinman",
@@ -19,6 +19,24 @@
     },
     {
         "id": 2,
+        "post": {
+            "votes": "2",
+            "link": "/l/6e1e33802a",
+            "name": "Powtoon Slides",
+            "tagline": "Impress with Elegant Design and Stunning animated Templates",
+            "ph_url": "posts/powtoon-slides",
+            "comments": "1"
+        },
+        "user": {
+            "id": "jberrebi",
+            "image": "//aws.hunt-cdn.com/profile_image/82163/1415027862-jberrebi30.jpg",
+            "twitter": "jberrebi",
+            "name": "Jeremie Berrebi",
+            "tagline": "Angel Investor, Kima Ventures"
+        }
+    },
+    {
+        "id": 3,
         "post": {
             "votes": "1",
             "link": "/l/6284257f9f",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "1",
             "link": "/l/ce561146ec",
@@ -51,24 +69,6 @@
             "twitter": "willimholte",
             "name": "Will Imholte",
             "tagline": "Designer, Prime"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "1",
-            "link": "/l/6e1e33802a",
-            "name": "Powtoon Slides",
-            "tagline": "Impress with Elegant Design and Stunning animated Templates",
-            "ph_url": "posts/powtoon-slides",
-            "comments": "0"
-        },
-        "user": {
-            "id": "jberrebi",
-            "image": "//aws.hunt-cdn.com/profile_image/82163/1415027862-jberrebi30.jpg",
-            "twitter": "jberrebi",
-            "name": "Jeremie Berrebi",
-            "tagline": "Angel Investor, Kima Ventures"
         }
     }
 ]
