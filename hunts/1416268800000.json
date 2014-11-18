@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "160",
+            "votes": "162",
             "link": "/l/45716e5220",
             "name": "Justworks",
             "tagline": "HR department for your startup",
@@ -38,12 +38,12 @@
     {
         "id": 3,
         "post": {
-            "votes": "91",
+            "votes": "93",
             "link": "/l/e7a9a5d424",
             "name": "Alfred",
             "tagline": "Take care of weekly errands without doing them yourself",
             "ph_url": "posts/alfred-3",
-            "comments": "8"
+            "comments": "9"
         },
         "user": {
             "id": "kwdinc",
@@ -55,6 +55,24 @@
     },
     {
         "id": 4,
+        "post": {
+            "votes": "115",
+            "link": "/l/6146458961",
+            "name": "Minbox 3",
+            "tagline": "The next chapter in file sharing",
+            "ph_url": "posts/minbox-3",
+            "comments": "14"
+        },
+        "user": {
+            "id": "amimran",
+            "image": "//aws.hunt-cdn.com/profile_image/83894/1415038175-b499384b82282b5bae93450b7c98d5e130.png",
+            "twitter": "amimran",
+            "name": "Alexander Mimran",
+            "tagline": "Founder, Minbox"
+        }
+    },
+    {
+        "id": 5,
         "post": {
             "votes": "119",
             "link": "/l/8934f41703",
@@ -69,24 +87,6 @@
             "twitter": "blaurenceclark",
             "name": "Brian Clark",
             "tagline": "CEO, VUE"
-        }
-    },
-    {
-        "id": 5,
-        "post": {
-            "votes": "111",
-            "link": "/l/6146458961",
-            "name": "Minbox 3",
-            "tagline": "The next chapter in file sharing",
-            "ph_url": "posts/minbox-3",
-            "comments": "9"
-        },
-        "user": {
-            "id": "amimran",
-            "image": "//aws.hunt-cdn.com/profile_image/83894/1415038175-b499384b82282b5bae93450b7c98d5e130.png",
-            "twitter": "amimran",
-            "name": "Alexander Mimran",
-            "tagline": "Founder, Minbox"
         }
     },
     {
@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "48",
+            "link": "/l/8226aa5b7e",
+            "name": "Coinbase Tip Button",
+            "tagline": "One-click micropayments for creators",
+            "ph_url": "posts/coinbase-tip-button",
+            "comments": "8"
+        },
+        "user": {
+            "id": "ntmoney",
+            "image": "//aws.hunt-cdn.com/profile_image/75316/1416266110-f48e20c25604e162a2634f9ffa9b851730.jpeg",
+            "twitter": "ntmoney",
+            "name": "Nick Tomaino",
+            "tagline": "Business Development, Coinbase"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "65",
             "link": "/l/9634f91a59",
             "name": "Nokia N1",
@@ -123,24 +141,6 @@
             "twitter": "djug",
             "name": "Youghourta Benali",
             "tagline": "Founder, Passwordless"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "46",
-            "link": "/l/8226aa5b7e",
-            "name": "Coinbase Tip Button",
-            "tagline": "One-click micropayments for creators",
-            "ph_url": "posts/coinbase-tip-button",
-            "comments": "8"
-        },
-        "user": {
-            "id": "ntmoney",
-            "image": "//aws.hunt-cdn.com/profile_image/75316/1416266110-f48e20c25604e162a2634f9ffa9b851730.jpeg",
-            "twitter": "ntmoney",
-            "name": "Nick Tomaino",
-            "tagline": "Business Development, Coinbase"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "62",
+            "votes": "63",
             "link": "/l/2b33a6a147",
             "name": "SpringRole",
             "tagline": "Peer referral recruiting marketplace",
@@ -290,25 +290,7 @@
     {
         "id": 17,
         "post": {
-            "votes": "27",
-            "link": "/l/9b5d687d2d",
-            "name": "Allclasses",
-            "tagline": "Search thousands of local and online classes (iOS)",
-            "ph_url": "posts/allclasses-for-ios",
-            "comments": "1"
-        },
-        "user": {
-            "id": "Chad_Lovell",
-            "image": "//aws.hunt-cdn.com/profile_image/78055/1416311390-b68ad30089c725aca1266cbf0fd4deef30.jpeg",
-            "twitter": "Chad_Lovell",
-            "name": "Chad Lovell",
-            "tagline": "Co-founder &amp; COO, Allclasses.com, Inc."
-        }
-    },
-    {
-        "id": 18,
-        "post": {
-            "votes": "11",
+            "votes": "13",
             "link": "/l/10e0fce79e",
             "name": "Eat This Much",
             "tagline": "Automate your diet, eat better in less time",
@@ -324,7 +306,43 @@
         }
     },
     {
+        "id": 18,
+        "post": {
+            "votes": "28",
+            "link": "/l/9b5d687d2d",
+            "name": "Allclasses",
+            "tagline": "Search thousands of local and online classes (iOS)",
+            "ph_url": "posts/allclasses-for-ios",
+            "comments": "1"
+        },
+        "user": {
+            "id": "Chad_Lovell",
+            "image": "//aws.hunt-cdn.com/profile_image/78055/1416311390-b68ad30089c725aca1266cbf0fd4deef30.jpeg",
+            "twitter": "Chad_Lovell",
+            "name": "Chad Lovell",
+            "tagline": "Co-founder &amp; COO, Allclasses.com, Inc."
+        }
+    },
+    {
         "id": 19,
+        "post": {
+            "votes": "8",
+            "link": "/l/6ca705b83c",
+            "name": "Link Hubb",
+            "tagline": "Share all links in one place",
+            "ph_url": "posts/link-hubb",
+            "comments": "2"
+        },
+        "user": {
+            "id": "murraymuzz",
+            "image": "//aws.hunt-cdn.com/profile_image/3145/1414889016-91343243c705efd90f953d611b70cb2b30.jpeg",
+            "twitter": "murraymuzz",
+            "name": "Daniel Murray",
+            "tagline": "Co Founder, Grabble"
+        }
+    },
+    {
+        "id": 20,
         "post": {
             "votes": "22",
             "link": "/l/6970d9f40a",
@@ -342,7 +360,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 21,
         "post": {
             "votes": "3",
             "link": "/l/35d01fa080",
@@ -357,24 +375,6 @@
             "twitter": "erictwillis",
             "name": "Eric Willis",
             "tagline": "Founder, Near "
-        }
-    },
-    {
-        "id": 21,
-        "post": {
-            "votes": "7",
-            "link": "/l/6ca705b83c",
-            "name": "Link Hubb",
-            "tagline": "Share all links in one place",
-            "ph_url": "posts/link-hubb",
-            "comments": "2"
-        },
-        "user": {
-            "id": "murraymuzz",
-            "image": "//aws.hunt-cdn.com/profile_image/3145/1414889016-91343243c705efd90f953d611b70cb2b30.jpeg",
-            "twitter": "murraymuzz",
-            "name": "Daniel Murray",
-            "tagline": "Co Founder, Grabble"
         }
     },
     {
