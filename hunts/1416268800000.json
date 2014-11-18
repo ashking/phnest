@@ -20,6 +20,24 @@
     {
         "id": 2,
         "post": {
+            "votes": "52",
+            "link": "/l/8934f41703",
+            "name": "Intro",
+            "tagline": "Easiest way to intro yourself. Killing the business card.",
+            "ph_url": "posts/intro-ios",
+            "comments": "9"
+        },
+        "user": {
+            "id": "blaurenceclark",
+            "image": "//aws.hunt-cdn.com/profile_image/67569/1414983595-zWb2dWZY30.png",
+            "twitter": "blaurenceclark",
+            "name": "Brian Clark",
+            "tagline": "CEO, VUE"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
             "votes": "42",
             "link": "/l/9634f91a59",
             "name": "Nokia N1",
@@ -33,24 +51,6 @@
             "twitter": "djug",
             "name": "Youghourta Benali",
             "tagline": "Founder, Passwordless"
-        }
-    },
-    {
-        "id": 3,
-        "post": {
-            "votes": "50",
-            "link": "/l/8934f41703",
-            "name": "Intro",
-            "tagline": "Easiest way to intro yourself. Killing the business card.",
-            "ph_url": "posts/intro-ios",
-            "comments": "9"
-        },
-        "user": {
-            "id": "blaurenceclark",
-            "image": "//aws.hunt-cdn.com/profile_image/67569/1414983595-zWb2dWZY30.png",
-            "twitter": "blaurenceclark",
-            "name": "Brian Clark",
-            "tagline": "CEO, VUE"
         }
     },
     {
@@ -92,25 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "33",
-            "link": "/l/5fecb4337f",
-            "name": "Sharetribe",
-            "tagline": "The easiest way to start a marketplace business",
-            "ph_url": "posts/sharetribe",
-            "comments": "3"
-        },
-        "user": {
-            "id": "marckohlbrugge",
-            "image": "//aws.hunt-cdn.com/profile_image/98738/1415115421-metWIEspreekik30.png",
-            "twitter": "marckohlbrugge",
-            "name": "Marc Köhlbrugge",
-            "tagline": "Founder of BetaList"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "13",
+            "votes": "15",
             "link": "/l/6146458961",
             "name": "Minbox 3",
             "tagline": "The next chapter in file sharing",
@@ -126,9 +108,27 @@
         }
     },
     {
+        "id": 7,
+        "post": {
+            "votes": "34",
+            "link": "/l/5fecb4337f",
+            "name": "Sharetribe",
+            "tagline": "The easiest way to start a marketplace business",
+            "ph_url": "posts/sharetribe",
+            "comments": "3"
+        },
+        "user": {
+            "id": "marckohlbrugge",
+            "image": "//aws.hunt-cdn.com/profile_image/98738/1415115421-metWIEspreekik30.png",
+            "twitter": "marckohlbrugge",
+            "name": "Marc Köhlbrugge",
+            "tagline": "Founder of BetaList"
+        }
+    },
+    {
         "id": 8,
         "post": {
-            "votes": "18",
+            "votes": "20",
             "link": "/l/2b33a6a147",
             "name": "SpringRole",
             "tagline": "Peer referral recruiting marketplace",
@@ -151,7 +151,7 @@
             "name": "Cushion",
             "tagline": "Project planning &amp; managing for designers / devs (paid beta)",
             "ph_url": "posts/cushion",
-            "comments": "4"
+            "comments": "5"
         },
         "user": {
             "id": "Larkef",
@@ -236,7 +236,7 @@
     {
         "id": 14,
         "post": {
-            "votes": "1",
+            "votes": "3",
             "link": "/l/8226aa5b7e",
             "name": "Coinbase Tip Button",
             "tagline": "One-click micropayments for creators",
@@ -362,24 +362,6 @@
     {
         "id": 21,
         "post": {
-            "votes": "4",
-            "link": "/l/0067ba9283",
-            "name": "YoNews",
-            "tagline": "Yo it your way through tech news",
-            "ph_url": "posts/yonews",
-            "comments": "1"
-        },
-        "user": {
-            "id": "SkyWiiz",
-            "image": "//aws.hunt-cdn.com/profile_image/83744/1415036660-4lPvyAVC30.png",
-            "twitter": "SkyWiiz",
-            "name": "Clément",
-            "tagline": "Co-Founder, Nalyze"
-        }
-    },
-    {
-        "id": 22,
-        "post": {
             "votes": "29",
             "link": "/l/f39a54e247",
             "name": "Airportr",
@@ -396,7 +378,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 22,
         "post": {
             "votes": "1",
             "link": "/l/f4feccc194",
@@ -414,7 +396,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 23,
         "post": {
             "votes": "7",
             "link": "/l/2cee379342",
@@ -429,6 +411,24 @@
             "twitter": "wheatpond",
             "name": "Eric Meltzer",
             "tagline": "founder, the open company"
+        }
+    },
+    {
+        "id": 24,
+        "post": {
+            "votes": "4",
+            "link": "/l/0067ba9283",
+            "name": "YoNews",
+            "tagline": "Yo it your way through tech news",
+            "ph_url": "posts/yonews",
+            "comments": "1"
+        },
+        "user": {
+            "id": "SkyWiiz",
+            "image": "//aws.hunt-cdn.com/profile_image/83744/1415036660-4lPvyAVC30.png",
+            "twitter": "SkyWiiz",
+            "name": "Clément",
+            "tagline": "Co-Founder, Nalyze"
         }
     }
 ]
