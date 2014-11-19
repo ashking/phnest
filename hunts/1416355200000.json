@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "110",
+            "votes": "112",
             "link": "/l/17018586d3",
             "name": "Partytime",
             "tagline": "A party in your iMessage",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "33",
+            "votes": "34",
             "link": "/l/c5821052d3",
             "name": "Atomic",
             "tagline": "Interface Design Prototyping + Collaboration",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "33",
+            "votes": "35",
             "link": "/l/e33fe41cba",
             "name": "Drubbbler",
             "tagline": "Buffer for Dribbble. Schedule your posts.",
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "24",
+            "votes": "25",
             "link": "/l/3411a06e8c",
             "name": "LexShares",
             "tagline": "Crowdfunding for lawsuits. ",
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "19",
+            "votes": "20",
             "link": "/l/49a96e2d08",
             "name": "Curator",
             "tagline": "The visual notes app, now on iPhone!",
@@ -147,6 +147,24 @@
         "id": 9,
         "post": {
             "votes": "5",
+            "link": "/l/eaa0dfbec4",
+            "name": "Muna",
+            "tagline": "Your personnal paperboy",
+            "ph_url": "posts/muna",
+            "comments": "2"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "//aws.hunt-cdn.com/profile_image/98758/1415115448-243c157d4fb92e06467b3ea1536eb1cd30.jpeg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Entrepreneur - Entrepreneurloop.com"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
+            "votes": "5",
             "link": "/l/13a3805a87",
             "name": "RawGit",
             "tagline": "Use .css, .js and other files directly from GitHub",
@@ -159,24 +177,6 @@
             "twitter": "andreaspizsa",
             "name": "Andreas Pizsa",
             "tagline": "Developer · Builder · Lifesignal.io"
-        }
-    },
-    {
-        "id": 10,
-        "post": {
-            "votes": "4",
-            "link": "/l/eaa0dfbec4",
-            "name": "Muna",
-            "tagline": "Your personnal paperboy",
-            "ph_url": "posts/muna",
-            "comments": "1"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "//aws.hunt-cdn.com/profile_image/98758/1415115448-243c157d4fb92e06467b3ea1536eb1cd30.jpeg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Entrepreneur - Entrepreneurloop.com"
         }
     },
     {
@@ -241,7 +241,7 @@
             "name": "Talkto",
             "tagline": "Virtual assistant you chat with to get local recommendations",
             "ph_url": "posts/talkto-2",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "kwdinc",
