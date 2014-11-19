@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "8",
+            "votes": "9",
             "link": "/l/3411a06e8c",
             "name": "LexShares",
             "tagline": "Crowdfunding for lawsuits. ",
@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "3",
+            "link": "/l/49a96e2d08",
+            "name": "Curator",
+            "tagline": "The visual notes app, now on iPhone!",
+            "ph_url": "posts/curator-2",
+            "comments": "1"
+        },
+        "user": {
+            "id": "gregoiregilbert",
+            "image": "//aws.hunt-cdn.com/profile_image/98758/1415115448-243c157d4fb92e06467b3ea1536eb1cd30.jpeg",
+            "twitter": "gregoiregilbert",
+            "name": "Grégoire Gilbert",
+            "tagline": "Entrepreneur - Entrepreneurloop.com"
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "6",
             "link": "/l/8bf44f8232",
             "name": "Never Alone Game",
@@ -90,7 +108,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 7,
         "post": {
             "votes": "8",
             "link": "/l/b5a66ace3b",
@@ -105,24 +123,6 @@
             "twitter": "colemercer",
             "name": "Cole Mercer",
             "tagline": "Product Manager in NYC"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "2",
-            "link": "/l/49a96e2d08",
-            "name": "Curator",
-            "tagline": "The visual notes app, now on iPhone!",
-            "ph_url": "posts/curator-2",
-            "comments": "1"
-        },
-        "user": {
-            "id": "gregoiregilbert",
-            "image": "//aws.hunt-cdn.com/profile_image/98758/1415115448-243c157d4fb92e06467b3ea1536eb1cd30.jpeg",
-            "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert",
-            "tagline": "Entrepreneur - Entrepreneurloop.com"
         }
     },
     {
@@ -146,6 +146,24 @@
     {
         "id": 9,
         "post": {
+            "votes": "2",
+            "link": "/l/56585d017a",
+            "name": "BulkDelete",
+            "tagline": "Quickly delete photos &amp; video from your iOS camera roll.",
+            "ph_url": "posts/bulkdelete",
+            "comments": "1"
+        },
+        "user": {
+            "id": "Larkef",
+            "image": "//aws.hunt-cdn.com/profile_image/99643/1415116826--2EGNjN430.jpeg",
+            "twitter": "Larkef",
+            "name": "Jord Riekwel",
+            "tagline": "Logo Designer"
+        }
+    },
+    {
+        "id": 10,
+        "post": {
             "votes": "1",
             "link": "/l/c85fa9495d",
             "name": "Banter",
@@ -162,43 +180,7 @@
         }
     },
     {
-        "id": 10,
-        "post": {
-            "votes": "1",
-            "link": "/l/56585d017a",
-            "name": "BulkDelete",
-            "tagline": "Quickly delete photos &amp; video from your iOS camera roll.",
-            "ph_url": "posts/bulkdelete",
-            "comments": "1"
-        },
-        "user": {
-            "id": "Larkef",
-            "image": "//aws.hunt-cdn.com/profile_image/99643/1415116826--2EGNjN430.jpeg",
-            "twitter": "Larkef",
-            "name": "Jord Riekwel",
-            "tagline": "Logo Designer"
-        }
-    },
-    {
         "id": 11,
-        "post": {
-            "votes": "39",
-            "link": "/l/6959f49077",
-            "name": "Score with Friends",
-            "tagline": "Choose a team, watch the game, score with friends",
-            "ph_url": "posts/score-with-friends",
-            "comments": "2"
-        },
-        "user": {
-            "id": "benhoffman_",
-            "image": "//aws.hunt-cdn.com/profile_image/69707/1414985847-KRWYlA0u30.jpeg",
-            "twitter": "benhoffman_",
-            "name": "Benjamin Hoffman",
-            "tagline": "Maven Ventures"
-        }
-    },
-    {
-        "id": 12,
         "post": {
             "votes": "2",
             "link": "/l/60e2d3746b",
@@ -213,6 +195,24 @@
             "twitter": "sterlingtoth",
             "name": "Sterling Toth",
             "tagline": "Co-creator of EpicMealTime, CEO @GotHear"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
+            "votes": "37",
+            "link": "/l/6959f49077",
+            "name": "Score with Friends",
+            "tagline": "Choose a team, watch the game, score with friends",
+            "ph_url": "posts/score-with-friends",
+            "comments": "2"
+        },
+        "user": {
+            "id": "benhoffman_",
+            "image": "//aws.hunt-cdn.com/profile_image/69707/1414985847-KRWYlA0u30.jpeg",
+            "twitter": "benhoffman_",
+            "name": "Benjamin Hoffman",
+            "tagline": "Maven Ventures"
         }
     }
 ]
