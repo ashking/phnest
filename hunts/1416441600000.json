@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "79",
+            "votes": "81",
             "link": "/l/78060f13bd",
             "name": "Milk by Honey",
             "tagline": "Grocery coupons clipped for you automatically",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "33",
+            "link": "/l/ccc67704eb",
+            "name": "Next Glass",
+            "tagline": "This app knows if you&#39;ll like a beer by scanning the label",
+            "ph_url": "posts/next-glass",
+            "comments": "3"
+        },
+        "user": {
+            "id": "d2burke",
+            "image": "//aws.hunt-cdn.com/profile_image/32214/1416444154-93f4c0a5dd8e6e0e8a1eb47055277fc130.jpeg",
+            "twitter": "d2burke",
+            "name": "Daniel Burke",
+            "tagline": "iOS Developer, Norfolk VA"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "127",
             "link": "/l/3448fc5a05",
             "name": "Pie",
@@ -108,7 +126,25 @@
         }
     },
     {
-        "id": 7,
+        "id": 8,
+        "post": {
+            "votes": "20",
+            "link": "/l/d39a38f4b1",
+            "name": "Camoji 2.0",
+            "tagline": "Camoji made some new friends!",
+            "ph_url": "posts/camoji-2-0",
+            "comments": "1"
+        },
+        "user": {
+            "id": "car1os",
+            "image": "//aws.hunt-cdn.com/profile_image/73252/1416413733-t762jhcozdw62oxrn6u430.jpeg",
+            "twitter": "car1os",
+            "name": "carlos whitt",
+            "tagline": "CEO, Leo "
+        }
+    },
+    {
+        "id": 9,
         "post": {
             "votes": "31",
             "link": "/l/404ac9edff",
@@ -123,42 +159,6 @@
             "twitter": "eriktorenberg",
             "name": "Erik Torenberg",
             "tagline": "Product Hunt"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "32",
-            "link": "/l/ccc67704eb",
-            "name": "Next Glass",
-            "tagline": "This app knows if you&#39;ll like a beer by scanning the label",
-            "ph_url": "posts/next-glass",
-            "comments": "3"
-        },
-        "user": {
-            "id": "d2burke",
-            "image": "//aws.hunt-cdn.com/profile_image/32214/1416444154-93f4c0a5dd8e6e0e8a1eb47055277fc130.jpeg",
-            "twitter": "d2burke",
-            "name": "Daniel Burke",
-            "tagline": "iOS Developer, Norfolk VA"
-        }
-    },
-    {
-        "id": 9,
-        "post": {
-            "votes": "19",
-            "link": "/l/d39a38f4b1",
-            "name": "Camoji 2.0",
-            "tagline": "Camoji made some new friends!",
-            "ph_url": "posts/camoji-2-0",
-            "comments": "1"
-        },
-        "user": {
-            "id": "car1os",
-            "image": "//aws.hunt-cdn.com/profile_image/73252/1416413733-t762jhcozdw62oxrn6u430.jpeg",
-            "twitter": "car1os",
-            "name": "carlos whitt",
-            "tagline": "CEO, Leo "
         }
     },
     {
@@ -363,24 +363,6 @@
         "id": 21,
         "post": {
             "votes": "2",
-            "link": "/l/24ec4ae79b",
-            "name": "Umbrela",
-            "tagline": "The only smart home device you will ever need",
-            "ph_url": "posts/umbrela",
-            "comments": "0"
-        },
-        "user": {
-            "id": "erickschonfeld",
-            "image": "//aws.hunt-cdn.com/profile_image/76039/1415002666-c0FqBYn_30.png",
-            "twitter": "erickschonfeld",
-            "name": "Erick Schonfeld",
-            "tagline": "Exec Producer DEMO, Co-Founder TouchCast"
-        }
-    },
-    {
-        "id": 22,
-        "post": {
-            "votes": "1",
             "link": "/l/f68e0cceb8",
             "name": "Burner 3.0",
             "tagline": "Disposable phone numbers -- now with MMS photo support",
@@ -393,6 +375,24 @@
             "twitter": "chrismessina",
             "name": "Chris Messina™",
             "tagline": "Funemployed"
+        }
+    },
+    {
+        "id": 22,
+        "post": {
+            "votes": "2",
+            "link": "/l/24ec4ae79b",
+            "name": "Umbrela",
+            "tagline": "The only smart home device you will ever need",
+            "ph_url": "posts/umbrela",
+            "comments": "0"
+        },
+        "user": {
+            "id": "erickschonfeld",
+            "image": "//aws.hunt-cdn.com/profile_image/76039/1415002666-c0FqBYn_30.png",
+            "twitter": "erickschonfeld",
+            "name": "Erick Schonfeld",
+            "tagline": "Exec Producer DEMO, Co-Founder TouchCast"
         }
     },
     {
@@ -421,7 +421,7 @@
             "name": "Downbeats",
             "tagline": "Cut the noise, keep the sound",
             "ph_url": "posts/downbeats",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "sanjay",
