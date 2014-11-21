@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "11",
+            "link": "/l/bb953f0642",
+            "name": "Huntgram",
+            "tagline": "Discover the best content on Instagram",
+            "ph_url": "posts/huntgram",
+            "comments": "0"
+        },
+        "user": {
+            "id": "geovasiliadis",
+            "image": "//aws.hunt-cdn.com/profile_image/73489/1416517263-sbMZYnBp30.jpeg",
+            "twitter": "geovasiliadis",
+            "name": "George Vasiliadis",
+            "tagline": ""
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "7",
             "link": "/l/c8c744cb6a",
             "name": "Gigster",
@@ -15,24 +33,6 @@
             "twitter": "rogerdickey",
             "name": "Roger Dickey",
             "tagline": "Liquid Labs"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "9",
-            "link": "/l/bb953f0642",
-            "name": "Huntgram",
-            "tagline": "Discover the best content on Instagram",
-            "ph_url": "posts/huntgram",
-            "comments": "0"
-        },
-        "user": {
-            "id": "geovasiliadis",
-            "image": "//aws.hunt-cdn.com/profile_image/73489/1416517263-sbMZYnBp30.jpeg",
-            "twitter": "geovasiliadis",
-            "name": "George Vasiliadis",
-            "tagline": ""
         }
     },
     {
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "/l/c3487f24bf",
             "name": "Genghis",
             "tagline": "The single-file MongoDB admin app.",
