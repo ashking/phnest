@@ -2,12 +2,12 @@
     {
         "id": 1,
         "post": {
-            "votes": "48",
+            "votes": "49",
             "link": "/l/23d29fb577",
             "name": "Gifify",
             "tagline": "Convert any video file to an optimized animated GIF",
             "ph_url": "posts/gifify",
-            "comments": "0"
+            "comments": "1"
         },
         "user": {
             "id": "djug",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "25",
+            "votes": "26",
             "link": "/l/94cbe349b8",
             "name": "FinalBoard",
             "tagline": "Your own private dashboard",
@@ -38,7 +38,25 @@
     {
         "id": 3,
         "post": {
-            "votes": "22",
+            "votes": "13",
+            "link": "/l/b6c7dd09f0",
+            "name": "First Tweet",
+            "tagline": "Who tweeted about it first on Twitter.",
+            "ph_url": "posts/first-tweet",
+            "comments": "2"
+        },
+        "user": {
+            "id": "labnol",
+            "image": "//aws.hunt-cdn.com/profile_image/66179/1416441793-S-Y1Sfio30.jpeg",
+            "twitter": "labnol",
+            "name": "Amit Agarwal",
+            "tagline": "Founder, Digital Inspiration"
+        }
+    },
+    {
+        "id": 4,
+        "post": {
+            "votes": "23",
             "link": "/l/c7757ebbbd",
             "name": "GigSky",
             "tagline": "Say goodbye to roaming charges: 1 sim. 115x country carriers",
@@ -51,24 +69,6 @@
             "twitter": "_jacksmith",
             "name": "Jack Smith",
             "tagline": "Co-Founded Vungle - Advisor to Coin"
-        }
-    },
-    {
-        "id": 4,
-        "post": {
-            "votes": "11",
-            "link": "/l/b6c7dd09f0",
-            "name": "First Tweet",
-            "tagline": "Who tweeted about it first on Twitter.",
-            "ph_url": "posts/first-tweet",
-            "comments": "0"
-        },
-        "user": {
-            "id": "labnol",
-            "image": "//aws.hunt-cdn.com/profile_image/66179/1416441793-S-Y1Sfio30.jpeg",
-            "twitter": "labnol",
-            "name": "Amit Agarwal",
-            "tagline": "Founder, Digital Inspiration"
         }
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": 7,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "/l/a68a7ad42b",
             "name": "Ladies of Industry",
             "tagline": "Podcast interviewing women in game development and sciences",
@@ -128,7 +128,7 @@
     {
         "id": 8,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "/l/748ebde642",
             "name": "Anonysurfer",
             "tagline": "Surf the web with anonymous and private web proxies",
@@ -146,7 +146,7 @@
     {
         "id": 9,
         "post": {
-            "votes": "1",
+            "votes": "2",
             "link": "/l/9dc7ae4710",
             "name": "Kandid",
             "tagline": "Spontaneous group photo-messaging app",
