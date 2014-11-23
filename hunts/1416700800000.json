@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "37",
+            "link": "/l/b6c7dd09f0",
+            "name": "First Tweet",
+            "tagline": "Who tweeted about it first on Twitter",
+            "ph_url": "posts/first-tweet",
+            "comments": "2"
+        },
+        "user": {
+            "id": "labnol",
+            "image": "//aws.hunt-cdn.com/profile_image/66179/1416441793-S-Y1Sfio30.jpeg",
+            "twitter": "labnol",
+            "name": "Amit Agarwal",
+            "tagline": "Founder, Digital Inspiration"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "55",
             "link": "/l/23d29fb577",
             "name": "Gifify",
@@ -15,24 +33,6 @@
             "twitter": "djug",
             "name": "Youghourta Benali",
             "tagline": "Founder, Passwordless"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "34",
-            "link": "/l/b6c7dd09f0",
-            "name": "First Tweet",
-            "tagline": "Who tweeted about it first on Twitter",
-            "ph_url": "posts/first-tweet",
-            "comments": "2"
-        },
-        "user": {
-            "id": "labnol",
-            "image": "//aws.hunt-cdn.com/profile_image/66179/1416441793-S-Y1Sfio30.jpeg",
-            "twitter": "labnol",
-            "name": "Amit Agarwal",
-            "tagline": "Founder, Digital Inspiration"
         }
     },
     {
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "/l/15dfca97c4",
             "name": "OfficeFetish",
             "tagline": "Take a peek behind the scenes of your favourite startups",
