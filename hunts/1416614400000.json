@@ -110,6 +110,24 @@
     {
         "id": 7,
         "post": {
+            "votes": "95",
+            "link": "/l/eb3a6a6240",
+            "name": "AirStoc",
+            "tagline": "Stock aerial video shot with drones",
+            "ph_url": "posts/airstoc",
+            "comments": "3"
+        },
+        "user": {
+            "id": "_jamesmundy",
+            "image": "//aws.hunt-cdn.com/profile_image/67185/1416412471-i_Bax1_A30.jpeg",
+            "twitter": "_jamesmundy",
+            "name": "James Mundy",
+            "tagline": "Founder, Foundbite"
+        }
+    },
+    {
+        "id": 8,
+        "post": {
             "votes": "62",
             "link": "/l/8428ac734d",
             "name": "Quantum OS",
@@ -123,24 +141,6 @@
             "twitter": "chrismessina",
             "name": "Chris Messina™",
             "tagline": "Funemployed"
-        }
-    },
-    {
-        "id": 8,
-        "post": {
-            "votes": "94",
-            "link": "/l/eb3a6a6240",
-            "name": "AirStoc",
-            "tagline": "Stock aerial video shot with drones",
-            "ph_url": "posts/airstoc",
-            "comments": "3"
-        },
-        "user": {
-            "id": "_jamesmundy",
-            "image": "//aws.hunt-cdn.com/profile_image/67185/1416412471-i_Bax1_A30.jpeg",
-            "twitter": "_jamesmundy",
-            "name": "James Mundy",
-            "tagline": "Founder, Foundbite"
         }
     },
     {
@@ -164,7 +164,7 @@
     {
         "id": 10,
         "post": {
-            "votes": "41",
+            "votes": "42",
             "link": "/l/46e56ad760",
             "name": "Data Wrapper",
             "tagline": "Open source simple, correct, embeddable charts in minutes",
