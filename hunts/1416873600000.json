@@ -2,6 +2,24 @@
     {
         "id": 1,
         "post": {
+            "votes": "35",
+            "link": "/l/023d13b006",
+            "name": "Batch Insights",
+            "tagline": "Insights into billions of daily smartphone notifications",
+            "ph_url": "posts/batch-insights",
+            "comments": "2"
+        },
+        "user": {
+            "id": "Virtualgoodz",
+            "image": "//aws.hunt-cdn.com/profile_image/80416/1416434708-simon_dawlat_portrait_moovjee30.JPG",
+            "twitter": "Virtualgoodz",
+            "name": "Simon Dawlat",
+            "tagline": "Product guy"
+        }
+    },
+    {
+        "id": 2,
+        "post": {
             "votes": "41",
             "link": "/l/108227a52f",
             "name": "BugClipper",
@@ -15,24 +33,6 @@
             "twitter": "bramk",
             "name": "Bram Kanstein",
             "tagline": "Startup Evangelist"
-        }
-    },
-    {
-        "id": 2,
-        "post": {
-            "votes": "32",
-            "link": "/l/023d13b006",
-            "name": "Batch Insights",
-            "tagline": "Insights into billions of daily smartphone notifications",
-            "ph_url": "posts/batch-insights",
-            "comments": "2"
-        },
-        "user": {
-            "id": "Virtualgoodz",
-            "image": "//aws.hunt-cdn.com/profile_image/80416/1416434708-simon_dawlat_portrait_moovjee30.JPG",
-            "twitter": "Virtualgoodz",
-            "name": "Simon Dawlat",
-            "tagline": "Product guy"
         }
     },
     {
@@ -74,7 +74,7 @@
     {
         "id": 5,
         "post": {
-            "votes": "26",
+            "votes": "27",
             "link": "/l/7073805af8",
             "name": "Flow",
             "tagline": "An intuitive &amp; precise wireless controller.",
