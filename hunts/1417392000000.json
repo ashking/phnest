@@ -74,6 +74,24 @@
     {
         "id": 5,
         "post": {
+            "votes": "113",
+            "link": "/l/26c9221752",
+            "name": "Mailmalade",
+            "tagline": "Build compatible HTML emails without coding knowledge",
+            "ph_url": "posts/mailmalade",
+            "comments": "2"
+        },
+        "user": {
+            "id": "erictwillis",
+            "image": "//aws.hunt-cdn.com/profile_image/69382/1416434127-wvrexvyjybx1zx9flwi730.jpeg",
+            "twitter": "erictwillis",
+            "name": "Eric Willis",
+            "tagline": "Founder, Near "
+        }
+    },
+    {
+        "id": 6,
+        "post": {
             "votes": "95",
             "link": "/l/26f08e6246",
             "name": "ExpenseBot",
@@ -87,24 +105,6 @@
             "twitter": "jtriest",
             "name": "Jonathon Triest",
             "tagline": "Ludlow Ventures"
-        }
-    },
-    {
-        "id": 6,
-        "post": {
-            "votes": "112",
-            "link": "/l/26c9221752",
-            "name": "Mailmalade",
-            "tagline": "Build compatible HTML emails without coding knowledge",
-            "ph_url": "posts/mailmalade",
-            "comments": "2"
-        },
-        "user": {
-            "id": "erictwillis",
-            "image": "//aws.hunt-cdn.com/profile_image/69382/1416434127-wvrexvyjybx1zx9flwi730.jpeg",
-            "twitter": "erictwillis",
-            "name": "Eric Willis",
-            "tagline": "Founder, Near "
         }
     },
     {
@@ -182,6 +182,24 @@
     {
         "id": 11,
         "post": {
+            "votes": "66",
+            "link": "/l/23d4d386d3",
+            "name": "Tummis",
+            "tagline": "Tinder for people to follow on Twitter",
+            "ph_url": "posts/tummis",
+            "comments": "9"
+        },
+        "user": {
+            "id": "robjama",
+            "image": "//aws.hunt-cdn.com/profile_image/70947/1417323066-image30.jpg",
+            "twitter": "robjama",
+            "name": "Robleh",
+            "tagline": "Next Keyboard"
+        }
+    },
+    {
+        "id": 12,
+        "post": {
             "votes": "64",
             "link": "/l/913dbae913",
             "name": "Good Web Bundle",
@@ -198,7 +216,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 13,
         "post": {
             "votes": "70",
             "link": "/l/9afc0b46b3",
@@ -216,45 +234,9 @@
         }
     },
     {
-        "id": 13,
-        "post": {
-            "votes": "65",
-            "link": "/l/23d4d386d3",
-            "name": "Tummis",
-            "tagline": "Tinder for people to follow on Twitter",
-            "ph_url": "posts/tummis",
-            "comments": "9"
-        },
-        "user": {
-            "id": "robjama",
-            "image": "//aws.hunt-cdn.com/profile_image/70947/1417323066-image30.jpg",
-            "twitter": "robjama",
-            "name": "Robleh",
-            "tagline": "Next Keyboard"
-        }
-    },
-    {
         "id": 14,
         "post": {
-            "votes": "102",
-            "link": "/l/03e8e0e4d9",
-            "name": "Kameleon Icons",
-            "tagline": "1500 color icons from the creator of Streamline Icons",
-            "ph_url": "posts/kameleon-icons",
-            "comments": "2"
-        },
-        "user": {
-            "id": "alirussell",
-            "image": "//aws.hunt-cdn.com/profile_image/2822/1416420702-0088feb36f930ccacb6c2fc94296edd130.jpeg",
-            "twitter": "alirussell",
-            "name": "Ali Russell<br>    <span>#5386</span>",
-            "tagline": "CTO, Tray.io"
-        }
-    },
-    {
-        "id": 15,
-        "post": {
-            "votes": "65",
+            "votes": "66",
             "link": "/l/dbb5b9db79",
             "name": "Django REST framework 3.0",
             "tagline": "New crowdfunded Django 3.0 release 4 years in the making",
@@ -267,6 +249,24 @@
             "twitter": "erictwillis",
             "name": "Eric Willis",
             "tagline": "Founder, Near "
+        }
+    },
+    {
+        "id": 15,
+        "post": {
+            "votes": "102",
+            "link": "/l/03e8e0e4d9",
+            "name": "Kameleon Icons",
+            "tagline": "1500 color icons from the creator of Streamline Icons",
+            "ph_url": "posts/kameleon-icons",
+            "comments": "2"
+        },
+        "user": {
+            "id": "alirussell",
+            "image": "//aws.hunt-cdn.com/profile_image/2822/1416420702-0088feb36f930ccacb6c2fc94296edd130.jpeg",
+            "twitter": "alirussell",
+            "name": "Ali Russell",
+            "tagline": "CTO, Tray.io"
         }
     },
     {
@@ -301,7 +301,7 @@
             "id": "eriktorenberg",
             "image": "//aws.hunt-cdn.com/profile_image/78738/1416424126-n3MLu9Yv30.jpeg",
             "twitter": "eriktorenberg",
-            "name": "Erik Torenberg<br>    <span>#8319</span>",
+            "name": "Erik Torenberg",
             "tagline": "Product Hunt"
         }
     },
@@ -319,7 +319,7 @@
             "id": "GeoffreyWeg",
             "image": "//aws.hunt-cdn.com/profile_image/85683/1416884913-image30.jpg",
             "twitter": "GeoffreyWeg",
-            "name": "Geoffrey Weg<br>    <span>#189</span>",
+            "name": "Geoffrey Weg",
             "tagline": "Alphaworks | Ex. TechStars, White House"
         }
     },
@@ -409,7 +409,7 @@
             "id": "imcatnoone",
             "image": "//aws.hunt-cdn.com/profile_image/23069/1416412368-d55bb0cc0bb839b3c5cccd8434840ba730.jpeg",
             "twitter": "imcatnoone",
-            "name": "Cat Noone<br>    <span>#133</span>",
+            "name": "Cat Noone",
             "tagline": "Co-Founder &amp; Designer, Liberio"
         }
     },
@@ -463,7 +463,7 @@
             "id": "gregoiregilbert",
             "image": "//aws.hunt-cdn.com/profile_image/98758/1416416758-243c157d4fb92e06467b3ea1536eb1cd30.jpeg",
             "twitter": "gregoiregilbert",
-            "name": "Grégoire Gilbert<br>    <span>#2603</span>",
+            "name": "Grégoire Gilbert",
             "tagline": "Entrepreneur - Entrepreneurloop.com"
         }
     },
@@ -488,6 +488,24 @@
     {
         "id": 28,
         "post": {
+            "votes": "66",
+            "link": "/l/5da48cbed7",
+            "name": "The Nordic Nine",
+            "tagline": "Daily wisdom and thoughts from 9 experienced entrepreneurs",
+            "ph_url": "posts/the-nordic-nine",
+            "comments": "3"
+        },
+        "user": {
+            "id": "neilswmurray",
+            "image": "//aws.hunt-cdn.com/profile_image/28272/1416413887-8d64872b1766154738592ff6ded12f4630.jpeg",
+            "twitter": "neilswmurray",
+            "name": "Neil S W Murray",
+            "tagline": "Creator of VIP VoIP and The Nordic Web."
+        }
+    },
+    {
+        "id": 29,
+        "post": {
             "votes": "21",
             "link": "/l/30b338c250",
             "name": "Unbury Me",
@@ -501,24 +519,6 @@
             "twitter": "sterlingtoth",
             "name": "Sterling Toth",
             "tagline": "Co-creator of EpicMealTime, CEO @GotHear"
-        }
-    },
-    {
-        "id": 29,
-        "post": {
-            "votes": "65",
-            "link": "/l/5da48cbed7",
-            "name": "The Nordic Nine",
-            "tagline": "Daily wisdom and thoughts from 9 experienced entrepreneurs",
-            "ph_url": "posts/the-nordic-nine",
-            "comments": "3"
-        },
-        "user": {
-            "id": "neilswmurray",
-            "image": "//aws.hunt-cdn.com/profile_image/28272/1416413887-8d64872b1766154738592ff6ded12f4630.jpeg",
-            "twitter": "neilswmurray",
-            "name": "Neil S W Murray<br>    <span>#1044</span>",
-            "tagline": "Creator of VIP VoIP and The Nordic Web."
         }
     },
     {
