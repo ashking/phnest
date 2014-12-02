@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "8",
+            "votes": "10",
             "link": "/l/9330cd00fd",
             "name": "Discover Design",
             "tagline": "Study design trends on your phone",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "post": {
-            "votes": "7",
+            "votes": "8",
             "link": "/l/cbcc645a74",
             "name": "CoreOS Rocket",
             "tagline": "App Container runtime (Docker alternative)",
@@ -38,7 +38,7 @@
     {
         "id": 3,
         "post": {
-            "votes": "4",
+            "votes": "5",
             "link": "/l/641647892d",
             "name": "PSequel",
             "tagline": "PostgreSQL GUI tool for Mac OS X",
@@ -56,7 +56,7 @@
     {
         "id": 4,
         "post": {
-            "votes": "3",
+            "votes": "4",
             "link": "/l/4c662c867c",
             "name": "25DaysOf",
             "tagline": "Build your own advent calendar &amp; share it with your friends",
@@ -92,6 +92,24 @@
     {
         "id": 6,
         "post": {
+            "votes": "2",
+            "link": "/l/4b1f2613f0",
+            "name": "SeamSend",
+            "tagline": "Send and receive SMS and MMS from the web.",
+            "ph_url": "posts/seamsend",
+            "comments": "0"
+        },
+        "user": {
+            "id": "nicksiemsen",
+            "image": "//aws.hunt-cdn.com/profile_image/115664/1417450267-fe614c21f5dc4d2c1ce92f9c47c7946830.jpeg",
+            "twitter": "nicksiemsen",
+            "name": "Nick Siemsen",
+            "tagline": "Associate"
+        }
+    },
+    {
+        "id": 7,
+        "post": {
             "votes": "1",
             "link": "/l/c68036b64e",
             "name": "Tock",
@@ -105,24 +123,6 @@
             "twitter": "kaz",
             "name": "Adam Kazwell",
             "tagline": "Product Manager"
-        }
-    },
-    {
-        "id": 7,
-        "post": {
-            "votes": "1",
-            "link": "/l/4b1f2613f0",
-            "name": "SeamSend",
-            "tagline": "Send and receive SMS and MMS from the web.",
-            "ph_url": "posts/seamsend",
-            "comments": "0"
-        },
-        "user": {
-            "id": "nicksiemsen",
-            "image": "//aws.hunt-cdn.com/profile_image/115664/1417450267-fe614c21f5dc4d2c1ce92f9c47c7946830.jpeg",
-            "twitter": "nicksiemsen",
-            "name": "Nick Siemsen",
-            "tagline": "Associate"
         }
     }
 ]
