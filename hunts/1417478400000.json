@@ -2,7 +2,7 @@
     {
         "id": 1,
         "post": {
-            "votes": "10",
+            "votes": "12",
             "link": "/l/9330cd00fd",
             "name": "Discover Design",
             "tagline": "Study design trends on your phone",
@@ -20,7 +20,25 @@
     {
         "id": 2,
         "post": {
-            "votes": "8",
+            "votes": "11",
+            "link": "/l/4c662c867c",
+            "name": "25DaysOf",
+            "tagline": "Build your own advent calendar &amp; share it with your friends",
+            "ph_url": "posts/25daysof",
+            "comments": "2"
+        },
+        "user": {
+            "id": "EtienneServant",
+            "image": "//aws.hunt-cdn.com/profile_image/80339/1416425397-coCavf4y30.png",
+            "twitter": "EtienneServant",
+            "name": "Etienne Servant",
+            "tagline": "Code + Design"
+        }
+    },
+    {
+        "id": 3,
+        "post": {
+            "votes": "9",
             "link": "/l/cbcc645a74",
             "name": "CoreOS Rocket",
             "tagline": "App Container runtime (Docker alternative)",
@@ -36,7 +54,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 4,
         "post": {
             "votes": "5",
             "link": "/l/641647892d",
@@ -54,27 +72,9 @@
         }
     },
     {
-        "id": 4,
-        "post": {
-            "votes": "4",
-            "link": "/l/4c662c867c",
-            "name": "25DaysOf",
-            "tagline": "Build your own advent calendar &amp; share it with your friends",
-            "ph_url": "posts/25daysof",
-            "comments": "1"
-        },
-        "user": {
-            "id": "EtienneServant",
-            "image": "//aws.hunt-cdn.com/profile_image/80339/1416425397-coCavf4y30.png",
-            "twitter": "EtienneServant",
-            "name": "Etienne Servant",
-            "tagline": "Code + Design"
-        }
-    },
-    {
         "id": 5,
         "post": {
-            "votes": "1",
+            "votes": "3",
             "link": "/l/d38b052d97",
             "name": "Killbill",
             "tagline": "Open Source Subscription Billing \u0003&amp; Payment Platform.",
@@ -92,7 +92,7 @@
     {
         "id": 6,
         "post": {
-            "votes": "2",
+            "votes": "3",
             "link": "/l/4b1f2613f0",
             "name": "SeamSend",
             "tagline": "Send and receive SMS and MMS from the web.",
