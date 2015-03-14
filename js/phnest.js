@@ -168,7 +168,7 @@ function phNest(){
             card.find('.votes-count').text(post.post.votes);
             card.find('.post-name').attr('href', "http://www.producthunt.co" + post.post.link).text(post.post.name);
             card.find('.post-tagline').text(post.post.tagline);
-            card.find('.post-comments a').attr('href', "http://www.producthunt.co/" + post.post.ph_url).text(post.post.comments + " comments");
+            //card.find('.post-comments a').attr('href', "http://www.producthunt.co/" + post.post.ph_url).text(post.post.comments + " comments");
 
 			/*
             card.find('.ph-user').attr("href", "http://www.producthunt.co/" + post.user.id);
