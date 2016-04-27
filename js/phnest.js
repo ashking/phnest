@@ -65,7 +65,7 @@ function phNest(){
                 events: {
                     click: function(event) {
 						var day = new Date(event.point.x * 1);
-						day = day.getFullYear() + "-" + (parseInt(day.getMonth()) + 1) + "-" + day.getDate();
+						day = day.getFullYear() + "-" + padDigits((parseInt(day.getMonth()) + 1), 2) + "-" + padDigits(day.getDate(), 2);
 						$.getJSON('hunts/' + day + '.json', function(jsonpost) {
 							
                             $('.content').empty();
@@ -105,7 +105,9 @@ function phNest(){
 		return options;
 		};
 
-
+function padDigits(number, digits) {
+    return Array(Math.max(digits - String(number).length + 1, 0)).join(0) + number;
+}
 
         $.getJSON('hunts/meta.json', function(json) {
             json.sort(sortdata);
