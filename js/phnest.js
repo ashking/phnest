@@ -124,7 +124,7 @@ function padDigits(number, digits) {
             chart.series[0].data[json.length-1].select();
 			
 			var day = new Date([json[eachobj].day][0] * 1);
-			day = day.getFullYear() + "-" + (parseInt(day.getMonth()) + 1) + "-" + day.getDate();
+			day = day.getFullYear() + "-" + padDigits((parseInt(day.getMonth()) + 1), 2) + "-" + padDigits(day.getDate(), 2);
 	
             $.getJSON('hunts/' + day + '.json', function(jsonpost) {
                 $('.content').empty();
@@ -168,7 +168,7 @@ function padDigits(number, digits) {
         $.each(pPosts,function(index,post){
             var card = $('#template .namecard').clone();
             card.find('.votes-count').text(post.post.votes);
-            card.find('.post-name').attr('href', "http://www.producthunt.co" + post.post.link).text(post.post.name);
+            card.find('.post-name').attr('href', "http://www.producthunt.com" + post.post.link).text(post.post.name);
             card.find('.post-tagline').text(post.post.tagline);
             //card.find('.post-comments a').attr('href', "http://www.producthunt.co/" + post.post.ph_url).text(post.post.comments + " comments");
 
